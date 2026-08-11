@@ -1,4 +1,167 @@
 {
-  "lastUpdate": null,
-  "items": []
+  "lastUpdate": "2026-08-11T20:09:52.180500+00:00",
+  "items": [
+    {
+      "titre": "Another OpenAI executive takes off",
+      "resume": "Brad Lightcap, OpenAI's special projects lead and the company's former COO, announced his departure after an eight-year stint at the AI lab. In an internal memo he later posted to X, Lightcap told colleagues he'd be star…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-11",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure"
+    },
+    {
+      "titre": "Google’s free streaming service now lets you pick shows and movies to watch",
+      "resume": "Google TV Freeplay, the company's free, ad-supported streaming service, now supports video on demand. Instead of tuning into Google TV Freeplay's selection of always-on channels, you can now choose from over 10,000 shows…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-11",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/978152/google-tv-freeplay-on-demand"
+    },
+    {
+      "titre": "Threads has a VR app now",
+      "resume": "Meta has launched a Threads app for Meta Quest VR headsets, the company announced on Tuesday. The launch follows Meta bringing the app to its Ray-Ban Display AR glasses last month and the recent news that the platform ha…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-11",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/978181/meta-threads-quest-vr-app"
+    },
+    {
+      "titre": "ChatGPT and Gemini both just passed 1 billion users",
+      "resume": "For the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google's fastest-growing product ever. A billion us…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-11",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users"
+    },
+    {
+      "titre": "FBI says cybercriminals are hacking into victims’ online accounts to steal their intimate pictures",
+      "resume": "In a new alert, the FBI said cybercriminals are targeting adults and minors in an attempt to steal their personal and intimate pictures in extortion campaigns.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-11",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/"
+    },
+    {
+      "titre": "Uber surprised robotics company Serve by selling its entire stake",
+      "resume": "The divesture comes comes as the two once-tight companies have started to diverge on the business side.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-11",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/"
+    },
+    {
+      "titre": "General Catalyst leads $1.1B round into 2-month-old River AI",
+      "resume": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-11",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/"
+    },
+    {
+      "titre": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+      "resume": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-11",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/"
+    },
+    {
+      "titre": "Google’s Gemini app surges to one billion users",
+      "resume": "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-11",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/"
+    },
+    {
+      "titre": "OpenAI launches ChatGPT desktop app for Linux",
+      "resume": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-11",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/"
+    },
+    {
+      "titre": "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days",
+      "resume": "Today is Microsoft's August 2026 Patch Tuesday, and with it comes security updates for a massive 400 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-08-11",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/"
+    },
+    {
+      "titre": "Microsoft releases Windows 10 KB5120249 extended security update",
+      "resume": "Microsoft has released Windows 10 KB5120249 Extended Security Updates for versions 22H2 and 21H2 to fix security vulnerabilities and bugs. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-11",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/"
+    },
+    {
+      "titre": "Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees",
+      "resume": "Delta Air Lines is investigating an unauthorized Wi-Fi network that appeared aboard a flight from Las Vegas to Atlanta carrying passengers who had attended the DEF CON hacker convention. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-11",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/"
+    },
+    {
+      "titre": "Cisco warns of ASA and FTD VPN flaw exploited to crash devices",
+      "resume": "Cisco is warning that a high-severity denial-of-service vulnerability in Secure Firewall ASA and Threat Defense (FTD) software is being actively exploited in attacks to remotely crash affected devices. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-08-11",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/"
+    },
+    {
+      "titre": "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development",
+      "resume": "OpenAI on Monday unveiled a new cybersecurity-focused model called GPT‑5.6‑Cyber that it said is focused on vulnerability research, penetration testing, and incident response. \"Built on GPT‑5.6 Sol, it is trained to impr…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-11",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html"
+    },
+    {
+      "titre": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt",
+      "resume": "The ransomware group known as DeadLock has been observed using decentralized infrastructure to facilitate victim communications and data leak operations in a bid to improve operational resilience. \"Its recovery ecosystem…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-08-11",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html"
+    },
+    {
+      "titre": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
+      "resume": "Security researchers found a way to enter Microsoft SharePoint servers as any user, including an administrator, with no valid account. A significant part of the work that found it was done through an AI agent. The flaw, …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-11",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html"
+    },
+    {
+      "titre": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
+      "resume": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new social engineering campaign orchestrated by Russian nation-state threat actors targeting IT workers in the country by masquerading …",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-11",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html"
+    }
+  ]
 }
