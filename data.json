@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-08-11T20:09:52.180500+00:00",
+  "lastUpdate": "2026-08-11T21:52:23.550241+00:00",
   "items": [
+    {
+      "titre": "An FCC filing points to new Sonos headphones coming soon",
+      "resume": "It looks like we'll be getting a successor to the Sonos Ace headphones sometime this fall, which was hinted at by CEO Tom Conrad during a third quarter earnings call. As reported by What Hi-Fi?, an FCC filing by Sonos, I…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-11",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/978355/sonos-headphones-fcc-filing"
+    },
+    {
+      "titre": "Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months",
+      "resume": "Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-11",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/"
+    },
+    {
+      "titre": "Google’s Gemini app surges to 1 billion users",
+      "resume": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 million images every d…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-11",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/"
+    },
+    {
+      "titre": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+      "resume": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-11",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/"
+    },
+    {
+      "titre": "Microsoft Plugs Nearly 400 Security Holes",
+      "resume": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others tha…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-08-11",
+      "source": "Krebs on Security",
+      "lien": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/"
+    },
+    {
+      "titre": "Sandworm hackers target IT pros with trojanized WireGuard VPN client",
+      "resume": "Hackers associated with the Russian threat group Sandworm have been targeting system administrators and IT professionals through fake job offers since at least May. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-11",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/"
+    },
+    {
+      "titre": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client",
+      "resume": "Anyone sharing their screen on a Zoom call could have taken over the computers of everyone watching, and anyone watching could have taken over the presenter's. The flaw sat in the annotation tool, the feature that lets p…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-11",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html"
+    },
+    {
+      "titre": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing",
+      "resume": "Cybersecurity researchers have discovered a new version of the Kimwolf/AISURU Android and Internet of Things (IoT) botnet that comes with significant improvements to improve its operational resilience and conduct distrib…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-11",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html"
+    },
+    {
+      "titre": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
+      "resume": "Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks. The bug sits in a core Windows kernel driver that handles network socket operations. An attacke…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-08-11",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html"
+    },
     {
       "titre": "Another OpenAI executive takes off",
       "resume": "Brad Lightcap, OpenAI's special projects lead and the company's former COO, announced his departure after an eight-year stint at the AI lab. In an internal memo he later posted to X, Lightcap told colleagues he'd be star…",
