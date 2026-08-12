@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2026-08-12T09:46:59.791573+00:00",
+  "lastUpdate": "2026-08-12T14:42:46.143231+00:00",
   "items": [
+    {
+      "titre": "Google is making the Pixel cameras better by making them worse",
+      "resume": "If you look at a photo taken by a smartphone today, it's hard to find much that's technically wrong. Faces are bright and visible. The skies are pristine and blue. Even at night, scenes are well lit and noise-free. If th…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-12",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/978084/google-camera-looks-interview-computational-photography"
+    },
+    {
+      "titre": "Google’s Pixel 11 series pairs a little new hardware with a lot of new software",
+      "resume": "When I first picked up the Pixel 11 Pro this week, it was clear to me that this was one of those refinement years - at least when it comes to hardware. Aesthetically, the phones are as beautiful as ever, with Google's si…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-12",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/978013/google-pixel-11-series-hands-on-hardware-software"
+    },
+    {
+      "titre": "The 7 biggest announcements of Google’s Pixel 11 launch",
+      "resume": "Google is hosting a Pixel launch event on Wednesday night where it will show off its latest lineup of devices. But you don't have to wait until then for all the news: We were able to check out the devices ahead of the ev…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-12",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/978712/google-pixel-11-event-everything-announced"
+    },
+    {
+      "titre": "Google aims for influencers with the Pixel 11 Creator Suite",
+      "resume": "Google knows creators are a big audience. The occupation is growing fast, and landing some influential names could be a major turning point for the Pixel's market share. This year, Google is building features directly in…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-12",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/977888/pixel-creator-suite-influencer-camera-features"
+    },
+    {
+      "titre": "Google unveils the Pixel Watch 5 with a smarter Gemini and advanced health monitoring",
+      "resume": "The new smartwatch, which starts at $399, can track blood pressure patterns and insulin resistance, as well as deliver personalized help and better sleep tracking.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-12",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/12/google-unveils-the-pixel-watch-5-with-a-smarter-gemini-and-advanced-health-monitoring/"
+    },
+    {
+      "titre": "Google’s Pixel 11 lineup offer fewer hardware changes, but much more Gemini",
+      "resume": "Google Pixel 11 Series starts $100 costlier than the last year, but offers 256GB base storage",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-12",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/"
+    },
+    {
+      "titre": "Google’s Quick Share adds a tap-to-share mode",
+      "resume": "Google's Quick Share feature is getting a tap-to-share mode for quickly exchanging contacts, photos, videos, and more.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-12",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/12/googles-quick-share-adds-a-tap-to-share-mode/"
+    },
+    {
+      "titre": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
+      "resume": "Blacksmith says revenue has grown more than tenfold over the past year.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-12",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/"
+    },
+    {
+      "titre": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+      "resume": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-12",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/"
+    },
+    {
+      "titre": "Signal adds new security feature to thwart man-in-the-middle attacks",
+      "resume": "​Signal has introduced Automatic Key Verification, a new security feature that gives users a new way to ensure their encrypted chats haven't been intercepted. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-12",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/"
+    },
+    {
+      "titre": "Hackers leverage new Microsoft SharePoint exploit in attacks",
+      "resume": "Hackers have already begun using a proof-of-concept (PoC) exploit for a critical Microsoft SharePoint vulnerability, published by cybersecurity company Rapid7 on Tuesday. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-12",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/"
+    },
+    {
+      "titre": "The Threat Hiding in Your Hiring Process: How Fake Remote Workers Get In",
+      "resume": "Fake remote workers can exploit gaps between hiring checks, device delivery, and account access to enter organizations under false identities. Specops Software explains how document verification and biometric liveness ch…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-12",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/the-threat-hiding-in-your-hiring-process-how-fake-remote-workers-get-in/"
+    },
+    {
+      "titre": "FBI: Hackers target online accounts to steal nude photos",
+      "resume": "The FBI warns that cybercriminals are targeting adults' and children's social media and other online accounts to steal sexually explicit images or videos. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-12",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/"
+    },
+    {
+      "titre": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
+      "resume": "Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and privilege…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-12",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html"
+    },
+    {
+      "titre": "Enterprise Defenses Recovered at the Edge and Collapsed Inside",
+      "resume": "Enterprise defenses are tuned to catch the attacks that make noise. This year's data shows attackers winning by making none. According to Picus Labs' new Blue Report 2026, which measured more than 338 million real attack…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-12",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html"
+    },
+    {
+      "titre": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
+      "resume": "A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs, including API keys and passwords. Th…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-12",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html"
+    },
+    {
+      "titre": "737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One",
+      "resume": "A massive set of 737 free VPN and proxy extensions have been found to mainly target Russian-speaking users seeking access to blocked services with an aim to intercept browser traffic and route them through a proxy infras…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-12",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html"
+    },
     {
       "titre": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
       "resume": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game announced last month, …",
