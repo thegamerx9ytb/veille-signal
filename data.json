@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2026-08-12T14:42:46.143231+00:00",
+  "lastUpdate": "2026-08-12T20:04:36.741795+00:00",
   "items": [
+    {
+      "titre": "Twitch streamers can now opt out from training Amazon’s AI",
+      "resume": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be us…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-12",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai"
+    },
+    {
+      "titre": "Google’s Pixel 11 phone preorders come with up to $350 in gift cards",
+      "resume": "Looking to get your hands on the latest Pixel devices? After weeks of leaks and rumors, Google has officially announced its next generation of Pixel phones and watches. The base Pixel 11 starts at $899, the Pro and Pro X…",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-08-12",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/975970/google-pixel-11-series-where-to-buy-preorder-release-date"
+    },
+    {
+      "titre": "It looks like Apple&#8217;s iPhone 18 really will skip the fall launch this year",
+      "resume": "According to an Economic Daily News report spotted by MacRumors, executives for Apple supplier Pegatron confirmed during an earnings call that the iPhone 18 Pro series phones will launch this fall, but the base iPhone 18…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-12",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/979231/apple-base-iphone-18-launch-delayed"
+    },
+    {
+      "titre": "The next big indie game publisher is taking some exciting swings",
+      "resume": "Kinetic Publishing, a new indie publisher from the development team behind the co-op horror game Phasmophobia, just hosted its first games showcase, and it includes five ambitious new titles set to release in 2027 and 20…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-12",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/977985/kinetic-publishing-showcase-sam-barlow-precognition"
+    },
+    {
+      "titre": "Grubhub’s $24M FTC settlement is finally reaching diners and drivers",
+      "resume": "Checks are being mailed from Grubhub's $23.8 million fine from the FTC after it settled allegations over its business practices.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-12",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/12/grubhubs-24m-ftc-settlement-is-finally-reaching-diners-and-drivers/"
+    },
+    {
+      "titre": "Mesh, Automattic’s CRM for everyone, comes to Android",
+      "resume": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-12",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/"
+    },
+    {
+      "titre": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+      "resume": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-12",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/"
+    },
+    {
+      "titre": "As AI safety concerns mount, three pioneers make the case for staying open",
+      "resume": "At Ai4, three of the world's most respected AI experts—Geoffrey Hinton, Fei-Fei Li, and Andrew Ng—debated regulation, open-source access, and how America can compete as China advances in Asia.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-12",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/"
+    },
+    {
+      "titre": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+      "resume": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-12",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/"
+    },
+    {
+      "titre": "Lazarus hackers exploited Windows zero-day to target defense firms",
+      "resume": "North Korean hackers have been exploiting a Windows zero-day vulnerability (CVE-2026-68820) to target defense-sector companies as part of the Operation Dream Job campaign. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-08-12",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/"
+    },
+    {
+      "titre": "Plug and Pwn attack uses fake USB devices for Windows SYSTEM access",
+      "resume": "Security researchers have disclosed new \"Plug and Pwn\" attacks that abuse the Windows Plug and Play feature to trigger Windows into installing vulnerable or insecure vendor software and gain SYSTEM privileges. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-12",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/"
+    },
+    {
+      "titre": "Hundreds of fake Chrome VPN extensions route traffic through a proxy",
+      "resume": "More than 737 browser extensions published on the Chrome Web Store impersonated well-known VPN and proxy services while routing users' traffic through SOCKS5 proxies operated by a single provider. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-12",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/"
+    },
+    {
+      "titre": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
+      "resume": "The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-08-12",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html"
+    },
     {
       "titre": "Google is making the Pixel cameras better by making them worse",
       "resume": "If you look at a photo taken by a smartphone today, it's hard to find much that's technically wrong. Faces are bright and visible. The skies are pristine and blue. Even at night, scenes are well lit and noise-free. If th…",
