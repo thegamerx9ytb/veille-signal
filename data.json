@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-08-11T21:52:23.550241+00:00",
+  "lastUpdate": "2026-08-12T09:46:59.791573+00:00",
   "items": [
+    {
+      "titre": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
+      "resume": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game announced last month, …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-12",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive"
+    },
+    {
+      "titre": "India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand",
+      "resume": "Yulu aims to have a fleet of 200,000 bikes in the next two years and faster electric two-wheelers, aiming at new logistics use cases.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-12",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/"
+    },
+    {
+      "titre": "Google says Chrome cuts 7 billion unwanted Android notifications a day to fight abuse",
+      "resume": "Google says Chrome's anti-abuse systems reduced unwanted notifications on Android by more than 7 billion per day during the first quarter of 2026. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-12",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/"
+    },
+    {
+      "titre": "Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS",
+      "resume": "Cisco has warned that a new vulnerability impacting Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software has been exploited in the wild. The high-severity flaw, tra…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-08-12",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html"
+    },
+    {
+      "titre": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
+      "resume": "The security researcher going by the name Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has released a proof-of-concept (PoC) for a new Microsoft zero-day called ShieldBreak. The vulnerabil…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-08-12",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html"
+    },
+    {
+      "titre": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
+      "resume": "SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution. The vulnerability, assigned the CVE identifier CVE-2026-5823…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-12",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html"
+    },
+    {
+      "titre": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
+      "resume": "Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from systems…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-12",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html"
+    },
+    {
+      "titre": "Xbox Elite 3 prototype pad leaks with tiny built-in screen",
+      "resume": "Did a prototype Microsoft gamepad fall off the back of a truck? We can't say, but a Redditor has legit-looking photos of a prototype Xbox controller that's almost certainly the Xbox Elite Series 3. Incredibly, they claim…",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-08-11",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/978374/xbox-elite-3-prototype-pad-leaks-with-tiny-built-in-screen"
+    },
+    {
+      "titre": "DeadLock ransomware uses blockchain to resist infrastructure takedown",
+      "resume": "The DeadLock ransomware operation is using a decentralized infrastructure that relies on blockchain-backed services to protect its communication with victims and data-leak activity. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-08-11",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/"
+    },
     {
       "titre": "An FCC filing points to new Sonos headphones coming soon",
       "resume": "It looks like we'll be getting a successor to the Sonos Ace headphones sometime this fall, which was hinted at by CEO Tom Conrad during a third quarter earnings call. As reported by What Hi-Fi?, an FCC filing by Sonos, I…",
