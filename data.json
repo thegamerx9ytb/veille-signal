@@ -1,6 +1,114 @@
 {
-  "lastUpdate": "2026-08-13T14:41:37.688625+00:00",
+  "lastUpdate": "2026-08-13T19:58:50.258930+00:00",
   "items": [
+    {
+      "titre": "You can now just point at a mess and this robot vacuum will suck it up",
+      "resume": "Matic, my current favorite robot vacuum, just got a big upgrade. The company has launched Matic Cues, which brings voice and gesture control to the robot. Now, you can talk directly to your vacuum to tell it what you wan…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-13",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/979516/matic-cues-robot-vacuum-gesture-control-hands-on-review"
+    },
+    {
+      "titre": "I finally found a robot lawnmower I’d trust with my yard",
+      "resume": "Robot lawnmowers are finally good enough to take a lot of work out of maintaining a yard, but they’re still not set-it-and-forget-it machines. If you don’t want these autonomous cutting machines to tear up your lawn or g…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-13",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame"
+    },
+    {
+      "titre": "The Trump admin will start letting private firms launch international cyberattacks",
+      "resume": "The Trump administration is launching a new program that will allow private firms to perform cyberattacks against foreign criminals, as reported earlier by Bloomberg. The private firms would operate \"under the control an…",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-08-13",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/policy/979734/trump-administration-cybercrime-private-firms"
+    },
+    {
+      "titre": "OpenAI is losing its second executive this week",
+      "resume": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-13",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure"
+    },
+    {
+      "titre": "OpenAI hires new CRO as executive shake-up continues",
+      "resume": "Dali Rajic will take over as OpenAI's top salesperson.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-13",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/"
+    },
+    {
+      "titre": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "resume": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-13",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/"
+    },
+    {
+      "titre": "IBM partners with OpenAI to bolster enterprise AI push",
+      "resume": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-13",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/"
+    },
+    {
+      "titre": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "resume": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-13",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/"
+    },
+    {
+      "titre": "Critical VMware vCenter RCE flaw exploited for reverse SSH access",
+      "resume": "A recently patched critical vulnerability (CVE-2026-59310) in VMware vCenter Syslog Server is being exploited in an active campaign to deploy a reverse SSH tool for persistence and remote access. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-08-13",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/"
+    },
+    {
+      "titre": "AI 'watermark removers' flood the web. Almost none can prove they work.",
+      "resume": "Multiple 'watermark removers' have surfaced days after Anthropic began watermarking text generated by Claude, including an open source project with over 4,500 GitHub stars and paid AI detection evasion services. None of …",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-13",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/ai-watermark-removers-flood-the-web-almost-none-can-prove-they-work/"
+    },
+    {
+      "titre": "Microsoft patches LegacyHive Windows zero-day vulnerability",
+      "resume": "Microsoft has released security patches to address a Windows zero-day vulnerability known as \"LegacyHive,\" disclosed after the July 2026 Patch Tuesday. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-08-13",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-legacyhive-windows-zero-day-vulnerability/"
+    },
+    {
+      "titre": "Hackers breach govt webmail while running parallel crypto fraud",
+      "resume": "The Jewelbug hacker group has been carrying out espionage operations targeting governments and militaries while also engaging in cryptocurrency fraud. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-13",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hackers-breach-govt-webmail-while-running-parallel-crypto-fraud/"
+    },
     {
       "titre": "Samsung&#8217;s $1,900 Z Fold 8 is still vulnerable to pocket lint",
       "resume": "iFixit has provisionally given Samsung's Galaxy Z Fold 8 a repairability score of 4 out of 10, which largely hinged on… well, the hinge. In its teardown of the device, iFixit found that because it carries an IP48 ingress…",
