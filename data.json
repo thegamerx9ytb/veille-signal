@@ -1,6 +1,105 @@
 {
-  "lastUpdate": "2026-08-12T20:04:36.741795+00:00",
+  "lastUpdate": "2026-08-13T09:47:58.858685+00:00",
   "items": [
+    {
+      "titre": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
+      "resume": "Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code. The vulnerability in question is CVE-2026-55040 (CVSS score: 9.1), which re…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-13",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html"
+    },
+    {
+      "titre": "Cats and dogs are missing meals after a popular smart feeder went down",
+      "resume": "A Petlibro outage is preventing its smart pet feeders and other devices from performing scheduled tasks, like dispensing food. The outage began on Tuesday, with users across Reddit reporting that their smart feeders, lit…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-12",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/979295/petlibro-outage-smart-pet-feeders"
+    },
+    {
+      "titre": "This 8BitDo mechanical keyboard has an extra keypad and is 30 percent off",
+      "resume": "If you’re looking for a mechanical keyboard that can give your desk a touch of retro flair, Amazon has 8BitDo’s Retro Mechanical Keyboard with Dual Super Buttons on sale for $69.99, one of the lowest prices we’ve seen fo…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-12",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/979263/8bitdo-mechanical-keyboard-galaxy-25-edge-deal-sale"
+    },
+    {
+      "titre": "Pixel 11 event live blog: Let&#8217;s watch Trevor Noah introduce Google&#8217;s new phones",
+      "resume": "It's almost time for the Made by Google keynote, where the company will show off the brand-new Pixel hardware it announced today. Like last year, it'll be a celebrity-packed live show, though Trevor Noah is hosting inste…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-12",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/979241/made-by-google-2026-live-blog-pixel-11-trevor-noah"
+    },
+    {
+      "titre": "Northrop’s robot space mechanic is a new way to keep satellites at work longer",
+      "resume": "The Mission Robotic Vehicle is making the first attempt to attach a new thruster to an aging satellite.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-12",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/"
+    },
+    {
+      "titre": "AI nuclear power firm Fermi finally has a new CEO",
+      "resume": "Lee McIntire, an independent member of Fermi's board, has been hired as CEO, more than three months since the company fired co-founder Toby Neugebauer from the top post.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-12",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/"
+    },
+    {
+      "titre": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+      "resume": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-12",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/"
+    },
+    {
+      "titre": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+      "resume": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-12",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/"
+    },
+    {
+      "titre": "Hackers exploit critical Adobe Commerce flaw to hijack customer accounts",
+      "resume": "Attempts to exploit a critical vulnerability (CVE-2026-71362) in Adobe's Commerce and Magento e-commerce platforms have been detected, potentially allowing attackers to hijack customer accounts. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-08-12",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/"
+    },
+    {
+      "titre": "Android malware combo takes out loans and relays victims' credit cards",
+      "resume": "A new Android NFC relay malware called WindRelay is being used alongside the SpyNote remote administration tool (RAT) to steal live card data and send it to attackers in real time. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-12",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/"
+    },
+    {
+      "titre": "\"City-Forum\" data-theft attacks target Salesforce, ServiceNow portals",
+      "resume": "An ongoing data theft campaign uses custom tools to steal data exposed to anonymous users through Salesforce Experience Cloud and ServiceNow customer portals. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-12",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/"
+    },
     {
       "titre": "Twitch streamers can now opt out from training Amazon’s AI",
       "resume": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be us…",
