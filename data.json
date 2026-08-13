@@ -1,6 +1,96 @@
 {
-  "lastUpdate": "2026-08-13T09:47:58.858685+00:00",
+  "lastUpdate": "2026-08-13T14:41:37.688625+00:00",
   "items": [
+    {
+      "titre": "Samsung&#8217;s $1,900 Z Fold 8 is still vulnerable to pocket lint",
+      "resume": "iFixit has provisionally given Samsung's Galaxy Z Fold 8 a repairability score of 4 out of 10, which largely hinged on… well, the hinge. In its teardown of the device, iFixit found that because it carries an IP48 ingress…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-13",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/979421/ifixit-samsung-galaxy-z-fold-8-hinge"
+    },
+    {
+      "titre": "Wearables are getting a taste of much-needed minimalism",
+      "resume": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. Duri…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-13",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/column/978295/optimizer-screenless-wearables-fitness-trackers-smart-rings"
+    },
+    {
+      "titre": "Rivian is finally getting a long-requested feature — and no, it’s not CarPlay",
+      "resume": "Rivian R1S owners, rejoice. Rivian has heard your pleas for second-row captain's chairs. For years, Rivian owners have lamented the absence of captain's chairs in the R1S, noting that the three-row SUV would be much impr…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-13",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/978093/rivian-r1s-r1t-2027-captains-chairs"
+    },
+    {
+      "titre": "Does Google even want to win at AI?",
+      "resume": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past week: Is Google losing the AI race? That’s because last week G…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-13",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis"
+    },
+    {
+      "titre": "Can social media start over? Bluesky’s CEO and COO deliver their case at TechCrunch Disrupt 2026",
+      "resume": "Bluesky CEO Toni Schneider is joined by COO Rose Wang for a Disrupt Stage session on whether social media can start over and where Bluesky fits into that potential reboot.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-13",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/13/can-social-media-start-over-blueskys-ceo-and-coo-deliver-their-case-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "titre": "In a first, US will allow some private firms to carry out cyberattacks",
+      "resume": "The new order sweeps away decades of existing U.S. cybersecurity policy prohibiting private companies from conducting 'hack back' attacks or offensive cyber operations.",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-08-13",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/13/in-a-first-us-will-allow-some-private-firms-to-carry-out-cyberattacks/"
+    },
+    {
+      "titre": "Apple in talks to pay publishers to provide Siri with current news: report",
+      "resume": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-13",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/"
+    },
+    {
+      "titre": "WhatsApp rolls out new feature that flags potential scam messages",
+      "resume": "WhatsApp has begun rolling out a new optional \"Scam Alert\" feature, which uses a local machine learning model to warn users when scammers are targeting them. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-13",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/"
+    },
+    {
+      "titre": "White House taps security firms for offensive hack-back operations",
+      "resume": "A new White House memo signed by U.S. President Donald Trump instructs the National Coordination Center (NCC) to establish a program that would allow private security companies to apply for approval to hack foreign cyber…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-13",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/"
+    },
+    {
+      "titre": "Who Vets AI’s Code? The Scale Challenge Facing Open Source Ingestion",
+      "resume": "AI coding tools can introduce unvetted or hallucinated open source dependencies faster than traditional security reviews can keep pace. ActiveState explains why organizations should govern packages at the point of select…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-13",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/who-vets-ais-code-the-scale-challenge-facing-open-source-ingestion/"
+    },
     {
       "titre": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
       "resume": "Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code. The vulnerability in question is CVE-2026-55040 (CVSS score: 9.1), which re…",
