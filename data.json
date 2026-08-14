@@ -1,6 +1,114 @@
 {
-  "lastUpdate": "2026-08-14T09:42:21.779930+00:00",
+  "lastUpdate": "2026-08-14T14:33:03.849580+00:00",
   "items": [
+    {
+      "titre": "Apple trained its own AI model for China with help from Alibaba",
+      "resume": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focus…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-14",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba"
+    },
+    {
+      "titre": "Hoto’s new cordless soldering iron heats up in three seconds",
+      "resume": "Hoto is introducing its first soldering iron through its modular Snapbloq collection that lets you assemble your own custom toolbox by stacking magnetic cases and tools together. The new I-A06 Cordless Soldering Iron can…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-14",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/979576/hoto-i-a06-cordless-soldering-iron-snapbloq-rechargeable"
+    },
+    {
+      "titre": "The MSI Claw EX is the most important PC handheld since Steam Deck — I still wouldn’t buy one",
+      "resume": "As The Verge's resident handheld reviewer, I have nearly every portable gaming PC on a shelf in my house. The MSI Claw 8 EX AI Plus is now the first one I reach for. Thanks to a next-gen Intel chip and improved MSI desig…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-14",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/977646/msi-claw-8-ex-review-intel-panther-lake-handheld"
+    },
+    {
+      "titre": "CMF hit the balance between cheap and good clip earbuds",
+      "resume": "Clip earbuds are an exercise in compromise. It's an inherent aspect of their design - and physics. They can be more comfortable for people that don't like something jammed in their ear, but sound response suffers. Ambien…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-14",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/979928/cmf-clip-pro-review"
+    },
+    {
+      "titre": "Uber and Pony.ai plan to bring 2,000 robotaxis to Europe",
+      "resume": "The partnership is expanding beyond the initial market of Zagreb, Croatia to four additional European cities.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-14",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/"
+    },
+    {
+      "titre": "US courts will start publishing how often the government uses spyware",
+      "resume": "The Administrative Office of the U.S. Courts told TechCrunch that it will start disclosing how many times judges authorized the use of spyware to wiretap suspected criminals.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-14",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/14/us-courts-will-start-publishing-how-often-the-government-uses-spyware/"
+    },
+    {
+      "titre": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+      "resume": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-14",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/"
+    },
+    {
+      "titre": "Who’s Tracking You? Use This New Service to Find Out",
+      "resume": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily pa…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-14",
+      "source": "Krebs on Security",
+      "lien": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/"
+    },
+    {
+      "titre": "RingCentral data breach exposed info of 1.6 million accounts",
+      "resume": "The ShinyHunters extortion group stole personal information from 1.6 million RingCentral accounts after hacking the company in July, according to the data breach notification service Have I Been Pwned. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-08-14",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/"
+    },
+    {
+      "titre": "Shell investigates 'potential incident' after Clop data theft claims",
+      "resume": "Oil giant Shell has confirmed it is investigating a potential security incident after the Clop ransomware gang claimed it stole 89GB of data. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-08-14",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/"
+    },
+    {
+      "titre": "Max severity SAP Commerce Cloud flaw now targeted in attacks",
+      "resume": "A maximum-severity SAP Commerce Cloud remote code execution vulnerability patched three days ago is already being targeted in attacks, according to threat intelligence company Defused. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-14",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/"
+    },
+    {
+      "titre": "The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI",
+      "resume": "Google Workspace attacks do not always begin with phishing. Stolen OAuth tokens can provide another path into Gmail, Drive, and connected systems. Material Security explains why organizations need defenses that cover the…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-14",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/"
+    },
     {
       "titre": "Apple sends new ‘Threat Notification’ alerts over mercenary spyware attacks",
       "resume": "You're not alone if you just received an \"Apple Threat Notification\" saying it detected a \"mercenary spyware attack targeted at your iPhone.\" [...]",
