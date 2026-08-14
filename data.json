@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2026-08-13T19:58:50.258930+00:00",
+  "lastUpdate": "2026-08-14T09:42:21.779930+00:00",
   "items": [
+    {
+      "titre": "Apple sends new ‘Threat Notification’ alerts over mercenary spyware attacks",
+      "resume": "You're not alone if you just received an \"Apple Threat Notification\" saying it detected a \"mercenary spyware attack targeted at your iPhone.\" [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-14",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/"
+    },
+    {
+      "titre": "Data analyst sent to prison for stealing data, extorting employer",
+      "resume": "A former data analyst contractor for Brightly Software has been sentenced to two years in prison for targeting his employer in a $2.5 million extortion scheme. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-14",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/data-analyst-sent-to-prison-for-stealing-data-extorting-employer/"
+    },
+    {
+      "titre": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+      "resume": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-13",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired"
+    },
+    {
+      "titre": "The fight over Flock and other ALPRs",
+      "resume": "There are over 120,000 of Flock’s automatic license plate reader (ALPR) cameras installed all over the US. Flock’s cameras, and others like them, use AI to identify and track vehicles based on their license plate number,…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-13",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/979869/flock-alpr-ai-surveillance-protest-privacy"
+    },
+    {
+      "titre": "‘That is not acceptable’: Judge orders Google to make rival app store installs easier",
+      "resume": "One month after Epic Games and Google seemingly stopped fighting over the future of Android app distribution, they were back in a San Francisco courtroom today - where Judge James Donato just ordered Google to make it ea…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-13",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier"
+    },
+    {
+      "titre": "Apple and Epic argue over how much Apple should get from purchases made outside the App Store",
+      "resume": "In a new filing in its long-running legal dispute with Epic Games, Apple has proposed a structure that would allow it to collect fees on digital purchases made via external links that don't use the company's in-app purch…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-13",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing"
+    },
+    {
+      "titre": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
+      "resume": "Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices.",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-08-13",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/"
+    },
+    {
+      "titre": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
+      "resume": "The surveillance company announced it's making a tool called \"Audit Assistance\" mandatory for all customers, claiming it's already helped catch abuse. But the company has yet to explain how the tool works in detail, rais…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-13",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/"
+    },
+    {
+      "titre": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
+      "resume": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-13",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/"
+    },
+    {
+      "titre": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+      "resume": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-13",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/"
+    },
+    {
+      "titre": "Writer introduces new AI model and upgraded harness to contain token costs",
+      "resume": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-13",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/"
+    },
+    {
+      "titre": "Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt",
+      "resume": "An Akira ransomware affiliate disabled the endpoint detection and response (EDR) solution on a compromised system by restarting the machine into Safe Mode with Networking. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-08-13",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/"
+    },
+    {
+      "titre": "Ukraine shuts down 94 fraudulent call centers, seize millions in cash",
+      "resume": "Authorities in Ukraine shut down 94 fraudulent call centers across the country that lured people into investment scams or tried to obtain access to bank accounts. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-13",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/"
+    },
     {
       "titre": "You can now just point at a mess and this robot vacuum will suck it up",
       "resume": "Matic, my current favorite robot vacuum, just got a big upgrade. The company has launched Matic Cues, which brings voice and gesture control to the robot. Now, you can talk directly to your vacuum to tell it what you wan…",
