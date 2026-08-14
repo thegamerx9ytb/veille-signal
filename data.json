@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2026-08-14T14:33:03.849580+00:00",
+  "lastUpdate": "2026-08-14T19:39:32.650849+00:00",
   "items": [
+    {
+      "titre": "The X-Files creator Chris Carter wanted to make a more horrific movie",
+      "resume": "The version of The X-Files: I Want to Believe that premiered in 2008 was not exactly the movie co-writer / director Chris Carter intended to make. Carter wanted to bring agents Mulder and Scully back to the big screen wi…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-14",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/979925/the-x-files-chris-carter-vrach-frankenshteyn-interview-hulu"
+    },
+    {
+      "titre": "Lamborghini’s flagship Revuelto levels up with SV trim",
+      "resume": "A lot of automakers talk about wanting to minimize or eliminate driver distractions so as to make the experience of driving more rewarding and safer overall. Lamborghini has a different strategy; it wants the driver to b…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-14",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/979807/lamborghini-revuelto-sv-specs-performance"
+    },
+    {
+      "titre": "A RAMageddon guide to back-to-school laptop shopping",
+      "resume": "If you’re a student looking for an affordable laptop, I have bad news and I have good news. The bad news is that computer prices are out of whack due to the ongoing RAM and storage crunch, making some a little pricier th…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-14",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school"
+    },
+    {
+      "titre": "Samsung has new Galaxy headphones in the works",
+      "resume": "Strings of code in Samsung's Galaxy Wearable app hint at an upcoming pair of over-ear headphones that could compete with the AirPods Max, SamMobile reports. Samsung's reportedly referring to the headphones as the \"Galaxy…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-14",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones"
+    },
+    {
+      "titre": "Unforgetful is a new reminders app for people who can’t stop hitting snooze",
+      "resume": "Unforgetful, the latest app from longtime indie developer Marco Arment, is designed to make reminders harder to ignore — or accidentally dismiss.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-14",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/"
+    },
+    {
+      "titre": "Read-it-later app Pocket shut down down — here are the best alternatives",
+      "resume": "Pocket users have until October 8, 2025, to export their saved articles and other items, including lists, archives, favorites, notes, and highlights.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-14",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/"
+    },
+    {
+      "titre": "What we know about the alleged Iranian hacks on U.S. water utilities",
+      "resume": "Over the last couple of weeks, hackers have targeted and broken into the systems of several water plants in the United States. Here’s what we know and don’t know about this wave of attacks allegedly carried out by the Ir…",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-08-14",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/"
+    },
+    {
+      "titre": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
+      "resume": "The AI opportunity is huge but \"it would also be a grave error in our minds to let excitement weaken our investment discipline,\" Kushner warns in his first-ever investment letter.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-14",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/"
+    },
+    {
+      "titre": "Kog is going deeper to squeeze more inference out of GPUs",
+      "resume": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-14",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/"
+    },
+    {
+      "titre": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "resume": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind i…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-14",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/"
+    },
+    {
+      "titre": "Google will now allow users to remove visible watermark from its AI generations",
+      "resume": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-14",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/"
+    },
+    {
+      "titre": "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
+      "resume": "The Netherlands' National Cyber Security Centre (NCSC) is warning that hackers are actively exploiting a macOS authentication bypass vulnerability after public exploit code emerged. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-14",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/"
+    },
+    {
+      "titre": "Hackers arrested over €30M bank fraud exploiting service provider flaw",
+      "resume": "Four cybercriminals were arrested in Brazil, and three others were charged in Europe over allegations that they exploited a vulnerability at a service provider, allowing them to withdraw funds from Commerzbank customers'…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-14",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/"
+    },
     {
       "titre": "Apple trained its own AI model for China with help from Alibaba",
       "resume": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focus…",
