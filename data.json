@@ -1,6 +1,78 @@
 {
-  "lastUpdate": "2026-08-15T11:40:46.688143+00:00",
+  "lastUpdate": "2026-08-15T17:43:11.010460+00:00",
   "items": [
+    {
+      "titre": "Disney D23 2026: Everything announced for Star Wars, Marvel, and more",
+      "resume": "The annual Disney fan event showed off the cast of Marvel&#8217;s X-Men movie, plus a new trailer for Avengers: Doomsday, and our first look at the VisionQuest TV show for Disney Plus. For Star Wars fans, there was a tea…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-15",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/streaming/980633/x-men-marvel-star-wars-pixar-disney-d23"
+    },
+    {
+      "titre": "Star Wars: Ahsoka season 2 and Starfighter get teased at D23",
+      "resume": "Season two of Star Wars: Ahsoka is still months away, but Lucasfilm still took the opportunity to tease it a bit at D23. The company dropped the first trailer for the new season ahead of its January 20th, 2027 debut. The…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-15",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/980666/star-wars-ahsoka-season-2-and-starfighter-get-teased-at-d23"
+    },
+    {
+      "titre": "Switched on Pop’s Nate Sloan and Charlie Harding love fresh vegetables and guitar pedals",
+      "resume": "As if you needed more reason to love Carly Rae Jepsen's \"Call Me Maybe\" beyond its pop perfection, it is also, according to lore, the genesis for Switched on Pop, one of the best music podcasts out there. Cohosts Nate Sl…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-15",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/report/980288/switched-on-pop-nate-sloan-charlie-harding-podcast-netflix-interview"
+    },
+    {
+      "titre": "Don&#8217;t overlook Elektron&#8217;s budget electronic music instruments",
+      "resume": "When I'm asked what to buy if you want to get into making electronic music, I often recommend Elektron's budget-minded Model:Samples and Model:Cycles grooveboxes. They don't grab headlines the way Teenage Engineering's g…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-15",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review"
+    },
+    {
+      "titre": "Every fusion startup that has raised over $100M",
+      "resume": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-15",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/"
+    },
+    {
+      "titre": "How to tell if your AI platforms’ accounts have been hacked",
+      "resume": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-08-15",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/"
+    },
+    {
+      "titre": "SpaceX officially closes its Cursor acquisition",
+      "resume": "AI coding startup Cursor is now officially a part of SpaceX.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-15",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/"
+    },
+    {
+      "titre": "New Evooo1Bot Linux botnet turns routers into traffic relay nodes",
+      "resume": "A new Mirai-based modular Linux botnet malware called Evooo1Bot has been targeting internet-facing gateway devices, turning them into SOCKS5 traffic relay nodes. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-15",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/"
+    },
     {
       "titre": "When housing is unaffordable, this artist’s device makes pedaling harder",
       "resume": "Justin Blinder had just been laid off when he first came up with the idea for Ground Truth. It was 2020, two weeks before covid lockdown went into effect, and the Brooklyn-based artist and technologist had no idea what t…",
