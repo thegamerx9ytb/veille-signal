@@ -1,6 +1,42 @@
 {
-  "lastUpdate": "2026-08-14T19:39:32.650849+00:00",
+  "lastUpdate": "2026-08-15T07:19:36.121098+00:00",
   "items": [
+    {
+      "titre": "What we know about the alleged Iranian hacks on US water utilities",
+      "resume": "Over the last couple of weeks, hackers have targeted and broken into the systems of several water plants in the United States. Here’s what we know and don’t know about this wave of attacks allegedly carried out by the Ir…",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-08-14",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/"
+    },
+    {
+      "titre": "Self-driving trucks are officially testing on California highways",
+      "resume": "Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-14",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/"
+    },
+    {
+      "titre": "Talks to sell PayPal to Stripe and Advent are heating up",
+      "resume": "PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-14",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/"
+    },
+    {
+      "titre": "How Anthropic plans to watermark Claude's AI-generated text",
+      "resume": "It could soon become easier to identify AI-generated content, even if it's not the usual \"It's Not X, it's Y\" type of post you'd come across on LinkedIn and other socials. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-14",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/"
+    },
     {
       "titre": "The X-Files creator Chris Carter wanted to make a more horrific movie",
       "resume": "The version of The X-Files: I Want to Believe that premiered in 2008 was not exactly the movie co-writer / director Chris Carter intended to make. Carter wanted to bring agents Mulder and Scully back to the big screen wi…",
