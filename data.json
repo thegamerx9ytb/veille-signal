@@ -1,6 +1,51 @@
 {
-  "lastUpdate": "2026-08-15T17:43:11.010460+00:00",
+  "lastUpdate": "2026-08-16T07:44:49.218875+00:00",
   "items": [
+    {
+      "titre": "Polaroid’s tiny instant camera is $72 and includes a free pack of film",
+      "resume": "Smartphone cameras are convenient, but they lack the charm of analog instant cameras. If you’re trying to relive the nostalgia of waiting for an instant photo to develop, Amazon is selling the second-generation Polaroid …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-16",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale"
+    },
+    {
+      "titre": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+      "resume": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on b…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-15",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot"
+    },
+    {
+      "titre": "Matt Groening lets slip that Simpsons: Hit &#038; Run might be making a comeback",
+      "resume": "At D23, when asked about the potential for a sequel to the cult classic The Simpsons: Hit &#38; Run game, Matt Groening replied, \"I think the original game is coming back in some form,\" before current showrunner Matt Sel…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-15",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/980720/matt-groening-simpsons-hit-run-d23"
+    },
+    {
+      "titre": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "resume": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-15",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/"
+    },
+    {
+      "titre": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "resume": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-15",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/"
+    },
     {
       "titre": "Disney D23 2026: Everything announced for Star Wars, Marvel, and more",
       "resume": "The annual Disney fan event showed off the cast of Marvel&#8217;s X-Men movie, plus a new trailer for Avengers: Doomsday, and our first look at the VisionQuest TV show for Disney Plus. For Star Wars fans, there was a tea…",
