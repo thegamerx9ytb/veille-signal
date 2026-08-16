@@ -1,6 +1,51 @@
 {
-  "lastUpdate": "2026-08-16T11:42:05.471095+00:00",
+  "lastUpdate": "2026-08-16T17:40:13.145891+00:00",
   "items": [
+    {
+      "titre": "Rogue AI aren’t science fiction anymore",
+      "resume": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepb…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-16",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai"
+    },
+    {
+      "titre": "TechCrunch Mobility: The shifting flight path of electric air taxis",
+      "resume": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-16",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/"
+    },
+    {
+      "titre": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "resume": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-16",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/"
+    },
+    {
+      "titre": "New AmnesiaStealer macOS malware hijacks browser sessions via remote control",
+      "resume": "A new information-stealing malware called AmnesiaStealer, which targets macOS users via ClickFix attacks, includes a streaming module that allows the attacker to interactively control the victim's web browser. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-16",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/"
+    },
+    {
+      "titre": "Large-scale DDoS attacks disrupted Threema secure messaging service",
+      "resume": "Multiple distributed denial-of-service (DDoS) attacks targeted the Threema secure messaging service earlier this week, causing severe disruptions to communications. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-16",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/"
+    },
     {
       "titre": "Polaroid’s tiny instant camera is $72 and includes a free pack of film",
       "resume": "Smartphone cameras are convenient, but they lack the charm of analog instant cameras. If you’re trying to relive the nostalgia of waiting for an instant photo to develop, Amazon is selling the second-generation Polaroid …",
