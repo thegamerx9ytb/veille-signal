@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2026-08-17T11:54:06.089250+00:00",
+  "lastUpdate": "2026-08-17T18:00:19.691011+00:00",
   "items": [
+    {
+      "titre": "Trump’s dumb border wall",
+      "resume": "About 22 miles south of the former mining town of Patagonia, Arizona, down a winding, unpaved mountain road that passes cows grazing on open range, stands a cottonwood tree believed to be at least 200 years old. The \"gra…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-17",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/report/980933/trump-border-wall-big-bend-arizona-cottonwood-tree-sit"
+    },
+    {
+      "titre": "Sonos finally added Live Activities controls for your iPhone lockscreen",
+      "resume": "Sonos released an update to its mobile app that finally introduces support for iOS' Live Activities, giving iPhone users quick access to playback controls on their lockscreen. The added functionality is a \"much requested…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-17",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/981008/sonos-mobile-ios-iphone-app-live-activities"
+    },
+    {
+      "titre": "The Analogue Pocket gets a Supreme makeover in red or gold",
+      "resume": "Analogue and Supreme are teaming up to release metallic versions of the Analogue Pocket handheld in red and gold as part of Supreme's fall / winter 2026 collection. Here's how they're described on Supreme's website: Meta…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-17",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/981054/analogue-pocket-supreme-red-gold-fall-winter-2026-collection"
+    },
+    {
+      "titre": "YouTube is changing how it counts views to give the numbers a boost",
+      "resume": "YouTube will soon count a view as soon as a video starts to play, lining up with the system used by Instagram, TikTok, and its Shorts videos. The update will go into effect on August 24th, \"which means creators will like…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-17",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/streaming/981105/youtube-video-view-counting-update"
+    },
+    {
+      "titre": "Feedly attributes weeklong slowdown to bug, not its AI pivot",
+      "resume": "Feedly says a bug is behind the performance issues that have made its web app nearly \"unusable\" for some users, while complaints about its mobile apps and customer support are adding to frustrations.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-17",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot/"
+    },
+    {
+      "titre": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+      "resume": "Wispr’s total funding is now over $361 million.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-17",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/"
+    },
+    {
+      "titre": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+      "resume": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-17",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/"
+    },
+    {
+      "titre": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "resume": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-17",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/"
+    },
+    {
+      "titre": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "resume": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-17",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/"
+    },
+    {
+      "titre": "Windows Server 2022 reaches end of mainstream support in 60 days",
+      "resume": "Microsoft has reminded IT administrators that Windows Server 2022 is rapidly approaching its mainstream end date of October 2026, when it will switch to extended support. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-17",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/"
+    },
+    {
+      "titre": "Certighost and the Privilege Hiding in Your Certificate Authority",
+      "resume": "CVE-2026-54121 lets a standard domain user turn your Enterprise CA into a Domain Controller. The patch is the easy part. The lesson is standing privilege, implicit trust, and treating PKI as the Tier 0 identity infrastru…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-17",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/"
+    },
+    {
+      "titre": "Microsoft confirms GitHub is down worldwide",
+      "resume": "GitHub is down for some users as a widespread outage is causing errors across the website, API, Actions, Pull Requests, and several other services. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-17",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/"
+    },
+    {
+      "titre": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
+      "resume": "Security researchers at SSD Secure Disclosure have published a two-stage exploit chain that achieves full Android kernel access on devices running Unisoc modem firmware through a VoLTE video call, with no fix from the ch…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-17",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html"
+    },
+    {
+      "titre": "How MCP Servers Can Expose Enterprise Secrets",
+      "resume": "MCP servers can expose enterprise secrets through plaintext configuration files, over-permissioned access and prompt injection, often before security teams even know the server is running. As more organizations adopt AI …",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-17",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html"
+    },
+    {
+      "titre": "⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
+      "resume": "The expensive attacks are not always the clever ones. This week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problems kept spreading fart…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-17",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html"
+    },
     {
       "titre": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
       "resume": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's text marking system is…",
