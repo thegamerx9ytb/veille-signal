@@ -1,6 +1,78 @@
 {
-  "lastUpdate": "2026-08-17T08:08:10.444265+00:00",
+  "lastUpdate": "2026-08-17T11:54:06.089250+00:00",
   "items": [
+    {
+      "titre": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+      "resume": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's text marking system is…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-17",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system"
+    },
+    {
+      "titre": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
+      "resume": "The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat owner possibly want? How about insights into your kitty's litt…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-17",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review"
+    },
+    {
+      "titre": "How to take better photos of your pets",
+      "resume": "Like the pets of any self-respecting millennial, my cats have their own Instagram account. Noodle and Loaf - aka Carb Cats - aren't exactly celebrities. But they are used to having their photos taken a lot. Between their…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-17",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/970021/how-to-take-better-pet-photos"
+    },
+    {
+      "titre": "Microsoft working on Defender patch for ShieldBreak zero-day",
+      "resume": "Microsoft is working on a security patch for the \"ShieldBreak\" zero-day vulnerability disclosed last week by security researcher \"Nightmare Eclipse\" and now tracked as CVE-2026-69414. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-08-17",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/"
+    },
+    {
+      "titre": "French tax authority data breach affects 678,000 individuals",
+      "resume": "The French Ministry of the Economy and Finance has disclosed a data breach after an attacker accessed the General Directorate of Public Finances (DGFiP) systems and stole data belonging to 678,000 individuals. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-08-17",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/"
+    },
+    {
+      "titre": "Philips and GE investigating Clop ransomware data theft claims",
+      "resume": "Tech giants General Electric (GE) and Philips have also confirmed they're investigating claims that the Clop ransomware gang breached their systems and stole data. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-08-17",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/"
+    },
+    {
+      "titre": "Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware",
+      "resume": "Cybersecurity researchers have attributed the exploitation of a newly patched security flaw in Broadcom VMware vCenter to a suspected China-nexus advanced persistent threat (APT). The attacks involve the exploitation of …",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-08-17",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html"
+    },
+    {
+      "titre": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies",
+      "resume": "Cybersecurity researchers have flagged a previously undocumented Linux botnet family dubbed Evooo1Bot that derives its core functionality from the Mirai botnet source code and is equipped to turn internet-facing devices …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-17",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html"
+    },
     {
       "titre": "I’m hooked on Peak Design’s new City bags",
       "resume": "It's just a hook, sewn into a bag, but I really, really like it. Peak Design is so proud of its clever integration that the San Francisco-based maker of camera gear gave it a name: BagLev, for its ability to keep its new…",
@@ -126,6 +198,24 @@
       "date": "2026-08-16",
       "source": "The Verge",
       "lien": "https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale"
+    },
+    {
+      "titre": "Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner",
+      "resume": "A recently patched security flaw in Apple macOS has come under active exploitation in the wild to deploy a cryptocurrency miner, the Netherlands National Cyber Security Centre (NCSC) has warned. The vulnerability in ques…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-15",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html"
+    },
+    {
+      "titre": "SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch",
+      "resume": "A maximum-severity security vulnerability impacting SAP Commerce Cloud is witnessing active exploitation efforts. The vulnerability, tracked as CVE-2026-58231, is rated 10.0 on the CVSS scoring system. It relates to an i…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-15",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html"
     },
     {
       "titre": "Have a laugh at AI’s expense by roleplaying as a chatbot",
