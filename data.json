@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2026-08-18T11:55:43.607554+00:00",
+  "lastUpdate": "2026-08-18T17:58:29.472793+00:00",
   "items": [
+    {
+      "titre": "Tesla is finally launching the Cybercab — let’s hope it’s ready",
+      "resume": "The Tesla Cybercab, that golden two-seater central to Elon Musk's robo-supremacist ambitions, is finally nearing it's public launch. Whether or not the no-steering wheel and no-pedal vehicle is actually ready for public …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-18",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/981398/tesla-cybercab-launch-robotaxi-fsd-safe-ready"
+    },
+    {
+      "titre": "Apple squashes EU beef with new App Store rules",
+      "resume": "Apple is once again overhauling App Store rules in the European Union, which the company says will resolve its \"disagreements with the Commission over business terms and alternative distribution.\" As part of the changes,…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-18",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/981504/apple-app-store-eu-rules-core-technology-commission"
+    },
+    {
+      "titre": "PlayStation&#8217;s wireless gaming speakers launch in November",
+      "resume": "Sony's Pulse Elevate wireless gaming speakers are launching on November 12th and will cost $219.99, the company announced on Tuesday. Announced nearly a year ago, the speakers are compatible with a PS5, PlayStation Porta…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-18",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/981562/sony-playstation-pulse-elevate-wireless-gaming-speakers-launch-date-preorder"
+    },
+    {
+      "titre": "Samsung’s Galaxy Buds 3 Pro are almost half off today",
+      "resume": "If you’re looking for a feature-packed pair of earbuds that won’t break your wallet, Best Buy has the Samsung Galaxy Buds 3 Pro on sale for $139.99. That’s $40 lower than the current Amazon price, and a big discount from…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-18",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/981525/galaxy-buds-3-pro-dji-pocket-deal-sale"
+    },
+    {
+      "titre": "Comcast adds motion sensing to millions of its newer routers, with a privacy catch",
+      "resume": "A new feature added to Comcast's newest routers can detect if there is motion is inside your home without needing traditional motion sensors.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-18",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch/"
+    },
+    {
+      "titre": "Apple overhauls its EU App Store fees, loosens rules for alternative app stores",
+      "resume": "Apple is simplifying its EU App Store fees, replacing its per-install fee with a 5% commission for apps distributed outside the App Store and making it easier for developers to operate alternative app marketplaces.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-18",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/"
+    },
+    {
+      "titre": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
+      "resume": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-18",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/18/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/"
+    },
+    {
+      "titre": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+      "resume": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-18",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/"
+    },
+    {
+      "titre": "Warp’s new system is an out-of-the-box software factory for AI development",
+      "resume": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-18",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/"
+    },
+    {
+      "titre": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+      "resume": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Élevé",
+      "date": "2026-08-18",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/"
+    },
+    {
+      "titre": "Etched’s valuation doubles to $21B in a month",
+      "resume": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-18",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/"
+    },
+    {
+      "titre": "Your Controls Block Known Attacks. What About the Behavior?",
+      "resume": "Security controls can block a familiar attack method while missing quieter ways to achieve the same objective. Picus Security's Blue Report 2026 shows how prevention rates can vary dramatically by technique and why behav…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-18",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/"
+    },
+    {
+      "titre": "Clop created custom web shell for Windchill data theft attacks",
+      "resume": "A custom Java web shell likely linked to the Clop ransomware gang was designed specifically for PTC Windchill and FlexPLM servers, with built-in features to decrypt credentials, enumerate file repositories, and steal fil…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-08-18",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/"
+    },
+    {
+      "titre": "TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks",
+      "resume": "Cybersecurity researchers have disclosed details of a previously undocumented Python implant framework dubbed TWINLOOT. \"TWINLOOT is a modular, PyArmor-hardened Python implant designed to operate its entire command-and-c…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-18",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html"
+    },
+    {
+      "titre": "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
+      "resume": "Security researchers at Anthropic and Switzerland's EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system prompt files that a…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-18",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html"
+    },
     {
       "titre": "Elon Musk made flying even worse so Palantir could profit",
       "resume": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile, nine-state airspac…",
