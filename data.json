@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2026-08-17T18:00:19.691011+00:00",
+  "lastUpdate": "2026-08-18T07:58:43.464103+00:00",
   "items": [
+    {
+      "titre": "CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE",
+      "resume": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a critical flaw impacting Ray to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. Ray is an open-…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-08-18",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html"
+    },
+    {
+      "titre": "Wordle meets Clippy in this new word game",
+      "resume": "Like many of us, Sam Rosenthal plays games like Wordle every day, chasing after good scores and sharing the results with friends and family. But he's also a game designer, the creative director at Blaseball developer The…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-17",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/981014/dartwords-clippy-word-game"
+    },
+    {
+      "titre": "This compact Glorious mechanical keyboard is just $35",
+      "resume": "Are you curious about custom mechanical keyboards, but don’t want to spend hundreds just to get started without being sure you’ll enjoy the hobby? You can grab the 65-percent Glorious GMMK 3 mechanical keyboard at Woot f…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-17",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/981134/glorious-gmmk-3-mechanical-keyboard-deal-sale"
+    },
+    {
+      "titre": "ABC&#8217;s livestreamed news show is powered by trending topics",
+      "resume": "ABC News has officially introduced Searched, a livestreamed show that highlights stories people are discussing on social media and searching on the web, as reported earlier by Variety. Though the network just announced t…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-17",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/streaming/981209/abc-news-searched-livestreamed-show"
+    },
+    {
+      "titre": "Reddit’s AI is turning posts into podcasts and short videos",
+      "resume": "Reddit is trying out a new way for people to take in content on Reddit: by turning text posts into audio / video content. As part of an experiment, some posts are being adapted into videos that use AI voices to read the …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-17",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/981289/reddit-ai-text-video-posts"
+    },
+    {
+      "titre": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
+      "resume": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-17",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/17/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/"
+    },
+    {
+      "titre": "‘Unprecedented’ number of Apple users received recent spyware alert, say investigators",
+      "resume": "Cybersecurity experts who investigate spyware attacks say the number of people who received a recent threat notification from Apple is unusually high.",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-08-17",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators/"
+    },
+    {
+      "titre": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+      "resume": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-17",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/"
+    },
+    {
+      "titre": "Anthropic’s annualized revenue surges to $65B",
+      "resume": "The model maker added $18 billion in annualized revenue in two months.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-17",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/"
+    },
+    {
+      "titre": "Pokémon Center data breach exposes customer info, cancels some orders",
+      "resume": "Pokémon Center is notifying customers in the United Kingdom and Germany that it suffered a third-party data breach after hackers stole customer personal and order information from third-party logistics provider CEVA Logi…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-08-17",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/"
+    },
+    {
+      "titre": "Hacker claims 3.6 million Azure account records stolen from major companies",
+      "resume": "A threat actor is selling employee databases allegedly stolen from the Microsoft Azure infrastructure of multiple Fortune 500 companies after gaining access using compromised credentials. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-17",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/"
+    },
+    {
+      "titre": "Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads",
+      "resume": "A critical security flaw has been disclosed in Forminator Forms, a WordPress plugin with more than 600,000 active installations, that could be exploited to achieve arbitrary code execution on susceptible sites. The vulne…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-17",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html"
+    },
+    {
+      "titre": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection",
+      "resume": "Cybersecurity researchers at Wiz&nbsp;have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake's public&nbsp;snowflakedb/snowflake-connector-net repository that it said could be exploited through…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-17",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html"
+    },
+    {
+      "titre": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
+      "resume": "GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauthenticated attacker t…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-08-17",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html"
+    },
     {
       "titre": "Trump’s dumb border wall",
       "resume": "About 22 miles south of the former mining town of Patagonia, Arizona, down a winding, unpaved mountain road that passes cows grazing on open range, stands a cottonwood tree believed to be at least 200 years old. The \"gra…",
