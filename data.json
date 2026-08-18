@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2026-08-18T07:58:43.464103+00:00",
+  "lastUpdate": "2026-08-18T11:55:43.607554+00:00",
   "items": [
+    {
+      "titre": "Elon Musk made flying even worse so Palantir could profit",
+      "resume": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile, nine-state airspac…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-18",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir"
+    },
+    {
+      "titre": "Fairphone’s latest repairable phone is going on sale in the US",
+      "resume": "The Fairphone 6 Plus is a minor hardware refresh, but a major launch for the company: It's the first phone that Fairphone is selling directly in the US. It's on sale now for $649.99, available through Fairphone's website…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-18",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/980876/fairphone-6-plus-us-t-mobile-amazon"
+    },
+    {
+      "titre": "How I turned my fish tank high tech",
+      "resume": "When I was a kid, I owned two goldfish that eventually outgrew the size of their tank. At the time, I didn't realize just how much actually goes into having fish and keeping them healthy. I've learned a lot over the past…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-18",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/978229/fish-tank-tech"
+    },
+    {
+      "titre": "Oops! My cat is an iPad kid",
+      "resume": "Pets, like children, come with the responsibility to keep them happy, healthy, and mentally stimulated - obligations I readily committed to before getting my cat, Trevor. I work from home, so he's never lonely, and play …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-18",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/980226/cat-ipad-kid-pet-tech-games-youtube"
+    },
+    {
+      "titre": "Detroit startup Grounded raises $5M to customize electric and gas-powered vans",
+      "resume": "The company has shifted from making van-life builds to custom outfitting vehicles for small businesses, all while the EV landscape in the US changed dramatically.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-18",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/18/detroit-startup-grounded-raises-5m-to-customize-electric-and-gas-powered-vans/"
+    },
+    {
+      "titre": "Einride strikes deal to add 500 Tesla Semis to its fleet",
+      "resume": "Einride will buy the Tesla Semis, which will be made to Amazon and other customers.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-18",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/18/einride-strikes-deal-to-add-500-tesla-semis-to-its-fleet/"
+    },
+    {
+      "titre": "Reach Capital raises $265M Fund V to back AI founders building to ‘expand human potential’",
+      "resume": "Reach Capital announced Tuesday an oversubscribed $265M Fund V.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-18",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/"
+    },
+    {
+      "titre": "Microsoft starts removing WMIC tool used by cybercriminals",
+      "resume": "Microsoft announced that it removed the Windows Management Instrumentation Command-line (WMIC) tool from Windows 11 24H2 and 25H2, as well as from Windows 11 beta builds released this week. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-18",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/"
+    },
+    {
+      "titre": "Microsoft confirms outage affecting search in Microsoft 365 apps",
+      "resume": "Microsoft says some users are experiencing issues searching in Microsoft 365 apps, including Outlook on the web, Outlook desktop, SharePoint Online, and OneDrive. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-18",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-bug-behind-microsoft-365-search-issues/"
+    },
+    {
+      "titre": "CISA: Windows Task Host flaw now exploited by ransomware gangs",
+      "resume": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a high-severity Windows Task Host vulnerability that was flagged as actively exploited in April. [.…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-08-18",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/"
+    },
+    {
+      "titre": "Microsoft tests faster Windows File Explorer, new context menu",
+      "resume": "Microsoft has started testing a faster File Explorer and a less cluttered and more customizable context menu in Windows 11 preview builds rolling out to Insiders this week. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-18",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/"
+    },
+    {
+      "titre": "SafePal Hardware Wallet Maker Says Flaw Exposed Data of Nearly 40,000 Customers",
+      "resume": "SafePal has disclosed that an authorization flaw in an order-tracking plug-in exposed the names, email addresses, shipping addresses, phone numbers, and purchase details of approximately 39,798 customers. The hardware wa…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-18",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html"
+    },
+    {
+      "titre": "One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025",
+      "resume": "A single piece of infrastructure has been pulling records out of Salesforce and ServiceNow customer portals across multiple industries for more than a year, according to research published this week by agent security pla…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-18",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html"
+    },
+    {
+      "titre": "16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets",
+      "resume": "Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer. OpenSourceMalware, which discovered the activity on August 15, 2026, is tracking the …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-18",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html"
+    },
     {
       "titre": "CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE",
       "resume": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a critical flaw impacting Ray to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. Ray is an open-…",
