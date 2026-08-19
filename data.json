@@ -1,6 +1,105 @@
 {
-  "lastUpdate": "2026-08-18T17:58:29.472793+00:00",
+  "lastUpdate": "2026-08-19T07:58:18.807623+00:00",
   "items": [
+    {
+      "titre": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+      "resume": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and al…",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-08-18",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack"
+    },
+    {
+      "titre": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+      "resume": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Willi…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-18",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai"
+    },
+    {
+      "titre": "SteelSeries’ comfy wireless gaming headset is nearly half off",
+      "resume": "While many gaming headsets come with extra features, the tradeoff is that they’re often uncomfortable and heavy. A lightweight, affordable alternative that can connect to a bunch of platforms is available at Woot. The St…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-18",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/981611/steelseries-arctis-nova-3p-deal-sale"
+    },
+    {
+      "titre": "TikTok explores peer-to-peer payments via DMs, report says",
+      "resume": "If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-18",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/"
+    },
+    {
+      "titre": "DOJ’s probe into Andreessen Horowitz over board seats baffles VCs",
+      "resume": "Since portfolio companies often pivot and expand into competing markets, investors view occasional conflicts of interest as unavoidable for large VC firms.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-18",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/"
+    },
+    {
+      "titre": "OpenAI institutes new safeguards after Hugging Face breach",
+      "resume": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Élevé",
+      "date": "2026-08-18",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/"
+    },
+    {
+      "titre": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+      "resume": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-18",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/"
+    },
+    {
+      "titre": "Comcast turns your Xfinity WiFi into a home motion detector",
+      "resume": "Comcast is promoting WiFi-based motion detection as a part of its new Xfinity Shield home protection platform, allowing routers and wireless devices to detect people moving through a home without cameras or motion sensor…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-18",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/"
+    },
+    {
+      "titre": "Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000",
+      "resume": "A ransomware affiliate calling itself Ransom Busters has been spotted proactively sending emails to victim organizations and claims to delete stolen data from ransomware groups' servers in exchange for a fee ranging from…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-08-18",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html"
+    },
+    {
+      "titre": "Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets",
+      "resume": "Two critical vulnerabilities impacting MLflow, an open-source artificial intelligence (AI) platform, and FUXA, an open-source, web-based SCADA / HMI software built for operational technology (OT) and industrial automatio…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-18",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html"
+    },
+    {
+      "titre": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
+      "resume": "Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to silently pull data from connected apps and other information available to…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-18",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html"
+    },
     {
       "titre": "Tesla is finally launching the Cybercab — let’s hope it’s ready",
       "resume": "The Tesla Cybercab, that golden two-seater central to Elon Musk's robo-supremacist ambitions, is finally nearing it's public launch. Whether or not the no-steering wheel and no-pedal vehicle is actually ready for public …",
