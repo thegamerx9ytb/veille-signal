@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2026-08-19T11:55:25.652444+00:00",
+  "lastUpdate": "2026-08-19T17:53:46.682836+00:00",
   "items": [
+    {
+      "titre": "We reviewed the new Pixel lineup, ask us anything",
+      "resume": "The embargo has lifted on Google's Pixel 11 series, as well as for its Pixel Watch 5. Now we get to talk smack - just kidding, the new hardware is good. We have four reviews live on the site that you can peruse at your l…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-19",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/981537/pixel-11-pro-fold-watch-5-ama"
+    },
+    {
+      "titre": "Meta AI is getting a Mac app",
+      "resume": "Meta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questions, or create content ba…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-19",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/982270/meta-ai-mac-app"
+    },
+    {
+      "titre": "GTA VI keeps leaking ahead of its gameplay premiere",
+      "resume": "Clips of what appears to be Grand Theft Auto VI have hit the internet, possibly spoiling aspects of the game ahead of Rockstar Games' deep dive debuting on Netflix next week and its long-awaited launch in November. I've …",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-08-19",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/982338/grand-theft-auto-vi-gta-leaks-videos"
+    },
+    {
+      "titre": "OpenAI hit the brakes. Now what?",
+      "resume": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, the company said it had …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-19",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai"
+    },
+    {
+      "titre": "Time’s running out! Save $300 on your TechCrunch Disrupt 2026 pass until August 21",
+      "resume": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-19",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/19/times-running-out-save-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/"
+    },
+    {
+      "titre": "T-Mobile ‘chopped a cable’ to expel Chinese hackers from its network",
+      "resume": "The U.S. phone provider escaped a large-scale breach of its network after identifying Chinese-backed hackers early on.",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-08-19",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/19/t-mobile-chopped-a-cable-to-expel-chinese-hackers-from-its-network/"
+    },
+    {
+      "titre": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+      "resume": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-19",
+      "source": "AI | VentureBeat",
+      "lien": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push"
+    },
+    {
+      "titre": "Calendly throws its hat into meeting note-taker circus",
+      "resume": "Calendly is also releasing a meeting scheduling assistant called Callie.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-19",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/"
+    },
+    {
+      "titre": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+      "resume": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-19",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/"
+    },
+    {
+      "titre": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+      "resume": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-19",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/"
+    },
+    {
+      "titre": "Meet the startup helping Wall Street put a price on AI compute",
+      "resume": "The AI buildout shows no signs of slowing. And&#160;with&#160;hundreds of&#160;billions of dollars a year going into data centers and GPUs,&#160;compute has&#160;become the single biggest cost for anyone building AI prod…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-19",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/"
+    },
+    {
+      "titre": "Password spraying attacks surge 155x as hackers exploit MFA gaps",
+      "resume": "Huntress observed a 155x increase in password spraying attacks in H1 2026, including a campaign that generated more than 81 million login attempts in two weeks. The attacks exploited legacy authentication and gaps in MFA…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-19",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/"
+    },
+    {
+      "titre": "US charges Iranian hackers over $3.4 billion intellectual property theft",
+      "resume": "The U.S. has charged 17 Iranians, alleged members of a hacking-for-hire company called Mabna Institute, involved in years-long operations that stole data from American organizations. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-19",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/"
+    },
+    {
+      "titre": "US warns of AI-powered attacks on Siemens PLCs in critical infrastructure",
+      "resume": "U.S. cybersecurity agencies warn that threat actors are using AI-generated scripts to exploit Siemens S7 Series programmable logic controllers (PLCs) in U.S. critical infrastructure. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-19",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/"
+    },
+    {
+      "titre": "Phishing 3.0: The Fight Moves to Agent Versus Agent",
+      "resume": "Most email defenses still do the job they did a decade ago. Scan the message, look for something malicious, block it. That worked when the danger sat in the payload, a bad link or an attachment. It stopped working when t…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-19",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html"
+    },
+    {
+      "titre": "Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P",
+      "resume": "Cybersecurity researchers at Hunt.io have disclosed details of a campaign that they say compromised more than 14,530 Dahua devices between June 17 and July 22, 2026, using credential attacks, two authentication-bypass fl…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-19",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html"
+    },
+    {
+      "titre": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
+      "resume": "A previously unreported cyber espionage operation dubbed SilkParasite has been observed targeting government bodies in Central Asia. The intrusion set makes use of seven remote access tool (RAT) families, five of which h…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-19",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html"
+    },
     {
       "titre": "Framework gave its 12-inch laptop some hardware upgrades",
       "resume": "Framework has refreshed its 12-inch convertible laptop, introducing Intel's latest Core Series 3 processors, expanded hardware customizations, and a pre-built Linux option. The cheapest pre-built base configuration for t…",
