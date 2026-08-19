@@ -1,6 +1,114 @@
 {
-  "lastUpdate": "2026-08-19T07:58:18.807623+00:00",
+  "lastUpdate": "2026-08-19T11:55:25.652444+00:00",
   "items": [
+    {
+      "titre": "Framework gave its 12-inch laptop some hardware upgrades",
+      "resume": "Framework has refreshed its 12-inch convertible laptop, introducing Intel's latest Core Series 3 processors, expanded hardware customizations, and a pre-built Linux option. The cheapest pre-built base configuration for t…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-19",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/981894/framework-laptop-12-update-intel-core-linux-availability"
+    },
+    {
+      "titre": "The everyday tech I use to track my corgi",
+      "resume": "The Apple AirTag may be a jack-of-all-trades - people use it for keeping track of keys, suitcases, backpacks, purses - but I think the most logical use case for it, by far, is keeping track of your pet. I attach it to my…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-19",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/981143/airtag-corgi-pet-tech-tracking"
+    },
+    {
+      "titre": "Amazon’s drones will soon deliver to nearly 500 US cities and towns",
+      "resume": "Amazon says its drone delivery service will reach \"nearly 500 cities and towns in the United States\" by the end of this year, increasing its coverage by six times compared to the current footprint. Prime Air deliveries w…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-19",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/981908/amazon-prime-air-drone-delivery-us-expansion"
+    },
+    {
+      "titre": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+      "resume": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-19",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/"
+    },
+    {
+      "titre": "CISA: Medusa ransomware hit over 500 critical infrastructure orgs",
+      "resume": "The FBI said Tuesday that the Medusa ransomware gang has breached more than 500 critical infrastructure organizations in the United States since June 2021. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-08-19",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs/"
+    },
+    {
+      "titre": "Windows 11 24H2 Home and Pro reach end of support in 2 months",
+      "resume": "Microsoft has reminded customers that systems running Home and Pro editions of Windows 11 24H2 will stop receiving updates in two months. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-19",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-2-months/"
+    },
+    {
+      "titre": "Critical RCE flaw in Windows IKE Extension now actively exploited",
+      "resume": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity remote code execution (RCE) flaw in the Windows Internet Key Exchange (IKE) Service Extensions compo…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-08-19",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/"
+    },
+    {
+      "titre": "Microsoft fixes known issue causing Windows Defender crashes",
+      "resume": "Microsoft has resolved a bug that caused Windows Defender to crash after a recent security update, resulting in 0xc0000005 access violation errors on some affected systems. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-19",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/"
+    },
+    {
+      "titre": "Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data",
+      "resume": "A JavaServer Pages (JSP) web shell deployed following the exploitation of a critical security flaw in PTC Windchill and FlexPLM servers is specifically designed for the enterprise Product Lifecycle Management (PLM) softw…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-19",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html"
+    },
+    {
+      "titre": "Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure",
+      "resume": "Microsoft Defender Experts have linked more than 30 web domains to MacSync Stealer, a macOS-focused information stealer, after correlating recurring endpoint and network behaviors across changing infrastructure, tracing …",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-19",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html"
+    },
+    {
+      "titre": "Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation",
+      "resume": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four critical vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, stating they are being exploited in the wild. The shor…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-08-19",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html"
+    },
+    {
+      "titre": "StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data",
+      "resume": "Cybersecurity researchers have flagged a global cybercrime operation that abuses thousands of hacked WordPress websites as infrastructure to disseminate malware, commandeer infected hosts, store stolen documents, screens…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-19",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html"
+    },
     {
       "titre": "OpenAI lays out new security changes after its AI hacked Hugging Face",
       "resume": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and al…",
