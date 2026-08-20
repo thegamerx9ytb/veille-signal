@@ -1,6 +1,168 @@
 {
-  "lastUpdate": "2026-08-20T11:57:39.721678+00:00",
+  "lastUpdate": "2026-08-20T18:00:07.925989+00:00",
   "items": [
+    {
+      "titre": "It’s Greg Brockman’s OpenAI now",
+      "resume": "OpenAI has had a hell of a year. The company spent months battling former co-founder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny afte…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-20",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion"
+    },
+    {
+      "titre": "Framework says it&#8217;s addressing a BIOS update that bricked some of its older laptops",
+      "resume": "Some Framework Laptop 13 owners with last-gen AMD chips have reported that a recent BIOS update is bricking their laptops on both Windows and Linux. The BIOS update causing this issue is version 3.20 for Ryzen 7040-serie…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-20",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/982800/framework-laptop-13-amd-7040-bios-320-bricking-warranty"
+    },
+    {
+      "titre": "FCC officially decides gigabit speeds are too good for you",
+      "resume": "Another day, another sad thing to report about our compromised Federal Communications Commission. Chairman Brendan Carr has followed through on his 2025 threat to kill long-term broadband speed goals established during t…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-20",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/policy/982863/fcc-kills-gigabit-goal"
+    },
+    {
+      "titre": "Australia says Roblox hasn&#8217;t fixed its child predator problem",
+      "resume": "Roblox is promising more changes to its child safety features following testing from Australia's online safety regulator, eSafety. eSafety has been looking into concerns that the company hasn't been in compliance with Au…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-20",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/982885/roblox-australia-safety-regulator-child-safety"
+    },
+    {
+      "titre": "Early Cerebras investor Adit Singh joins Mayfield as infrastructure partner",
+      "resume": "At Mayfield, Singh will focus on semiconductor, cybersecurity, and physical AI investments.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-20",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/20/early-cerebras-investor-adit-singh-joins-mayfield-as-infrastructure-partner/"
+    },
+    {
+      "titre": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "resume": "Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt this year.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-20",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/20/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/"
+    },
+    {
+      "titre": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+      "resume": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-20",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/"
+    },
+    {
+      "titre": "Ramp launches its own AI model router, called Router",
+      "resume": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-20",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/"
+    },
+    {
+      "titre": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+      "resume": "ChatGPT and other AI models are now authoring and editing much of the new web.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-20",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/"
+    },
+    {
+      "titre": "Grok keeps sending gibberish responses to users",
+      "resume": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-20",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/"
+    },
+    {
+      "titre": "Citrix urges admins to patch new NetScaler flaws as soon as possible",
+      "resume": "Citrix has warned customers to immediately secure their systems against two vulnerabilities affecting NetScaler Gateway secure remote access solutions and NetScaler ADC networking appliances. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-20",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/"
+    },
+    {
+      "titre": "How MSPs can catch phishing attacks email filters miss",
+      "resume": "AI is making phishing attacks more personalized, convincing, and difficult for traditional email filters to detect. Kaseya explains how MSPs can monitor identity, email, and endpoint activity to detect and contain attack…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-20",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/"
+    },
+    {
+      "titre": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
+      "resume": "A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-08-20",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/"
+    },
+    {
+      "titre": "Hackers poison arrayref Rust crate to push infostealer malware",
+      "resume": "Hackers compromised the maintainer account behind the widely used Rust crate arrayref to introduce malware that executed on developers' systems during compilation. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-20",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/"
+    },
+    {
+      "titre": "Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers",
+      "resume": "Citrix has released updates to address two security flaws impacting NetScaler ADC and NetScaler Gateway deployments, including a critical-severity authentication bypass vulnerability. According to the cloud computing and…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-20",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html"
+    },
+    {
+      "titre": "Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE",
+      "resume": "Cybersecurity researchers have disclosed a critical security flaw in isolated-vm, a popular open-source sandbox with more than 2,900 stars and 190 forks on GitHub, that could allow attackers to escape the confines of the…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-20",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html"
+    },
+    {
+      "titre": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
+      "resume": "Adversa AI has disclosed an attack technique that it says can cause xAI's Grok chatbot to send a user's name, approximate location, subscription tier, and the prompts from the ongoing conversation to an attacker-controll…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-20",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html"
+    },
+    {
+      "titre": "AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
+      "resume": "The U.S. government on Wednesday warned of an \"active threat\" targeting critical infrastructure organizations in the country using artificial intelligence (AI)-generated exploit scripts. The activity is targeting Siemens…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-20",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html"
+    },
     {
       "titre": "Sennheiser’s new Momentum 5 earbuds feature easily replaceable batteries",
       "resume": "Sennheiser announced the next version of its flagship wireless earbuds with a major redesign focusing on sustainability. The company claims the new design improves the Momentum True Wireless 5's \"comfort, stability, and …",
