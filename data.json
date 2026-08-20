@@ -1,6 +1,105 @@
 {
-  "lastUpdate": "2026-08-20T08:04:46.096435+00:00",
+  "lastUpdate": "2026-08-20T11:57:39.721678+00:00",
   "items": [
+    {
+      "titre": "Sennheiser’s new Momentum 5 earbuds feature easily replaceable batteries",
+      "resume": "Sennheiser announced the next version of its flagship wireless earbuds with a major redesign focusing on sustainability. The company claims the new design improves the Momentum True Wireless 5's \"comfort, stability, and …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-20",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/982216/sennheiser-momentum-true-wireless-5-earbuds-replaceable-batteries"
+    },
+    {
+      "titre": "The Audi S6 Sportback E-tron proves that sedans still matter",
+      "resume": "Last year, Audi announced that it gave its all-EV-by-2033 plan the boot, and instead will offer a mix of gasoline, hybrid, and electrified propulsion. There's no doubt still some uncertainty among bigger automakers - esp…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-20",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/982464/audi-s6-sportback-etron-sedan-ev-review"
+    },
+    {
+      "titre": "The piano that taught my cat to play for her supper",
+      "resume": "The pianist sits before her instrument. She carefully extends a front paw, pressing gingerly on a key. She presses again, and again. She is composing some soul music, because something terrible has happened to her: The v…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-20",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/980552/pet-piano-cat-autofeeder"
+    },
+    {
+      "titre": "I ruined my cats’ toilet time with a motion-activated neon litter box sign",
+      "resume": "My two cats live a refreshingly low-tech lifestyle. They've never experienced a robot litter box, an automated feeder, or a GPS tracker. Noodle and Loaf live blissfully unaware of the technological trappings that surroun…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-20",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/978782/cat-litterbox-motion-activated-neon-on-air-sign"
+    },
+    {
+      "titre": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+      "resume": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-20",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/"
+    },
+    {
+      "titre": "Critical Zimbra RCE flaw now actively exploited in attacks",
+      "resume": "CERT Polska, the Polish Computer Emergency Response Team (CERT), warned that attackers have begun exploiting a critical vulnerability in Zimbra Collaboration Suite (ZCS). [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-08-20",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/"
+    },
+    {
+      "titre": "New Manic Android malware can exfiltrate data through nearby devices",
+      "resume": "A new Android malware named Manic targeting users in multiple European countries has a fallback data exfiltration mechanism that uses nearby infected devices. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-20",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/"
+    },
+    {
+      "titre": "CISA warns of hackers exploiting critical MLflow vulnerability",
+      "resume": "The Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that threat actors are now exploiting a critical vulnerability in the MLflow open-source AI engineering platform. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-08-20",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/"
+    },
+    {
+      "titre": "40 Malicious Firefox Extensions Pose as Web3 Products to Steal Wallet Secrets",
+      "resume": "A set of 40 Mozilla Firefox extensions has been found to engage in cryptocurrency wallet theft by masquerading as OKX, Rabby Wallet, TronLink, and other Web3 products. According to the Socket Threat Research team, the ex…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-20",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html"
+    },
+    {
+      "titre": "ToxicPanda 2.0 and GoldDigger Expand Android Banking Attacks with On-Device Fraud",
+      "resume": "Cybersecurity researchers have shed light on an updated version of ToxicPanda (aka TgToxic) that comes with \"significant enhancements,\" including a set of 167 remote commands and expands its targeting footprint globally.…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-20",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html"
+    },
+    {
+      "titre": "NASA AIT-GUI Flaws Could Let Unauthenticated Attackers Issue Spacecraft Commands",
+      "resume": "Security researchers at Cycode have disclosed a chain of flaws in AIT-GUI, the browser-based operator console for NASA/JPL's open-source AMMOS Instrument Toolkit, that allow an unauthenticated attacker to issue arbitrary…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-20",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/nasa-ait-gui-flaws-could-let.html"
+    },
     {
       "titre": "OpenAI confirms ChatGPT is down as logins and signups fail",
       "resume": "ChatGPT is experiencing a major outage, and users are unable to sign in, create accounts, or load chats, including previous conversations. [...]",
