@@ -1,6 +1,150 @@
 {
-  "lastUpdate": "2026-08-19T17:53:46.682836+00:00",
+  "lastUpdate": "2026-08-20T08:04:46.096435+00:00",
   "items": [
+    {
+      "titre": "OpenAI confirms ChatGPT is down as logins and signups fail",
+      "resume": "ChatGPT is experiencing a major outage, and users are unable to sign in, create accounts, or load chats, including previous conversations. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-20",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/"
+    },
+    {
+      "titre": "Microsoft says August Windows updates may cause gaming issues",
+      "resume": "Microsoft is investigating a potential issue with the August 2026 updates that may prevent some games from launching or cause them to crash on affected Windows 11 systems. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-20",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/"
+    },
+    {
+      "titre": "Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code",
+      "resume": "Cybersecurity researchers have disclosed details of a critical flaw in the Elementor Pro WordPress plugin that, if successfully exploited, could lead to remote code execution. The vulnerability, tracked as CVE-2026-32475…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-20",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html"
+    },
+    {
+      "titre": "Watch Valve set up the Steam Frame in its own leaked videos",
+      "resume": "Valve just leaked several new videos showing the Steam Frame's unboxing, setup process, and various accessories. The videos apparently appeared on the ARM Steam client following an update, but they were \"quickly pulled a…",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-08-19",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos"
+    },
+    {
+      "titre": "Google Gemini is getting a dedicated student hub",
+      "resume": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice qui…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-19",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub"
+    },
+    {
+      "titre": "Nielsen is leaning more on wearables to hear what people are watching",
+      "resume": "In order to beef up its ability to accurately measure viewership data in the streaming era, Nielsen is moving forward with a plan to use more information gathered from its partners' wearable devices. Today, Nielsen annou…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-19",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data"
+    },
+    {
+      "titre": "Does giving a camera wings dodge the FCC’s drone ban?",
+      "resume": "HoverAir drones always have intriguing gimmicks. This one folds flat to fit in your pocket. This one can land on water. Another can charge inside its carrying case. But the brand's latest trick might be its riskiest: it'…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-19",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo"
+    },
+    {
+      "titre": "Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities",
+      "resume": "The next-generation robotaxi, called the Waymo Ojai, is central to the company's push towards mass scale, and eventually, profitability.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-19",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/"
+    },
+    {
+      "titre": "AI was supposed to win people over by now — it hasn’t",
+      "resume": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-19",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/"
+    },
+    {
+      "titre": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+      "resume": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-19",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/"
+    },
+    {
+      "titre": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+      "resume": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-19",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/"
+    },
+    {
+      "titre": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+      "resume": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-19",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/"
+    },
+    {
+      "titre": "Sakura Internet hack exposes data of up to 1.36 million accounts",
+      "resume": "Japanese cloud and data center service provider Sakura Internet disclosed that hackers accessed its sales management system, where customer contract and membership information is stored. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-19",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/sakura-internet-hack-exposes-data-of-up-to-136-million-accounts/"
+    },
+    {
+      "titre": "Rogue ransomware affiliate poses as recovery firm to steal payments",
+      "resume": "A suspected ransomware affiliate is posing as a ransomware recovery service called \"Ransom Busters,\" contacting the victims before the attacks become public and claiming to be able to provide decryption keys and delete s…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-08-19",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/"
+    },
+    {
+      "titre": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
+      "resume": "OpenAI on Tuesday revealed that it paused reinforcement learning (RL) training for its latest artificial intelligence (AI) models for two weeks while it shored up additional defenses and increased the scope of its monito…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-19",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html"
+    },
+    {
+      "titre": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
+      "resume": "Cybersecurity researchers have disclosed details of a&nbsp;remote Spectre attack&nbsp;against Cloudflare Workers that leaked a JSON Web Token (JWT) from a co-located Worker in the production environment at up to 12 bits …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-19",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html"
+    },
     {
       "titre": "We reviewed the new Pixel lineup, ask us anything",
       "resume": "The embargo has lifted on Google's Pixel 11 series, as well as for its Pixel Watch 5. Now we get to talk smack - just kidding, the new hardware is good. We have four reviews live on the site that you can peruse at your l…",
