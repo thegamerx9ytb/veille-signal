@@ -1,6 +1,69 @@
 {
-  "lastUpdate": "2026-08-21T08:05:16.616425+00:00",
+  "lastUpdate": "2026-08-21T11:57:49.127130+00:00",
   "items": [
+    {
+      "titre": "My big, fat, technophobic cat",
+      "resume": "My cat Pablo is a voluptuous boy. His primordial pouch, originally thought to protect cats' squishy insides, hangs low and wobbles to and fro. Once, when he was five or six, a vet sternly sat my spouse and me down, grave…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-21",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/981738/my-big-fat-technophobic-cat"
+    },
+    {
+      "titre": "Patreon is changing its algorithm to help smaller creators get discovered",
+      "resume": "Patreon has announced a number of new and overhauled features that are designed to \"build a better network - and a better internet,\" according to CEO Jack Conte. The Patreon roadmap includes discovery algorithm updates, …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-21",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/983156/patreon-update-roadmap-algorithm-changes"
+    },
+    {
+      "titre": "My cats hate each other, but this automatic feeder is helping",
+      "resume": "Over the course of nearly a decade, my husband and I have dutifully carried out a four-times-daily ritual of feeding a pair of lovely cat siblings who hate each other. This was mostly manageable for years, but in 2024, d…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-21",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/982897/automatic-feeder-cat-enemies"
+    },
+    {
+      "titre": "SickKids data breach exposes employee and job applicant info",
+      "resume": "Toronto's Hospital for Sick Children (SickKids) says a cybersecurity incident exposed the personal information of some current and former employees and job applicants, stemming from a flaw in third-party software. Clinic…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-08-21",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/"
+    },
+    {
+      "titre": "Hackers abuse FTP server banners to deliver new Windows malware",
+      "resume": "Threat actors are abusing FTP banners to hide commands that deliver two previously undocumented remote access trojans named E4del and PINHOLE. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-21",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/"
+    },
+    {
+      "titre": "Microsoft warns of max severity Entra ID flaw exploited in attacks",
+      "resume": "Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-21",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/"
+    },
+    {
+      "titre": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
+      "resume": "Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review. Four of the security vulnerabilities affect Crossw…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-21",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html"
+    },
     {
       "titre": "Genki’s new customizable controller has a big screen and adjustable buttons",
       "resume": "After collaborating with 8BitDo on a gamepad two years ago, Genki launched the first controller the company designed from the ground up today. With an unorthodox design that positions its thumbsticks and buttons above a …",
