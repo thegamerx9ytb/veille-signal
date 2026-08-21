@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2026-08-20T18:00:07.925989+00:00",
+  "lastUpdate": "2026-08-21T08:05:16.616425+00:00",
   "items": [
+    {
+      "titre": "Genki’s new customizable controller has a big screen and adjustable buttons",
+      "resume": "After collaborating with 8BitDo on a gamepad two years ago, Genki launched the first controller the company designed from the ground up today. With an unorthodox design that positions its thumbsticks and buttons above a …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-21",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/981536/genki-manta-wireless-customizable-controller-tmr-screen"
+    },
+    {
+      "titre": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
+      "resume": "Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-21",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/"
+    },
+    {
+      "titre": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+      "resume": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-21",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/"
+    },
+    {
+      "titre": "Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution",
+      "resume": "Microsoft on Thursday warned of a maximum-severity security flaw in Entra ID that it said has been exploited in the wild, but noted that no customer action is required. The vulnerability, tracked as CVE-2026-69836 (CVSS …",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-08-21",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html"
+    },
+    {
+      "titre": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
+      "resume": "A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-19478 (CVSS score: 9.4), a case of code inj…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-21",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html"
+    },
+    {
+      "titre": "The Genesis GV90 blows the bloody doors off what’s possible in EV design",
+      "resume": "Genesis, Hyundai's luxury brand, just revealed its first full-size, three-row electric SUV for the US market, the GV90. And arguably it has some of the wildest designs and features in the auto market today. Right off the…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-20",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/982910/genesis-gv90-ev-suv-coach-door-heated-floor"
+    },
+    {
+      "titre": "Riot is ending development on its League of Legends fighting game",
+      "resume": "Riot Games is already winding down work on 2XKO, the free-to-play League of Legends fighting game, less than a year after its initial launch. Riot says \"active development\" will conclude at the end of 2026 because the co…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-20",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/982986/riot-games-league-of-legends-fighting-game-2xko-end-development"
+    },
+    {
+      "titre": "Google Discover is getting an AI chatbot-tuned feed",
+      "resume": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"rememb…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-20",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed"
+    },
+    {
+      "titre": "Learn what VCs actually want, from a founder who’s raised $1B",
+      "resume": "Investors want founders who understand the financial reality of their business. Messy data, misunderstood metrics, or waiting until you’re nearly out of cash to start fundraising can cost founders leverage, valuation, an…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-20",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/"
+    },
+    {
+      "titre": "OK, can we actually cool data centers with our pee?",
+      "resume": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-20",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/"
+    },
+    {
+      "titre": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+      "resume": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-20",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/"
+    },
+    {
+      "titre": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "resume": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-20",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/"
+    },
+    {
+      "titre": "Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts",
+      "resume": "Three distinct suspected Russian cyber espionage threat clusters have been observed leveraging legitimate authentication flows to single out individuals working in academia, aerospace and defense, governments, and think …",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-20",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html"
+    },
+    {
+      "titre": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
+      "resume": "The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted dependency whose build script downloaded…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-20",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html"
+    },
     {
       "titre": "It’s Greg Brockman’s OpenAI now",
       "resume": "OpenAI has had a hell of a year. The company spent months battling former co-founder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny afte…",
