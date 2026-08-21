@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2026-08-21T11:57:49.127130+00:00",
+  "lastUpdate": "2026-08-21T18:01:13.690183+00:00",
   "items": [
+    {
+      "titre": "Pixel 11 gets in on the digicam trend",
+      "resume": "I recently looked back at a photo I'd taken on a smartphone in 2014, and I was struck by just how good it looked. The details were soft, the shadows were dark. It was the kind of photo I felt like I hadn't seen out of a …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-21",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/podcast/983288/pixel-11-gets-in-on-the-digicam-trend"
+    },
+    {
+      "titre": "Microsoft and Discord subpoenaed over GTA VI gameplay leaks",
+      "resume": "Following several apparent video leaks of Grand Theft Auto VI, Take-Two Interactive has subpoenaed Microsoft and Discord over content that \"infringes copyrights\" held for the game, Kotaku reports. In the subpoenas, filed…",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-08-21",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/983323/grand-theft-auto-vi-gta-leaks-microsoft-discord-subpoenaed"
+    },
+    {
+      "titre": "Walmart is finally adding Apple Pay and Google Pay",
+      "resume": "Walmart will soon allow you to pay for your items with Google Pay or Apple Pay. In an announcement on Friday, Walmart says it's going to bring tap-to-pay capabilities to \"select\" Walmart and Sam's Club locations starting…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-21",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/983336/walmart-apple-google-pay-launch"
+    },
+    {
+      "titre": "$100 Best Buy gift cards will be $60 at stores Saturday",
+      "resume": "The best gift card deal we’ve spotted this year is happening Saturday, August 22nd, at Best Buy stores for one day only. In celebration of the retailer’s 60th anniversary, you can purchase a $100 Best Buy gift card for $…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-21",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/982513/best-buy-gift-card-in-store-deal"
+    },
+    {
+      "titre": "Oura faces lawsuit accusing it of misleading consumers about sleep-tracking accuracy",
+      "resume": "The lawsuit alleges that Oura rings are unable to measure any of the physiological signals needed to assess sleep quality or determine sleep stages.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-21",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/21/oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-sleep-tracking-accuracy/"
+    },
+    {
+      "titre": "US government lab is probing Chinese lidar for security vulnerabilities",
+      "resume": "The security review is being performed by the Idaho National Laboratory, and the research is being funded by a company -- or a group of companies -- in the electric and autonomous vehicle industries.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-21",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/21/us-government-lab-is-probing-chinese-lidar-for-security-vulnerabilities/"
+    },
+    {
+      "titre": "Why is the DOJ investigating Andreessen Horowitz’s board seats?",
+      "resume": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-21",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/video/why-is-the-doj-investigating-andreessen-horowitzs-board-seats/"
+    },
+    {
+      "titre": "Waymo hands over documents in NHTSA’s child collision probe",
+      "resume": "The responses to NHTSA's questions so far are redacted entirely, citing \"confidential business information.\"",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-21",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/21/waymo-hands-over-documents-in-nhtsas-child-collision-probe/"
+    },
+    {
+      "titre": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "resume": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-21",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/"
+    },
+    {
+      "titre": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "resume": "There's about to be a big fight to secure access to space.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-21",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/"
+    },
+    {
+      "titre": "Microsoft rolls out Classic Outlook theme for New Outlook users",
+      "resume": "Microsoft has started rolling out a Classic Outlook theme for users of Outlook on the web and the New Outlook for Windows. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-21",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users/"
+    },
+    {
+      "titre": "Is Online Privacy Possible? How Digital Identities Can Help",
+      "resume": "Using the same email, phone number, payment method, and other identifiers makes it easier for data brokers and attackers to profile your activity. Anonyome Labs explains how separate digital personas can reduce correlati…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-21",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/"
+    },
+    {
+      "titre": "Microsoft blames Windows gaming issues on RGB lighting devices",
+      "resume": "Microsoft says ongoing issues causing games to crash or fail to launch after installing the August 2026 Windows updates may be caused by peripherals with RGB lighting. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-21",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/"
+    },
+    {
+      "titre": "Hundreds of leaked AWS keys give full control over corporate accounts",
+      "resume": "More than 9,300 Amazon Web Services (AWS) access keys publicly exposed between August 2022 and August 2026 are still active and valid. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-21",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/"
+    },
+    {
+      "titre": "Wazuh and AI For Enhanced SOC Workflows",
+      "resume": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover …",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-21",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html"
+    },
+    {
+      "titre": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
+      "resume": "Cybersecurity researchers have flagged a new malware family that's specifically designed to infect Android-based vehicle head unit firmware developed by DoFun. Kaspersky, which discovered the threat in June 2026, said th…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-21",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html"
+    },
+    {
+      "titre": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
+      "resume": "Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations on Windows systems ranging…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-21",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html"
+    },
     {
       "titre": "My big, fat, technophobic cat",
       "resume": "My cat Pablo is a voluptuous boy. His primordial pouch, originally thought to protect cats' squishy insides, hangs low and wobbles to and fro. Once, when he was five or six, a vet sternly sat my spouse and me down, grave…",
