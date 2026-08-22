@@ -1,6 +1,105 @@
 {
-  "lastUpdate": "2026-08-21T18:01:13.690183+00:00",
+  "lastUpdate": "2026-08-22T07:45:54.439661+00:00",
   "items": [
+    {
+      "titre": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
+      "resume": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 million).",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-22",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/"
+    },
+    {
+      "titre": "Michael Polansky is training an AI model on skin that’s still alive",
+      "resume": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive for weeks outside t…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-22",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/"
+    },
+    {
+      "titre": "Apple is laying off staffers working on the Vision Pro and Siri",
+      "resume": "Apple is laying off staff on the Siri and the Vision Pro teams, according to Bloomberg. The cuts include \"largely shutting down\" a Vision Pro gaming team and \"reducing the size\" of the team that makes Vision Pro immersiv…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-21",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri"
+    },
+    {
+      "titre": "Over 1 million people have clicked LinkedIn’s AI slop button",
+      "resume": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a mil…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-21",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message"
+    },
+    {
+      "titre": "TikTok will pay $400 million to settle DOJ child privacy lawsuit",
+      "resume": "The US Department of Justice announced on Friday that TikTok will pay $400 million to settle a lawsuit filed in 2024 over allegedly violating the Children's Online Privacy Protection Act (COPPA). In the lawsuit, the DOJ …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-21",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa"
+    },
+    {
+      "titre": "HoverAir’s transforming modular drone has already been halted in the US",
+      "resume": "I am so sorry, fellow US gadget fans: the FCC's drone ban appears to have struck again. The HoverAir Versa - a baby steadycam with snap-on propeller wings that transform it into a drone - has already stopped taking US or…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-21",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo"
+    },
+    {
+      "titre": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "resume": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-21",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/"
+    },
+    {
+      "titre": "Nvidia partners with data center developer Cloverleaf",
+      "resume": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-21",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/"
+    },
+    {
+      "titre": "Anthropic’s Opus 4.6 is a smut-machine",
+      "resume": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-21",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/"
+    },
+    {
+      "titre": "New SynkLoader malware pushed in Microsoft Teams phishing campaign",
+      "resume": "A previously unknown malware family dubbed SynkLoader is being distributed in Microsoft Teams phishing campaigns to steal credentials via a fake lock screen. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-21",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/"
+    },
+    {
+      "titre": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
+      "resume": "Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial intelligence (AI)-powered Linux i…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-21",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html"
+    },
     {
       "titre": "Pixel 11 gets in on the digicam trend",
       "resume": "I recently looked back at a photo I'd taken on a smartphone in 2014, and I was struck by just how good it looked. The details were soft, the shadows were dark. It was the kind of photo I felt like I hadn't seen out of a …",
