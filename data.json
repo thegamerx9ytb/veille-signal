@@ -1,6 +1,105 @@
 {
-  "lastUpdate": "2026-08-22T11:43:23.332831+00:00",
+  "lastUpdate": "2026-08-22T17:44:09.773797+00:00",
   "items": [
+    {
+      "titre": "An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it",
+      "resume": "Laptop prices are out of whack. $500 used to get you a tolerable laptop, and $900 got you a really good one. They often had similar CPU, RAM, and storage options because that stuff was comparatively cheap; the difference…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-22",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review"
+    },
+    {
+      "titre": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
+      "resume": "Citing \"significant increases in memory and storage component costs,\" Amazon has raised prices on Echos, Kindles, Fire TVs, and Eeros by up to 60 percent, as first reported by Fortune. The cheapest products in Amazon's l…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-22",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv"
+    },
+    {
+      "titre": "W. Kamau Bell has the most practical ‘most indispensable tool’",
+      "resume": "W. Kamau Bell is one of those people who has always just seemed to be there. From Totally Biased, to Politically Re-Active, United Shades of America, and We Need to Talk About Cosby, his blend of comedy, social commentar…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-22",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview"
+    },
+    {
+      "titre": "Doodle generative compositions in your browser with Musical Spirograph",
+      "resume": "I remember having a Spirograph as a kid and being obsessed with it. Its geometric patterns are hypnotic and gorgeous. I also love generative music composition. So bringing those two things together in a browser tab, I'm …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-22",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition"
+    },
+    {
+      "titre": "Pixel 11 Pro XL review: Snappier cameras can’t hide an iterative upgrade",
+      "resume": "Google’s Pixel 11 Pro XL brings snappier cameras and genuinely useful AI features like Rambler, but its iterative upgrades may not be enough to tempt recent Pixel owners.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-22",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/"
+    },
+    {
+      "titre": "US battery startups have found a lifeline in defense",
+      "resume": "U.S. battery startups pulled in $500 million in grants from the Department of Energy, throwing a lifeline to an industry that was on the ropes after EV incentives were slashed.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-22",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/"
+    },
+    {
+      "titre": "Frontier AI labs still won’t say how they’d contain a rogue model",
+      "resume": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-22",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/"
+    },
+    {
+      "titre": "OpenAI says California should strengthen its AI safety bill",
+      "resume": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-22",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/"
+    },
+    {
+      "titre": "Named Pipes Under Attack: Securing Windows Interprocess Communication",
+      "resume": "Windows named pipes provide fast interprocess communication, but weak access controls can expose privileged services to untrusted processes. ThreatLocker explains how endpoint verification, command authorization, strict …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-22",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/"
+    },
+    {
+      "titre": "Hackers infect Android car head units with proxy botnet malware",
+      "resume": "A supply-chain attack targeting Android-based car head units is using a legitimate device-update app to spread malware that enlists compromised devices in a proxy botnet or uses them for ad fraud. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-22",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/"
+    },
+    {
+      "titre": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
+      "resume": "The U.S. Department of Justice (DoJ) announced on Friday that ByteDance-owned TikTok will pay $400 million to settle a 2024 lawsuit accusing the company of violating child privacy laws in the country. As part of the sett…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-22",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html"
+    },
     {
       "titre": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
       "resume": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 million).",
