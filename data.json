@@ -1,6 +1,42 @@
 {
-  "lastUpdate": "2026-08-22T17:44:09.773797+00:00",
+  "lastUpdate": "2026-08-23T07:48:11.040062+00:00",
   "items": [
+    {
+      "titre": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
+      "resume": "Flipkart's quick-commerce venture is delivering 1.1 million to 1.2 million orders a day, nearly triple its November volume.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-23",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/"
+    },
+    {
+      "titre": "Will the DOJ’s investigation into a16z spook other VCs?",
+      "resume": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-22",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/"
+    },
+    {
+      "titre": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "resume": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-22",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/"
+    },
+    {
+      "titre": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "resume": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-22",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/"
+    },
     {
       "titre": "An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it",
       "resume": "Laptop prices are out of whack. $500 used to get you a tolerable laptop, and $900 got you a really good one. They often had similar CPU, RAM, and storage options because that stuff was comparatively cheap; the difference…",
