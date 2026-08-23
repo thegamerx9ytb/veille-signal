@@ -1,6 +1,60 @@
 {
-  "lastUpdate": "2026-08-23T11:44:00.386477+00:00",
+  "lastUpdate": "2026-08-23T17:42:14.668885+00:00",
   "items": [
+    {
+      "titre": "Grand Theft Auto VI exists in its own universe",
+      "resume": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on GTA VI and the state of the video game industry, follow Andrew Webster. The Stepback arrives in our subscribers…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-23",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe"
+    },
+    {
+      "titre": "We’re All Going to the World’s Fair is an intimate coming-of-age horror film",
+      "resume": "Jane Schoenbrun's latest film, Teenage Sex and Death at Camp Miasma, is making a splash in theaters right now. So it seems like the perfect time to revisit their first film, We're All Going to the World's Fair. I fell in…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-23",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review"
+    },
+    {
+      "titre": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
+      "resume": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-23",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/"
+    },
+    {
+      "titre": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "resume": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-23",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/"
+    },
+    {
+      "titre": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+      "resume": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-23",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/"
+    },
+    {
+      "titre": "ToxicPanda Android malware uses VPN permissions to block Google Play",
+      "resume": "The ToxicPanda Android malware has evolved with new malicious functionality, expanding its targeting to 349 applications and adding support for 167 remote commands. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-23",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/"
+    },
     {
       "titre": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
       "resume": "Flipkart's quick-commerce venture is delivering 1.1 million to 1.2 million orders a day, nearly triple its November volume.",
