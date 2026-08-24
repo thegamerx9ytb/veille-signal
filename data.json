@@ -1,6 +1,150 @@
 {
-  "lastUpdate": "2026-08-24T11:58:46.012316+00:00",
+  "lastUpdate": "2026-08-24T18:02:51.846658+00:00",
   "items": [
+    {
+      "titre": "ESPN streaming plans are getting more expensive",
+      "resume": "ESPN is hiking the price of its subscription on September 17th, a change that will also impact its bundles with Disney Plus. In a support page spotted earlier by Sports Media Watch, ESPN says its ad-supported Select memb…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-24",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/streaming/983794/espn-disney-plus-bundles-price-increase"
+    },
+    {
+      "titre": "The Witcher 4 developers target a 2028 release",
+      "resume": "CD Projekt Red is aiming to launch The Witcher 4 sometime in 2028, joint CEO Micha&#322; Nowakowski says in a new video. CD Projekt Red has been working on its next mainline Witcher title for years and has shown videos o…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-24",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/983822/the-witcher-4-release-window-gamescom"
+    },
+    {
+      "titre": "Robotaxis are real now — so is the pushback",
+      "resume": "Robotaxis are expanding. So is the fight over the rules governing them. In New York, Gov. Kathy Hochul withdrew a proposal earlier this year that would have opened the door to driverless robotaxis outside New York City a…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-24",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa"
+    },
+    {
+      "titre": "Zillow and Redfin settle FTC antitrust case over their rental listings partnership",
+      "resume": "The FTC and Zillow have announced a settlement that ends the case alleging that a 2025 \"partnership\" between Zillow and Redfin violated antitrust laws. The FTC had alleged Zillow agreed to pay Redfin to syndicate its lis…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-24",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement"
+    },
+    {
+      "titre": "Brake problems in GM EVs draw greater federal scrutiny",
+      "resume": "In one crash, the driver of a 2024 Blazer EV said they had to \"deliberately steer the vehicle into a concrete curb\" to slow it down and avoid a \"catastrophic intersection collision.\"",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-24",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/24/brake-problems-in-gm-evs-draw-greater-federal-scrutiny/"
+    },
+    {
+      "titre": "Hugging Face reportedly in talks to be acquired for $13B",
+      "resume": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-24",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/"
+    },
+    {
+      "titre": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "resume": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-24",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/"
+    },
+    {
+      "titre": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "resume": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-24",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/"
+    },
+    {
+      "titre": "South Korean startup platform breach exposes key management failures",
+      "resume": "A breach at South Korea's government-backed startup platform exposed encrypted personal data after an encryption key was included in an API. Penta Security explains why encryption keys must be securely managed and kept s…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-24",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/south-korean-startup-platform-breach-exposes-key-management-failures/"
+    },
+    {
+      "titre": "Microsoft Teams now lets admins block external bots from meetings",
+      "resume": "Microsoft is rolling out a new Teams meeting protection policy that allows administrators to automatically block all identified external bots from joining Teams meetings. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-24",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/"
+    },
+    {
+      "titre": "ReliaQuest confirms failed data-theft attack after ShinyHunters breach",
+      "resume": "Cybersecurity company ReliaQuest has confirmed that one of its employees was targeted in a social engineering attack after hackers impersonated a member of the security team. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-24",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/"
+    },
+    {
+      "titre": "TikTok reaches $400M settlement with US over COPPA violations",
+      "resume": "The U.S. Department of Justice announced a $400 million settlement with TikTok, ByteDance, and affiliated companies over allegations that they violated the Children's Online Privacy Protection Act (COPPA). [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-24",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/legal/tiktok-reaches-400m-settlement-with-us-over-coppa-violations/"
+    },
+    {
+      "titre": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
+      "resume": "Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server that could allow an unauthenticated remote attacker to take over any use…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-24",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html"
+    },
+    {
+      "titre": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
+      "resume": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what comes after. AI can also introduce ope…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-24",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html"
+    },
+    {
+      "titre": "WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords",
+      "resume": "Cybersecurity researchers have flagged two new malware families called WordlistLoader and SynkLoader that's used to deliver next-stage payloads and likely sell access to ransomware groups. According to findings from Gen …",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-08-24",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html"
+    },
+    {
+      "titre": "⚡ Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More",
+      "resume": "A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet. That’s roughly the mood this week. Trusted tools turn hostile, old weak spots get fresh attention, AI makes e…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-24",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html"
+    },
     {
       "titre": "Humanoid robots smash Usain Bolt&#8217;s 100-meter record",
       "resume": "The 9.58-second 100-meter dash record set by Usain Bolt in 2009 has been outpaced by Chinese robots participating at the World Humanoid Robot Games in Beijing. In a preliminary heat on Saturday, Tiangong Ultra, made by t…",
