@@ -1,6 +1,51 @@
 {
-  "lastUpdate": "2026-08-24T08:28:01.309979+00:00",
+  "lastUpdate": "2026-08-24T11:58:46.012316+00:00",
   "items": [
+    {
+      "titre": "Humanoid robots smash Usain Bolt&#8217;s 100-meter record",
+      "resume": "The 9.58-second 100-meter dash record set by Usain Bolt in 2009 has been outpaced by Chinese robots participating at the World Humanoid Robot Games in Beijing. In a preliminary heat on Saturday, Tiangong Ultra, made by t…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-24",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026"
+    },
+    {
+      "titre": "De-Googled GrapheneOS is coming to Motorola’s foldables next year",
+      "resume": "GrapheneOS, an open source version of Android that prioritizes security and privacy, has detailed its plans for supporting Motorola smartphones. Official support is set to arrive next year, starting with traditional flag…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-24",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/983714/grapheneos-motorola-razr-fold-ultra-support-pixel-11"
+    },
+    {
+      "titre": "Microsoft shares temporary fix for Windows 11 gaming issues",
+      "resume": "Microsoft has shared a temporary fix for ongoing gaming issues caused by Windows 11 updates released during the August 2026 Patch Tuesday. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-24",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/"
+    },
+    {
+      "titre": "CISA orders urgent patching of actively exploited Zimbra flaw",
+      "resume": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies to patch an actively exploited vulnerability in Zimbra Collaboration Suite (ZCS) within three days. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-08-24",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/"
+    },
+    {
+      "titre": "UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit",
+      "resume": "Cybersecurity researchers have disclosed details of a Chinese-speaking cybercrime group dubbed UAT-10147 that's targeting Windows and Linux web servers globally across the education, media, technology, and gaming sectors…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-24",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html"
+    },
     {
       "titre": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
       "resume": "It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress. GTA VI has faced multiple delays, with developer Rockstar Games bumping back its predicted release dat…",
