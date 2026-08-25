@@ -1,6 +1,51 @@
 {
-  "lastUpdate": "2026-08-25T08:10:27.878844+00:00",
+  "lastUpdate": "2026-08-25T11:59:57.469466+00:00",
   "items": [
+    {
+      "titre": "Android is getting its own weird dots to cure car sickness",
+      "resume": "Google is rolling out a new Android feature that's been proven to reduce, or even eliminate, motion sickness when using a phone inside a moving vehicle. Dubbed Motion Assist by Google, it's very similar to Apple's Motion…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-25",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/984226/google-motion-assist-anti-nausea-car-sickness-cure"
+    },
+    {
+      "titre": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+      "resume": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last mont…",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-08-25",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack"
+    },
+    {
+      "titre": "Greenworks’ MaximusZ electric riding mower has five motors and a few compromises",
+      "resume": "The current EV market is flush with variety. I've driven single-motor economy-minded machines, dual-motor EVs with all-wheel drive, tri-motor vehicles that dial up the performance stakes, and even wild quad-motor perform…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-25",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/983980/greenworks-maximusz-electric-riding-mower-review-specs-price"
+    },
+    {
+      "titre": "Police arrests dozens of suspects in global cybercrime crackdown",
+      "resume": "Law enforcement agencies from 22 countries helped identify 263 suspects and arrested 58 individuals linked to cybercrime networks coordinated by African crime groups. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-25",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/"
+    },
+    {
+      "titre": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access",
+      "resume": "Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it possible for an attacker to sign in as any WordPress user, in…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-25",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html"
+    },
     {
       "titre": "India’s Airbound bags $37M to take on trucks with rocket-like drones",
       "resume": "Airbound's ultra-lightweight approach to drone delivery has attracted backing from Greenoaks, DoorDash, and Silicon Valley investor Lachy Groom.",
