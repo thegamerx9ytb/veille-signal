@@ -1,6 +1,114 @@
 {
-  "lastUpdate": "2026-08-24T18:02:51.846658+00:00",
+  "lastUpdate": "2026-08-25T08:10:27.878844+00:00",
   "items": [
+    {
+      "titre": "India’s Airbound bags $37M to take on trucks with rocket-like drones",
+      "resume": "Airbound's ultra-lightweight approach to drone delivery has attracted backing from Greenoaks, DoorDash, and Silicon Valley investor Lachy Groom.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-25",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/"
+    },
+    {
+      "titre": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+      "resume": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-25",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/"
+    },
+    {
+      "titre": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
+      "resume": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a maximum-severity security flaw impacting Oracle HTTP Server and Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV) catal…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-08-25",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html"
+    },
+    {
+      "titre": "The cat-and-mouse game over 3D-printed guns has begun",
+      "resume": "The creator of the world's first 3D-printed gun claims he's developed a way to thwart government-mandated software meant to block 3D printers from making firearms. It's an opening volley in what's shaping up to be an evo…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-24",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul"
+    },
+    {
+      "titre": "Lenovo confirms Legion Go issues after gamers report bricked devices",
+      "resume": "When a company's software update turns your computer into a useless brick, should fixes be free? Framework, the modular computer startup, apparently thinks so. But it's not clear that computing giant Lenovo will go that …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-24",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked"
+    },
+    {
+      "titre": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
+      "resume": "We all knew it was coming. The expected valuation may surprise, though.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-24",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/"
+    },
+    {
+      "titre": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+      "resume": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-24",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/"
+    },
+    {
+      "titre": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+      "resume": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-24",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "titre": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+      "resume": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-24",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/"
+    },
+    {
+      "titre": "Hackers target WordPress sites in miniOrange auth bypass attacks",
+      "resume": "Hackers are attempting to exploit two critical authentication bypass vulnerabilities in the miniOrange SAML 2.0 Single Sign On plugin for WordPress that can be used to forge SAML responses and log in as administrators. […",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-24",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/"
+    },
+    {
+      "titre": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
+      "resume": "An unpatched vulnerability in Calix GS7 XGS (GS5239XG) residential routers used by multiple U.S. broadband providers allows remote, unauthenticated attackers to create port-forwarding rules that can expose local network …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-24",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/"
+    },
+    {
+      "titre": "Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning",
+      "resume": "Cybersecurity researchers have found that several websites are still actively distributing a malware family known as Weedhack to gamers by masquerading as Minecraft clients. McAfee Labs said it detected and blocked more …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-24",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html"
+    },
     {
       "titre": "ESPN streaming plans are getting more expensive",
       "resume": "ESPN is hiking the price of its subscription on September 17th, a change that will also impact its bundles with Disney Plus. In a support page spotted earlier by Sports Media Watch, ESPN says its ad-supported Select memb…",
