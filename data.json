@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2026-08-25T11:59:57.469466+00:00",
+  "lastUpdate": "2026-08-25T18:02:00.622979+00:00",
   "items": [
+    {
+      "titre": "Nothing OS 5.0 brings a new Glyph Interface app and a more customizable homescreen",
+      "resume": "With the new design of Nothing OS 5.0, app icons and widgets can use adaptive color to get color tints pulled from your wallpaper, which update whenever your wallpaper changes. Alongside Android's built-in Dynamic Colors…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-25",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/984430/nothing-os-5-launch-android-17"
+    },
+    {
+      "titre": "Instagram’s ‘First Draft’ trims your Reels clips for you",
+      "resume": "Instagram is launching a new Reels-editing feature that automatically trims your video clips to focus on the highlights. The feature, called First Draft, is rolling out to Instagram's iPhone app and provides a \"starting …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-25",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/984463/instagram-first-draft-edit-reels"
+    },
+    {
+      "titre": "Gamescom Opening Night Live 2026: The biggest announcements and trailers",
+      "resume": "It’s time for another Geoff Keighley-hosted blast of gaming news. Gamescom’s two-hour Opening Night Live event is scheduled to kick off on Tuesday at 2PM ET, with a preshow starting 30 minutes before. Thanks to teases on…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-25",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/983891/gamescom-opening-night-live-2026-geoff-keighley"
+    },
+    {
+      "titre": "Bose’s smallest Bluetooth speaker is a great deal at 35 percent off",
+      "resume": "Bose may be best known for its QuietComfort headphones, but the brand’s Bluetooth speakers have earned a great reputation for featuring great sound and build quality. The compact Bose SoundLink Micro — its most compact B…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-25",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/984414/bose-soundlink-micro-seagate-game-drive-deal-sale"
+    },
+    {
+      "titre": "Life360 expands pet tracking with new $8 scannable tags and zoomie alerts",
+      "resume": "Life360’s new $7.99 scannable pet tags alert families when a lost pet is found and share its last known location, while new care-tracking features help households keep tabs on feeding, walks, medication, and more.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-25",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/25/life360-expands-pet-tracking-with-new-8-scannable-tags-and-zoomie-alerts/"
+    },
+    {
+      "titre": "Waymo robotaxis are headed to Munich",
+      "resume": "Germany's autonomous vehicle regulations have made it a hotspot for autonomous vehicle testing and eventual commercial robotaxi deployment.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-25",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/25/waymo-robotaxis-are-headed-to-munich/"
+    },
+    {
+      "titre": "Tonight marks your last chance to save up to $300 on a TechCrunch Disrupt 2026 pass",
+      "resume": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-25",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/25/tonight-marks-your-last-chance-to-save-up-to-300-on-a-techcrunch-disrupt-2026-pass/"
+    },
+    {
+      "titre": "Accel-backed Keenable is indexing the web for AI agents",
+      "resume": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-25",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/"
+    },
+    {
+      "titre": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+      "resume": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-25",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/"
+    },
+    {
+      "titre": "Gamma acquires Accel-backed design startup Lica",
+      "resume": "Lica co-founders are going to work on Gamma's new research team.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-25",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/"
+    },
+    {
+      "titre": "Claude Cowork finally remembers what you told the app in chat",
+      "resume": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-25",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/"
+    },
+    {
+      "titre": "Microsoft PowerToys adds Alt+Tab-style switching for an app's windows",
+      "resume": "Microsoft updated its Windows PowerToys toolset with a new utility dubbed \"Window Hopper\" that lets users switch between an app's windows more quickly. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-25",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-alt-plustab-style-switching-for-an-apps-windows/"
+    },
+    {
+      "titre": "From Fake Workers to Account Recovery: The Growing Identity Verification Risk",
+      "resume": "Attackers are increasingly targeting the processes used to establish or recover identity rather than attacking the login itself. Specops explains how stronger identity verification can help organizations prevent fake wor…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-25",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/"
+    },
+    {
+      "titre": "Hospital operator Nutex Health says data stolen in cyberattack",
+      "resume": "Healthcare and services provider Nutex is investigating a data breach incident where an unauthorized third party exfiltrated information from company servers. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-08-25",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/"
+    },
+    {
+      "titre": "Massive DDoS attack disrupts Norway’s government digital services",
+      "resume": "A large distributed denial-of-service (DDoS) attack has disrupted Norway's shared government digital infrastructure since Monday, affecting services used by the public sector. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-25",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/"
+    },
+    {
+      "titre": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
+      "resume": "Thousands of companies have been affected by the Mirage2FA campaign from 2024 to 2026. The commercial phishing-as-a-service toolkit targets Microsoft 365 accounts by abusing legitimate login flows and bypassing two-facto…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-25",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html"
+    },
+    {
+      "titre": "Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode",
+      "resume": "Marimo has addressed a high-severity security flaw in its notebook software that allowed an attacker to execute an attacker-supplied Model Context Protocol (MCP) command in a specially crafted notebook, according to Vuln…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-25",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html"
+    },
+    {
+      "titre": "WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android",
+      "resume": "Meta on Tuesday announced a set of WhatsApp account security features, including support for multiple passkeys to a single account to help users with both iOS and Android devices sign into their accounts using the phishi…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-25",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html"
+    },
+    {
+      "titre": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
+      "resume": "Oasis Security has disclosed a weakness in NVIDIA NemoClaw that could let an attacker-controlled webpage take unauthenticated control of the local Ollama instance serving an AI agent and plant hidden instructions inside …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-25",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html"
+    },
     {
       "titre": "Android is getting its own weird dots to cure car sickness",
       "resume": "Google is rolling out a new Android feature that's been proven to reduce, or even eliminate, motion sickness when using a phone inside a moving vehicle. Dubbed Motion Assist by Google, it's very similar to Apple's Motion…",
