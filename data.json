@@ -1,6 +1,96 @@
 {
-  "lastUpdate": "2026-08-26T08:10:17.979352+00:00",
+  "lastUpdate": "2026-08-26T12:00:58.349680+00:00",
   "items": [
+    {
+      "titre": "Ikea’s Xbox collection includes a giant thumbstick stool",
+      "resume": "Ikea has teamed up with Microsoft to launch a new assortment of gaming-inspired furniture and home accessories, coinciding with the 25th anniversary of the first Xbox console. The nine-piece Yxstaby collection (good luck…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-26",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/984869/ikea-xbox-yxstaby-collection-thumbstick-stool"
+    },
+    {
+      "titre": "Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
+      "resume": "Bill Gates has been reflecting a lot on AI lately, and the process has triggered a stark awakening. Once a staunch AI optimist, the Microsoft cofounder is now deeply pessimistic about what AI means for our collective fut…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-26",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet"
+    },
+    {
+      "titre": "The second-generation Bose QuietComfort Headphones are good, but don’t stand out",
+      "resume": "Bose QuietComfort headphones used to be innovative. Bose's noise-canceling research is the reason the technology is where it is today, and its headphones set the standard. They were the ubiquitous traveler's accessory. B…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-26",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/984764/bose-quietcomfort-headphones-gen-2-review"
+    },
+    {
+      "titre": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
+      "resume": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-26",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/"
+    },
+    {
+      "titre": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+      "resume": "Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-26",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/"
+    },
+    {
+      "titre": "Hackers now exploit critical Gitea flaw in code injection attacks",
+      "resume": "Attackers are now exploiting a critical-severity vulnerability in the Gitea self-hosted Git service, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-26",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-gitea-flaw-in-code-injection-attacks/"
+    },
+    {
+      "titre": "INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown",
+      "resume": "An eight-month INTERPOL operation targeting West African organized crime groups has led to arrests of 58 people and the identification of 263 suspects. \"The operation, which brought together 22 countries from six contine…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-26",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html"
+    },
+    {
+      "titre": "OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation",
+      "resume": "OpenAI on Tuesday said it banned a cluster of Russian ChatGPT accounts that used VPNs to bypass access restrictions and run an influence operation, which relied on its artificial intelligence (AI) tool to generate social…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-26",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html"
+    },
+    {
+      "titre": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
+      "resume": "Aikido Security has published research that recreates the Australian gym-booking incident in a synthetic environment, finding that Claude Opus 4.6, running on the OpenClaw agent harness, exploited a client-side-only book…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-26",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html"
+    },
+    {
+      "titre": "Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine",
+      "resume": "The SOC we've always known was built around a model that guarantees most of the alert queue will never receive analyst review. There's never time. In a traditional SOC, the typical progression follows a well-known patter…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-26",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html"
+    },
     {
       "titre": "Ventures Platform goes bigger — and broader — with its second Africa fund",
       "resume": "The Pan-African venture firm has raised $83 million and plans to invest in startups beyond its home market of Nigeria.",
