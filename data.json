@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2026-08-25T18:02:00.622979+00:00",
+  "lastUpdate": "2026-08-26T08:10:17.979352+00:00",
   "items": [
+    {
+      "titre": "Ventures Platform goes bigger — and broader — with its second Africa fund",
+      "resume": "The Pan-African venture firm has raised $83 million and plans to invest in startups beyond its home market of Nigeria.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-26",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/26/ventures-platform-goes-bigger-and-broader-with-its-second-africa-fund/"
+    },
+    {
+      "titre": "OpenAI loses a top data center exec as stream of high-profile departures continues",
+      "resume": "In a statement to TechCrunch about Malone's departure, OpenAI said it had \"recently reorganized\" its \"infrastructure organization to support the scale and pace of our work.\"",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-26",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/"
+    },
+    {
+      "titre": "Robotics startup Generalist reaches $3B valuation, sources say",
+      "resume": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-26",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/"
+    },
+    {
+      "titre": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+      "resume": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-26",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/"
+    },
+    {
+      "titre": "Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes",
+      "resume": "Cybersecurity researchers have disclosed details of a phishing-as-a-service (PhaaS) platform built to strip Apple's Activation Lock from stolen devices, using rented AI voice agents that call theft victims posing as Appl…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-26",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html"
+    },
+    {
+      "titre": "Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload",
+      "resume": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation efforts targeting a recently patched critical security flaw impacting Gitea. The vulnerability in question is CVE-…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-08-26",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html"
+    },
+    {
+      "titre": "The Witcher 3 is getting a remaster",
+      "resume": "CD Projekt Red is remastering The Witcher 3: Wild Hunt, the hit RPG that first launched in 2015, and the updated game will be available starting September 29th. The Witcher 3: Wild Hunt - Remastered will bring improvemen…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-25",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer"
+    },
+    {
+      "titre": "At just $8, you owe it to yourself to grab Inscryption",
+      "resume": "If you watched the Gamescom 2026 announcements, you might have caught a trailer for the bizarre, frenetic Pony Island 2: Panda Circus, a game from Daniel Mullins. In case you haven’t heard of him, get a crash course with…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-25",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale"
+    },
+    {
+      "titre": "Trump is upping the price of Big Tech’s favorite visa",
+      "resume": "In the span of a few hours on Monday, the Department of Homeland Security announced that it would be implementing a fee of over $103,000 on H-1B visas, and news broke that the State Department plans on revoking the visas…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-25",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/policy/984723/trump-h1b-fee-asylum-legal-immigration"
+    },
+    {
+      "titre": "Garmin’s new Fenix 9 adds brighter screens and smoother map panning",
+      "resume": "Garmin just took the wraps off its new line of rugged Fenix 9 smartwatches, with the base model featuring an OLED display with a brightness of up to 3,000 nits, making it twice as bright as its predecessor. Starting at $…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-25",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch"
+    },
+    {
+      "titre": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+      "resume": "The company's new fundraising total now stands at $232 million.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-25",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/"
+    },
+    {
+      "titre": "AnonyMousKIT PhaaS uses voice AI agents to phish iPhone passcodes",
+      "resume": "A newly uncovered phishing-as-a-service (PhaaS) platform called AnonyMousKIT automates the retrieval of codes used to unlock stolen Apple devices and disable the Activation Lock feature. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-25",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/"
+    },
+    {
+      "titre": "Hackers abuse npm mirrors to host phishing redirect pages",
+      "resume": "Threat actors are abusing npm and its mirrors to host malicious HTML pages that impersonate Cloudflare CAPTCHAs to redirect visitors to attacker-controlled websites. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-25",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages/"
+    },
+    {
+      "titre": "LACMA data breach last year exposed social security and medical data",
+      "resume": "The Los Angeles County Museum of Art (LACMA) has announced that a breach last year exposed customer and employee information. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-08-25",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/"
+    },
+    {
+      "titre": "U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches",
+      "resume": "The U.S. Department of the Treasury has announced fresh sanctions on Iranian cyber actors as part of what it called an \"unprecedented, whole-of-government, economic campaign\" against the nation and its enablers. \"We are …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-25",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html"
+    },
     {
       "titre": "Nothing OS 5.0 brings a new Glyph Interface app and a more customizable homescreen",
       "resume": "With the new design of Nothing OS 5.0, app icons and widgets can use adaptive color to get color tints pulled from your wallpaper, which update whenever your wallpaper changes. Alongside Android's built-in Dynamic Colors…",
