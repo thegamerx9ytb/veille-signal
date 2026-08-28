@@ -1,6 +1,213 @@
 {
-  "lastUpdate": "2026-08-26T12:00:58.349680+00:00",
+  "lastUpdate": "2026-08-28T01:30:46.533054+00:00",
   "items": [
+    {
+      "titre": "The GTA VI ‘extended look’ is now streaming on YouTube",
+      "resume": "Rockstar has officially published its \"extended look\" at Grand Theft Auto VI on YouTube and on its website, as promised. The in-depth preview, which \"entirely\" features footage captured from the PS5 version of the game, …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-28",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/985910/grand-theft-auto-gta-vi-extended-look-youtube-netflix-stream"
+    },
+    {
+      "titre": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
+      "resume": "It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress. GTA VI has faced multiple delays, with developer Rockstar Games bumping back its predicted release dat…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-27",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games"
+    },
+    {
+      "titre": "Meta addresses ‘pervert glasses’ reputation with a privacy fix and a new marketing campaign",
+      "resume": "Meta is updating its AI-powered smart glasses to close a loophole that allowed wearers to keep recording after covering the front-facing LED. Alex Himel, Meta's vice president of augmented reality, writes in a post on Th…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-27",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/985851/meta-privacy-loophole-fix-marketing-campaign"
+    },
+    {
+      "titre": "The biggest video game of all time looks like a movie",
+      "resume": "I think I know why Rockstar Games debuted its \"extended look\" of Grand Theft Auto VI on Netflix instead of immediately dropping it for free on YouTube. Unlike most video game trailers, the almost 27-minute preview of GTA…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-27",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/985891/grand-theft-auto-vi-gta-6-netflix-youtube-extended-look-game-movie"
+    },
+    {
+      "titre": "Buried in Meta’s $18B settlement is a legal pass on kids’ data",
+      "resume": "Meta’s settlement with 29 states allows it to retain certain data from children under 13 to train and test age-detection models, highlighting a privacy trade-off built into the deal.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-27",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/"
+    },
+    {
+      "titre": "Bluesky adds an ‘algorithmic opt-out’ feature for those who don’t want to go viral",
+      "resume": "Sometimes people just want to post to their followers, Bluesky says.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-27",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/27/bluesky-adds-an-algorithmic-opt-out-feature-for-those-who-dont-want-to-go-viral/"
+    },
+    {
+      "titre": "Rivian’s CFO is leaving the company",
+      "resume": "Claire McDonough is stepping down on October 30 to pursue a new opportunity, the company said in a filing on Thursday.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-27",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/27/rivians-cfo-is-leaving-the-company/"
+    },
+    {
+      "titre": "When agents act on their own, governance has to live in the data layer",
+      "resume": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: W…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-27",
+      "source": "AI | VentureBeat",
+      "lien": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer"
+    },
+    {
+      "titre": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+      "resume": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.That’s because enterprises don&#x27;t deploy a single agent and watch it run, they deploy…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-27",
+      "source": "AI | VentureBeat",
+      "lien": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them"
+    },
+    {
+      "titre": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+      "resume": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking proc…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-27",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/"
+    },
+    {
+      "titre": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+      "resume": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-27",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/"
+    },
+    {
+      "titre": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+      "resume": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-27",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/"
+    },
+    {
+      "titre": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+      "resume": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-27",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "titre": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
+      "resume": "Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-27",
+      "source": "Krebs on Security",
+      "lien": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/"
+    },
+    {
+      "titre": "How Threat Research and MDR Help SMBs Build a Defensive Edge",
+      "resume": "Threat research gives security teams insight into how attackers operate, while MDR turns that intelligence into faster detection and response. ESET explains how combining threat intelligence, continuous monitoring, and h…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-27",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/how-threat-research-and-mdr-help-smbs-build-a-defensive-edge/"
+    },
+    {
+      "titre": "Manchester Airports Group says hackers stole travelers' data",
+      "resume": "The Manchester Airports Group (MAG) disclosed that hackers breached its systems and stole customer data, including Wi-Fi sign-ups from Manchester, Stansted, and East Midlands airports. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-27",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/manchester-airports-group-says-hackers-stole-travelers-data/"
+    },
+    {
+      "titre": "PaperCut warns of NG, MF flaw exploited in zero-day attacks",
+      "resume": "PaperCut is warning that hackers are actively exploiting a vulnerability in all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-08-27",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/"
+    },
+    {
+      "titre": "Nearly 700 rogue AI agents coordinated in the Hugging Face attack",
+      "resume": "New details about the July attack on Hugging Face reveal that hundreds of AI agents driven by OpenAI's internal IM1 model coordinated the compromise through an unauthorized message board. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-27",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/"
+    },
+    {
+      "titre": "Amazon Kiro Prompt Injection Can Exfiltrate Sensitive Data Through Kiro Powers",
+      "resume": "Cybersecurity researchers have disclosed details of a vulnerability in Amazon Kiro, an artificial intelligence (AI)-powered, agentic integrated development environment (IDE), that could facilitate data exfiltration via p…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-27",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html"
+    },
+    {
+      "titre": "ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories",
+      "resume": "A fake login page. A fake security scan. A fake productivity app. Apparently, pretending to be useful is still one of the easier ways into a machine. The rest of the week gets stranger: botnets borrowing AI, command traf…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-27",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html"
+    },
+    {
+      "titre": "Next.js Patches Critical AVIF and Windows Flaws Enabling Unauthenticated RCE",
+      "resume": "Credit:&nbsp;Hacktron Vercel has released security patches for two critical-severity vulnerabilities in the Next.js web framework, both of which allow unauthenticated remote code execution, one exploitable via specially …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-27",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html"
+    },
+    {
+      "titre": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
+      "resume": "OpenAI on Wednesday revealed that reward hacking was a key driver behind the artificial intelligence (AI)-powered hack of Hugging Face last month, adding that it found evidence of misaligned behavior as early as late May…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-08-27",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html"
+    },
+    {
+      "titre": "Orchestration is the new challenge for CX in the age of AI agents",
+      "resume": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has i…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-26",
+      "source": "AI | VentureBeat",
+      "lien": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents"
+    },
     {
       "titre": "Ikea’s Xbox collection includes a giant thumbstick stool",
       "resume": "Ikea has teamed up with Microsoft to launch a new assortment of gaming-inspired furniture and home accessories, coinciding with the 25th anniversary of the first Xbox console. The nine-piece Yxstaby collection (good luck…",
