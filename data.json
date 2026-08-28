@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2026-08-28T01:30:46.533054+00:00",
+  "lastUpdate": "2026-08-28T21:28:48.124830+00:00",
   "items": [
+    {
+      "titre": "The iPhone Fold could make concerts even worse",
+      "resume": "You know the person blocking your view of the concert because their phone is swaying in the air, recording the entire thing? Get ready for the unfolded version of it. This week on The Vergecast, we dive right into the bi…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-28",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/podcast/986145/m6-mac-mini-meta-settlement-gta-6-vergecast"
+    },
+    {
+      "titre": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
+      "resume": "Modders are trying out an unofficial version of Nvidia's DLSS 5 on Skyrim, Cyberpunk 2077, GTA V, and a bunch of other games after code for the AI upscaling tech appeared in an early-access build of NBA 2K27. Members of …",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-08-28",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai"
+    },
+    {
+      "titre": "Trump’s EPA wants to let data centers hide their air pollution",
+      "resume": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create. The EPA p…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-28",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit"
+    },
+    {
+      "titre": "Save hundreds on a TCL mini-LED TV with quantum dots and high refresh rate",
+      "resume": "Amazon and Best Buy have the TCL QM7L mini-LED TV on sale for as low as $797.99 for the 55-inch model, a $200 discount from the usual price. We spotted scaling discounts on larger sizes as well, although Amazon already l…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-28",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/985741/tcl-qm7l-belkin-thunderbolt-dock-deal-sale"
+    },
+    {
+      "titre": "Brave’s browser one-ups Chrome with its new support for email aliases",
+      "resume": "The feature, announced this week, allows Brave's users to sign up for websites and other online services without having to share their personal email addresses.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-28",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/"
+    },
+    {
+      "titre": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+      "resume": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-28",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/"
+    },
+    {
+      "titre": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+      "resume": "There's a lot of capital pouring into the business of giving models away.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-28",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/"
+    },
+    {
+      "titre": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "resume": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-28",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/"
+    },
+    {
+      "titre": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "resume": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-28",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/"
+    },
+    {
+      "titre": "AI Is Accelerating Vulnerability Discovery. Can Defenders Keep Up?",
+      "resume": "AI is accelerating vulnerability discovery, putting pressure on systems built to enrich, prioritize, and remediate flaws at a slower pace. Action1 explains why defenders increasingly need to correlate multiple intelligen…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-28",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up/"
+    },
+    {
+      "titre": "68-year-old imprisoned after making $1.3 million by pirating IPTV services",
+      "resume": "A 68-year-old has been sentenced in the U.K. to more than six years in prison for operating an illegal IPTV (Internet Protocol Television) service that generated £980,812 ($1.3 million) over three years. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-28",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/68-year-old-imprisoned-after-making-13-million-by-pirating-iptv-services/"
+    },
+    {
+      "titre": "GiveWP WordPress donation plugin flaw lets hackers execute server commands",
+      "resume": "A maximum-severity vulnerability in the GiveWP plugin for WordPress allows an unauthenticated attacker to execute arbitrary commands on the hosting server. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-28",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/"
+    },
+    {
+      "titre": "PaperCut releases second emergency patch for exploited flaws",
+      "resume": "PaperCut has released a second emergency security update for two actively exploited vulnerabilities in its PaperCut NG and MF print management software after researchers discovered multiple ways to bypass the initial fix…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-08-28",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/"
+    },
+    {
+      "titre": "ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body",
+      "resume": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical security flaw impacting ownCloud to its Known Exploited Vulnerabilities (KEV) catalog following reports that a Chinese-speakin…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-28",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html"
+    },
+    {
+      "titre": "Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers",
+      "resume": "Google on Thursday announced new network security protections in Android 17 to bolster connection privacy, address cellular vulnerabilities, and safeguard the privacy of users' home networks. Topping the list is support …",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-28",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html"
+    },
+    {
+      "titre": "Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication",
+      "resume": "Malicious actors are exploiting a newly patched security flaw in PaperCut NG and MF to execute arbitrary code on susceptible instances, as the company released a fresh emergency fix with additional hardening. \"This vulne…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-28",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html"
+    },
+    {
+      "titre": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable",
+      "resume": "Cosmos Labs has warned that a critical balance-handling flaw in the shared Cosmos EVM module was exploited to drain funds from six blockchains between August 20 and August 25, 2026. The vulnerability, designated GHSA-7g4…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-28",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html"
+    },
     {
       "titre": "The GTA VI ‘extended look’ is now streaming on YouTube",
       "resume": "Rockstar has officially published its \"extended look\" at Grand Theft Auto VI on YouTube and on its website, as promised. The in-depth preview, which \"entirely\" features footage captured from the PS5 version of the game, …",
