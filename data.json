@@ -1,6 +1,78 @@
 {
-  "lastUpdate": "2026-08-29T11:04:35.185944+00:00",
+  "lastUpdate": "2026-08-29T17:04:24.431761+00:00",
   "items": [
+    {
+      "titre": "Musicians-turned-detectives are hunting for AI grifters",
+      "resume": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of h…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-29",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai"
+    },
+    {
+      "titre": "The Galaxy Z Flip 8 is at its best when there’s friction",
+      "resume": "What do you want from a flip phone when it's closed? A simple interface, perhaps notifications and a widget or two, for handling the basics? Or a fully fledged Android experience shrunk down for the Flip form factor? For…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-29",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review"
+    },
+    {
+      "titre": "Welcome to Night Vale cocreator Joseph Fink learned storytelling from Grim Fandango",
+      "resume": "Joseph Fink is the cocreator and cowriter of Welcome to Night Vale, arguably the most important fiction podcast ever. He's also the creator of the noir podcast Unlicensed and Alice Isn't Dead, which takes some of the con…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-29",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/983448/welcome-to-night-vale-cocreator-joseph-fink-learned-storytelling-from-grim-fandango"
+    },
+    {
+      "titre": "Distraction-free writing gadget BYOK is adding custom extensions",
+      "resume": "BYOK is a no-frills, single-purpose gadget that 90 percent of people will find absolutely frivolous. But for those who spend a significant chunk of their lives putting words to virtual paper, there is an obvious allure. …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-29",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/986427/distraction-free-writing-gadget-byok-scripts-extensions"
+    },
+    {
+      "titre": "The Theragun Sense makes everyday recovery surprisingly easy",
+      "resume": "As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pains. I’ve always been somewhat skeptical…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-29",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/"
+    },
+    {
+      "titre": "Hollywood celebs are getting into microdrama apps",
+      "resume": "Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a rising format: microdramas.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-29",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/"
+    },
+    {
+      "titre": "Nvidia’s AI advantage is moving beyond the GPU",
+      "resume": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-29",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/"
+    },
+    {
+      "titre": "Brave browser adds email aliases to help users evade tracking",
+      "resume": "The latest version of the Brave browser, 1.94, introduces a feature called 'Email Aliases' that allows users to generate disposable email addresses when signing up to a new service. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-29",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/"
+    },
     {
       "titre": "Xbox CEO calls Project Helix a ‘family of devices’",
       "resume": "According to Xbox CEO Asha Sharma, Project Helix, which she announced in March as a codename for Microsoft's \"next generation console\" - phrasing that seemingly implied a singular device - will actually be a \"family\" of …",
