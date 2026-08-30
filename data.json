@@ -1,6 +1,96 @@
 {
-  "lastUpdate": "2026-08-30T11:05:01.345152+00:00",
+  "lastUpdate": "2026-08-30T17:03:43.528118+00:00",
   "items": [
+    {
+      "titre": "China’s robots race ahead",
+      "resume": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on falling robots and the US-China AI race, follow Robert Hart. The Stepback arrives in our subscribers' inboxes o…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-30",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race"
+    },
+    {
+      "titre": "Chess.com launched a poker site and is planning even more classic games",
+      "resume": "Chess.com has done one thing, and one thing very well, for almost 20 years, but now it's going beyond its domain name. The biggest name in online chess quietly launched its first companion site in beta back in May: Gambi…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-30",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/986302/chess-poker-expansion-gambit"
+    },
+    {
+      "titre": "Texas Governor Abbott blocks funding for more Flock cameras",
+      "resume": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state s…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-30",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras"
+    },
+    {
+      "titre": "The Nancy Grace Roman Space Telescope launches to study dark matter and dark energy",
+      "resume": "After funding struggles and a name change, the Nancy Grace Roman Space Telescope has been successfully launched. It will now make a three-month, one-million-mile journey to its orbit at the second Sun-Earth Lagrange poin…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-30",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch"
+    },
+    {
+      "titre": "TechCrunch Mobility: The hidden human cost of robotaxis",
+      "resume": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-30",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/"
+    },
+    {
+      "titre": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "resume": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-30",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/"
+    },
+    {
+      "titre": "Musk’s faster path to more gas turbines comes with pollution problem",
+      "resume": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and h…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-30",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/"
+    },
+    {
+      "titre": "Chrome Web Store extensions caught stealing crypto, browser data",
+      "resume": "Multiple extensions for Google Chrome and Microsoft Edge delivered a malware framework that deployed modules to steal cryptocurrency, sensitive data, and browser history, as well as inject ClickFix lures. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-30",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/"
+    },
+    {
+      "titre": "Anthropic warns infostealer malware is hijacking Claude sessions to drain usage",
+      "resume": "Anthropic is warning some Claude users that infostealer malware on their PCs has stolen active Claude login sessions, allowing attackers to access accounts and consume their usage. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-30",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/"
+    },
+    {
+      "titre": "FulcrumSec claims Manchester Airports hack, theft of 86 GB of data",
+      "resume": "FulcrumSec claims it stole 86 GB of data from Manchester Airports Group. BleepingComputer validated one traveller's record, while samples revealed detailed customer, booking, and travel information beyond what MAG initia…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-30",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/"
+    },
     {
       "titre": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
       "resume": "Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Terminal or PowerShell. \"While traditional ClickFix campaigns direct vic…",
