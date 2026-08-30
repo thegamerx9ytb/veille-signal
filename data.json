@@ -1,6 +1,15 @@
 {
-  "lastUpdate": "2026-08-30T06:06:34.330452+00:00",
+  "lastUpdate": "2026-08-30T11:05:01.345152+00:00",
   "items": [
+    {
+      "titre": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
+      "resume": "Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Terminal or PowerShell. \"While traditional ClickFix campaigns direct vic…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-30",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html"
+    },
     {
       "titre": "Sony Music and Warner Chappell are suing Anthropic",
       "resume": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up…",
