@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2026-08-31T11:04:30.313973+00:00",
+  "lastUpdate": "2026-08-31T17:03:59.912823+00:00",
   "items": [
+    {
+      "titre": "Debian won&#8217;t ban AI code from its Linux distribution",
+      "resume": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documentation.\" The new policy on AI acknowledges that \"responsible\" use of AI can impr…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-31",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy"
+    },
+    {
+      "titre": "Read Tim Cook&#8217;s final message to Apple staff as CEO",
+      "resume": "Steve Jobs' successor carried the torch of the iPhone and built Apple into a global powerhouse with few rivals. Since becoming CEO in 2011, Tim Cook has led the company to become one of the most dominant forces in the da…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-31",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/986832/read-tim-cooks-final-message-as-ceo-to-apple-staff"
+    },
+    {
+      "titre": "Markiplier is now GoPro’s biggest shareholder",
+      "resume": "YouTuber Mark \"Markiplier\" Fischbach has invested enough in GoPro to become its single largest shareholder, with an 8.5 percent stake in the company, Bloomberg reports. Speaking to Bloomberg, Fischbach said he thought Go…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-31",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/986847/markiplier-gopro-investor"
+    },
+    {
+      "titre": "Phil Schiller is leaving his biggest jobs at Apple",
+      "resume": "Longtime Apple executive Phil Schiller is stepping down from his role as the head of the App Store and Apple events, according to a report from Bloomberg. Following the change, Schiller will keep his Apple Fellow title a…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-31",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/986869/apple-phil-schiller-stepping-down"
+    },
+    {
+      "titre": "How AI could make it harder for governments to use hacking tools",
+      "resume": "AI is proving effective at finding and exploiting vulnerabilities. Some say this will make it harder for governments to use hacking tools and spyware and could reignite calls to backdoor devices.",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-08-31",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/31/how-ai-could-make-it-harder-for-governments-to-use-hacking-tools/"
+    },
+    {
+      "titre": "VLC crosses 7 billion downloads",
+      "resume": "In our world of expensive streaming platforms, the very free and offline VLC media player has crossed 7 billion downloads.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-31",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/31/vlc-crosses-7-billion-downloads/"
+    },
+    {
+      "titre": "Tim Cook’s parting message: Apple is in the hands of a product builder",
+      "resume": "Tim Cook’s farewell memo to Apple employees offers a glimpse at how he wants John Ternus to be seen: as a product builder with deep experience across the iPhone, Mac, AirPods and other major hardware lines",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-31",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/31/tim-cooks-parting-message-apple-is-in-the-hands-of-a-product-builder/"
+    },
+    {
+      "titre": "The US is building barriers around drones and robots, but China has scale to get around them",
+      "resume": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-31",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/"
+    },
+    {
+      "titre": "Meeting note-taker Circleback adds a free tier to attract more customers",
+      "resume": "Circleback is also introducing new pricing plans starting from $14 per month.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-31",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/"
+    },
+    {
+      "titre": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+      "resume": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-31",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/"
+    },
+    {
+      "titre": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+      "resume": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-31",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/"
+    },
+    {
+      "titre": "File servers are here to stay. Here’s how to manage them securely",
+      "resume": "File servers remain a critical part of many IT environments, but managing access securely can become complex as permissions accumulate. tenfold Software outlines five best practices for simplifying file server administra…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-31",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/file-servers-are-here-to-stay-heres-how-to-manage-them-securely/"
+    },
+    {
+      "titre": "Chinese Fire Ant hackers turn Cisco routers into spying platforms",
+      "resume": "The researchers discovered Fire Ant's new tactic after finding an active GRE (Generic Routing Encapsulation) tunnel interface on a Cisco IOS XR router that could not be explained by a running configuration or commit hist…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-31",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/chinese-fire-ant-hackers-turn-cisco-routers-into-spying-platforms/"
+    },
+    {
+      "titre": "OpenAI confirms ChatGPT outage as users report errors",
+      "resume": "ChatGPT Work is experiencing a partial outage, and users across multiple subscription plans may be unable to start or continue tasks. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-31",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-outage-as-users-report-errors/"
+    },
+    {
+      "titre": "Microsoft Exchange Online outage causes email failures, auth issues",
+      "resume": "Microsoft is investigating a widespread service issue causing authentication issues and email delays and failures for Exchange Online customers. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-31",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/"
+    },
+    {
+      "titre": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance",
+      "resume": "Claude Code reads files, runs shell commands, invokes MCP tools, and acts through the credentials available on a developer’s machine. Anthropic’s new Compliance API endpoints give security teams their clearest view yet i…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-31",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html"
+    },
+    {
+      "titre": "Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets",
+      "resume": "Threat actors associated with Aurora (aka Aur0ra) ransomware have been observed using SpaceX's artificial intelligence (AI)-powered coding assistant Cursor to break into target networks, according to findings from CloudS…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-08-31",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html"
+    },
+    {
+      "titre": "ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions",
+      "resume": "The threat actor known as Silver Fox has been observed distributing the ValleyRAT backdoor disguised as a signed Chinese adware application, running the malware under a trusted process to slip past users who add such sof…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-31",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html"
+    },
+    {
+      "titre": "⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
+      "resume": "The boring parts caused most of the trouble. A router shipped ready to listen. A fake check turned the user into the installer. Trusted systems collected traffic and passwords, then cleaned the logs. Old bugs formed new …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-31",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html"
+    },
     {
       "titre": "Microsoft asks users to ignore 'Antivirus is turned off' errors",
       "resume": "Microsoft asked customers this week to ignore alerts that Defender Antivirus has been turned off after installing the latest Defender updates. [...]",
