@@ -1,6 +1,51 @@
 {
-  "lastUpdate": "2026-08-30T17:03:43.528118+00:00",
+  "lastUpdate": "2026-08-31T06:07:39.633362+00:00",
   "items": [
+    {
+      "titre": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
+      "resume": "George Arison is done letting Wall Street's \"Grindr discount\" go unchallenged — in a wide-ranging Q&#038;A, the CEO walks us through how AI, a controversial $350-plus EDGE tier, and a bet on healthcare and long-distance …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-31",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/"
+    },
+    {
+      "titre": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+      "resume": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-08-31",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/"
+    },
+    {
+      "titre": "Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets",
+      "resume": "Over 12 terabytes of data, containing builds of every game uploaded to Steam between 2003 and 2013, has been leaked. We don't know everything in the archives yet because of its massive size. But people have already dug u…",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-08-30",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3"
+    },
+    {
+      "titre": "Professor Murder Rides the Subway is a forgotten slice of dance punk perfection",
+      "resume": "I recently dug out my CDs and started reripping them all. I've found a few forgotten gems in there, but few hit harder for me than the beautifully concise Professor Murder Rides the Subway EP. There was a period of time …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-30",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/986564/professor-murder-rides-the-subway-dance-punk-perfection-review"
+    },
+    {
+      "titre": "Liux’s Big microcar bets on sustainability to take on Chinese rivals",
+      "resume": "The Liux Big microcar is made in Spain. The startup thinks it can compete in a crowded market with its tiny electric car built around sustainability.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-08-30",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/"
+    },
     {
       "titre": "China’s robots race ahead",
       "resume": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on falling robots and the US-China AI race, follow Robert Hart. The Stepback arrives in our subscribers' inboxes o…",
