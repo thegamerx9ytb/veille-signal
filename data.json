@@ -1,6 +1,51 @@
 {
-  "lastUpdate": "2026-08-31T06:07:39.633362+00:00",
+  "lastUpdate": "2026-08-31T11:04:30.313973+00:00",
   "items": [
+    {
+      "titre": "Microsoft asks users to ignore 'Antivirus is turned off' errors",
+      "resume": "Microsoft asked customers this week to ignore alerts that Defender Antivirus has been turned off after installing the latest Defender updates. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-31",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-antivirus-is-turned-off-errors/"
+    },
+    {
+      "titre": "Nigerians extradited to US for sextortion, deaths of two teens",
+      "resume": "Two Nigerian men extradited to the U.S. on Thursday have been charged with involvement in sextortion schemes that resulted in the deaths of two minor victims in Mississippi and North Carolina. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-31",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/nigerians-charged-US-over-sextortion-deaths-of-us-teens/"
+    },
+    {
+      "titre": "Microsoft says Windows 11 KB5120998 update resets mouse settings",
+      "resume": "Microsoft has confirmed that mouse settings are being reverted on Windows 11 systems after installing the KB5120998 August 2026 non-security preview update. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-31",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/microsoft-says-windows-11-kb5120998-update-resets-mouse-settings/"
+    },
+    {
+      "titre": "DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims",
+      "resume": "The U.S. Department of Justice (DoJ) on Friday corrected a previously issued press statement that several of its agencies were victims of attacks carried out by Chinese threat actors, instead now pointing out that they w…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-08-31",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html"
+    },
+    {
+      "titre": "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs",
+      "resume": "A China-nexus cyber espionage actor tracked as Fire Ant has expanded a long-running campaign beyond VMware hypervisors to compromise Cisco IOS XR routers, Terminal Access Controller Access-Control System (TACACS) servers…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-08-31",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html"
+    },
     {
       "titre": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
       "resume": "George Arison is done letting Wall Street's \"Grindr discount\" go unchallenged — in a wide-ranging Q&#038;A, the CEO walks us through how AI, a controversial $350-plus EDGE tier, and a bet on healthcare and long-distance …",
