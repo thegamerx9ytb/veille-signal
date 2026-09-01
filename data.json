@@ -1,6 +1,168 @@
 {
-  "lastUpdate": "2026-09-01T11:07:58.278449+00:00",
+  "lastUpdate": "2026-09-01T17:07:09.759105+00:00",
   "items": [
+    {
+      "titre": "Shelly’s new $50 security camera watches your home without a subscription",
+      "resume": "After launching a budget-friendly flood sensor last month with impressive battery life, Shelly announced a new $49.99 security camera today that can be used without any additional subscription fees - although that's stil…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-01",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/987436/shelly-smart-home-hd-security-camera-automation"
+    },
+    {
+      "titre": "Google Pics is like Canva, but with even more AI",
+      "resume": "Google has a new suite of creative design tools for Workspace users called Google Pics, which aims to make editing and generating \"professional-grade\" AI images less cumbersome for businesses. Built around Gemini and the…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-01",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator"
+    },
+    {
+      "titre": "Sony’s new party speakers have more bass, more LEDs, and more connectivity",
+      "resume": "Sony announced three new tower-style party speakers that will now be the largest options in its ULT Power Sound lineup. The new ULT Tower Max, ULT Tower 7, and ULT Tower 5 all feature expanded connectivity including USB-…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-01",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/986839/sony-ult-power-sound-speaker-tower-max-5-7-xlr-leds"
+    },
+    {
+      "titre": "John Deere launched an AI chatbot for farmers",
+      "resume": "John Deere is testing a new \"JD\" AI assistant that it says can help farmers make more money, with answers about best practices and historical trends that are based on their own data. It uses their \"field, machine and ope…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-01",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot"
+    },
+    {
+      "titre": "GoPro to be acquired for $285M, will remain a public company",
+      "resume": "GoPro is merging with a company that builds AI infrastructure, and will continue supporting existing consumer products.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-01",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/"
+    },
+    {
+      "titre": "Waymo goes on offense ahead of Tesla’s Cybercab launch",
+      "resume": "Waymo argued that fully autonomous vehicles aren't possible without using a mix of sensors and warned that pure end-to-end AI systems aren't safe enough.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-01",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/01/waymo-goes-on-offense-ahead-of-teslas-cybercab-launch/"
+    },
+    {
+      "titre": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+      "resume": "OpenAI said that the integration provides read-only access to health records for clinicians.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-01",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/"
+    },
+    {
+      "titre": "Fambot introduces an ‘AI chief of staff’ for families",
+      "resume": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-01",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/"
+    },
+    {
+      "titre": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+      "resume": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behaviour.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-01",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/"
+    },
+    {
+      "titre": "Amazon Alexa can now alert you when something new might tempt you to shop",
+      "resume": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-01",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/"
+    },
+    {
+      "titre": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+      "resume": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-01",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/"
+    },
+    {
+      "titre": "Nearly 22,000 Microsoft Exchange servers vulnerable to hijack attacks",
+      "resume": "Nearly 22,000 Microsoft Exchange servers exposed online remain unpatched against a high-severity authentication bypass vulnerability that allows attackers to hijack all user mailboxes. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-01",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/nearly-22-000-microsoft-exchange-servers-vulnerable-to-hijack-attacks/"
+    },
+    {
+      "titre": "Why Even the Best Edge Security Still Misses High-Risk Sessions",
+      "resume": "Attackers can hide behind residential proxies, VPNs, and other infrastructure that makes malicious sessions appear legitimate to existing edge security controls. Spur explains how session enrichment adds data points that…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-01",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/why-even-the-best-edge-security-still-misses-high-risk-sessions/"
+    },
+    {
+      "titre": "Novocure data breach affects more than 1,400 cancer patients",
+      "resume": "Healthtech company Novocure says the data of an undisclosed number of employees and more than 1,400 U.S. cancer patients has been exposed in a mid-August cyberattack. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-01",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/novocure-data-breach-affects-more-than-1-400-cancer-patients/"
+    },
+    {
+      "titre": "Hackers push malicious Virtualizor update in BGP hijacking attack",
+      "resume": "Hackers delivered malicious updates to the Virtualizor VPS management software after hijacking BGP routing for its update infrastructure and redirecting update requests to malicious servers. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-01",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/"
+    },
+    {
+      "titre": "Threat Actors Don’t Want Better Attacks. They Want Repeatable Ones",
+      "resume": "The most common way into a company last year was to ask. A web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. Then it talks them th…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-01",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html"
+    },
+    {
+      "titre": "Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests",
+      "resume": "The Iranian Nimbus Manticore hacking group has been attributed to two previously undocumented malware families that highlight the continued evolution of its toolset and likely expand its targeting footprint to infect Lin…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-01",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html"
+    },
+    {
+      "titre": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds",
+      "resume": "Cybersecurity researchers have identified a set of 13 malicious Composer theme packages on Packagist that are designed to inject JavaScript into Vietnamese movie and comic streaming sites that install those libraries and…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-01",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html"
+    },
     {
       "titre": "Dyson made a camera-equipped toothbrush that flosses for you",
       "resume": "Dyson is once again expanding its line of personal care products with a device that focuses on your teeth instead of your hair. As the name implies, the $499 CameraJet is the first electric toothbrush to incorporate a ca…",
