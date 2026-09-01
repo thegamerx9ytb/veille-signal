@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-09-01T06:15:03.059389+00:00",
+  "lastUpdate": "2026-09-01T11:07:58.278449+00:00",
   "items": [
+    {
+      "titre": "Dyson made a camera-equipped toothbrush that flosses for you",
+      "resume": "Dyson is once again expanding its line of personal care products with a device that focuses on your teeth instead of your hair. As the name implies, the $499 CameraJet is the first electric toothbrush to incorporate a ca…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-01",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/986737/dyson-camerajet-smart-toothbrush-live-camera-flosser-pricing-availability"
+    },
+    {
+      "titre": "John Ternus is now the CEO of Apple",
+      "resume": "For the first time since 2011, one of the world's most valuable companies has a new leader, as today marks John Ternus' first day as Apple's CEO. He's replacing Tim Cook, who will continue on as the executive chairman on…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-01",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/987150/apple-ceo-john-ternus"
+    },
+    {
+      "titre": "TP-Link’s first Wi-Fi 8 router is almost here",
+      "resume": "The Wi-Fi 8 standard is far from finalized, but TP-Link is almost ready to release its first hardware targeting the next-gen spec. It unveiled the Archer 8 Ultra tri-band router and Deco 8 Ultra mesh system at IFA 2026, …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-01",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/987277/tplink-wifi-8-archer-8-ultra-availability"
+    },
+    {
+      "titre": "If space data centers feel far-fetched, why not interstellar travel?",
+      "resume": "The team behind Starcloud's orbital data centers has a new high-risk space project: Sending a probe to Alpha Centauri.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-01",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/01/if-space-data-centers-feel-far-fetched-why-not-interstellar-travel/"
+    },
+    {
+      "titre": "Recently patched PaperCut zero-days used in data theft attacks",
+      "resume": "Two security vulnerabilities in the PaperCut NG and MF print management software, patched last week after being exploited as zero-days, are now being abused in data theft attacks. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-01",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/recently-patched-papercut-zero-days-used-in-data-theft-attacks/"
+    },
+    {
+      "titre": "Five Venezuelans plead guilty to ATM jackpotting attacks in US",
+      "resume": "Five Venezuelan nationals pleaded guilty to attempting to empty automated teller machines (ATMs) using malware in a series of ATM jackpotting attacks. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-01",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/five-venezuelans-plead-guilty-to-atm-jackpotting-attacks-in-us/"
+    },
+    {
+      "titre": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
+      "resume": "Threat actors are exploiting two critical flaws impacting Langflow and Ruby on Rails, according to new findings from VulnCheck. The vulnerabilities in question are listed below - CVE-2026-0768 (CVSS score: 9.8) - A lack …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-01",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html"
+    },
+    {
+      "titre": "Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis",
+      "resume": "Cybersecurity researchers have disclosed a new technique dubbed GuardBreaker that's been put to use by a Russia-aligned threat actor known as UAC-0099 against a target in Ukraine with an aim to interfere with artificial …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-01",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html"
+    },
+    {
+      "titre": "Attackers Steal METR API Key and Consume AI Credits Worth About $600,000",
+      "resume": "METR (short for Model Evaluation and Threat Research and pronounced \"Meter\"), a research non-profit that evaluates frontier artificial intelligence (AI) models for their ability to carry out long-horizon, agentic tasks, …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-01",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html"
+    },
     {
       "titre": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
       "resume": "Founded by a 20-year-old, Alteon is developing autonomous aircraft that hopes to harvest wind energy to stay aloft for several months.",
