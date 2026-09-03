@@ -1,6 +1,168 @@
 {
-  "lastUpdate": "2026-09-03T11:08:11.223663+00:00",
+  "lastUpdate": "2026-09-03T17:06:36.696868+00:00",
   "items": [
+    {
+      "titre": "Circular’s new smart rings add contactless payments and vibrating alerts",
+      "resume": "Circular announced its new Ring 3 Series today as a follow-up to the Ring 2 that debuted at CES 2025 with upgraded sensors and FDA-cleared atrial fibrillation detection. The new Ring 3 collection consists of both a Pro m…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-03",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/988517/circular-ring-3-pro-slim-nfc-contactless-payment-vibrating-alerts"
+    },
+    {
+      "titre": "I held the first truly bezel-free phone",
+      "resume": "Cast your mind back a decade or so, and smartphone makers were obsessed with shrinking the bezel on phones. Screens got bigger, the black bars around them got smaller, and for a while it looked like truly edge-to-edge di…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-03",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/985009/tecno-bezelless-concept-phone-ifa"
+    },
+    {
+      "titre": "Microsoft opens up Xbox Cloud Gaming with new pay-as-you-go option",
+      "resume": "Microsoft says it will let anyone access Xbox Cloud Gaming in November, without the need to subscribe to Xbox Game Pass. The change to a pay-as-you-go model is part of some sweeping changes to Xbox Cloud Gaming today, an…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-03",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/news/989211/microsoft-xbox-cloud-gaming-pay-as-you-go-option"
+    },
+    {
+      "titre": "Microsoft slashes Xbox Cloud Gaming to just 15 hours a month for Ultimate subscribers",
+      "resume": "Microsoft is announcing some major changes to Xbox Cloud Gaming today, less than a year after opening up cloud gaming to its Xbox Game Pass Premium and Essential tiers. While all Game Pass plans have included unlimited c…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-03",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/news/989166/microsoft-xbox-cloud-gaming-hourly-limits-changes"
+    },
+    {
+      "titre": "Google launches AI voice features in Gmail, Docs, and Keep",
+      "resume": "Users can search for emails or draft documents using the new conversational feature.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-03",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/"
+    },
+    {
+      "titre": "Circular unveils Ring 3 series with contactless payments and on-finger vibration alerts",
+      "resume": "The Circular Ring 3 series announcement comes amid a year of heightened competition in the smart ring market, following the launches of the Oura Ring 5 and RingConn Gen 3.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-03",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/"
+    },
+    {
+      "titre": "Qualcomm backs Ultrahuman in $70M round on bet to turn smart rings into computers",
+      "resume": "Ultrahuman is targeting a $200 million annual revenue run rate by January 2027 as it builds a new Qualcomm-powered smart ring.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-03",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/"
+    },
+    {
+      "titre": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+      "resume": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-03",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/"
+    },
+    {
+      "titre": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+      "resume": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-03",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/"
+    },
+    {
+      "titre": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+      "resume": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-03",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/"
+    },
+    {
+      "titre": "Critical Elementor Pro flaw exploited to take over WordPress sites",
+      "resume": "A recently patched critical vulnerability (CVE-2026-32475) in the Elementor Pro plugin for WordPress is being exploited in attacks that deliver a webshell payload and execute arbitrary commands on the server. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-03",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/"
+    },
+    {
+      "titre": "Anthropic confirms Claude is down, multiple models affected",
+      "resume": "Claude is experiencing an outage, with users encountering elevated errors when sending requests to multiple Anthropic AI models. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-03",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/"
+    },
+    {
+      "titre": "OpenAI confirms ChatGPT is down ahead of 'Astra' model launch",
+      "resume": "ChatGPT and Codex are experiencing a major outage, with users reporting errors across nearly every major ChatGPT feature. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-03",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/"
+    },
+    {
+      "titre": "Microsoft: KB5120998 mouse reset bug affects only non-English PCs",
+      "resume": "Microsoft says a known issue that reverts mouse settings after installing the KB5120998 August 2026 preview update affects only non-English Windows 11 systems. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-03",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/"
+    },
+    {
+      "titre": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
+      "resume": "An RMM phishing campaign initially associated with Canadian targeting due to its use of Canada Revenue Agency (CRA) tax forms as lures has turned out to be part of a broader campaign spanning 46 countries. Around 45% of …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-03",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html"
+    },
+    {
+      "titre": "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data",
+      "resume": "Thomson Reuters disclosed on Wednesday that an unauthorized party obtained files from C-Track, the court case management platform sold by its West Publishing Corporation unit, in March 2026, affecting courts in 11 U.S. s…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-03",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html"
+    },
+    {
+      "titre": "BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory",
+      "resume": "Cybersecurity researchers have disclosed details of a sophisticated Python-based Windows malware framework called BraZetsu that fuels an underground marketplace commercializing access to compromised hosts. \"Unlike the st…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-03",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html"
+    },
+    {
+      "titre": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root",
+      "resume": "Cisco has released patches to address a critical security flaw affecting 10 Silicon One-based Nexus 9000 switches that could allow an unauthenticated, remote attacker to execute code as root, alongside an IOS XR hardenin…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-03",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html"
+    },
     {
       "titre": "Belkin introduces its first longer-lasting semi-solid-state power banks",
       "resume": "Belkin is joining companies like BMX, Kuxiu, and Zens with the launch of its first power banks featuring semi-solid-state battery technology. The company claims the new accessories have been \"engineered to last up to 3x …",
