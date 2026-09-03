@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-09-03T06:16:31.400746+00:00",
+  "lastUpdate": "2026-09-03T11:08:11.223663+00:00",
   "items": [
+    {
+      "titre": "Belkin introduces its first longer-lasting semi-solid-state power banks",
+      "resume": "Belkin is joining companies like BMX, Kuxiu, and Zens with the launch of its first power banks featuring semi-solid-state battery technology. The company claims the new accessories have been \"engineered to last up to 3x …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-03",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/988248/belkin-ultracharge-pro-boostsolid-cell-power-bank-battery-safer"
+    },
+    {
+      "titre": "Belkin’s first trackers come ready to attach to your gear.",
+      "resume": "After selling accessories for attaching Apple's AirTags to everything from keys to backpacks, Belkin is introducing its own trackers that work with either Apple's Find My or Google's Find Hub tracking networks. In additi…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-03",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/987565/belkin-tracker-apple-find-my-google-find-hub-surefind-wallet-card-spot-tag"
+    },
+    {
+      "titre": "Here’s the first 4K 120Hz UST projector with optical lens shift",
+      "resume": "Detail-preserving optical lens shift is not something you expect to find on an ultra-short throw projector running Google TV, but that's exactly what you'll find inside of Awol Vision's new LuxVision. It also promises to…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-03",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/986005/awol-visions-4k-120hz-ust-projector-is-first-with-optical-lens-shift"
+    },
+    {
+      "titre": "Microsoft discloses Azure revenue as part of major financial reporting changes",
+      "resume": "Microsoft is changing how it reports its finances to investors by splitting its businesses into two segments and disclosing quarterly revenue for its Azure cloud business for the first time. The changes are meant to refl…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-03",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/news/989102/microsoft-earnings-changes-azure-revenue"
+    },
+    {
+      "titre": "Microsoft Teams, Outlook fail to launch on ARM-based Windows PCs",
+      "resume": "Microsoft is working to fix a known issue that causes crashes and launch failures for Microsoft Teams and New Outlook users after installing updates released since the August 2026 Patch Tuesday. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-03",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/"
+    },
+    {
+      "titre": "Plex warns users to patch security vulnerabilities immediately",
+      "resume": "Plex urged users this week to update their desktop clients and media servers immediately to patch multiple security vulnerabilities. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-03",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerabilities-immediately/"
+    },
+    {
+      "titre": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
+      "resume": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added seven security flaws to its Known Exploited Vulnerabilities (KEV) catalog after they landed in attackers' crosshairs. The vulnerabilitie…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-03",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html"
+    },
+    {
+      "titre": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon",
+      "resume": "The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a privilege escalation flaw impacting Crowdstrike Falcon. \"Falc…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-03",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html"
+    },
+    {
+      "titre": "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone",
+      "resume": "The iPhone belonging to a member of Serbia's student protest movement was infected with NSO Group's Pegasus spyware, according to new findings from the Citizen Lab in collaboration with the SHARE Foundation. \"Our analysi…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-03",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html"
+    },
     {
       "titre": "1Password wades into a right-wing mess after funding a Linux project",
       "resume": "1Password faced immediate backlash from customers this week over a $300,000 pledge in support of a Linux distro created by David Heinemeier Hansson, who has regularly published overtly racist blog posts that include comm…",
