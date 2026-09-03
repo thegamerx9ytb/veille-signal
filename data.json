@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2026-09-02T17:06:11.288411+00:00",
+  "lastUpdate": "2026-09-03T06:16:31.400746+00:00",
   "items": [
+    {
+      "titre": "1Password wades into a right-wing mess after funding a Linux project",
+      "resume": "1Password faced immediate backlash from customers this week over a $300,000 pledge in support of a Linux distro created by David Heinemeier Hansson, who has regularly published overtly racist blog posts that include comm…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-02",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/988536/1password-dhh-linux-controversy"
+    },
+    {
+      "titre": "Here are some of REI’s best Labor Day sale deals",
+      "resume": "Summer is winding down, but REI’s Labor Day sale is here to help save you some bucks on gear that’ll let you get the most out of your upcoming outdoor expeditions. There are many, many discounts, from men’s and women’s c…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-02",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/988398/rei-labor-day-sale-deal-2026"
+    },
+    {
+      "titre": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+      "resume": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling to…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-02",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash"
+    },
+    {
+      "titre": "Uber beats Waymo as first to launch robotaxis in London",
+      "resume": "Uber beat out Waymo in launching a commercial robotaxi service in London, the city's first. The vehicles use autonomous driving tech developed by Wayve, a UK-based startup, and will initially feature safety drivers behin…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-02",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch"
+    },
+    {
+      "titre": "Google spared from ad-business breakup, but judge orders changes to how it operates",
+      "resume": "Google has dodged an effort to break up its ad business, but a judge said Wednesday that the company will need to adjust its business to benefit competitors.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-02",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/"
+    },
+    {
+      "titre": "OpenAI’s new reasoning technique alarms AI safety experts",
+      "resume": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-02",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/"
+    },
+    {
+      "titre": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+      "resume": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-02",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/"
+    },
+    {
+      "titre": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+      "resume": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-02",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/"
+    },
+    {
+      "titre": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+      "resume": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-02",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/"
+    },
+    {
+      "titre": "WordPress backup plugin flaw exposes millions of sites to takeover attacks",
+      "resume": "An SQL injection vulnerability in the All-in-One WP Migration and Backup plugin for WordPress could allow unauthenticated attackers to execute remote code and take control of affected websites. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-02",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/"
+    },
+    {
+      "titre": "Hackers exploit Sangoma Switchvox flaw to deploy reverse shells",
+      "resume": "Attackers are actively exploiting CVE-2026-9586, an unauthenticated SQL injection vulnerability in the Sangoma Switchvox VoIP platform that can lead to remote code execution. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-02",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/"
+    },
+    {
+      "titre": "Fake Software Installers Disable Windows Update and Weaken Microsoft Defender",
+      "resume": "An active malware campaign is using bogus software-download websites to impersonate trusted vendors and distribute malicious installers. \"The campaign has targeted users looking to download popular software and has resul…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-02",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/fake-software-installers-disable.html"
+    },
+    {
+      "titre": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs",
+      "resume": "Google on Wednesday announced Gemini 3.8 Flash Cyber, which it described as its most capable cybersecurity model, and has made it available to a set of trusted defenders via a new initiative called the Fairwind Program. …",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-02",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html"
+    },
     {
       "titre": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
       "resume": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully tr…",
