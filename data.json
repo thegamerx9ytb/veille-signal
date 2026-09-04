@@ -1,6 +1,168 @@
 {
-  "lastUpdate": "2026-09-04T11:08:25.856420+00:00",
+  "lastUpdate": "2026-09-04T17:06:32.450420+00:00",
   "items": [
+    {
+      "titre": "What to expect at Apple’s September 9th launch event",
+      "resume": "Apple's September 9th launch event could be one of its biggest in years. It will be Apple's first event since John Ternus took over as CEO on September 1st, stepping in for Tim Cook, and will likely feature the first mod…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-04",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/989692/apple-iphone-launch-event-september-2026-how-to-watch"
+    },
+    {
+      "titre": "Alienware’s refurbished 16 Aurora is almost $200 off at Woot",
+      "resume": "Gaming laptop deals aren’t what they used to be (stares daggers at RAMageddon), which is why I consider Woot’s deal on a refurbished Alienware 16 Aurora gaming laptop with Nvidia’s RTX 5050 a pretty good deal at $927 for…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-04",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/989407/alienware-gaming-laptop-capsule-dishwasher-samsung-oled-deal-sale"
+    },
+    {
+      "titre": "The best tech and gadgets announced at IFA so far",
+      "resume": "The doors to Europe's largest consumer tech show officially opened to the public today following a week of news coming out of IFA 2026 in Berlin, Germany. If you're struggling to keep up with what has been announced, her…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-04",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones"
+    },
+    {
+      "titre": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+      "resume": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright cl…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-04",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit"
+    },
+    {
+      "titre": "Krafton doubles down on India with another $250M bet beyond gaming",
+      "resume": "Krafton's planned investment in India is set to surpass $500 million with its latest commitment.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-04",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/"
+    },
+    {
+      "titre": "CD sales are making an unexpected comeback amid a retro tech boom",
+      "resume": "U.S. CD revenue jumped 58.6% in the first half of 2026, reversing last year’s decline as interest in retro tech and physical media continues to grow.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-04",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom/"
+    },
+    {
+      "titre": "No little kids allowed, and other new info about Tesla’s Cybercab",
+      "resume": "The company says no children under 13 can ride -- even with a parent. That's more restrictive than the Model Y SUVs it's using as robotaxis.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-04",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/"
+    },
+    {
+      "titre": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
+      "resume": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-04",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/"
+    },
+    {
+      "titre": "Google’s Gemini Spark can now manage your Google Photos library",
+      "resume": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-04",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/"
+    },
+    {
+      "titre": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
+      "resume": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a “huge launch next we…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-04",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/"
+    },
+    {
+      "titre": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+      "resume": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-04",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/"
+    },
+    {
+      "titre": "39 New Methods That Compromise Passkey Authentication",
+      "resume": "Passkeys eliminate many password-based attacks, but researchers have documented 39 methods for compromising authentication built around them. Token explains how attackers can abuse authentication prompts, synced credenti…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-04",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/"
+    },
+    {
+      "titre": "Microsoft says some users can’t open the Teams desktop client",
+      "resume": "Microsoft is working to resolve a known issue that causes delays or blocks some users from opening the Microsoft Teams desktop client on Windows systems. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-04",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/"
+    },
+    {
+      "titre": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
+      "resume": "Attackers have begun targeting a critical-severity Citrix NetScaler auth bypass flaw (CVE-2026-19490) in the wild, according to vulnerability intelligence company Previdian. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-04",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/"
+    },
+    {
+      "titre": "IDScan sued over alleged data breach affecting 153 million drivers",
+      "resume": "Multiple lawsuits have been filed against identity verification company IDScan after hackers allegedly breached the service and offered to sell more than 153 million driver's licenses. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-04",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/"
+    },
+    {
+      "titre": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
+      "resume": "A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served altered pages to selected…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-04",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html"
+    },
+    {
+      "titre": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
+      "resume": "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server. The flaw, tracked as CVE-20…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-04",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html"
+    },
+    {
+      "titre": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
+      "resume": "Microsoft is alerting of a \"high-volume phishing campaign\" that's using invisible Unicode tag characters to bypass email filters. \"Instead of using these characters to hide instructions from people while exposing them to…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-04",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html"
+    },
     {
       "titre": "This NAS company wants to run your local smart home",
       "resume": "Ugreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home - in a big way. This week at the IFA tech show, the company launched its HomeAgent smart home platform that comb…",
