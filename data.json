@@ -1,6 +1,78 @@
 {
-  "lastUpdate": "2026-09-04T06:14:55.065013+00:00",
+  "lastUpdate": "2026-09-04T11:08:25.856420+00:00",
   "items": [
+    {
+      "titre": "This NAS company wants to run your local smart home",
+      "resume": "Ugreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home - in a big way. This week at the IFA tech show, the company launched its HomeAgent smart home platform that comb…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-04",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home"
+    },
+    {
+      "titre": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
+      "resume": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting. The company…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-04",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout"
+    },
+    {
+      "titre": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
+      "resume": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this year, Project Zenith…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-04",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers"
+    },
+    {
+      "titre": "Why AI food looks like that",
+      "resume": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI to generate images promoting their food. The resulting horror show includes donut shrimp, Reubens fro…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-04",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that"
+    },
+    {
+      "titre": "GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests",
+      "resume": "OpenAI on Thursday officially unveiled GPT‑6 Astra, which it described as the \"world's most intelligent and aligned model.\" The development comes days after the artificial intelligence (AI) company said the model had rea…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-04",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html"
+    },
+    {
+      "titre": "Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day",
+      "resume": "Google on Thursday released security updates to patch 12 vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, tracked as CVE-2026-85046 (CVSS score: 8.8), h…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-04",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html"
+    },
+    {
+      "titre": "Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws",
+      "resume": "Plex is urging users to update their instances to the latest version following the release of an update that patches multiple security flaws. The fixes are available in Plex Media Server 1.43.3 and Plex Desktop 1.115.0. …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-04",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html"
+    },
+    {
+      "titre": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
+      "resume": "Threat actors are exploiting two critical security flaws in WordPress plugins Super Forms and Elementor Pro, according to findings from Wordfence. The vulnerabilities in question are - CVE-2026-14894 (CVSS score: 9.8) - …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-04",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html"
+    },
     {
       "titre": "The unusually muted Tesla Cybercab launch",
       "resume": "At a private, closed-door event in Austin, Texas today, Tesla officially launched its gilded car of the future: the Cybercab. It's a huge milestone for Elon Musk, who has been hyping the imminent arrival of driverless ca…",
