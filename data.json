@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2026-09-03T17:06:36.696868+00:00",
+  "lastUpdate": "2026-09-04T06:14:55.065013+00:00",
   "items": [
+    {
+      "titre": "The unusually muted Tesla Cybercab launch",
+      "resume": "At a private, closed-door event in Austin, Texas today, Tesla officially launched its gilded car of the future: the Cybercab. It's a huge milestone for Elon Musk, who has been hyping the imminent arrival of driverless ca…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-04",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk"
+    },
+    {
+      "titre": "Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control",
+      "resume": "Officially, Nvidia's controversial DLSS 5 AI rendering was supposed to launch this evening with only a single game, only on Nvidia's latest RTX 50 GPUs, and with developers in full control of their artistic vision. But u…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-04",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40"
+    },
+    {
+      "titre": "Crusoe reportedly raises $3B at a  $30B valuation",
+      "resume": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-04",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/"
+    },
+    {
+      "titre": "The sameness problem behind those unappetizing AI-generated menus",
+      "resume": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-04",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/"
+    },
+    {
+      "titre": "You can watch the coolant flow inside Ugreen’s liquid-cooled power bank",
+      "resume": "Does your power bank have \"CryoPulse technology\" or a \"Cyber Window\"? If you disappointingly answered \"no\" to both, you might want to consider upgrading to Ugreen's new MagFlow Pro Magnetic Power Bank. It's available sta…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-03",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling"
+    },
+    {
+      "titre": "Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal",
+      "resume": "Last September, Steve Ballmer insisted in an ESPN interview that the Clippers weren't involved in a shady-looking $28 million endorsement deal for his star player, Kawhi Leonard, that involved no actual endorsing. Now, t…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-03",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out"
+    },
+    {
+      "titre": "Tesla is asking people if they want to buy and run Cybercab fleets",
+      "resume": "The company published a form on its website Thursday soliciting info from people who are interested in \"Cybercab fleet vehicle purchasing.\"",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-03",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/"
+    },
+    {
+      "titre": "Oura files to go public",
+      "resume": "The ring maker says that its business has shown significant revenue growth over the past year.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-03",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/"
+    },
+    {
+      "titre": "Abliteration.ai is making a business out of removing AI guardrails",
+      "resume": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-03",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/"
+    },
+    {
+      "titre": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+      "resume": "The high-profile startup's annual revenue run rate stands at over $100 million.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-03",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/"
+    },
+    {
+      "titre": "HPE patches critical ArubaOS-CX remote code execution flaw",
+      "resume": "Hewlett Packard Enterprise (HPE) has patched a critical vulnerability in the ArubaOS-CX network operating system that could lead to remote code execution. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-03",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/"
+    },
+    {
+      "titre": "Coder's registry infrastructure compromised to push malicious modules",
+      "resume": "Attackers compromised Coder's Cloudflare infrastructure and added unauthorized registry servers that delivered malicious Terraform modules containing credential-stealing code. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-03",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/"
+    },
+    {
+      "titre": "French hospital fined €500,000 after breach exposes data of 727,000",
+      "resume": "France's data protection authority (CNIL) has fined Hôpital privé de la Loire €500,000 ($580,000) for failing to adequately protect patients' and their relatives' data. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-03",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/"
+    },
+    {
+      "titre": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
+      "resume": "The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click “Allow.” Why break in when someone might open the door? That idea runs through this edition. Attack…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-03",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html"
+    },
     {
       "titre": "Circular’s new smart rings add contactless payments and vibrating alerts",
       "resume": "Circular announced its new Ring 3 Series today as a follow-up to the Ring 2 that debuted at CES 2025 with upgraded sensors and FDA-cleared atrial fibrillation detection. The new Ring 3 collection consists of both a Pro m…",
