@@ -1,6 +1,105 @@
 {
-  "lastUpdate": "2026-09-05T11:07:06.457232+00:00",
+  "lastUpdate": "2026-09-05T17:06:06.056551+00:00",
   "items": [
+    {
+      "titre": "The weird and wonderful headphones of CanJam 2026",
+      "resume": "I've been reviewing headphones for a long time, and I've listened to everything from the barely serviceable to multi-thousand-dollar open-back headphones. But recently I've been uninspired by the state of mainstream opti…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-05",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/990706/a-day-at-canjam-socal-2026"
+    },
+    {
+      "titre": "Content creators drop the ball",
+      "resume": "During Naomi Osaka's match against Anastasia Zakharova at this year's US Open earlier this week, a gaggle of ring light-wielding influencers who were packed in a luxury suite became enough of a distraction that the umpir…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-05",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/990426/us-open-influencers-naomi-osaka-anastasia-zakharova-callaway-good-good-ad"
+    },
+    {
+      "titre": "Fantasy Footballers’ Andy Holloway is a dedicated zero-inbox kinda guy",
+      "resume": "Andy Holloway cohosts the Fantasy Footballers podcast with his friends Jason Moore and Mike Wright. The show is one of the premier fantasy sports podcasts, netting over 2 million monthly listeners and numerous awards, in…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-05",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/report/989270/fantasy-footballers-podcast-andy-holloway-interview"
+    },
+    {
+      "titre": "CD sales are booming as physical media continues its resurgence",
+      "resume": "According to the Recording Industry Association of America (RIAA), CD sales exploded in the first half of 2026. A new report from the organization says 17.5 million CDs were sold in the first six months of the year, up f…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-05",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence"
+    },
+    {
+      "titre": "Oura is going public, but these smart ring companies are coming for its crown",
+      "resume": "While Oura has largely dominated the smart ring market for years, a growing number of rivals are now racing to dethrone it by trying all sorts of approaches to get an edge over it.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-05",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/"
+    },
+    {
+      "titre": "Clucky’s new alarm app wakes you up with a crowing rooster",
+      "resume": "Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-05",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/"
+    },
+    {
+      "titre": "OpenAI admits it didn't disclose rogue AI wiki hijacking incident",
+      "resume": "OpenAI admits it did not disclose an incident where autonomous AI agents hijacked a German wiki, created 18,000 posts, shared answers, and bypassed restrictions, saying it treated the activity as model \"misalignment\" rat…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-05",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/"
+    },
+    {
+      "titre": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
+      "resume": "A massive cybercriminal operation is leveraging thousands of compromised small-business websites to deliver ClickFix payloads stored in smart contracts on the BNB Smart Chain (BSC). [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-05",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/"
+    },
+    {
+      "titre": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted",
+      "resume": "Hardware wallet manufacturer Trezor on Friday disclosed that another 67,000 customers from the U.S. have been impacted in a breach at its shipping provider ShipMonk. The exposed information includes customer names, email…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-05",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html"
+    },
+    {
+      "titre": "Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code",
+      "resume": "Broadcom has released security updates for two security flaws impacting VMware Workstation and Fusion, including one critical bug that could result in arbitrary code execution under certain conditions. The vulnerability,…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-05",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html"
+    },
+    {
+      "titre": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
+      "resume": "JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerability in TeamCity to bre…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-05",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html"
+    },
     {
       "titre": "Robotaxis enter their villain era",
       "resume": "It's Bullitt meets Christine meets Waymo. A new short film imagines a San Francisco car chase where the other driver isn't human - and the car may be trying to kill you. That a robotaxi can now be cast as the villain wit…",
