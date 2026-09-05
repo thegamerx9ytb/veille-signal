@@ -1,6 +1,33 @@
 {
-  "lastUpdate": "2026-09-05T06:13:55.160914+00:00",
+  "lastUpdate": "2026-09-05T11:07:06.457232+00:00",
   "items": [
+    {
+      "titre": "Robotaxis enter their villain era",
+      "resume": "It's Bullitt meets Christine meets Waymo. A new short film imagines a San Francisco car chase where the other driver isn't human - and the car may be trying to kill you. That a robotaxi can now be cast as the villain wit…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-05",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/989513/road-rage-short-film-robotaxi-autonomous-ai"
+    },
+    {
+      "titre": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
+      "resume": "Threat actors are exploiting the newly disclosed PaperCut flaws to facilitate credential theft in attacks targeting the education sector in the U.S. and Europe. The Arctic Wolf Adversary Research Team said it observed at…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-05",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html"
+    },
+    {
+      "titre": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
+      "resume": "A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 25-year-old German wiki between May and July 2026, using the site as a …",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-05",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html"
+    },
     {
       "titre": "Roland is getting into generative AI music with Melody Flip",
       "resume": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offer…",
