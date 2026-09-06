@@ -1,6 +1,60 @@
 {
-  "lastUpdate": "2026-09-05T17:06:06.056551+00:00",
+  "lastUpdate": "2026-09-06T06:14:06.478716+00:00",
   "items": [
+    {
+      "titre": "iPhone Handoff will seamlessly share one number between two phones",
+      "resume": "When iOS 27 lands later this month, it will have a feature called iPhone Handoff that lets you switch between two phones using the same number. It was briefly mentioned during the WWDC keynote back in June, but there wer…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-05",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27"
+    },
+    {
+      "titre": "Explore the globe in field recordings",
+      "resume": "I love field recordings. I love making them. I love them when they're incorporated into my ambient music. They're great background noise for working or sleeping. But they're also great for active listening, focusing in o…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-05",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings"
+    },
+    {
+      "titre": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "resume": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-05",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/"
+    },
+    {
+      "titre": "Hikers rescued after using Google Gemini for planning",
+      "resume": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-05",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/"
+    },
+    {
+      "titre": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "resume": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-05",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/"
+    },
+    {
+      "titre": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
+      "resume": "Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store's server without logging in, Dutch e-commerce security company Sansec …",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-05",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html"
+    },
     {
       "titre": "The weird and wonderful headphones of CanJam 2026",
       "resume": "I've been reviewing headphones for a long time, and I've listened to everything from the barely serviceable to multi-thousand-dollar open-back headphones. But recently I've been uninspired by the state of mainstream opti…",
