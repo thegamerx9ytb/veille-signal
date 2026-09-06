@@ -1,6 +1,69 @@
 {
-  "lastUpdate": "2026-09-06T11:07:42.572709+00:00",
+  "lastUpdate": "2026-09-06T17:05:46.019063+00:00",
   "items": [
+    {
+      "titre": "DIY plug-in solar gains momentum in the US",
+      "resume": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on e-bikes, power stations, and how to work anywhere, follow Thomas Ricker. The Stepback arrives in our subscriber…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-06",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/column/990183/diy-plug-in-solar-us"
+    },
+    {
+      "titre": "Competitive Pokémon is on phones now, but you still need a Switch to become a champion",
+      "resume": "To get started with competitive Pok&#233;mon battles, all you need is your phone. But to compete at the highest level, like at the Pok&#233;mon World Championships, you're going to need a Switch. And there doesn't seem t…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-06",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/990691/competitive-pokemon-champions-mobile-tournament-accessibility"
+    },
+    {
+      "titre": "The Fairphone 6 Plus is the midrange phone we desperately needed",
+      "resume": "The Fairphone 6 Plus feels like an extremely average midrange Android phone and I couldn't be more thrilled. The mission has always been admirable. Fairphone seeks out ethically sourced materials and offers a high degree…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-06",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/990436/fairphone-6-plus-review"
+    },
+    {
+      "titre": "Boox’s tiny Picco e-reader should land in November",
+      "resume": "Boox teased the Picco, its take on the buzzy Xteink X4 e-reader, back in July, but provided almost no details. Now, thanks to some reporting out of IFA, we've got a bit more info, though sadly still no price. Unlike the …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-06",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa"
+    },
+    {
+      "titre": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
+      "resume": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-06",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/"
+    },
+    {
+      "titre": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "resume": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-06",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/"
+    },
+    {
+      "titre": "Attackers conceal phishing lures using invisible Unicode characters",
+      "resume": "Threat actors have adopted the ASCII smuggling technique in phishing campaigns, using invisible Unicode characters to evade email security filters. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-06",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/"
+    },
     {
       "titre": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner",
       "resume": "Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an infected machine after the stealer deletes itself. One of th…",
