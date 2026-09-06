@@ -1,6 +1,24 @@
 {
-  "lastUpdate": "2026-09-06T06:14:06.478716+00:00",
+  "lastUpdate": "2026-09-06T11:07:42.572709+00:00",
   "items": [
+    {
+      "titre": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner",
+      "resume": "Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an infected machine after the stealer deletes itself. One of th…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-06",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html"
+    },
+    {
+      "titre": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
+      "resume": "Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full administrative control without authentication, according to&nbsp;CERT Pols…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-06",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html"
+    },
     {
       "titre": "iPhone Handoff will seamlessly share one number between two phones",
       "resume": "When iOS 27 lands later this month, it will have a feature called iPhone Handoff that lets you switch between two phones using the same number. It was briefly mentioned during the WWDC keynote back in June, but there wer…",
