@@ -1,6 +1,78 @@
 {
-  "lastUpdate": "2026-09-07T06:16:56.224945+00:00",
+  "lastUpdate": "2026-09-07T11:08:18.565364+00:00",
   "items": [
+    {
+      "titre": "Huawei copies Samsung’s privacy display in its latest trifold",
+      "resume": "Huawei has released its third trifold phone in China, and the company has clearly had half an eye on Samsung during development. Not only does the Mate XT 2 adopt the inward-folding form factor used on Samsung's Galaxy Z…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-07",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display"
+    },
+    {
+      "titre": "Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds",
+      "resume": "Thanks to their ability to provide a smooth ride and quiet powertrain with ease, electric vehicles are a true shoo-in for the high-end luxury automotive segment. Rolls-Royce has the Spectre, Cadillac's Celestiq is taking…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-07",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8"
+    },
+    {
+      "titre": "N-able patches max severity N-central flaw amid ongoing attacks",
+      "resume": "N-able has released an emergency hotfix for a maximum-severity remote code execution (RCE) flaw affecting its N-central remote monitoring and management (RMM) platform. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-07",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/"
+    },
+    {
+      "titre": "ConnectWise warns of new ScreenConnect flaw without patch",
+      "resume": "ConnectWise has shared temporary mitigation measures for a new ScreenConnect Remote Access vulnerability that it plans to patch later this week. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-07",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/"
+    },
+    {
+      "titre": "Hackers exploit new MikroTik RouterOS flaws to hijack routers",
+      "resume": "Hackers are exploiting a chain of two recently disclosed vulnerabilities in MikroTik routers to take control of devices with SSH services exposed to the internet. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-07",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/"
+    },
+    {
+      "titre": "ChatGPT can now connect to your personal apps to mimic writing style",
+      "resume": "OpenAI appears to be testing a new \"Writing Style\" feature for ChatGPT that can learn how you write by looking at examples from your connected apps. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-07",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/"
+    },
+    {
+      "titre": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies",
+      "resume": "Cybersecurity researchers have unpacked JSCeal, a sophisticated compiled V8 JavaScript (JSC) malware with credential harvesting, surveillance, and traffic-interception capabilities. \"The payloads are protected with javas…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-07",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html"
+    },
+    {
+      "titre": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw",
+      "resume": "Every on-premises N-central build below 2026.3.1.14 — including servers updated to Hotfix 3 a day earlier — needs Hotfix 4. N-able's incident notice says the flaw has been exploited in the wild; its release notes say tha…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-07",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html"
+    },
     {
       "titre": "ChatGPT Astra is now rolling out to $20 Plus subscription",
       "resume": "OpenAI is now rolling out ChatGPT Astra, its most powerful model to date, to those with a $20 Plus subscription, but there's no word on when free users will get access.. [...]",
