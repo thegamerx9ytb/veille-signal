@@ -1,6 +1,114 @@
 {
-  "lastUpdate": "2026-09-07T11:08:18.565364+00:00",
+  "lastUpdate": "2026-09-07T17:06:30.322248+00:00",
   "items": [
+    {
+      "titre": "The real reason your phone is getting more expensive",
+      "resume": "When Apple debuts the next generation of iPhones this week, they're likely to come with an unwanted change: a higher price tag. A price hike from the supply-chain powerhouse would be the clearest sign yet that soaring me…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-07",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone"
+    },
+    {
+      "titre": "EcoFlow makes the miniature power station even smaller",
+      "resume": "If you're in the market for a tiny power station that punches well above its size and weight then have a look at EcoFlow's new fourth-generation River series. The River 260 Gen4 features a 256Wh capacity battery while th…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-07",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/science/991033/ecoflow-makes-the-miniature-power-station-even-smaller"
+    },
+    {
+      "titre": "Six years later, Sony revisits its legendary XM4 headphones",
+      "resume": "Six years ago Sony and Bose were in the middle of a noise-canceling battle, with each new model of headphones better than the last. In the fall of 2020, Sony released the WH-1000XM4 headphones to wide acclaim. They sat a…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-07",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones"
+    },
+    {
+      "titre": "What we expect from the upcoming Apple launch",
+      "resume": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-07",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/"
+    },
+    {
+      "titre": "Trezor data breach impact now reaches 81,000 customers",
+      "resume": "Cryptocurrency hardware wallet maker Trezor says an August data breach at its shipping and logistics provider, ShipMonk, affects an additional 67,000 U.S. customers. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-07",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/"
+    },
+    {
+      "titre": "Mathspace discloses data breach affecting over 1 million people",
+      "resume": "Online maths learning platform Mathspace disclosed over the weekend that attackers stole data from more than 1 million students, staff, and parents after breaching its Metabase internal reporting system. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-07",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/"
+    },
+    {
+      "titre": "BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations",
+      "resume": "A phishing-as-a-service framework called BigBear 2.0 has been used to bypass multi-factor authentication at 258 organizations and steal more than 5,000 Microsoft 365 credentials. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-07",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/"
+    },
+    {
+      "titre": "Magento StyleSmuggler zero-day exploited to deploy Linux backdoor",
+      "resume": "A zero-day vulnerability dubbed \"StyleSmuggler\" affecting all versions of Magento and Adobe Commerce is being exploited in attacks to deploy a backdoor. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-07",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/"
+    },
+    {
+      "titre": "Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts",
+      "resume": "Cybersecurity researchers have disclosed details of worm-like activity that abuses ConnectWise ScreenConnect to distribute a malicious Visual Basic Script (VBScript) payload to newly connected systems. According to Huntr…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-07",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html"
+    },
+    {
+      "titre": "Your Cloud Security Checklist Doesn't Work the Way You Think It Does",
+      "resume": "If managing security across multiple cloud providers wasn't hard enough, each one fails in a different way. For the 2026 Cloud Security Index, Intruder analyzed misconfiguration data from 3,000 organizations across AWS, …",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-07",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html"
+    },
+    {
+      "titre": "⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
+      "resume": "Turning off email images should at least stop the pictures. This week, attackers had a workaround: a scannable QR code built out of text. It still appears, even with images blocked. A small detail, but an annoying one if…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-07",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html"
+    },
+    {
+      "titre": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
+      "resume": "Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other software-as-a-service (SaaS) offerings through information technology (IT) help desk …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-07",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html"
+    },
     {
       "titre": "Huawei copies Samsung’s privacy display in its latest trifold",
       "resume": "Huawei has released its third trifold phone in China, and the company has clearly had half an eye on Samsung during development. Not only does the Mate XT 2 adopt the inward-folding form factor used on Samsung's Galaxy Z…",
