@@ -1,6 +1,60 @@
 {
-  "lastUpdate": "2026-09-06T17:05:46.019063+00:00",
+  "lastUpdate": "2026-09-07T06:16:56.224945+00:00",
   "items": [
+    {
+      "titre": "ChatGPT Astra is now rolling out to $20 Plus subscription",
+      "resume": "OpenAI is now rolling out ChatGPT Astra, its most powerful model to date, to those with a $20 Plus subscription, but there's no word on when free users will get access.. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-07",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/"
+    },
+    {
+      "titre": "Europe has its first commercial orbital rocket",
+      "resume": "German company Isar Aerospace has successfully launched Europe's first entirely commercial orbital rocket. It attempted to achieve the feat last March, but that lasted all of 30 seconds before the vehicle crashed into th…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-06",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch"
+    },
+    {
+      "titre": "An Amazon cargo plane crashed at Miami International Airport",
+      "resume": "A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of the damage or the seriousness of the inj…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-06",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami"
+    },
+    {
+      "titre": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "resume": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without perm…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-06",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft"
+    },
+    {
+      "titre": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
+      "resume": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-06",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/"
+    },
+    {
+      "titre": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "resume": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-06",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/"
+    },
     {
       "titre": "DIY plug-in solar gains momentum in the US",
       "resume": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on e-bikes, power stations, and how to work anywhere, follow Thomas Ricker. The Stepback arrives in our subscriber…",
