@@ -1,6 +1,60 @@
 {
-  "lastUpdate": "2026-09-07T17:06:30.322248+00:00",
+  "lastUpdate": "2026-09-08T06:15:24.904630+00:00",
   "items": [
+    {
+      "titre": "First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost",
+      "resume": "China is getting first crack at a British technology that might change how mobile games are made and played. Today, the Xiaomi 18 Fold launches in mainland China with an Arm Mali G2-Ultra NX graphics processor inside its…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-08",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3"
+    },
+    {
+      "titre": "Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch",
+      "resume": "Eric Wu, who built and ran Opendoor before stepping away in 2022, has had his new company, NavigateAI, out of stealth since May — building AI copilots that give construction workers real-time, hands-free guidance through…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-08",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/"
+    },
+    {
+      "titre": "Audi’s new A2 E-tron is its most affordable and efficient EV yet",
+      "resume": "When shopping for an electric vehicle, affordability is becoming a more common trait. But affordable and energy efficient is truly a rare breed. Often you have to sacrifice one for the other. Want something affordable? G…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-07",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price"
+    },
+    {
+      "titre": "A secret new Elizabeth Holmes documentary stuns Telluride",
+      "resume": "Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, \"You Can See Everything,\" stunned Telluride audiences Sunday night with its generous access to the Theranos founder.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-07",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/"
+    },
+    {
+      "titre": "Opaque recurrence, and other AI terms that you should probably know",
+      "resume": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-07",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
+    },
+    {
+      "titre": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
+      "resume": "Cybersecurity researchers have disclosed details of a complex Chromium-based post-exploitation toolkit called PEEP that masquerades as a bookmarks extension for the web browser. \"Requiring prior administrative or code ex…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-07",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html"
+    },
     {
       "titre": "The real reason your phone is getting more expensive",
       "resume": "When Apple debuts the next generation of iPhones this week, they're likely to come with an unwanted change: a higher price tag. A price hike from the supply-chain powerhouse would be the clearest sign yet that soaring me…",
