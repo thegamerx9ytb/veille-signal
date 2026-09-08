@@ -1,6 +1,150 @@
 {
-  "lastUpdate": "2026-09-08T11:08:41.666515+00:00",
+  "lastUpdate": "2026-09-08T17:07:16.888595+00:00",
   "items": [
+    {
+      "titre": "JBL’s soundbar with detachable rear speakers is over $300 off",
+      "resume": "A lot of people are split between getting a nice all-in-one soundbar or spending more for an option that includes rear satellites for immersive surround sound. JBL’s Bar 700 Mark 2 system is one of the most unique option…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-08",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/991261/jbl-soundbar-detachable-speakers-final-fantasy-deal-sale"
+    },
+    {
+      "titre": "Pusheen’s first game is coming to Apple Arcade",
+      "resume": "Pusheen is getting her first game, and it will appear exclusively on Apple Arcade. Launching October 1st, Pusheen's Place lets you collect and care for more than 100 Pusheens as you play minigames and decorate rooms for …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-08",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/991398/pusheen-apple-arcade-game"
+    },
+    {
+      "titre": "The White House pulls its racist Tetris clone",
+      "resume": "The White House has taken down its racist Tetris ripoff days after launching a website dedicated to \"arcade games,\" as spotted earlier by Kotaku. The Tetris clone, called \"Build the Wall,\" involved stacking different-siz…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-08",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/991451/white-house-pulls-racist-tetris-clone"
+    },
+    {
+      "titre": "Tesla Cybercab doesn’t have any manual controls — but it does have a virtual joystick",
+      "resume": "The Tesla Cybercab is notable for what it lacks, namely a steering wheel and pedal. By design, there is no way for this vehicle to be manually controlled - or so we thought. Less than a week after the Cybercab was offici…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-08",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/991400/tesla-cybercab-virtual-joystick-manual-control"
+    },
+    {
+      "titre": "Google’s revived nuclear power plant gets $1.9B loan from US government",
+      "resume": "Google said it would bring an Iowa nuclear power plant back from the dead. Now the plant's owner is getting a $1.9 billion loan from the U.S. Energy Department.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-08",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/"
+    },
+    {
+      "titre": "Mistral raises €3B as sovereign AI becomes big business",
+      "resume": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-08",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/"
+    },
+    {
+      "titre": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+      "resume": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Élevé",
+      "date": "2026-09-08",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/"
+    },
+    {
+      "titre": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "resume": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-08",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/"
+    },
+    {
+      "titre": "SAP warns of maximum severity 'OVERPASS' kernel vulnerability",
+      "resume": "SAP has addressed 20 vulnerabilities across multiple products in its September 2026 security updates, including a maximum-severity memory corruption flaw in the SAP Kernel code. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-08",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-overpass-kernel-vulnerability/"
+    },
+    {
+      "titre": "August updates trigger 0xc0000409 errors on Windows Server 2016",
+      "resume": "Microsoft says the August 2026 security update may trigger 0xc0000409 errors on Windows Server 2016 systems where the Compatibility Appraiser diagnostic service is enabled. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-08",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/august-updates-trigger-0xc0000409-errors-on-windows-server-2016/"
+    },
+    {
+      "titre": "OpenAI says ChatGPT outage causes image generation errors",
+      "resume": "OpenAI is investigating an ongoing incident causing ChatGPT image generation failures and delays when uploading files. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-08",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/technology/openai-says-chatgpt-outage-causes-image-generation-errors/"
+    },
+    {
+      "titre": "ShinyHunters hackers claim breach of Florida \"DAVID\" DMV database",
+      "resume": "The ShinyHunters extortion gang claims it breached an online platform for the Florida Department of Motor Vehicles database known as \"DAVID\" and stole over 200,000 records about drivers in the state. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-08",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/shinyhunters-hackers-claim-breach-of-florida-david-dmv-database/"
+    },
+    {
+      "titre": "Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours",
+      "resume": "Threat actors are continuing to leverage artificial intelligence (AI) to streamline their operations, with one financially motivated hacking group employing an autonomous, multi-agent attack framework to carry out a larg…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-08",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html"
+    },
+    {
+      "titre": "ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account",
+      "resume": "Check Point Research said in a&nbsp;report published today&nbsp;that a single instruction planted in a ChatGPT conversation could cause ChatGPT to quietly work for an attacker while answering the user's question as usual…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-08",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html"
+    },
+    {
+      "titre": "Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC",
+      "resume": "Whoever took nearly 4,000 bitcoin from the Liquid Network on Sunday, September 6,&nbsp;returned 3,400 of it&nbsp;the next day, Bitcoin's public record shows. About 598.5 bitcoin has not come back. Liquid is a Bitcoin sid…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-08",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html"
+    },
+    {
+      "titre": "Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution",
+      "resume": "A previously undocumented financially motivated threat actor has been linked to attacks targeting Brazilian financial institutions since at least March 2026. Cybersecurity company CrowdStrike is tracking the Brazil-based…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-08",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html"
+    },
     {
       "titre": "Xiaomi’s wide foldable promises more power than Samsung’s",
       "resume": "Xiaomi is the latest manufacturer to release a short, wide foldable phone, in the week Apple is expected to do the same. I got to try the 18 Fold behind closed doors at IFA last week, and while it looks and feels similar…",
