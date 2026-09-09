@@ -1,6 +1,168 @@
 {
-  "lastUpdate": "2026-09-08T17:07:16.888595+00:00",
+  "lastUpdate": "2026-09-09T06:15:21.175209+00:00",
   "items": [
+    {
+      "titre": "Apple’s foldable ‘iPhone Duo’ will reportedly start at $2,000",
+      "resume": "With only a few hours left until the first iPhone launch event since John Ternus took over as the CEO of Apple, Bloomberg reporter Mark Gurman says the name of the company's long-rumored folding phone is the iPhone Duo. …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-09",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/991884/apple-iphone-duo-rumor-foldable"
+    },
+    {
+      "titre": "CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks",
+      "resume": "UK-based manufacturing software startup CloudNC announced Wednesday a $20 million B extension round, bringing its lifetime total raised amount to $128 million.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-09",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/"
+    },
+    {
+      "titre": "Google DeepMind alumni are building tools to accelerate fusion power for the grid",
+      "resume": "Fusionality is developing control systems and simulation environments to help fusion power startups move faster.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-09",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/08/google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid/"
+    },
+    {
+      "titre": "Microsoft adds age-awareness APIs that can tell if users are children, teens, or adults",
+      "resume": "Microsoft is adding new age-awareness APIs to Windows 11 that will allow apps to determine whether someone is a child, teenager, or adult without exposing their exact date of birth. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-09",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-age-awareness-apis-that-can-tell-if-users-are-children-teens-or-adults/"
+    },
+    {
+      "titre": "N-able N-central Pre-Auth RCE Flaw Exploited in the Wild",
+      "resume": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civili…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-09",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html"
+    },
+    {
+      "titre": "Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days",
+      "resume": "Microsoft on Tuesday broke Patch Tuesday records by addressing an earth-shattering 974 vulnerabilities spanning its software portfolio, including two flaws that it said have been actively exploited in the wild. These inc…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-09",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html"
+    },
+    {
+      "titre": "Rivian spinout Also apologizes for delays in shipping futuristic e-bikes",
+      "resume": "Rivian's futuristic e-bike is delayed, and customers are not happy. Last year, Rivian's micromobility spinoff Also unveiled a new, software-controlled electric bike called the TM-B that immediately set the e-bike world a…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-08",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/991707/rivian-also-tmb-ebike-delay-apology"
+    },
+    {
+      "titre": "Drama swirls around OpenAI’s legendary mathematical milestone",
+      "resume": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced that it discovered …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-08",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution"
+    },
+    {
+      "titre": "Sony isn’t phasing out discs quite as quickly as we thought",
+      "resume": "Sony isn't backing away from its decision to kill the video game disc in January 2028. But Sony isn't shutting down production as quickly as we thought, either. Two months after reports that Sony's last discmaking plant …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-08",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent"
+    },
+    {
+      "titre": "White House takes down ‘Build the Wall’ game after the Tetris Company complains",
+      "resume": "The Trump administration's short-lived arcade game \"Build the Wall\" is now nowhere to be found after the Tetris Company posted that it takes \"copyright infringement very seriously.\"",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-08",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/"
+    },
+    {
+      "titre": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+      "resume": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-08",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/"
+    },
+    {
+      "titre": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "resume": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-08",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/"
+    },
+    {
+      "titre": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "resume": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-08",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/"
+    },
+    {
+      "titre": "Hackers are stealing Claude tokens from subscribers",
+      "resume": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-08",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/"
+    },
+    {
+      "titre": "Microsoft Plugs Nearly 1,000 Security Holes",
+      "resume": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-08",
+      "source": "Krebs on Security",
+      "lien": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/"
+    },
+    {
+      "titre": "Hackers breach F5 BIG-IP APM devices to deploy Linux rootkit",
+      "resume": "A Linux rootkit targeting devices in F5 BIG-IP APM environments can intercept PHP file loading and inject a fileless web shell directly into memory, avoiding the need to write malicious code to disk. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-08",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hackers-breach-f5-big-ip-apm-devices-to-deploy-linux-rootkit/"
+    },
+    {
+      "titre": "The EU CRA's Real Question: What Shipped, and When Did You Know?",
+      "resume": "The EU Cyber Resilience Act's vulnerability reporting requirements take effect September 11, giving software vendors as little as 24 hours to report actively exploited flaws. ActiveState explains why knowing exactly what…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-08",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/the-eu-cras-real-question-what-shipped-and-when-did-you-know/"
+    },
+    {
+      "titre": "DoppelCart fraud network uses 119,000 fake shops to steal credit cards",
+      "resume": "A massive operation dubbed \"DoppelCart\" uses more than 119,000 domains to run a network of fake e-shops that steal payment card details. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-08",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/"
+    },
     {
       "titre": "JBL’s soundbar with detachable rear speakers is over $300 off",
       "resume": "A lot of people are split between getting a nice all-in-one soundbar or spending more for an option that includes rear satellites for immersive surround sound. JBL’s Bar 700 Mark 2 system is one of the most unique option…",
