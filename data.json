@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-09-09T06:15:21.175209+00:00",
+  "lastUpdate": "2026-09-09T11:08:26.078842+00:00",
   "items": [
+    {
+      "titre": "Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;",
+      "resume": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the decade, just hours after a colleague resigned over fears the AI lab a…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-09",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans"
+    },
+    {
+      "titre": "Google warns of new Chrome zero-day bug exploited in attacks",
+      "resume": "Google has patched 230 vulnerabilities on Tuesday, including another actively exploited Chrome zero-day bug, the seventh such vulnerability patched since the start of the year. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-09",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/"
+    },
+    {
+      "titre": "New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access",
+      "resume": "An anonymous security researcher known as Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldCrash\" right after Microsoft rolled out its September 2026 Patch Tuesday security updates. […",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-09",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/"
+    },
+    {
+      "titre": "Man gets 15 years for extorting women with AI-generated porn videos",
+      "resume": "An Ohio man was sentenced to 15 years in prison for multiple cybercrimes, including sextortion and cyberstalking of numerous victims using AI-generated sexually explicit content. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-09",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/"
+    },
+    {
+      "titre": "Over 36,000 exposed Plex servers vulnerable to recent flaws",
+      "resume": "Over 36,000 Plex Media servers exposed online remain unpatched against multiple security vulnerabilities and are vulnerable to attacks. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-09",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/"
+    },
+    {
+      "titre": "Researcher Drops New Microsoft Defender PoC Showing ShieldBreak Patch Can Be Bypassed",
+      "resume": "The security researcher known as Chaotic Eclipse has dropped a proof-of-concept (PoC) for yet another zero-day in Microsoft Defender. The vulnerability, codenamed ShieldCrash, is assessed to be a patch bypass for CVE-202…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-09",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/researcher-drops-new-microsoft-defender.html"
+    },
+    {
+      "titre": "F5 BIG-IP APM Malware Injects a PHP Web Shell Into Memory, Evading Disk Scans",
+      "resume": "Malware linked to break-ins at F5 BIG-IP Access Policy Manager appliances hides a PHP web shell in memory instead of in a file on disk, Sophos said in an&nbsp;analysis published on September 7. When Apache loads any of t…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-09",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html"
+    },
+    {
+      "titre": "New cPanel Flaw Lets a Hosting Account With Mail Privileges Run Code as Root",
+      "resume": "cPanel has patched a flaw that it says lets a single hosting account take control of an entire server. An authenticated account holder with mail-related privileges can create files of their choosing on the server through…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-09",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account.html"
+    },
+    {
+      "titre": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox",
+      "resume": "Google on Thursday released updates to patch 230 security vulnerabilities, including one that has come under active exploitation in the wild. The medium-severity vulnerability, assigned the CVE identifier CVE-2026-87491 …",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-09",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html"
+    },
     {
       "titre": "Apple’s foldable ‘iPhone Duo’ will reportedly start at $2,000",
       "resume": "With only a few hours left until the first iPhone launch event since John Ternus took over as the CEO of Apple, Bloomberg reporter Mark Gurman says the name of the company's long-rumored folding phone is the iPhone Duo. …",
