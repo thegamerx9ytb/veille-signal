@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-09-10T06:16:08.834350+00:00",
+  "lastUpdate": "2026-09-10T11:08:30.861320+00:00",
   "items": [
+    {
+      "titre": "Nintendo’s latest Switch 2 update adds VRR support in TV mode",
+      "resume": "Nintendo always promised that the Switch 2 would support variable refresh rate (VRR) when docked, but the console launched without this key feature. A new 23.0.0 firmware update now adds VRR support to the Switch 2 when …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-10",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/news/993231/nintendo-switch-2-vrr-support-firmware-update"
+    },
+    {
+      "titre": "The Trump phone just got a $250 price hike",
+      "resume": "Bad news if you didn't lock in a Trump phone at launch: It now costs $749, a $250 increase on its price at launch. The T1 Phone itself hasn't changed. Trump Mobile didn't announce the price increase, instead quietly chan…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-10",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/993242/trump-phone-t1-price-hike"
+    },
+    {
+      "titre": "The variable aperture isn’t the cool part of the iPhone 18 Pro’s camera",
+      "resume": "Apple always makes a big show of the latest cameras in its phones, and the major talking point of the iPhone 18 Pro is about the new variable aperture. Both the iPhone 18 Pro and Pro Max have an adjustable mechanical iri…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-10",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/993155/variable-aperture-iphone-18-pro-photography"
+    },
+    {
+      "titre": "Mathematicians want proof OpenAI didn’t use their work",
+      "resume": "Another researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discoveries. Just days after a bitter row erupted over whether the company's models benefited from unpubli…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-10",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data"
+    },
+    {
+      "titre": "Trezor warns users of email provider breach, phishing attacks",
+      "resume": "Trezor warned customers on Wednesday that threat actors who breached its third-party email provider are targeting them in phishing attacks. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-10",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/"
+    },
+    {
+      "titre": "Microsoft fixes bug that wiped Windows desktop settings",
+      "resume": "Microsoft says the September 2026 Patch Tuesday updates fix a known issue causing desktop settings to be lost or reset on some Windows devices. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-10",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-wiped-windows-desktop-settings/"
+    },
+    {
+      "titre": "CISA: WatchGuard RCE flaw now exploited in ransomware attacks",
+      "resume": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a critical WatchGuard Firebox firewall vulnerability, which it flagged as actively exploited in Dec…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-10",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/"
+    },
+    {
+      "titre": "Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6",
+      "resume": "Anthropic on Wednesday disclosed a fourth incident in which its artificial intelligence (AI) model broke into real third-party systems, marking the latest in a growing list of cases that have raised concerns about the se…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-10",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html"
+    },
+    {
+      "titre": "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key",
+      "resume": "Nearly one in ten of the internet-facing LiteLLM servers that&nbsp;Wiz Research&nbsp;scanned in February accepted&nbsp;sk-1234, the example admin key in LiteLLM's own setup guide. LiteLLM is an open-source AI gateway, th…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-10",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html"
+    },
     {
       "titre": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
       "resume": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
