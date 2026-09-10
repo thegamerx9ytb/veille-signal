@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2026-09-09T17:06:41.540293+00:00",
+  "lastUpdate": "2026-09-10T06:16:08.834350+00:00",
   "items": [
+    {
+      "titre": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+      "resume": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-10",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/"
+    },
+    {
+      "titre": "Automattic CEO Matt Mullenweg placed on leave",
+      "resume": "Matt Mullenweg, the CEO of WordPress.com owner Automattic, has been placed on a paid leave of absence, as reported earlier by 404 Media. In an internal message by the outlet, Mullenweg claims Automattic chief financial o…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-09",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/993022/wordpress-automattic-ceo-matt-mullenweg-leave-of-absence"
+    },
+    {
+      "titre": "The incomplete history of Duo devices",
+      "resume": "Apple announced the company's first device with a folding screen today, the iPhone Duo, but that's where the firsts end. The Duo is not only far from the first foldable on the market thanks to the efforts of Samsung and …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-09",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/992755/apple-iphone-duo-history-of-devices"
+    },
+    {
+      "titre": "The black iPhone Pro returns",
+      "resume": "Apple has seen reason: It has a black model in the iPhone Pro lineup again. Last year, Apple went bold with its colors for the iPhone 17 Pro, offering a flashy orange, a shiny silver, and a dark blue. Don't get me wrong,…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-09",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/993048/iphone-18-pro-black-color"
+    },
+    {
+      "titre": "There aren’t AirPods with cameras yet and I hope it stays that way",
+      "resume": "September Apple events are always a swirl of information and new, exciting products, and today's was no different. Apple announced its first foldable, the iPhone Duo, alongside the iPhone 18 Pro and Pro Max; active noise…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-09",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/993064/no-airpods-with-cameras-apple-event"
+    },
+    {
+      "titre": "Automattic’s board forces CEO Matt Mullenweg into leave of absence",
+      "resume": "Mullenweg said in a company Slack message that it was against his will.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-09",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/"
+    },
+    {
+      "titre": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+      "resume": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they co…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-09",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/"
+    },
+    {
+      "titre": "Massachusetts hits data centers with new clean power rules",
+      "resume": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-09",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/"
+    },
+    {
+      "titre": "OpenAI adds a prominent AI doomer to its board of directors",
+      "resume": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-09",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/"
+    },
+    {
+      "titre": "Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking",
+      "resume": "The Carnegie Mellon University CERT Coordination Center (CERT/CC) is warning that Skullcandy Dime 3 wireless earbuds accept Bluetooth pairing requests from nearby unpaired devices without requiring user interaction. [...…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-09",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/"
+    },
+    {
+      "titre": "AdaptHealth confirms 4.1 million people exposed in July cyberattack",
+      "resume": "Healthcare company AdaptHealth has confirmed that data of 4.1 million people was exposed in a cyberattack discovered in July that was attributed to the ShinyHunters threat group. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-09",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/"
+    },
+    {
+      "titre": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
+      "resume": "Cisco has confirmed that a maximum-severity authentication bypass vulnerability tracked as CVE-2026-20079 in its Secure Firewall Management Center (FMC) software is being actively exploited in attacks. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-09",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/"
+    },
+    {
+      "titre": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week",
+      "resume": "Multiple espionage-motivated threat activity clusters have been found deploying a previously undocumented exploit kit called BlueMoon that chains together multiple vulnerabilities in Microsoft Windows and Google Chrome. …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-09",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html"
+    },
+    {
+      "titre": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto",
+      "resume": "The U.S. Department of Justice (DoJ) on Wednesday announced coordinated actions aimed at an illicit online marketplace called Xinbi Guarantee that offered scam services, including seizing Telegram channels used to run th…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-09",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html"
+    },
     {
       "titre": "Xbox is bringing back startup animations from its console history",
       "resume": "Microsoft is starting to test some new Xbox console features with Insiders. Testers will be able to try out custom Xbox boot animations from the past, more personalization options for badges, a new local search feature, …",
