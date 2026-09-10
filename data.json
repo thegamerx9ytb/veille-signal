@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2026-09-10T11:08:30.861320+00:00",
+  "lastUpdate": "2026-09-10T17:06:45.283811+00:00",
   "items": [
+    {
+      "titre": "Where to preorder the new Apple Watch Series 12 and Ultra 4",
+      "resume": "The iPhone Duo was the unequivocal star of Apple's \"Surprise and shine\" event, but not for people who were mostly paying attention for news on wearables. Thankfully, Apple had a lot to share about its new Apple Watch Ser…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-10",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/988579/apple-watch-series-12-5g-ultra-4-preorder-buy"
+    },
+    {
+      "titre": "Universal Music is launching an AI music platform with ElevenLabs",
+      "resume": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thur…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-10",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai"
+    },
+    {
+      "titre": "Electric air taxis get the green light for test flights in Texas",
+      "resume": "A new federal program to test the feasibility of electric, hybrid-electric, and autonomous aircraft kicks off today in Texas - before the rules governing this new technology have even been finalized. Earlier this year, t…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-10",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/993341/evtol-air-taxi-aviation-eipp-texas"
+    },
+    {
+      "titre": "Amazon’s Fire TV Stick 4K is over half off at under $20",
+      "resume": "Looking to take full advantage of your 4K television, but your current streaming stick doesn’t have the right features? Through September 13th, you can grab an Amazon Fire TV Stick 4K from Woot for just $16.09 when you u…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-10",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/993455/fire-tv-stick-4k-resident-evil-requiem-deal-sale"
+    },
+    {
+      "titre": "The Boring Company raises $3B in round led by UAE",
+      "resume": "The company said it plans to dig more than 150 kilometers of tunnels in the Middle Eastern country.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-10",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/"
+    },
+    {
+      "titre": "Google is making it easier to switch between password managers on Android",
+      "resume": "Google's new feature will transfer your passkeys as well.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-10",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/10/google-is-making-it-easier-to-switch-between-password-managers-on-android/"
+    },
+    {
+      "titre": "Instagram’s latest feature lets you add tagged posts to your profile grid",
+      "resume": "Instagram's newest feature lets users take posts from the Tagged tab and move it to their main profile grid instead.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-10",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/10/instagrams-latest-feature-lets-you-add-tagged-posts-to-your-profile-grid/"
+    },
+    {
+      "titre": "Maven Robotics wants to steal your robot deployment deal",
+      "resume": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-10",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/"
+    },
+    {
+      "titre": "AI agents are flooding public services with new requests",
+      "resume": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-10",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/"
+    },
+    {
+      "titre": "New 'BlueMoon' kit exploited Windows and Chrome zero-day flaws",
+      "resume": "Multiple cyber-espionage groups deployed an exploit kit dubbed \"BlueMoon\" that leveraged zero-day vulnerabilities in Microsoft Windows and Google Chrome. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-10",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/"
+    },
+    {
+      "titre": "IDScan confirms breach tied to 153 million stolen driver’s licenses",
+      "resume": "Identity verification company IDScan has confirmed that hackers accessed customer data stored in its cloud platform, days after reports linked the company to a massive database containing more than 153 million driver's l…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-10",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/idscan-confirms-breach-tied-to-153-million-stolen-drivers-licenses/"
+    },
+    {
+      "titre": "Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers",
+      "resume": "Cisco Talos says two recently patched Secure Firewall Management Center (FMC) vulnerabilities have been exploited by three separate threat clusters linked to ransomware and state-sponsored attacks. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-10",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/"
+    },
+    {
+      "titre": "AI-powered attack exploited PaperCut flaws to hack 395 organizations",
+      "resume": "A threat actor, likely Russian-speaking, used hundreds of AI agents to develop and launch a global exploitation campaign targeting vulnerable PaperCut NG/MF servers. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-10",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/"
+    },
+    {
+      "titre": "Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks",
+      "resume": "The Gigabud banking trojan now installs a second Android app that creates a work profile on an infected phone and drops a tampered banking app inside it, security firm Group-IB said in a&nbsp;report published on Septembe…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-10",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html"
+    },
+    {
+      "titre": "PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances",
+      "resume": "A suspected Russian-speaking cyber actor has been attributed to the use of artificial intelligence (AI) to devise exploits targeting a recently disclosed pair of security flaws in PaperCut NG/MF and break into hundreds o…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-10",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html"
+    },
+    {
+      "titre": "Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE",
+      "resume": "Check Point has patched two critical vulnerabilities in the way its firewall and management products handle VPN certificates. The company says both could allow an unauthenticated remote attacker to run code, but only \"un…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-10",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html"
+    },
+    {
+      "titre": "Google Play Early Access Abused to Push Thousands of Deceptive Android Apps",
+      "resume": "Bad actors are misusing Google Play's Early Access program to push deceptive apps that claim to offer money, rewards, casino winnings, and premium content. Early Access apps are apps that haven't been released on the off…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-10",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html"
+    },
     {
       "titre": "Nintendo’s latest Switch 2 update adds VRR support in TV mode",
       "resume": "Nintendo always promised that the Switch 2 would support variable refresh rate (VRR) when docked, but the console launched without this key feature. A new 23.0.0 firmware update now adds VRR support to the Switch 2 when …",
