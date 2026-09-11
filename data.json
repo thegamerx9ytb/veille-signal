@@ -1,6 +1,114 @@
 {
-  "lastUpdate": "2026-09-10T17:06:45.283811+00:00",
+  "lastUpdate": "2026-09-11T06:14:59.921346+00:00",
   "items": [
+    {
+      "titre": "Schools are catching on to Big Tech’s playbook",
+      "resume": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for l…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-10",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids"
+    },
+    {
+      "titre": "Slack can now vibe-code interactive charts and reports inside chats",
+      "resume": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-10",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch"
+    },
+    {
+      "titre": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
+      "resume": "Collaborative Fund just bought into D.C. United and its stadium, with firm founder Craig Shapiro pitching it as a way to showcase for the firm's startups.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-10",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/"
+    },
+    {
+      "titre": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+      "resume": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Élevé",
+      "date": "2026-09-10",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/"
+    },
+    {
+      "titre": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+      "resume": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-10",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/"
+    },
+    {
+      "titre": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+      "resume": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-10",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/"
+    },
+    {
+      "titre": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+      "resume": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-10",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/"
+    },
+    {
+      "titre": "Microsoft Excel KB5002914 update breaks copy and paste for some users",
+      "resume": "Microsoft Excel users report that this week's KB5002914 Office security update is breaking copy-and-paste operations and formula dragging, with affected users saying that removing or rolling back the update restores norm…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-10",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/"
+    },
+    {
+      "titre": "Surfshark VPN says hackers breached internal testing, proxy servers",
+      "resume": "Surfshark disclosed that hackers accessed one of its internal test servers after a configuration error exposed it to the internet. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-10",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/"
+    },
+    {
+      "titre": "September Windows Server updates break Remote Desktop Services",
+      "resume": "Windows admins report that the September 2026 security updates are causing Remote Desktop Services (RDS) failures on Windows Server 2019, 2022, and 2025 servers, preventing users from connecting and, in some cases, requi…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-10",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/september-windows-server-updates-break-remote-desktop-services/"
+    },
+    {
+      "titre": "New Android malware encrypts files, steals data, and harasses victims",
+      "resume": "A new Android malware strain called Mantax Otax combines ransomware and spyware capabilities to encrypt files, steal sensitive data, and spam and harass victims. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-10",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/"
+    },
+    {
+      "titre": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
+      "resume": "A lot of this week’s security news has the same awkward answer to one question: “Why was that allowed to work?” An extension asks for access and takes too much. A trusted service becomes part of a phishing chain. An old …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-10",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html"
+    },
     {
       "titre": "Where to preorder the new Apple Watch Series 12 and Ultra 4",
       "resume": "The iPhone Duo was the unequivocal star of Apple's \"Surprise and shine\" event, but not for people who were mostly paying attention for news on wearables. Thankfully, Apple had a lot to share about its new Apple Watch Ser…",
