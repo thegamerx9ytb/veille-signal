@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2026-09-11T11:08:29.098956+00:00",
+  "lastUpdate": "2026-09-11T17:06:13.211165+00:00",
   "items": [
+    {
+      "titre": "Microsoft’s head of comms is leaving after almost 20 years",
+      "resume": "Frank Shaw is leaving Microsoft after 17 years as chief communications officer. In an internal note to his team, Shaw says he's \"decided it is time for me to move on and try new things,\" after supporting Microsoft's comm…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-11",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/news/993791/microsoft-frank-shaw-leaving-head-of-comms"
+    },
+    {
+      "titre": "Anthropic spent this week in hot water over cybersecurity",
+      "resume": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a string of incidents dis…",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-09-11",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity"
+    },
+    {
+      "titre": "The White House calls Truth Social the ‘most powerful and popular’ social media platform",
+      "resume": "The White House claims the Donald Trump-owned Truth Social is the \"most powerful and popular social media platform in the world.\" The statement, provided to The New York Times by White House spokesperson Davis Ingle, is …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-11",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/policy/994072/white-house-truth-social-popular-powerful"
+    },
+    {
+      "titre": "We unfolded the iPhone Duo",
+      "resume": "You only get one chance at a first impression, and getting to introduce Apple's first folding phone is certainly a strong way to start things off as Apple's CEO. On The Vergecast today, we're talking all about Apple's la…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-11",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/podcast/994016/iphone-duo-vergecast-apple-watch-mac-llms"
+    },
+    {
+      "titre": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider",
+      "resume": "This is the second data breach affecting a company that hardware crypto wallet maker Trezor relies on.",
+      "categorie": "Technologie",
+      "importance": "Critique",
+      "date": "2026-09-11",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/"
+    },
+    {
+      "titre": "Matt Mullenweg tells (trolls?) Automattic staff, saying he’s back in control after CEO ouster",
+      "resume": "In a Slack message seen by TechCrunch, Matt Mullenweg told Automattic employees he’s back in control of the company, days after its board put him on leave. Automattic has not yet confirmed the apparent reversal.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-11",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/"
+    },
+    {
+      "titre": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+      "resume": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-11",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/"
+    },
+    {
+      "titre": "GitLab urges users to patch max severity path traversal flaw",
+      "resume": "GitLab urged users on Thursday to patch their servers immediately against a maximum-severity path traversal vulnerability tracked as CVE-2026-85706. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-11",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/"
+    },
+    {
+      "titre": "How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface",
+      "resume": "Threat actors are abusing trusted AI platforms to host malicious content, poison search results, and trick users into installing malware. Huntress examines campaigns targeting AI users through weaponized Claude Artifacts…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-11",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/"
+    },
+    {
+      "titre": "Artifactory flaws chained in attacks deploying backdoor malware",
+      "resume": "Threat actors are exploiting critical and high-severity vulnerabilities in JFrog Artifactory to bypass authentication, gain administrative privileges, and deploy a Rust backdoor on vulnerable self-hosted servers. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-11",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/"
+    },
+    {
+      "titre": "Your Critical Vulnerabilities Might Not Be Your Biggest Risk",
+      "resume": "Security teams have become exceptionally talented at finding vulnerabilities. Now, it’s time to turn our attention to optimizing the process for determining which of those vulnerabilities actually create a path to compro…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-11",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html"
+    },
+    {
+      "titre": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
+      "resume": "Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workflow to get ahead of the detection curve. The operation has be…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-11",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html"
+    },
+    {
+      "titre": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
+      "resume": "Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and August 2026. The threa…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-11",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html"
+    },
     {
       "titre": "Apple addresses iPhone Duo copycats",
       "resume": "Apple was far from the first company to announce a passport-shaped folding phone this year, but that doesn't mean it wasn't copied. As my colleague Dom Preston already explained, it's almost impossible to keep product de…",
