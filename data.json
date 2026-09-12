@@ -1,6 +1,78 @@
 {
-  "lastUpdate": "2026-09-12T13:50:25.087915+00:00",
+  "lastUpdate": "2026-09-12T18:53:48.480809+00:00",
   "items": [
+    {
+      "titre": "Trump is giving data centers a pass to pollute",
+      "resume": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefi…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-12",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa"
+    },
+    {
+      "titre": "LG responds to TV spying allegations",
+      "resume": "Earlier this week, Gamers Nexus, Level1Techs, and independent security researchers detailed some alarming findings about how LG's TVs are logging and uploading data on its users. Now the company is pushing back against t…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-12",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations"
+    },
+    {
+      "titre": "Anthropic CEO says it’s time to pump the brakes on AI",
+      "resume": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a w…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-12",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development"
+    },
+    {
+      "titre": "Sylvan Esso think you should splurge on good-quality yogurt",
+      "resume": "Amelia Meath and Nick Sanborn, better known as Sylvan Esso, have been bringing their low-key electro-pop to the masses since 2014, bursting onto the scene with their self-titled debut album and the single \"Hey Mami.\" Ove…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-12",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music"
+    },
+    {
+      "titre": "Revolut confirms customer data breach through fake government requests",
+      "resume": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.",
+      "categorie": "Technologie",
+      "importance": "Critique",
+      "date": "2026-09-12",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/"
+    },
+    {
+      "titre": "Anthropic CEO outlines plan to ‘pace the frontier’",
+      "resume": "What would it actually look like to \"pace the frontier\"?",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-12",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/"
+    },
+    {
+      "titre": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent",
+      "resume": "The Dutch Nationaal Cyber Security Centrum (NCSC) is warning of imminent exploitation of two critical flaws in Check Point VPN tracked as CVE-2026-85102 and CVE-2026-85103. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-12",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/"
+    },
+    {
+      "titre": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
+      "resume": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited Vulnerabilities (KEV) ca…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-12",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html"
+    },
     {
       "titre": "OpenAI just wants to win",
       "resume": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In nor…",
