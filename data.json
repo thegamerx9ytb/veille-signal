@@ -1,6 +1,42 @@
 {
-  "lastUpdate": "2026-09-12T10:13:36.286288+00:00",
+  "lastUpdate": "2026-09-12T13:50:25.087915+00:00",
   "items": [
+    {
+      "titre": "OpenAI just wants to win",
+      "resume": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In nor…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-12",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition"
+    },
+    {
+      "titre": "Where to preorder the iPhone 18 Pro and Pro Max",
+      "resume": "The iPhone 18 Pro and 18 Pro Max are almost here. Announced at Apple's September 2026 \"Sunrise and shine\" event alongside the iPhone Duo and other new gear, the two upgraded phones feature the faster A20 Pro processor wi…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-12",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/988337/iphone-18-pro-max-preorder-buy"
+    },
+    {
+      "titre": "Laika’s stop-motion fantasy Wildwood looks so smooth",
+      "resume": "Due to a scheduling mishap, I was only able to check out two movies on my second day at the Toronto International Film Festival - but I did manage to get an early look at and some fascinating details on one of my most an…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-12",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/994314/tiff-2026-wildwood-stuffed-julian"
+    },
+    {
+      "titre": "When the Whole Company Adopts AI: What It Does to Your SOC",
+      "resume": "Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream: alerts that were triggered by AI tools and agents. Not attacks agains…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-12",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html"
+    },
     {
       "titre": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
       "resume": "The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx. On May 12, Ma…",
