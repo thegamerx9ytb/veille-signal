@@ -1,6 +1,42 @@
 {
-  "lastUpdate": "2026-09-13T14:47:11.127908+00:00",
+  "lastUpdate": "2026-09-13T19:10:17.210814+00:00",
   "items": [
+    {
+      "titre": "The Units’ Digital Stimulation is synthpunk perfection",
+      "resume": "The Units are a band I discovered in part thanks to No Dogs in Space. During their miniseries on The Screamers (another incredible band worth checking out), they mention synthpunk.org as one of their sources. And there's…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-13",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review"
+    },
+    {
+      "titre": "Apple is reportedly working on iPhone game controllers",
+      "resume": "Bloomberg's Mark Gurman says Apple is developing two game controllers for the iPhone and will likely sell them under the Beats brand. Rumors that Apple might enter the game controller business have circulated for some ti…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-13",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers"
+    },
+    {
+      "titre": "TechCrunch Mobility: Lyft has entered the robotaxi chat",
+      "resume": "Welcome back to TechCrunch Mobility, your hub for the future of transportation, and now, more than ever, the role AI is playing in it.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-13",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/"
+    },
+    {
+      "titre": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+      "resume": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-13",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/"
+    },
     {
       "titre": "Apple’s new phones are here",
       "resume": "Hi, friends! Welcome to Installer No. 143, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, new tech season is here, and also you can read all the old editions at the Installer home…",
