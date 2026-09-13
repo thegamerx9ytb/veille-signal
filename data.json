@@ -1,6 +1,78 @@
 {
-  "lastUpdate": "2026-09-12T18:53:48.480809+00:00",
+  "lastUpdate": "2026-09-13T11:13:42.824658+00:00",
   "items": [
+    {
+      "titre": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
+      "resume": "Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social engineering to breach c…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-13",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html"
+    },
+    {
+      "titre": "StarCraft returns in 2030 as an open-world shooter",
+      "resume": "Blizzard originally tried to bring the StarCraft universe to the world of 3D shooters way back in 2002 with StarCraft: Ghost. It sat in development hell for years until Blizzard president Mike Morhaime confirmed that it …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-12",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter"
+    },
+    {
+      "titre": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+      "resume": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking inciden…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-12",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised"
+    },
+    {
+      "titre": "OpenAI’s rogue AI tried to hack another company in May",
+      "resume": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. N…",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-09-12",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack"
+    },
+    {
+      "titre": "Tesla says it will finally unveil the second generation Roadster on October 1",
+      "resume": "Tesla’s halo sports car was first announced in November 2017.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-12",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/"
+    },
+    {
+      "titre": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
+      "resume": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-12",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/"
+    },
+    {
+      "titre": "Anthropic CEO outlines plan to slow AI development",
+      "resume": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-12",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/"
+    },
+    {
+      "titre": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "resume": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-12",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/"
+    },
     {
       "titre": "Trump is giving data centers a pass to pollute",
       "resume": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefi…",
