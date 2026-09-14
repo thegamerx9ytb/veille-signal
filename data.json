@@ -1,6 +1,168 @@
 {
-  "lastUpdate": "2026-09-14T16:45:24.714831+00:00",
+  "lastUpdate": "2026-09-14T20:43:11.120262+00:00",
   "items": [
+    {
+      "titre": "TIFF 2026: The latest movie reviews from Toronto",
+      "resume": "If you want an idea of what&#8217;s next in film, the Toronto International Film Festival is a good place to start. Every year TIFF features a huge range of features from around the world, and often some of them go on to…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-14",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/994834/tiff-2026-movie-reviews"
+    },
+    {
+      "titre": "The best deals from Nintendo’s ‘customer appreciation’ sale",
+      "resume": "As promised, Nintendo has marked down a wide variety of Switch games and accessories at Amazon, Best Buy, and Walmart, as well as its own digital storefront. Its “Customer Appreciation” sale is happening because of tarif…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-14",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/994892/nintendo-customer-appreciation-tariff-refund-deal-sale"
+    },
+    {
+      "titre": "Valve&#8217;s virtual reality plans hit actual reality",
+      "resume": "The Steam Frame headset is here, and it may not surprise you: it was supposed to cost less than $1,059. \"We set out to come out with a device that would have been far more affordable, but the global RAM market, the globa…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-14",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/995055/valve-steam-frame-price-ram-impact"
+    },
+    {
+      "titre": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+      "resume": "Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, but this time he put …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-14",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit"
+    },
+    {
+      "titre": "Volkswagen’s crazy-efficient EV borrows an idea from Slate",
+      "resume": "Volkswagen's new efficiency-minded halo car is almost twice as efficient as the most efficient production car, the Lucid Air.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-14",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/"
+    },
+    {
+      "titre": "ClickFix attacks are tricking Mac and Windows users into hacking themselves",
+      "resume": "If you clicked on a fake HBO Max ad on Reddit in the past week, you might have fallen victim to a rising \"ClickFix\" security threat.",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-09-14",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/"
+    },
+    {
+      "titre": "Amazon Prime Video takes on TikTok with short-form news clips",
+      "resume": "Prime Video is adding on-demand local and national news clips as Amazon joins other streamers experimenting with short-form video to capture younger viewers.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-14",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/"
+    },
+    {
+      "titre": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+      "resume": "The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to arrive.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-14",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/"
+    },
+    {
+      "titre": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+      "resume": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-14",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/"
+    },
+    {
+      "titre": "With iOS 27, I’m actually using Siri again",
+      "resume": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-14",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/"
+    },
+    {
+      "titre": "Hackers hijack HBO Max Reddit account to push malware in ClickFix ads",
+      "resume": "Hackers compromised HBO Max's official Reddit account and used it to push malicious ads that launched ClickFix attacks to infect Windows and macOS devices with information-stealing malware. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-14",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/"
+    },
+    {
+      "titre": "Twitch extension with 30K installs exposes users’ OAuth tokens",
+      "resume": "A browser extension called Twitch Enhanced Viewer | JeetBot, available in the official Chrome and Firefox stores, sends users' Twitch OAuth session tokens to a commercial bot service. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-14",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/"
+    },
+    {
+      "titre": "Homebrew 7.0.0 gets built-in GUI, better security controls",
+      "resume": "Homebrew package manager version 7.0.0 has been released with a built-in vulnerability scanner, stronger security controls, and the full release of its native BrewUI graphical interface. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-14",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/"
+    },
+    {
+      "titre": "Japan's Digital Agency says VPN flaw exposed 246,000 personnel records",
+      "resume": "Japan's Digital Agency has discovered a data breach that may have exposed around 246,000 record rows containing personal information of government employees. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-14",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/"
+    },
+    {
+      "titre": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
+      "resume": "A suspected Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-natio…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-14",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html"
+    },
+    {
+      "titre": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
+      "resume": "A flaw in Telegram Desktop let a bot's message plant hidden JavaScript inside chats that users exported to HTML files, security researchers at ExPatch said in a&nbsp;writeup&nbsp;published on September 12. In Telegram, t…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-14",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html"
+    },
+    {
+      "titre": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
+      "resume": "An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines using a legitimate management tool called MeshCentral, threat intelli…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-14",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html"
+    },
+    {
+      "titre": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
+      "resume": "Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's memory, so the processor keeps reading o…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-14",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html"
+    },
     {
       "titre": "The four-hour-long Elon Musk documentary might be preaching to the choir",
       "resume": "It makes sense that Musk is a long film. The latest from Alex Gibney, who has previously directed documentaries about Theranos and Steve Jobs, is an impressively thorough retelling of the story of Elon Musk, from his ear…",
