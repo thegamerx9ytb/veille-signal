@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2026-09-14T12:01:06.555936+00:00",
+  "lastUpdate": "2026-09-14T16:45:24.714831+00:00",
   "items": [
+    {
+      "titre": "The four-hour-long Elon Musk documentary might be preaching to the choir",
+      "resume": "It makes sense that Musk is a long film. The latest from Alex Gibney, who has previously directed documentaries about Theranos and Steve Jobs, is an impressively thorough retelling of the story of Elon Musk, from his ear…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-14",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/994596/musk-documentary-review-tiff-2026"
+    },
+    {
+      "titre": "Adam Conover explains how YouTube ruined everything",
+      "resume": "Today, I’m joined by comedian, podcast host, and YouTuber Adam Conover. Adam is a familiar face to anyone who’s spent time on the internet. He got his start, like so many successful comedy writers, at CollegeHumor back i…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-14",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/podcast/991471/adam-conover-youtube-tv-media-union-labor-ai"
+    },
+    {
+      "titre": "Google’s Pixel 11 is cheaper ahead of iPhone 18 Pro launch",
+      "resume": "Apple’s iPhone 18 Pro will release this Friday, September 18th, and it’s tough to see it as just a coincidence that Google’s latest Pixel phones are discounted. The Pixel 11 Pro carries the biggest discount, with its fog…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-14",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/994737/google-pixel-11-pro-10a-amazon-fire-tv-cube-game-deal-sale"
+    },
+    {
+      "titre": "Volkswagen’s slippery new EV breaks a bunch of efficiency records",
+      "resume": "No, that's not a Tesla Cybercab. That's Volkswagen's Mission Efficiency, the world's slipperiest electric vehicle. The near-production 2+2 seat electric coupe prototype was built on VW's MEB+ platform, incorporating fron…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-14",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/994670/volkswagen-mission-efficiency-ev-aero-drag-record"
+    },
+    {
+      "titre": "Sources say Automattic’s board is out after failed attempt to oust CEO Matt Mullenweg",
+      "resume": "Automattic’s board is out, days after its members voted to put chief executive Matt Mullenweg on leave, sources tell TechCrunch.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-14",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/14/sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg/"
+    },
+    {
+      "titre": "Waymo opens robotaxi service in Las Vegas",
+      "resume": "Las Vegas will be Waymo's 15th commercial robotaxi market.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-14",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/14/waymo-opens-robotaxi-service-in-las-vegas/"
+    },
+    {
+      "titre": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
+      "resume": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it&#8217;s the mission of a billion-dollar startup. Advances in artificial intelligence, genetics, and computational biology are …",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-14",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "titre": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+      "resume": "Fathom said that it has over 400,000 monthly active users.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-14",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/"
+    },
+    {
+      "titre": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+      "resume": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive session on the Builde…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-14",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/"
+    },
+    {
+      "titre": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+      "resume": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constra…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-14",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/"
+    },
+    {
+      "titre": "Webinar: How malicious OAuth apps can lead to Google Workspace breaches",
+      "resume": "Attackers can combine social engineering with malicious OAuth applications to gain access to Google Workspace data without relying solely on stolen passwords. This webinar examines two attacks to show how these breaches …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-14",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/"
+    },
+    {
+      "titre": "Why Patch Automation Needs Brakes, Not Just an Accelerator",
+      "resume": "Patch automation can help IT teams keep pace with growing update volumes, but deploying faster also means bad updates can spread faster. Action1 explains how update rings, predefined success criteria, and human oversight…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-14",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/"
+    },
+    {
+      "titre": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets",
+      "resume": "A mass-scanning campaign targeting internet-exposed Vite development servers is attempting to steal cloud credentials and configurations from AWS and Azure deployments. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-14",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/"
+    },
+    {
+      "titre": "AI Changed the Exposure Problem. Validation Needs to Change With It.",
+      "resume": "There's a lot of noise around AI and cybersecurity right now. What’s actually important is far simpler, if often lost in the hubbub. Vulnerability discovery is getting faster and happening at a much greater scale, while …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-14",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html"
+    },
+    {
+      "titre": "⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
+      "resume": "AI keeps showing up in the wrong places. Attackers are using it to speed up exploits, test defenses, and automate more of the job. Some models are also crossing lines on their own. That is not a great combination. The re…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-14",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html"
+    },
     {
       "titre": "What happens after a town de-Flocks",
       "resume": "From Florida to Washington state, local governments across the country are canceling their contracts with Flock, the company behind the controversial AI-enabled license plate readers, in response to public outcry. But en…",
