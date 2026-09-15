@@ -1,6 +1,150 @@
 {
-  "lastUpdate": "2026-09-15T11:15:55.796167+00:00",
+  "lastUpdate": "2026-09-15T15:25:51.713405+00:00",
   "items": [
+    {
+      "titre": "This doorbell camera lets a human security guard watch your front door",
+      "resume": "DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new SimpliSafe Video Doorbell Series 2 launches today for $199.99 and works with the company's Active Guar…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-15",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs"
+    },
+    {
+      "titre": "Fujifilm’s Instax Pal 2 is a tiny digital camera that may not disappoint",
+      "resume": "Fujifilm announced a follow-up to its tiny and quirky Instax Pal camera that debuted three years ago bundled with an instant printer. While the original Pal was a palm-sized camera with a round design that lacked a scree…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-15",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/995399/fujifilm-instax-pal-2-digital-camera-wireless-autofocus-face-detection"
+    },
+    {
+      "titre": "Meta&#8217;s new One subscriptions put a price on social media and AI",
+      "resume": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage. Some of the new Meta One bundles were in testing earl…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-15",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai"
+    },
+    {
+      "titre": "Now Light’s minimalist phone can easily call an Uber",
+      "resume": "More than a decade after its Kickstarter proposed a \"cell phone designed to be used as little as possible,\" Light is adding a direct connection to Uber and Lyft with a new Rideshare tool. For owners of either the Light P…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-15",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/995449/light-phone-uber-lyft-rideshare-app"
+    },
+    {
+      "titre": "Wonder scores a $425 million partnership with DoorDash as it builds its food empire",
+      "resume": "Founded by veteran e-commerce entrepreneur Marc Lore, Wonder is slowly building a massive portfolio of restaurants and delivery companies.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-15",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/15/wonder-scores-a-425-million-partnership-with-doordash-as-it-builds-its-food-empire/"
+    },
+    {
+      "titre": "4 days left to exhibit at TechCrunch Disrupt 2026",
+      "resume": "Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-15",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "titre": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+      "resume": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics. Register …",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-15",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "titre": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+      "resume": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-15",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/"
+    },
+    {
+      "titre": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+      "resume": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-15",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/"
+    },
+    {
+      "titre": "CISA: Critical VMware RCE flaw now exploited by ransomware gangs",
+      "resume": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned security teams that ransomware gangs have now joined ongoing attacks exploiting a critical VMware vCenter vulnerability patched in July. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-15",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/"
+    },
+    {
+      "titre": "What Zero-Day Response Should Be in the Post-Mythos Era",
+      "resume": "AI is shrinking the time between vulnerability disclosure and exploitation, leaving defenders less time to wait for patches or public exploits. Picus Security explains how exploitability validation, security control test…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-15",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/"
+    },
+    {
+      "titre": "Hackers target WordPress sites via third-party WooCommerce plugin",
+      "resume": "Hackers are actively exploiting a critical vulnerability in the WooCommerce Wholesale Lead Capture premium plugin for WordPress to upload a PHP backdoor. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-15",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/"
+    },
+    {
+      "titre": "BambooToken malware controls Windows and Linux systems via MQTT",
+      "resume": "A previously unknown malware framework called BambooToken, active since at least 2023, is now using the Message Queuing Telemetry Transport (MQTT) protocol to communicate with Windows and Linux systems. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-15",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/"
+    },
+    {
+      "titre": "Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers",
+      "resume": "Cybersecurity researchers have disclosed details of a mass-scanning campaign that has targeted Vite deployments siphon sensitive data. The first is an automated effort aimed at internet-exposed Vite development servers t…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-15",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html"
+    },
+    {
+      "titre": "Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point",
+      "resume": "Introduction Security teams have gotten pretty good at testing against what can hurt them. Can this EDR agent catch this payload? Will my organization fail the phishing simulation? Does this SIEM rule fire on this partic…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-15",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html"
+    },
+    {
+      "titre": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds",
+      "resume": "With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad actors, new findings from Sysdig show that skilled human operators can mov…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-15",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html"
+    },
     {
       "titre": "Valve is still figuring out ‘how and when’ to do Steam Deck 2",
       "resume": "Now that Valve has finally launched its entire 2026 hardware lineup - the Steam Controller, the Steam Machine, and today's Steam Frame - are we any closer to a next-gen Steam Deck handheld? Valve isn't saying so yet. The…",
