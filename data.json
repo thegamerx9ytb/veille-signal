@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2026-09-14T20:43:11.120262+00:00",
+  "lastUpdate": "2026-09-15T11:15:55.796167+00:00",
   "items": [
+    {
+      "titre": "Valve is still figuring out ‘how and when’ to do Steam Deck 2",
+      "resume": "Now that Valve has finally launched its entire 2026 hardware lineup - the Steam Controller, the Steam Machine, and today's Steam Frame - are we any closer to a next-gen Steam Deck handheld? Valve isn't saying so yet. The…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-15",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when"
+    },
+    {
+      "titre": "Volvo’s plug-in hybrid XC60 and XC90 can really go the distance",
+      "resume": "Most plug-in hybrid electric vehicles (PHEV) today get an average of around 30-50 miles of battery-only range: decent, but not mind-blowing. With hybrid sales dominating the market today, Volvo is out to prove that its P…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-15",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/994792/volvo-xc60-xc90-phev-longest-electric-range"
+    },
+    {
+      "titre": "Microsoft issues emergency Windows 11 update to fix its record-breaking patch",
+      "resume": "Microsoft has started rolling out an emergency out-of-band update to fix problems with its record-breaking September patch Tuesday update. The software giant patched nearly 1,000 flaws in its biggest update ever this mon…",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-09-15",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues"
+    },
+    {
+      "titre": "Jensen Huang took a call from Trump, and showed off something else, too",
+      "resume": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-15",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/"
+    },
+    {
+      "titre": "Cisco patches Secure Email Gateway zero-day exploited in attacks",
+      "resume": "Cisco warned customers to patch a critical Secure Email Gateway zero-day security flaw that threat actors have been exploiting in attacks. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-15",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/"
+    },
+    {
+      "titre": "Microsoft confirms KB5002914 Excel update breaks copy and paste",
+      "resume": "Microsoft has confirmed that copy and paste may silently fail for some Excel users after installing the September 2026 KB5002914 security update. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-15",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/"
+    },
+    {
+      "titre": "Suspected Black Axe gang leaders face cybercrime charges in the US",
+      "resume": "Five alleged leaders of the Black Axe cybercrime syndicate, known for its involvement in global-scale cyber-enabled financial fraud, have been extradited to the United States to face wire fraud and money laundering charg…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-15",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/"
+    },
+    {
+      "titre": "China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE",
+      "resume": "A Chinese threat actor has been attributed to a spear-phishing campaign that exploits recently patched security flaws in Google Chrome and Microsoft Windows to deliver a malicious JavaScript backdoor called GRIMWEDGE. Vo…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-15",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html"
+    },
+    {
+      "titre": "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution",
+      "resume": "Cisco has warned that a new critical vulnerability impacting AsyncOS Software for Cisco Secure Email Gateway has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-76461, carries a CVSS sc…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-15",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html"
+    },
+    {
+      "titre": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
+      "resume": "A critical vulnerability in LiteSpeed Web Server Enterprise could let a low-privilege website user gain root access on a shared-hosting server, cPanel warned in an&nbsp;advisory published on September 14. On such servers…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-15",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html"
+    },
+    {
+      "titre": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+      "resume": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-14",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel"
+    },
+    {
+      "titre": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "resume": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-14",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/"
+    },
+    {
+      "titre": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+      "resume": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-14",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/"
+    },
+    {
+      "titre": "Microsoft releases emergency Windows updates to fix RDS failures",
+      "resume": "Microsoft has released emergency out-of-band Windows updates to fix Remote Desktop Services failures caused by this month's security updates, along with Hyper-V and USB audio problems on some Windows versions. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-14",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-windows-updates-to-fix-rds-failures/"
+    },
     {
       "titre": "TIFF 2026: The latest movie reviews from Toronto",
       "resume": "If you want an idea of what&#8217;s next in film, the Toronto International Film Festival is a good place to start. Every year TIFF features a huge range of features from around the world, and often some of them go on to…",
