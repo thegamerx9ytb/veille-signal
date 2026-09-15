@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2026-09-15T15:25:51.713405+00:00",
+  "lastUpdate": "2026-09-15T19:56:59.864160+00:00",
   "items": [
+    {
+      "titre": "Vintage Violence is an absurdist crime thriller for phone addicts",
+      "resume": "There are a lot of movies that have tried to seamlessly integrate modern tech - text messages, livestreams, etc. - into their storytelling. Some of the most novel attempts have been in the genre space, like the Twitch-st…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-15",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/995472/tiff-2026-vintage-violence-the-devils-gentle-monster"
+    },
+    {
+      "titre": "How The Oregon Trail became a generational icon",
+      "resume": "Whether you played it in the back of your classroom or on your computer at home, if you were a kid in the last 30 years you almost certainly grew up playing The Oregon Trail. On the season 5 premiere of Version History, …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-15",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/podcast/995432/how-the-oregon-trail-became-a-generational-icon"
+    },
+    {
+      "titre": "One of the best 3D printers for beginners is almost $100 off",
+      "resume": "If the high price tag of premium 3D printers have kept you from exploring the hobby, this deal is a great entry point. Elegoo has its Centauri Carbon 2 Combo on sale for $369, almost $100 off its usual price of $449. Thi…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-15",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/995518/elegoo-3d-printer-switch-joy-con-deal-sale"
+    },
+    {
+      "titre": "Kia’s electric van lineup is getting more interesting with reveal of PV7",
+      "resume": "You may not know it, but minivans are making a comeback in the US. Look around, and you'll start to notice an uptick in these breadboxes on wheels. Sales were up 21 percent in 2025, suggesting that the humble minivan is …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-15",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/995608/kia-pv7-electric-van-specs-sale"
+    },
+    {
+      "titre": "SpaceX will try to put Starship in orbit for the first time on September 22",
+      "resume": "Elon Musk's company will also attempt to deploy the first V3 Starlink satellites into its orbital internet constellation.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-15",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/"
+    },
+    {
+      "titre": "Meta expands subscription push with new AI-focused plans",
+      "resume": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-15",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/"
+    },
+    {
+      "titre": "AI agents now have a place to snitch",
+      "resume": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-15",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/"
+    },
+    {
+      "titre": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+      "resume": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-15",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/"
+    },
+    {
+      "titre": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "resume": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-15",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+    },
+    {
+      "titre": "CenterPoint Energy confirms customer data stolen in cyberattack",
+      "resume": "CenterPoint Energy disclosed a breach compromising some customers' personal information after an attacker leaked data allegedly stolen from the utility company. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-15",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/"
+    },
+    {
+      "titre": "BambooToken Malware Uses MQTT to Control Windows and Linux Systems",
+      "resume": "Cybersecurity researchers have disclosed details of a multi-platform campaign that uses the Message Queueing Telemetry Transport (MQTT) protocol as a communication channel to control Windows and Linux systems. The emergi…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-15",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html"
+    },
+    {
+      "titre": "Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists",
+      "resume": "Cybersecurity agencies in the United States, the United Kingdom, and the Netherlands have detailed a Windows malware that they say Iran's intelligence service uses to spy on dissidents, journalists, and activists around …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-15",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html"
+    },
+    {
+      "titre": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens",
+      "resume": "Cybersecurity researchers have shed light on a previously undocumented Brazilian banking malware operation that delivers a toolkit called KREMLIN. Elastic Security Labs is tracking the activity under the moniker REF9334.…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-15",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html"
+    },
     {
       "titre": "This doorbell camera lets a human security guard watch your front door",
       "resume": "DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new SimpliSafe Video Doorbell Series 2 launches today for $199.99 and works with the company's Active Guar…",
