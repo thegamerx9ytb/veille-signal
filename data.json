@@ -1,6 +1,150 @@
 {
-  "lastUpdate": "2026-09-16T15:19:06.101824+00:00",
+  "lastUpdate": "2026-09-16T19:49:40.575455+00:00",
   "items": [
+    {
+      "titre": "Your ‘health age’ is fake",
+      "resume": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. Duri…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-16",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/column/995939/optimizer-health-age-wearables-longevity"
+    },
+    {
+      "titre": "Apple might make servers again to cash in on the AI rush",
+      "resume": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to oth…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-16",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia"
+    },
+    {
+      "titre": "Walmart takes a bite off the cost of Metroid Ravenous physical preorders",
+      "resume": "The Metroid series is going back to its 2D roots again with Metroid Ravenous for the Nintendo Switch 2, the first side-scrolling game in the series since 2021’s Metroid Dread for the Nintendo Switch. If you’re already ex…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-16",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/996379/metroid-ravenous-preorder-deal-sale"
+    },
+    {
+      "titre": "Resident Evil is a comedy first and a thrilling nightmare second",
+      "resume": "When Paul W.S. Anderson's Resident Evil hit theaters in 2002, video game movies were largely seen as a niche. Films like Mortal Kombat and Tomb Raider had proven that big-screen game adaptations could be successful, but …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-16",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/996416/resident-zach-cregger-review"
+    },
+    {
+      "titre": "Hear why Science Corp CEO Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
+      "resume": "At this year's Disrupt, Science Corp CEO Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-16",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/16/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "titre": "Former Waymo CFO jumps to self-driving startup Wayve",
+      "resume": "Elisa de Martel, who left her position as chief financial officer at Alphabet's autonomous vehicle company Waymo in January, will be based out of Silicon Valley.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-16",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/"
+    },
+    {
+      "titre": "Automattic’s interim CEO and legal chief signed reciprocal severance deals during Mullenweg’s brief ouster",
+      "resume": "CFO Mark Davies and legal chief Andy Missan signed each other’s severance agreements while Matt Mullenweg was on leave, providing a year of salary and additional equity vesting if their departures qualify for the benefit…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-16",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/16/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/"
+    },
+    {
+      "titre": "Anthropic merges Claude chat and Cowork in one interface",
+      "resume": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-16",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/"
+    },
+    {
+      "titre": "Your AI agents can now control your Google Home devices",
+      "resume": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natura…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-16",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/"
+    },
+    {
+      "titre": "AI labs want in-house auditors — but maybe they should shut the front door first",
+      "resume": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-16",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/"
+    },
+    {
+      "titre": "Data Broker Radaris Loses Domains in Privacy Fight",
+      "resume": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recent…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-16",
+      "source": "Krebs on Security",
+      "lien": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/"
+    },
+    {
+      "titre": "Spain's data agency gets first report of AI-powered data breach",
+      "resume": "The Spanish Data Protection Agency (AEPD) was notified of an attack allegedly carried out with an AI agent powered by a known large language model (LLM). [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-16",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/"
+    },
+    {
+      "titre": "Malware bypasses browser checks to force install Chrome, Edge extensions",
+      "resume": "A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal credentials, session tokens, and sensitive data. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-16",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/"
+    },
+    {
+      "titre": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
+      "resume": "Security researchers at&nbsp;Forever Security&nbsp;have shown that one ordinary browser extension could take control of the AI assistants built into five Chromium-based products: Gemini Live in Chrome, Perplexity Comet, …",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-16",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html"
+    },
+    {
+      "titre": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
+      "resume": "Enterprises in Russia have emerged as the target of three threat activity clusters tracked as NightEagle, Hacking Cat, and Toy Ghouls, according to multiple reports from Kaspersky. The cybersecurity vendor said it has id…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-16",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html"
+    },
+    {
+      "titre": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
+      "resume": "A critical security flaw in Issabel Framework, a web-based framework for the open-source unified communications PBX software, has come under active exploitation. The vulnerability in question is CVE-2026-89026 (CVSS v3.1…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-16",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html"
+    },
     {
       "titre": "Nintendo opens up Fire Emblem with the gigantic Fortune’s Weave",
       "resume": "Nintendo has gotten quite good at making open-ended games. The Legend of Zelda: Breath of the Wild upended the idea of what a Zelda game could be by giving the player free rein to tackle any part of the map, a philosophy…",
