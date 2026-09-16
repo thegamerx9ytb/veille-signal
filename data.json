@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2026-09-16T10:57:54.043292+00:00",
+  "lastUpdate": "2026-09-16T15:19:06.101824+00:00",
   "items": [
+    {
+      "titre": "Nintendo opens up Fire Emblem with the gigantic Fortune’s Weave",
+      "resume": "Nintendo has gotten quite good at making open-ended games. The Legend of Zelda: Breath of the Wild upended the idea of what a Zelda game could be by giving the player free rein to tackle any part of the map, a philosophy…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-16",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/995539/fire-emblem-fortunes-weave-switch-2-review"
+    },
+    {
+      "titre": "A brief history of AI executives calling for regulation",
+      "resume": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-16",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation"
+    },
+    {
+      "titre": "Xreal’s well-rounded 1S glasses are back down to their lowest price",
+      "resume": "USB-C-connected video glasses are a lot of fun if you want to see your games, movies (or just your computer screen) on a large, immersive virtual screen. One of the most well-rounded pairs out there, Xreal’s 1S, has retu…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-16",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/996216/xreal-video-glasses-beats-pill-sonos-ace-deal-sale"
+    },
+    {
+      "titre": "The sexy AI-powered dating app scams are here",
+      "resume": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call from Jennifer. According to her bio, she's a 41-year-old Sa…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-16",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams"
+    },
+    {
+      "titre": "Amazon gives its workers a raise of $1 per hour",
+      "resume": "Amazon's investment in these raises comes out to over $1.5 billion, or about 0.06% of its $2.68 trillion market cap.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-16",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/16/amazon-gives-its-workers-a-raise-of-1-per-hour/"
+    },
+    {
+      "titre": "Google says some Pixel phone owners were hacked in zero-day attacks",
+      "resume": "The Pixel phone maker said there are indications that a bug in the phone's modem \"may be under limited, targeted exploitation.\"",
+      "categorie": "Technologie",
+      "importance": "Critique",
+      "date": "2026-09-16",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/16/google-says-some-pixel-phone-owners-were-hacked-in-zero-day-attacks/"
+    },
+    {
+      "titre": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+      "resume": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-16",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "titre": "SK Hynix reportedly in talks with Intel to build memory chips in US",
+      "resume": "SK Hynix told TechCrunch the company hasn't finalized any plans or arrangements yet.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-16",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/"
+    },
+    {
+      "titre": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
+      "resume": "Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-16",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "titre": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
+      "resume": "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 and don't miss a moment of the ultimate startup pitch …",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-16",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/"
+    },
+    {
+      "titre": "Threads’ new features let podcasters promote shows and reach listeners",
+      "resume": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger hub for podcast promo…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-16",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/"
+    },
+    {
+      "titre": "Critical ScreenConnect flaw now actively exploited in attacks",
+      "resume": "Attackers now exploit a critical-severity ConnectWise ScreenConnect vulnerability in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-16",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/"
+    },
+    {
+      "titre": "Webinar: What happens in the first hours of a Google Workspace breach",
+      "resume": "The first hours after discovering a Google Workspace breach can determine how an incident unfolds. This webinar examines real-world breaches to show which early response decisions can limit the impact and which can make …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-16",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/webinar-what-happens-in-the-first-hours-of-a-google-workspace-breach/"
+    },
+    {
+      "titre": "Microsoft says Copilot buttons still missing in classic Outlook",
+      "resume": "Microsoft says it's still investigating a known issue that causes the Copilot and Copilot Chat buttons in Classic Outlook to disappear for some Windows users. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-16",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-missing-outlook-copilot-buttons/"
+    },
+    {
+      "titre": "The true cost of a ransomware attack, with and without BCDR",
+      "resume": "The ransom itself can be only a fraction of the total cost of a ransomware attack, with downtime, recovery, remediation, and legal obligations adding millions to the bill. Datto explains how a mature BCDR strategy can re…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-16",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/"
+    },
+    {
+      "titre": "Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation",
+      "resume": "Google has disclosed that a high-severity security flaw in its Pixel Cellular Modem has come under exploitation in the wild. The vulnerability, tracked as CVE-2026-58704 (CVSS score: 8.0), is a privilege escalation flaw.…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-16",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html"
+    },
+    {
+      "titre": "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security",
+      "resume": "N0va is targeting organizations across North America and Europe with phishing campaigns that impersonate trusted services and abuse legitimate authentication flows. Successful attacks can give threat actors access to val…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-16",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html"
+    },
+    {
+      "titre": "Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix",
+      "resume": "Parallels Desktop for Mac has a flaw that lets an ordinary local account run code as root, the highest level of access on a Mac, software company JFrog said this week. The attack needs code already running on the machine…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-16",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html"
+    },
+    {
+      "titre": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories",
+      "resume": "Mandiant says an attacker hijacked an active AI coding-assistant session at an unnamed software-as-a-service provider and later spread&nbsp;Shai-Hulud&nbsp;across about 100 internal code repositories. Before the reposito…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-16",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html"
+    },
     {
       "titre": "The EOS R8 Mark II is Canon’s lightest full-frame camera with stabilization",
       "resume": "Canon announced the second-generation of its EOS R8 with a new retro-inspired redesign and the addition of in-body stabilization. That feature was one of the most notable omissions from the original R8 that launched in 2…",
