@@ -1,6 +1,114 @@
 {
-  "lastUpdate": "2026-09-18T10:42:21.113212+00:00",
+  "lastUpdate": "2026-09-18T14:45:31.137590+00:00",
   "items": [
+    {
+      "titre": "Flash floods can strike without warning — this new technology could change that",
+      "resume": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginn…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-18",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning"
+    },
+    {
+      "titre": "Inertia co-founder Jeff Lawson’s next big bet is fusion: Go inside it at TechCrunch Disrupt 2026",
+      "resume": "Inertia co-founder and CEO Jeff Lawson joins the Smart Systems Stage at TechCrunch Disrupt 2026. Register now to save up to $200 by September 25.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-18",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/18/jeff-lawsons-next-big-bet-is-fusion-go-inside-it-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "titre": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
+      "resume": "Last day to book your exhibit table at Disrupt is today, September 18. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-18",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "titre": "Researchers used Anthropic’s Claude to hack into OpenAI",
+      "resume": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Élevé",
+      "date": "2026-09-18",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/"
+    },
+    {
+      "titre": "Microsoft fixes bug behind ‘Defender Antivirus is turned off’ alerts",
+      "resume": "Microsoft has resolved a known issue that causes incorrect alerts warning that Defender Antivirus was turned off after installing recent updates. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-18",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/"
+    },
+    {
+      "titre": "Webinar: Which Google Workspace security controls actually matter?",
+      "resume": "Fast-growing companies face countless recommendations for securing Google Workspace, but not every control provides the same value. This webinar examines real-world breaches to explore which security controls matter most…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-18",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/"
+    },
+    {
+      "titre": "Microsoft Teams will let admins block custom file extensions",
+      "resume": "Microsoft Teams will soon let administrators tweak the list of file extensions commonly associated with security threats to meet their company's security requirements. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-18",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/"
+    },
+    {
+      "titre": "Secure enterprise sharing with access reviews for Microsoft 365",
+      "resume": "Microsoft 365 makes sharing files easy, but access can remain long after its original purpose has ended, leaving organizations with little visibility into who can still reach sensitive data. tenfold Software explains how…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-18",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/"
+    },
+    {
+      "titre": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage",
+      "resume": "Cybersecurity researchers have discovered a cluster of 13 npm packages that have been found to deliver a previously undocumented JavaScript stealer codenamed WeaselBiscuit. The new malware family, per OpenSourceMalware, …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-18",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html"
+    },
+    {
+      "titre": "Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents",
+      "resume": "A flaw in four widely used AI coding agents lets someone who controls a plugin's code repository swap the plugin an agent installs for a malicious one, even when the agent locked that plugin to a specific reviewed versio…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-18",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html"
+    },
+    {
+      "titre": "An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.",
+      "resume": "In July 2025, someone registered a domain that used to belong to a content delivery network.&nbsp; The CDN had been wound down years earlier, and the domain it served assets from was allowed to expire. What it had not lo…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-18",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html"
+    },
+    {
+      "titre": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
+      "resume": "Microsoft has released fixes for a maximum-severity security flaw in Azure AI Foundry that could be exploited to achieve privilege escalation. No customer action is required. The vulnerability, tracked as CVE-2026-85889,…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-18",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html"
+    },
     {
       "titre": "Waymo says Singapore will be its next international robotaxi city",
       "resume": "Waymo says it will launch a robotaxi service in Singapore in 2028, as the Alphabet-owned company continues to eye overseas markets for expansion. Waymo's vehicles will begin arriving in Singapore in \"the coming months,\" …",
