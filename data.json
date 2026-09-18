@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2026-09-17T19:58:02.160235+00:00",
+  "lastUpdate": "2026-09-18T10:42:21.113212+00:00",
   "items": [
+    {
+      "titre": "Waymo says Singapore will be its next international robotaxi city",
+      "resume": "Waymo says it will launch a robotaxi service in Singapore in 2028, as the Alphabet-owned company continues to eye overseas markets for expansion. Waymo's vehicles will begin arriving in Singapore in \"the coming months,\" …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-18",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027"
+    },
+    {
+      "titre": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
+      "resume": "Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-18",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/"
+    },
+    {
+      "titre": "Microsoft fixes broken copy and paste for Excel 2016 users",
+      "resume": "Microsoft has fixed a known issue that causes copy-and-paste failures for some Excel users after installing the September 2026 KB5002914 security update. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-18",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/"
+    },
+    {
+      "titre": "New Check Point flaw lets hackers execute code with root privileges",
+      "resume": "Check Point Software has released security updates to address a critical vulnerability that can let attackers execute code with root privileges on management systems. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-18",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/"
+    },
+    {
+      "titre": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
+      "resume": "Cybersecurity researchers have flagged a new Android malware called RatHat that's assessed to be operated by China-based threat actors and features an artificial intelligence (AI)-powered system to navigate and control c…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-18",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html"
+    },
+    {
+      "titre": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
+      "resume": "A financially motivated threat actor has been linked to the development and distribution of a JavaScript (JS)-based information stealer known as PhantomRaven via the npm package registry. \"The developer likely wrote the …",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-18",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html"
+    },
+    {
+      "titre": "Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear",
+      "resume": "An updated permit shows the 100-cap will expire later this month just as competition in Las Vegas heats up.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-17",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/"
+    },
+    {
+      "titre": "The FAA’s plan to fix air traffic? $875M worth of AI",
+      "resume": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-17",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/"
+    },
+    {
+      "titre": "PrismML hopes its tiny LLM will change how we all use AI",
+      "resume": "If AI lab PrismML isn't on your radar yet, it should be.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-17",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/"
+    },
+    {
+      "titre": "Google DeepMind launches institute to widen the AGI debate",
+      "resume": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data …",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-17",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/"
+    },
+    {
+      "titre": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+      "resume": "The round values the data center giant at $30.9 billion.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-17",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/"
+    },
+    {
+      "titre": "New RatHat Android malware uses AI to automate device control",
+      "resume": "A new Android malware called RatHat has been discovered, targeting users with an AI-powered subsystem that helps operators remotely navigate compromised devices. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-17",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/"
+    },
+    {
+      "titre": "ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories",
+      "resume": "Attackers keep finding new keys. The funny part is that defenders keep inventing where to store them. This week, those keys sit in AI tools, exposed services, old bugs, weak logins, and software sold like a monthly subsc…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-17",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html"
+    },
+    {
+      "titre": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
+      "resume": "A critical vulnerability in Check Point's Security Management and Log Servers could allow an attacker without login credentials to run code as root on those servers over the network. The Security Management Server is the…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-17",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/critical-check-point-management-server.html"
+    },
     {
       "titre": "Xbox’s clever disc-to-digital feature was 15 years in the making",
       "resume": "When Xbox announced a new feature last month that lets you digitize existing physical game collections, I immediately thought of the Xbox One. Disc-to-digital seems like a clever new feature for Xbox, perfectly timed as …",
