@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2026-09-18T14:45:31.137590+00:00",
+  "lastUpdate": "2026-09-18T19:23:43.851970+00:00",
   "items": [
+    {
+      "titre": "Gavin Newsom is pushing for an AI kill switch",
+      "resume": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier models, with a new executive order issued Friday. Newsom's order…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-18",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch"
+    },
+    {
+      "titre": "The real story of the iPhone 18 Pro&#8217;s camera",
+      "resume": "It's one of the most fascinating years in a while when it comes to iPhone camera upgrades. The big story of the iPhone 18 Pro is the variable aperture main lens, which lets you open the aperture up wider for better low l…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-18",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/podcast/997366/the-real-story-of-the-iphone-18-pros-camera"
+    },
+    {
+      "titre": "Disney’s first CTO is Character.AI’s former CEO",
+      "resume": "You would think that a multimedia conglomerate as large as Disney would have a few chief technology officers by now, but the company has just appointed someone to the position for the very first time. Today, Disney annou…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-18",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai"
+    },
+    {
+      "titre": "Virginia governor creates an AI task force and moves to restrain data centers",
+      "resume": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-18",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force"
+    },
+    {
+      "titre": "In India, the new iPhone can arrive faster than a pizza",
+      "resume": "Availability of Apple's iPhone 18 Pro series turned patchy within hours of its debut on India's quick-commerce apps.",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-09-18",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/"
+    },
+    {
+      "titre": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+      "resume": "A week after an Anthropic researcher&#8217;s doomsday warning rattled the AI world, the company&#8217;s CEO Dario Amodei has&#160;outlined his plan to “pace the frontier”&#160;of AI development. The proposal leans on ind…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-18",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/"
+    },
+    {
+      "titre": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+      "resume": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-18",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/"
+    },
+    {
+      "titre": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+      "resume": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-18",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/"
+    },
+    {
+      "titre": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+      "resume": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-18",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/"
+    },
+    {
+      "titre": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
+      "resume": "An ongoing malware campaign uses SEO-optimized GitHub repositories to impersonate well-known software firms to push a previously undocumented information stealer called Rapuncel. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-18",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/"
+    },
+    {
+      "titre": "Gyazo server flaw exploited to steal 23.6 million user records",
+      "resume": "The Gyazo image-sharing platform has confirmed it suffered a data breach after hackers exploited a server vulnerability that allowed them to steal 23.6 million user records. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-18",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/"
+    },
+    {
+      "titre": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
+      "resume": "The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting government and defense entities in India and Afghanistan. The a…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-18",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html"
+    },
+    {
+      "titre": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
+      "resume": "WordPress today released patches to fix a new set of vulnerabilities in its core software, one of which could allow a crafted web link, opened by a logged-in administrator, to install a theme from the official WordPress.…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-18",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html"
+    },
     {
       "titre": "Flash floods can strike without warning — this new technology could change that",
       "resume": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginn…",
