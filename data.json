@@ -1,6 +1,60 @@
 {
-  "lastUpdate": "2026-09-19T10:26:34.756311+00:00",
+  "lastUpdate": "2026-09-19T14:08:59.160359+00:00",
   "items": [
+    {
+      "titre": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+      "resume": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-19",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/"
+    },
+    {
+      "titre": "Calling viral AI actress Tilly Norwood? Agree to a face scan first",
+      "resume": "AI actress Tilly Norwood went viral after glitching into Chinese on Piers Morgan Uncensored last night. Her \"Talking Tilly\" video call service face-scans every caller for an 18+ age check, senses callers' moods during ca…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-19",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/"
+    },
+    {
+      "titre": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
+      "resume": "The ShinyHunters extortion gang breached the Clop (aka Cl0p) ransomware operation's data leak site, defacing the Tor site and allegedly stealing server data and the private keys for its onion service. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-19",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/"
+    },
+    {
+      "titre": "North Korean WaterPlum hackers infected 30,000 devices worldwide",
+      "resume": "A joint law enforcement advisory warns that the North Korean hacking group WaterPlum compromised at least 30,000 devices worldwide from December 2025 through July 2026 and transferred more than $10.7 million in stolen cr…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-19",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/"
+    },
+    {
+      "titre": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
+      "resume": "SolarWinds has released security updates to address a high-severity flaw in Access Rights Manager (ARM) that, if successfully exploited, could lead to an unauthenticated remote code execution vulnerability. The vulnerabi…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-19",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html"
+    },
+    {
+      "titre": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
+      "resume": "Three researchers at the security firm&nbsp;Hacktron&nbsp;used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code rep…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-19",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html"
+    },
     {
       "titre": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
       "resume": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
