@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-09-18T19:23:43.851970+00:00",
+  "lastUpdate": "2026-09-19T10:26:34.756311+00:00",
   "items": [
+    {
+      "titre": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+      "resume": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-19",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/"
+    },
+    {
+      "titre": "India forces caller-ID apps to feed spam reports to telcos",
+      "resume": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-19",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/"
+    },
+    {
+      "titre": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild",
+      "resume": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added three security flaws impacting the Linux kernel to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitatio…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-19",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html"
+    },
+    {
+      "titre": "CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories",
+      "resume": "An attacker copied about 170 of CrowdSec's private GitHub repositories on May 22 using the account of an employee who had just left, CrowdSec&nbsp;said on September 18. The French security company had kept his GitHub acc…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-19",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html"
+    },
+    {
+      "titre": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
+      "resume": "Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation. The development was first reported by The Wall Stre…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-19",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html"
+    },
+    {
+      "titre": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
+      "resume": "A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet. The vulnerability in question is CVE-2026-58138 (CVSS v3.1 score: 9.8/CVSS v4 score: 9.3), which relates …",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-19",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html"
+    },
+    {
+      "titre": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+      "resume": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, charact…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-18",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero"
+    },
+    {
+      "titre": "Anthropic is operating a lab that conducts biology experiments",
+      "resume": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-18",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/"
+    },
+    {
+      "titre": "A startup that builds other startups raised $100M and is all-in on physical AI",
+      "resume": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-18",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/"
+    },
     {
       "titre": "Gavin Newsom is pushing for an AI kill switch",
       "resume": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier models, with a new executive order issued Friday. Newsom's order…",
