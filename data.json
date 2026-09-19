@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2026-09-19T14:08:59.160359+00:00",
+  "lastUpdate": "2026-09-19T19:07:20.844581+00:00",
   "items": [
+    {
+      "titre": "The colorful, unique Hyte X50 PC case is $50 off",
+      "resume": "The Hyte X50 is a PC case that really stands out from the typical black box design, and it’s $50 off at the company’s site until September 21st, 2026, bringing the price down to $99.99. This attractive case supports moth…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-19",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/997467/hyte-x50-pc-case-deal-sale"
+    },
+    {
+      "titre": "Anamanaguchi has ‘too goddamn many’ browser tabs open right now",
+      "resume": "Anamanaguchi, the band consisting of Peter Berkman, James DeVito, Luke Silas, and Ary Warnaar, are most known for their chiptune music. Like me, you might have first heard them in game soundtracks like 2010's Scott Pilgr…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-19",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music"
+    },
+    {
+      "titre": "Gemini went rogue, hacked three companies, and Google hid it",
+      "resume": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cyberse…",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-09-19",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack"
+    },
+    {
+      "titre": "Trump treads further on free speech with new journalist bans",
+      "resume": "On Friday, the president threatened to ban CNN, MS Now, and Politico from the White House. It could have just been another one of his Truth Social fever dreams, but it turns out it's very real. All three publications wer…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-19",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban"
+    },
+    {
+      "titre": "Even mid-sprint to a secret flight, the Navy’s tech chief has a pitch for investors",
+      "resume": "Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — from AI to quantum — for w…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-19",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/"
+    },
+    {
+      "titre": "Prices go up in 7 days. Get your Disrupt ticket now.",
+      "resume": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then..",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-19",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/"
+    },
+    {
+      "titre": "AI safety conversations have gotten unbelievable",
+      "resume": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-19",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/"
+    },
+    {
+      "titre": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+      "resume": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an ext…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-19",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/"
+    },
+    {
+      "titre": "Google’s Gemini is the latest AI model to hack other companies",
+      "resume": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-19",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/"
+    },
+    {
+      "titre": "Viral AI actress' hotline face-scans every caller, watches their mood",
+      "resume": "AI actress Tilly Norwood went viral after glitching into Chinese on Piers Morgan Uncensored last night. Her \"Talking Tilly\" video call service face-scans every caller for an 18+ age check, senses callers' moods during ca…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-19",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/"
+    },
+    {
+      "titre": "BragJack attacks hijack AI browser agents through malicious extensions",
+      "resume": "BragJack, a proof-of-concept attack from Forever Security's Gal Weizman, hijacks the AI assistants in Chrome, Edge, Opera Neon, Perplexity Comet, and Claude in Chrome using one malicious extension. The Prompt Forcing tec…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-19",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/"
+    },
+    {
+      "titre": "Identity Visibility in 2026: The Foundation of Identity Security",
+      "resume": "Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial access vectors in breach research, including Verizon's annual Da…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-19",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html"
+    },
+    {
+      "titre": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
+      "resume": "A new CVE drops. Your scanner finds it. The severity score looks ugly. But that still does not answer the question that matters: Can it actually be exploited in your environment? Mythos-class AI is compressing the time b…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-19",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html"
+    },
     {
       "titre": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
       "resume": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
