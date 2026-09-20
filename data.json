@@ -1,6 +1,42 @@
 {
-  "lastUpdate": "2026-09-19T19:07:20.844581+00:00",
+  "lastUpdate": "2026-09-20T10:47:11.869316+00:00",
   "items": [
+    {
+      "titre": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+      "resume": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actual…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-19",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy"
+    },
+    {
+      "titre": "The US Navy just told us what’s on its tech wish list for the next several years",
+      "resume": "Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — from AI to quantum — for w…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-19",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/"
+    },
+    {
+      "titre": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+      "resume": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-19",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/"
+    },
+    {
+      "titre": "Flock reportedly tries to shrink workforce with employee buyouts",
+      "resume": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-19",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/"
+    },
     {
       "titre": "The colorful, unique Hyte X50 PC case is $50 off",
       "resume": "The Hyte X50 is a PC case that really stands out from the typical black box design, and it’s $50 off at the company’s site until September 21st, 2026, bringing the price down to $99.99. This attractive case supports moth…",
