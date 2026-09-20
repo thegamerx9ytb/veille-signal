@@ -1,6 +1,69 @@
 {
-  "lastUpdate": "2026-09-20T10:47:11.869316+00:00",
+  "lastUpdate": "2026-09-20T14:27:46.891450+00:00",
   "items": [
+    {
+      "titre": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+      "resume": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \"We were always prey. We were jus…",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-09-20",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure"
+    },
+    {
+      "titre": "The hidden monopoly behind your TI graphing calculator",
+      "resume": "The same calculator has been on most kids' back to school shopping list since the early 2000's and the dominance of Texas Instruments' calculator division goes back even farther. In the next episode of Version History, D…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-20",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/podcast/997725/the-hidden-monopoly-behind-your-ti-graphing-calculator"
+    },
+    {
+      "titre": "A great new video game movie",
+      "resume": "Hi, friends! Welcome to Installer No. 144, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, new tech season is here, and also you can read all the old editions at the Installer home…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-20",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/997322/resident-evil-steam-frame-fire-emblem-fortunes-weave"
+    },
+    {
+      "titre": "A24’s reputation is on the line with the SCP Foundation movie",
+      "resume": "After the success of Backrooms, it looks like A24 is trying to cash in on yet another internet horror craze with a new installment in the V/H/S horror anthology series set in the SCP Foundation universe. But as soon as i…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-20",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/997853/a24-scp-movie-creative-commons-license"
+    },
+    {
+      "titre": "6 days left to get ahead at TechCrunch Disrupt 2026",
+      "resume": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-20",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "titre": "Researchers escape OpenAI Codex sandbox to run commands on host",
+      "resume": "Researchers escaped OpenAI's Codex sandbox two ways, one running commands on a developer's machine from its most locked-down mode. OpenAI has patched both. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-20",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/"
+    },
+    {
+      "titre": "Malicious npm packages evade install-script defenses at runtime",
+      "resume": "An ongoing npm malware campaign involving the 'indexed-btree' package shows how threat actors bypass supply chain defenses by hiding malicious code in a package's normal runtime behavior rather than in installation scrip…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-20",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/"
+    },
     {
       "titre": "Meta’s Muse is creepy, but maybe not for the reasons you think",
       "resume": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actual…",
