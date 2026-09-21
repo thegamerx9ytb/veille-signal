@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2026-09-21T12:11:36.271025+00:00",
+  "lastUpdate": "2026-09-21T16:45:54.657466+00:00",
   "items": [
+    {
+      "titre": "Vivo’s X500 Pro Max has 17 stops of dynamic range and 4K240 slo-mo",
+      "resume": "Vivo's new X500 flagship phones have arrived in China, and as usual the company's focus is firmly on photography. The X500 Pro Max - a new tier in its lineup - is the first phone to use new sensors and silicon from Sony …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-21",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/998165/vivo-x500-pro-max-launch-specs-release-date-lofic-china"
+    },
+    {
+      "titre": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
+      "resume": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iPhone 15 Pro, iPhone …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-21",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement"
+    },
+    {
+      "titre": "Can John Ternus find Apple’s next big thing?",
+      "resume": "Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple correspondent and the host of the upcoming podcast Power On.&#160; Earlier this month, Apple hosted it…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-21",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone"
+    },
+    {
+      "titre": "Grab an Xbox controller and a $50 Xbox gift card together for just $80",
+      "resume": "Newegg is hosting a bundle that includes Microsoft’s wireless Xbox controller (in black) and a $50 digital Xbox gift card together for $80. Given that this model typically sits around $50 to $60 depending on the color yo…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-21",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/998207/xbox-controller-chromebook-usbc-charger-deal-sale"
+    },
+    {
+      "titre": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
+      "resume": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-21",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/"
+    },
+    {
+      "titre": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+      "resume": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets and other parts of the desktop experience.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-21",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/"
+    },
+    {
+      "titre": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+      "resume": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25, 11:59 p.m. PT. Register now.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-21",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "titre": "With Tabby, a former accountant is using AI to make accountants obsolete",
+      "resume": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-21",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/"
+    },
+    {
+      "titre": "Microsoft reminds admins to migrate Entra ID users to passkeys",
+      "resume": "Microsoft has reminded admins to migrate Entra ID users to phishing-resistant authentication methods to avoid sign-in disruptions after it retires SMS first-factor sign-in starting in February 2027. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-21",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/"
+    },
+    {
+      "titre": "FBI's CJIS v6.1: What Security Teams Need to Know.",
+      "resume": "The FBI's CJIS Security Policy v6.1 strengthens requirements around encryption and vulnerability scanning while continuing the shift toward more continuous security assessment. Specops explains what changed and how agenc…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-21",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/"
+    },
+    {
+      "titre": "Microsoft fixes broken Excel copy and paste for all Office users",
+      "resume": "Microsoft has fixed a known issue that causes copy-and-paste failures for Excel users after installing the September 2026 security updates. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-21",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/"
+    },
+    {
+      "titre": "Google fined €403 million over location data privacy violations",
+      "resume": "Ireland's Data Protection Commission (DPC) has fined Google €403 million ($463M) for multiple GDPR violations related to processing users' location data. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-21",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/"
+    },
+    {
+      "titre": "TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data",
+      "resume": "Cybersecurity researchers have disclosed details of a new campaign dubbed TASK#STOMP that delivers a PowerShell backdoor designed to harvest sensitive data from compromised hosts. The backdoor \"automatically harvests and…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-21",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html"
+    },
+    {
+      "titre": "⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
+      "resume": "A browser. A plugin. A package. A login screen. Normal stuff. That is basically the problem this week. The trouble keeps showing up inside things people already trust: code that takes a bad turn, old payloads coming back…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-21",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html"
+    },
     {
       "titre": "Amazon doesn’t trust Meta’s Muse AI agent",
       "resume": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent vi…",
