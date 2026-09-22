@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2026-09-21T20:44:42.750934+00:00",
+  "lastUpdate": "2026-09-22T11:05:48.533603+00:00",
   "items": [
+    {
+      "titre": "Apple&#8217;s first live music venue is opening beneath its UK headquarters",
+      "resume": "Apple is preparing to open a new \"state-of-the-art\" live music venue in the UK, a 600-capacity space for hosting performances, recording sessions, and video broadcasts. The venue, called Apple Music Hall, is located unde…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-22",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/998581/apple-music-hall-london-venue-battersea"
+    },
+    {
+      "titre": "Can you forget how you feel about Meta?",
+      "resume": "In 2021, as a whistleblower emerged with dramatic allegations that Facebook was harming children, CEO Mark Zuckerberg posted a rebuttal on Facebook. “We care deeply about issues like safety, well-being and mental health.…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-22",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/cs/features/991659/meta-mark-zuckerberg-future-glasses-ai-instagram"
+    },
+    {
+      "titre": "Morphotonics raises €40M to expand its display tech into data centers",
+      "resume": "Deeptech company Morphotonics raises €40M from investors including 3M Ventures, Innovation Industries, BOM, and Invest-NL.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-22",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/"
+    },
+    {
+      "titre": "Meta deal will help plastics recycling startup MacroCycle build its first factory",
+      "resume": "Meta is giving plastic recycling a boost in a new deal with startup MacroCycle, which is building its first commercial plant.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-22",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/22/meta-deal-will-help-plastics-recycling-startup-macrocycle-build-its-first-factory/"
+    },
+    {
+      "titre": "CISA orders feds to patch Zyxel flaw exploited for data theft",
+      "resume": "​Attackers are now actively exploiting a high-severity vulnerability in Zyxel GS1900 series switches, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-22",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/"
+    },
+    {
+      "titre": "New Windows Defender zero-day blocks Microsoft antivirus updates",
+      "resume": "Over the weekend, security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) released another Microsoft Defender zero-day exploit that blocks antivirus updates. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-22",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/"
+    },
+    {
+      "titre": "WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session",
+      "resume": "A new flaw in WordPress core let an anonymous visitor leave a comment that planted a hidden script on the page. If a logged-in administrator later opened that page, the script could run code on the site's server. WordPre…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-22",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html"
+    },
+    {
+      "titre": "One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor",
+      "resume": "Malware already running on a Mac can quietly take over Meta's Muse assistant and use the broad access its owner granted the app, security researcher Patrick Wardle has shown in a&nbsp;proof-of-concept&nbsp;released on Se…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-22",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html"
+    },
+    {
+      "titre": "SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing",
+      "resume": "The threat actor known as SideCopy has been observed using spear-phishing lures to target academic institutions in India, expanding their strategic focus beyond government entities. \"SideCopy campaign operations typicall…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-22",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html"
+    },
+    {
+      "titre": "Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal",
+      "resume": "A malicious npm package named \"indexed-btree\" has been observed hiding its malicious behavior within application code rather than using lifecycle scripts, indicating that threat actors are likely shifting tactics in resp…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-22",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html"
+    },
+    {
+      "titre": "Amazon wants to help the Colorado River, but we still don’t know how much water the company uses",
+      "resume": "Amazon plans to spend $20 million on water conservation projects along the Colorado River, a crucial but dwindling water supply for 40 million people in the Western US. The initiative comes as Amazon and other tech compa…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-21",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river"
+    },
+    {
+      "titre": "A cut cable disrupted hundreds of flights across the US",
+      "resume": "Hundreds of flights were cancelled or delayed on Monday after construction crews in New Jersey accidentally cut a Verizon fiber cable used for air traffic control. FAA Administrator Bryan Bedford said that a circuit fail…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-21",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us"
+    },
+    {
+      "titre": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+      "resume": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-21",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/"
+    },
+    {
+      "titre": "BigCommerce alerts merchants of data breach linked to Ribon apps",
+      "resume": "Ecommerce platform BigCommerce has alerted multiple merchants to data breaches after attackers compromised credentials for third-party Ribon applications and used them to inject malicious scripts into online stores. [...…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-21",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/"
+    },
     {
       "titre": "Bungie says it’s ‘not done with Destiny’ and will bring back vaulted content",
       "resume": "Months after seemingly giving up on Destiny 2, Bungie now says it's planning to restore vaulted content in the game like campaigns, destinations, and raids. The decision reverses the Destiny Content Vault that Bungie cre…",
