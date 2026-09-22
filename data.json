@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2026-09-22T15:24:17.734033+00:00",
+  "lastUpdate": "2026-09-22T19:59:17.792000+00:00",
   "items": [
+    {
+      "titre": "San Francisco sues Trump Media for selling early access to Trump posts",
+      "resume": "San Francisco is suing the Trump Media &#38; Technology Group, the parent company behind Truth Social, for selling early access to President Donald Trump's posts on the social media site. The lawsuit, filed today in Cali…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-22",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/998914/trump-truth-social-api-lawsuit-san-francisco"
+    },
+    {
+      "titre": "Save $30 on Apple’s Magic Keyboard with Touch ID and a numpad",
+      "resume": "Until the end of the day on September 22nd, 2026, Best Buy and Amazon have the black Apple Magic Keyboard on sale for $169.99, a $30 discount from the usual price. This is the souped-up version of Apple’s full-size, wire…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-22",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/998824/apple-magic-keyboard-touch-interstellar-4k-blu-ray-deal-sale"
+    },
+    {
+      "titre": "Score free Pixel Buds 2A when you preorder a Googlebook at Best Buy",
+      "resume": "The Android-powered Googlebooks are coming soon, with familiar brands and specs that rival Windows Copilot machines. For anyone eager to get their hands on any the new laptops, there’s a preorder perk you may want to kno…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-22",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/998932/googlebook-preorder-pixel-buds-2a-deal-sale"
+    },
+    {
+      "titre": "Apple clarifies that Texture and Grain controls are exclusive to the latest iPhones’ cameras",
+      "resume": "Apple's new texture and grain controls for stylizing photos will be more limited on older phones than initially expected. A confusingly worded press release from Apple indicated that the new features, announced alongside…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-22",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/998874/apple-iphone-18-pro-ios-27-camera-texture-grain-photographic-style"
+    },
+    {
+      "titre": "a16z is challenging Silicon Valley’s love for drop-outs by launching a school",
+      "resume": "This academy for promising high school grads is somewhere between a trade school, Y Combinator, and Peter Thiel's Fellowship Program.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-22",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/"
+    },
+    {
+      "titre": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data",
+      "resume": "The theft of agents' personal information could present a major counterintelligence threat, where agents and their families are extorted into cooperating with a foreign government.",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-09-22",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/"
+    },
+    {
+      "titre": "Apple could take on Whoop with a new fitness tracker, report says",
+      "resume": "Apple may be developing a new fitness tracker as part of its new generation of hardware devices.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-22",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/22/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says/"
+    },
+    {
+      "titre": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "resume": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-22",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/"
+    },
+    {
+      "titre": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "resume": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-22",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/"
+    },
+    {
+      "titre": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+      "resume": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-22",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/"
+    },
+    {
+      "titre": "Reducing shadow IT visibility gaps with Wazuh",
+      "resume": "Shadow IT can leave security teams unaware of unmanaged endpoints, unauthorized software, and other assets that fall outside existing monitoring. Wazuh explains how endpoint inventory, agentless monitoring, and centraliz…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-22",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/"
+    },
+    {
+      "titre": "New ClosedQuorum Windows malware uses AI for attack decisions",
+      "resume": "A new Windows malware named ClosedQuorum uses Google Gemini, DeepSeek, Qwen, and Mistral AI models to autonomously determine the actions to take during post-compromise stages of an attack. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-22",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/"
+    },
+    {
+      "titre": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
+      "resume": "The ShinyHunters extortion gang claims it breached FBI systems using a new Oracle PeopleSoft zero-day vulnerability, gaining access to internal services and stealing sensitive data on employees and job applicants. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-22",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/"
+    },
+    {
+      "titre": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
+      "resume": "Microsoft on Tuesday announced the takedown of the EvilTokens device code phishing service that it said used artificial intelligence (AI) \"at every step of the attack chain.\" The action, carried out with authorization fr…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-22",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html"
+    },
+    {
+      "titre": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials",
+      "resume": "Cybersecurity researchers have disclosed details of a malicious npm package named \"tw-pkgprobe-7731\" that masquerades as a security tool targeting developers integrating Twilio into their applications, while stealthily a…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-22",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html"
+    },
+    {
+      "titre": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers",
+      "resume": "WordPress has fixed a critical flaw in its core software that lets an attacker with no account make a site load a PHP file from outside its theme folders. On some servers, that can go further, allowing the attacker to ru…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-22",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html"
+    },
+    {
+      "titre": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
+      "resume": "Attackers exploited a previously unknown flaw in Check Point's Security Management Server in a handful of targeted attacks on July 23,&nbsp;the company said. The flaw, CVE-2026-93616, allows an attacker who can access th…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-22",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html"
+    },
     {
       "titre": "Activision is taking over Halo as part of a massive Xbox shake-up",
       "resume": "Microsoft is announcing a massive restructuring of its Xbox studios today, months after laying off 1,600 Xbox employees and selling off studios. The latest changes will see Activision take on the Halo and Sea of Thieves …",
