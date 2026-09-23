@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2026-09-23T15:16:19.687204+00:00",
+  "lastUpdate": "2026-09-23T19:56:04.472030+00:00",
   "items": [
+    {
+      "titre": "Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison",
+      "resume": "Sen. Bernie Sanders (I-VT) and Rep. Greg Casar (D-TX) have introduced new legislation that would ban anyone from developing artificial superintelligence - a technology the bill describes as capable of the \"destruction or…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-23",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act"
+    },
+    {
+      "titre": "Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr",
+      "resume": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched wet lab and an early…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-23",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr"
+    },
+    {
+      "titre": "Data centers are black boxes, but California wants to change that",
+      "resume": "California Gov. Gavin Newsom signed a slate of bills on Monday that could finally give communities better data - and more say - on how data centers impact their electricity bills and water supply. As data centers invade …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-23",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills"
+    },
+    {
+      "titre": "Meta’s AI agent is a cute little guy who’s great at spending my money",
+      "resume": "Modern life comes with an unending, auto-populating to-do list. It never ceases to amaze me how I can be doing nothing at all, minding my own business, and suddenly something needs to be taken care of. You're telling me …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-23",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping"
+    },
+    {
+      "titre": "The old cybersecurity model is breaking",
+      "resume": "As concern over AI safety and rogue agents continue to make headlines, it’s no surprise that cybersecurity stocks are rising, or that investors are pouring massive amounts of capital into startups trying to build the nex…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-23",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/"
+    },
+    {
+      "titre": "Disney+ and Hulu add to the growing trend of streaming inflation",
+      "resume": "At the same time, Disney appears to be exploring new ways to expand its streaming business beyond simply raising subscription prices.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-23",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation/"
+    },
+    {
+      "titre": "Modal Motors is trying to cut China out of electric motors entirely",
+      "resume": "The startup is working on small, light motors with no rare-earth magnets that are suited for drones, fans, and robots.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-23",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/"
+    },
+    {
+      "titre": "YouTube Music gets more conversational with new AI features",
+      "resume": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-23",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/"
+    },
+    {
+      "titre": "Even Americans who use AI every day are worried about it",
+      "resume": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-23",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/"
+    },
+    {
+      "titre": "ChatGPT mobile app gets voice-based agentic features",
+      "resume": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-23",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/"
+    },
+    {
+      "titre": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+      "resume": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-23",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/"
+    },
+    {
+      "titre": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
+      "resume": "A financially motivated threat actor is using open-source AI agent frameworks to attack hundreds of online retailers at scale, stealing more than 600,000 credit card records. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-23",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/"
+    },
+    {
+      "titre": "Hackers start exploiting critical WordPress flaw for code execution",
+      "resume": "Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell commands when accessed. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-23",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/"
+    },
+    {
+      "titre": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
+      "resume": "Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability in the VPN certificate-handling functionality of its Security Gateway …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-23",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/"
+    },
+    {
+      "titre": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
+      "resume": "Two MikroTik RouterOS SSH vulnerabilities chained together let attackers take full administrative control of Internet-exposed routers without a password, SSH key, or completed authentication. The chain, which CERT Polska…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-23",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html"
+    },
+    {
+      "titre": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
+      "resume": "The private email address GitLab gives you for filing issues by email is a credential. Anyone who gets it can email a patch that GitLab commits in your name, to any branch you can push to, including main, and can start C…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-23",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html"
+    },
+    {
+      "titre": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
+      "resume": "Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat actors are using the centralized repository hosted by HashiCorp as a dis…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-23",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html"
+    },
     {
       "titre": "Discord will now automatically estimate your age",
       "resume": "Discord is rolling out a new global age assurance system, seven months after pausing its previous verification measures following backlash from users. Starting today in every country except Australia and the UK, Discord …",
