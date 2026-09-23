@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2026-09-23T10:55:33.810156+00:00",
+  "lastUpdate": "2026-09-23T15:16:19.687204+00:00",
   "items": [
+    {
+      "titre": "Discord will now automatically estimate your age",
+      "resume": "Discord is rolling out a new global age assurance system, seven months after pausing its previous verification measures following backlash from users. Starting today in every country except Australia and the UK, Discord …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-23",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/999305/discord-updated-age-assurance-global-rollout"
+    },
+    {
+      "titre": "YouTube is building AI creator tools that do almost everything for them",
+      "resume": "Part of the job of a content creator is to figure out how to get their work in front of the most people. Cracking - or fighting - the algorithm has historically been a frustration for creators, but YouTube is increasingl…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-23",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests"
+    },
+    {
+      "titre": "This $199 GPS sports watch is repairable, modular, and open-source",
+      "resume": "The Una Watch costs less than most Garmin watches now that its price has been lowered from the Kickstarter offer of $350 to $199, but its modular, repairable design grabbed my attention first. It features a 1.2-inch MIP …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-23",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/999380/una-watch-sports-gps-modular"
+    },
+    {
+      "titre": "One of the best Metroid games for the Switch is 30 percent off",
+      "resume": "Nintendo’s “Customer Appreciation” sale continues through September 26th. It includes discounts on Switch games and accessories, and I thought I’d call out one of my favorite games that’s cheaper than ever. Metroid Prime…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-23",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/999329/metroid-prime-remastered-nintendo-flow-usbc-apple-deal-sale"
+    },
+    {
+      "titre": "YouTube adds new creator tools like video A/B testing, dynamic thumbnails, and live dubbing",
+      "resume": "Many of these tools hinge on using generative AI to try out a variety of different tactics on a video to find what works best.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-23",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/23/youtube-adds-new-creator-tools-like-video-a-b-testing-dynamic-thumbnails-and-live-dubbing/"
+    },
+    {
+      "titre": "YouTube’s new ‘Short Series’ feature brings episodic viewing to Shorts",
+      "resume": "As microdrama apps gain traction, YouTube is clearly betting that episodic short-form storytelling will stick around. And that the format belongs on Shorts. At its Made On YouTube event on Wednesday, the company announce…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-23",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/23/youtubes-new-short-series-feature-brings-episodic-viewing-to-shorts/"
+    },
+    {
+      "titre": "Eight Sleep’s new Pod 6 comes in smaller and solo sizes, starting at $1,999",
+      "resume": "Eight Sleep said the new pod is now 20% faster than the previous generation",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-23",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/23/eight-sleeps-new-pod-6-comes-in-smaller-and-solo-sizes-starting-at-1999/"
+    },
+    {
+      "titre": "3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026",
+      "resume": "3 days to save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second. Make impactful connections with 10,000+ tech leaders. Last day to save is September 25, 11:59 p.m. PT. Register here.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-23",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "titre": "YouTube will let you build your own algorithm with AI",
+      "resume": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-23",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/"
+    },
+    {
+      "titre": "YouTube releases new AI features for creators within its Studio app",
+      "resume": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-23",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/"
+    },
+    {
+      "titre": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+      "resume": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join this exclusive session. Save $200 before September 25, 11:59 p.m. PT.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-23",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/"
+    },
+    {
+      "titre": "Microsoft: September Windows updates break Always On VPN connections",
+      "resume": "Microsoft warned that the September 2026 security updates may also break Always On VPN connections on some Windows 11 systems. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-23",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/"
+    },
+    {
+      "titre": "Arista patches actively exploited VeloCloud Orchestrator zero-day",
+      "resume": "Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-23",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/"
+    },
+    {
+      "titre": "How One Kubernetes YAML Can Hand Over a GCP Organization",
+      "resume": "A Kubernetes user with limited permissions can potentially gain control of an entire Google Cloud organization by exploiting the authority granted to Google Kubernetes Config Connector. Varonis explains how this confused…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-23",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/"
+    },
+    {
+      "titre": "InfraTrust report warns network management systems under attack",
+      "resume": "Attackers are increasingly targeting the management systems used to control enterprise infrastructure, with several critical vulnerabilities actively exploited before or shortly after vendors disclosed them. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-23",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/"
+    },
+    {
+      "titre": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
+      "resume": "Autonomous security agents are getting good at finding bugs. Nobody has a good way to measure how good. Point one at a realistic target and what comes back is a report the agent wrote about itself: confident prose, a lis…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-23",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html"
+    },
+    {
+      "titre": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
+      "resume": "A flaw in cPanel's&nbsp;CalDAV and CardDAV service&nbsp;lets anyone with a cPanel hosting account run code as root and take \"full control of the server,\" the company said on September 22. A&nbsp;second bug in the WP Tool…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-23",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html"
+    },
+    {
+      "titre": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
+      "resume": "Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit designed for Window…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-23",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html"
+    },
+    {
+      "titre": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
+      "resume": "A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server,&nbsp;Cisco Talos said&nbsp;on September 22. The models can choose to steal Windows creden…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-23",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html"
+    },
     {
       "titre": "OpenAI wants to consult elite mathematicians about how to not fumble again",
       "resume": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a ne…",
