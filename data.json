@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2026-09-22T19:59:17.792000+00:00",
+  "lastUpdate": "2026-09-23T10:55:33.810156+00:00",
   "items": [
+    {
+      "titre": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+      "resume": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a ne…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-23",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel"
+    },
+    {
+      "titre": "Discord’s age verification era is upon us, despite community backlash",
+      "resume": "According to Discord, 90% of users will not have to verify their age.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-23",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/22/discords-age-verification-era-is-upon-us-despite-community-backlash/"
+    },
+    {
+      "titre": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+      "resume": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-23",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/"
+    },
+    {
+      "titre": "F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks",
+      "resume": "F5 has released security updates to address a critical BIG-IP APM zero-day vulnerability being exploited in remote code execution attacks. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-23",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/"
+    },
+    {
+      "titre": "Ryuk ransomware member sentenced to 24 months in prison",
+      "resume": "An Armenian man was sentenced to 24 months in prison and 3 years of supervised release for hacking U.S. companies and encrypting their systems in Ryuk ransomware attacks. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-23",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/"
+    },
+    {
+      "titre": "ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants",
+      "resume": "The cyber extortion group known as ShinyHunters on Tuesday claimed it had breached the U.S. Federal Bureau of Investigation and stolen data belonging to current and former employees at the agency. \"We have compromised th…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-23",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html"
+    },
+    {
+      "titre": "Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input",
+      "resume": "A new security vulnerability in Next.js could allow attackers to run code on a server via&nbsp;ImageResponse, the feature that generates Open Graph and other social preview images, Vercel said. The risk applies when an a…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-23",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html"
+    },
+    {
+      "titre": "Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware",
+      "resume": "A Chinese threat actor codenamed UTA0565 has been observed exploiting the recently disclosed Google Chrome-Microsoft Windows exploit chain as zero-days through fake websites. The attacks, detected on September 3 and 4, 2…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-23",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html"
+    },
+    {
+      "titre": "F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers",
+      "resume": "Attackers are exploiting a critical flaw in F5 BIG-IP Access Policy Manager (APM) that lets them run code on a BIG-IP system without logging in, F5 says. The flaw,&nbsp;CVE-2026-94127, affects only systems in which APM s…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-23",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html"
+    },
+    {
+      "titre": "Saudi Arabia’s new Exobot EVs make the Cybertruck look normal",
+      "resume": "The Kingdom of Saudi Arabia is mostly known for its global dominance over petroleum production and oil reserves - not necessarily cars and auto manufacturing, and certainly not electric vehicle production. So it was a li…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-22",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/998791/ceer-ev-saudi-arabia-foxconn-exobot"
+    },
+    {
+      "titre": "Rabbit’s new AI agent doesn’t need an R1 to run",
+      "resume": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 \"agentic operating system\" …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-22",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3"
+    },
+    {
+      "titre": "Paramount will need to release way more movies to make this merger work",
+      "resume": "Now that Paramount has reached a settlement with the 12 states that were suing to block its $110 billion merger with Warner Bros. Discovery (WBD), the studio is even closer to becoming one of the world's biggest producti…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-22",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails"
+    },
+    {
+      "titre": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "resume": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-22",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/"
+    },
+    {
+      "titre": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "resume": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-22",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/"
+    },
+    {
+      "titre": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+      "resume": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-22",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/"
+    },
+    {
+      "titre": "Sweden fines Miljödata $183,000 over breach affecting 2.2 million",
+      "resume": "Sweden's data privacy regulator, IMY, has imposed a $183,000 (SEK 1.8 million) fine on IT systems provider Miljödata for inadequate security measures leading to a breach in August 2025 affecting 2.2 million people. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-22",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/"
+    },
+    {
+      "titre": "Rogue external MFA providers can steal passwords during logins",
+      "resume": "Security researchers developed an attack that lets hackers with privileged access register a rogue external MFA provider that steals users' passwords during legitimate login attempts. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-22",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/"
+    },
     {
       "titre": "San Francisco sues Trump Media for selling early access to Trump posts",
       "resume": "San Francisco is suing the Trump Media &#38; Technology Group, the parent company behind Truth Social, for selling early access to President Donald Trump's posts on the social media site. The lawsuit, filed today in Cali…",
