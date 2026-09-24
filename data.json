@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2026-09-24T15:41:24.300580+00:00",
+  "lastUpdate": "2026-09-24T20:14:26.645997+00:00",
   "items": [
+    {
+      "titre": "Meta is going to let you build games with AI right on your phone",
+      "resume": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that will let you create games with AI prompts: Horizon Create, a mobile app, and Hor…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-24",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games"
+    },
+    {
+      "titre": "Jensen Huang talks about AI and climate change like a supervillain",
+      "resume": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first. The Nvidia CEO discussed the future of energy and AI's impact on our planet in the lat…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-24",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain"
+    },
+    {
+      "titre": "Sadly, this $1,549 RTX 5070-equipped gaming PC is a very good deal",
+      "resume": "While PC component prices remain high, you can save a good bit of money on a system by purchasing a prebuilt desktop. Walmart has a well-equipped CyberPowerPC gaming PC on sale for $1,549, almost $600 off its original pr…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-24",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1000122/cyberpowerpc-gaming-prebuilt-rtx-5070-core-i7-asrock-oled-monitor-deal-sale"
+    },
+    {
+      "titre": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
+      "resume": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during co…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-24",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face"
+    },
+    {
+      "titre": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
+      "resume": "Feather is betting on a customizable, $30,000 platform built for software developers.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-24",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/"
+    },
+    {
+      "titre": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
+      "resume": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-24",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/"
+    },
+    {
+      "titre": "Oracle sends force majeure notice on its New Mexico Stargate data center",
+      "resume": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-24",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/"
+    },
+    {
+      "titre": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+      "resume": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-24",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/"
+    },
+    {
+      "titre": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+      "resume": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-24",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/"
+    },
+    {
+      "titre": "Exposed GitLab project email addresses let attackers push code",
+      "resume": "Private GitLab email addresses that allow developers to push issues or tasks to a project are being deliberately exposed in READMEs, contributing guides, and support pages used to collect bug reports. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-24",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/"
+    },
+    {
+      "titre": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
+      "resume": "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-24",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/"
+    },
+    {
+      "titre": "Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content",
+      "resume": "The \"third-party[.]com\" domain, commonly used as a documentation placeholder, has been observed serving a ClickFix lure to Windows browsers while displaying a harmless decoy to other users. \"third-party[.]com has been a …",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-24",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html"
+    },
+    {
+      "titre": "ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories",
+      "resume": "This week, the dangerous stuff keeps arriving dressed as something boring. An update. A login box. A search answer. A coding tool. A link you have clicked a hundred times before. That is the thread running through the pi…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-24",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html"
+    },
+    {
+      "titre": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
+      "resume": "A OnePlus 15 running the latest OxygenOS can be rooted by a malicious app the owner installs, one that asks for no special permissions. A researcher, Rasmus Moorats,&nbsp;chained two flaws in OnePlus's own software&nbsp;…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-24",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html"
+    },
     {
       "titre": "The vibes are bad for Flock in Washington",
       "resume": "Flock is in the hot seat in Washington, even if its CEO declined to actually face senators at a hearing about its \"AI Surveillance Network\" on Wednesday. \"There's many players in this industry, but there's one name that …",
