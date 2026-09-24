@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2026-09-23T19:56:04.472030+00:00",
+  "lastUpdate": "2026-09-24T11:14:50.111984+00:00",
   "items": [
+    {
+      "titre": "Meta Connect 2026: The 7 biggest announcements",
+      "resume": "Meta announced a slate of new wearables during its annual Meta Connect showcase on Wednesday. The star of the event was the new Meta VR Glasses, which pack virtual reality tech into a lightweight smart glasses-style fram…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-24",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/999593/meta-connect-2026-everything-announced"
+    },
+    {
+      "titre": "Meta is making a standalone Muse AI gadget",
+      "resume": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentation. It looks almost…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-24",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware"
+    },
+    {
+      "titre": "Gemini 4 is almost ready, says new Google DeepMind chief",
+      "resume": "Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. Speaking with The Information during his first media appearance as the leader of…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-24",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu"
+    },
+    {
+      "titre": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+      "resume": "The tiny hardware device creates another mobile home for its AI agent Muse.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-24",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/"
+    },
+    {
+      "titre": "Everything new coming to Meta’s AI agent Muse",
+      "resume": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-24",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/"
+    },
+    {
+      "titre": "Microsoft fixes bug that broke Windows File History backup feature",
+      "resume": "Microsoft has fixed a known issue that breaks the built-in File History backup feature on some Windows systems after installing the September 2026 security updates. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-24",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/"
+    },
+    {
+      "titre": "OpenAI hacked Australian Medicare govt site, probed data providers",
+      "resume": "OpenAI agents targeted public data providers in multiple countries, probing some for vulnerabilities and exploiting a security weakness in an Australian government portal while performing information-retrieval tasks as p…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-24",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/"
+    },
+    {
+      "titre": "CISA: Ransomware gangs now exploiting critical TeamCity flaw",
+      "resume": "​The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies on Wednesday that ransomware gangs are now also exploiting a critical JetBrains TeamCity vulnerability patched in July. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-24",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/"
+    },
+    {
+      "titre": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
+      "resume": "Threat actors have begun to actively exploit a critical security flaw in WordPress within hours of public disclosure. The vulnerability in question is CVE-2026-87902 (CVSS score: 9.2), which could allow an unauthenticate…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-24",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html"
+    },
+    {
+      "titre": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords",
+      "resume": "Cybersecurity researchers have disclosed details of an active TeamFiltration campaign codenamed UNK_CondorFiltration that has targeted over 5,700 accounts across 28 Microsoft 365 tenants. According to Proofpoint, the act…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-24",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html"
+    },
+    {
+      "titre": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
+      "resume": "An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Minister&nbsp;Anthony Albanese said. The portal publishes aggregate figures, …",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-24",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html"
+    },
+    {
+      "titre": "17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360",
+      "resume": "ClickFix has become the most common way attackers get into enterprise networks, and it does it without an exploit, an attachment, or a file on disk. Our new global threat report traces the technique from a novelty in lat…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-24",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html"
+    },
+    {
+      "titre": "Meta’s next VR device isn’t a headset — it’s glasses",
+      "resume": "Meta is launching new VR hardware: a pair of glasses. The new Meta VR Glasses sit on your ears like a typical pair of glasses instead of being strapped over your head, but they still have immersive displays for watching …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-23",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on"
+    },
+    {
+      "titre": "Meta is trying VR glasses (again), this time with more IMAX",
+      "resume": "Meta's return to the VR glasses realm comes with a promising combination of light weight form factor and enhanced entertainment options.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-23",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/"
+    },
+    {
+      "titre": "Anthropic says its biology lab has already found something big",
+      "resume": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-23",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/"
+    },
+    {
+      "titre": "Meta introduces camera-free AI glasses",
+      "resume": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-23",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/"
+    },
+    {
+      "titre": "Placeholder domain used in dev docs now serves ClickFix attacks",
+      "resume": "The \"third-party.com\" domain, commonly used as a placeholder in developer documentation and code examples, is serving a fake Cloudflare verification page that attempts to trick Windows users into executing PowerShell com…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-23",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/"
+    },
     {
       "titre": "Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison",
       "resume": "Sen. Bernie Sanders (I-VT) and Rep. Greg Casar (D-TX) have introduced new legislation that would ban anyone from developing artificial superintelligence - a technology the bill describes as capable of the \"destruction or…",
