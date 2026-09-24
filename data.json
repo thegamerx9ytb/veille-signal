@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2026-09-24T11:14:50.111984+00:00",
+  "lastUpdate": "2026-09-24T15:41:24.300580+00:00",
   "items": [
+    {
+      "titre": "The vibes are bad for Flock in Washington",
+      "resume": "Flock is in the hot seat in Washington, even if its CEO declined to actually face senators at a hearing about its \"AI Surveillance Network\" on Wednesday. \"There's many players in this industry, but there's one name that …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-24",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/policy/1000005/flock-senate-hearing"
+    },
+    {
+      "titre": "Google is sending an AI satellite into space next week",
+      "resume": "Google is getting ready to launch a satellite with its AI processors to test how well they perform in space, as reported earlier by The New York Times. The move is part of Google's Project Suncatcher, the company's exper…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-24",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher"
+    },
+    {
+      "titre": "Why can’t we just keep rogue AIs off the internet?",
+      "resume": "AI agents keep getting loose, escaping supposedly secure tests to attack real-world targets, commandeer obscure wikis, and leave instructions for other agents to follow. Researchers are testing these systems precisely be…",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-09-24",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents"
+    },
+    {
+      "titre": "You might not miss what Nikon removed from its cheaper full-frame Z5 IIC",
+      "resume": "Nikon waited five years to update its full-frame Z5 camera to the Z5 II, but today it announced a new variant of last year's upgrade that removes features instead of introducing improvements in order to make it more affo…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-24",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1000037/nikon-z5-iic-full-frame-digital-camera-ibis-mechanical-shutter"
+    },
+    {
+      "titre": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
+      "resume": "Zach Yadegari joins the Builders Stage at TechCrunch Disrupt 2026 to share how he capitalized on viral growth. Save up to $200 before September 25. Save 50% on a second pass.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-24",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/"
+    },
+    {
+      "titre": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
+      "resume": "Ando has raised $20 million in pre-seed and seed funding from investors including Accel, Index Ventures, and Emergence.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-24",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/"
+    },
+    {
+      "titre": "Lovable’s annualized revenue crosses $600M as vibe coding takes off",
+      "resume": "Lovable co-founder Fabian Hedin said that apps created on the platform are getting nearly a billion monthly views each month.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-24",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/"
+    },
+    {
+      "titre": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
+      "resume": "Leaders from Waabi, Shield AI, and General Motors join the Real World AI Stage at TechCrunch Disrupt 2026 to talk building AI. Save up to $200 by Sept. 25, 11:59 p.m. PT. Get a second pass at 50% off.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-24",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "titre": "Windows 11 KB5124010 update released with 46 changes and fixes",
+      "resume": "Microsoft released the KB5124010 September 2026 non-security preview update for Windows 11 24H2 and 25H2, with 46 changes including Bluetooth improvements and the ability to remap the Copilot key. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-24",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124010-update-released-with-46-changes-and-fixes/"
+    },
+    {
+      "titre": "Hackers now exploit critical Roundcube flaw in code injection attacks",
+      "resume": "A high-severity Roundcube Webmail vulnerability patched in May is now being actively exploited in attacks, according to the Canadian Centre for Cyber Security. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-24",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/"
+    },
+    {
+      "titre": "FedRAMP VDR & VER: Daily Scans Are Only the Beginning",
+      "resume": "FedRAMP's new VDR and VER requirements make vulnerability management more continuous, with faster scanning, tighter remediation deadlines, and stronger evidence requirements. Anecdotes explains why the December 7 deadlin…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-24",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/"
+    },
+    {
+      "titre": "Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore",
+      "resume": "AI coding agents are changing how quickly developers can build and ship software as well as how quickly credentials can become exposed. According to GitGuardian’s 2026 State of Secrets Sprawl Report, commits identified a…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-24",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html"
+    },
+    {
+      "titre": "Corp MDM Spyware Targets Logistics Firms, Steals New SMS and Redirects Calls",
+      "resume": "The logistics sector has become the target of a new malicious cyber campaign that distributes an Android spyware codenamed Corp MDM. According to Have I Been Squatted, the campaign uses fake Google Play pages branded as …",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-24",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html"
+    },
+    {
+      "titre": "Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer",
+      "resume": "An active ClickFix campaign has been observed compromising legitimate Ukrainian business websites to inject bogus Cloudflare verification pages and trick victims into downloading a previously undocumented information ste…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-24",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html"
+    },
     {
       "titre": "Meta Connect 2026: The 7 biggest announcements",
       "resume": "Meta announced a slate of new wearables during its annual Meta Connect showcase on Wednesday. The star of the event was the new Meta VR Glasses, which pack virtual reality tech into a lightweight smart glasses-style fram…",
