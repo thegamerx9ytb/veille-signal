@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2026-09-25T11:19:58.272427+00:00",
+  "lastUpdate": "2026-09-25T15:42:58.575662+00:00",
   "items": [
+    {
+      "titre": "Insta360 conquered 360 cameras — now it’s eyeing glasses",
+      "resume": "It's right there in the name: \"Insta360\" makes 360-degree cameras, ones that film every angle simultaneously so you can shoot first and frame later. It didn't invent the idea, but Insta360 has become so synonymous with 3…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-25",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/999489/insta360-smart-glasses-mirrorless-interview"
+    },
+    {
+      "titre": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
+      "resume": "A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats. My phone buzzed in my pocket; I ignored it. A moment later, it buzzed again. I pulled it out, g…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-25",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review"
+    },
+    {
+      "titre": "Gaming’s biggest horror series are more vital than ever",
+      "resume": "For the third year in a row, I've been scared out of my wits by a new Silent Hill game. First it was the modern remake of Silent Hill 2, then the Japan-set spinoff Silent Hill F. Now I find myself slowly crawling through…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-25",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/1000595/silent-hill-townfall-resident-evil"
+    },
+    {
+      "titre": "Cricut&#8217;s new compact crafter prints, cuts, and laminates stickers",
+      "resume": "Cricut announced its first crafting machines with printing capabilities that are primarily designed as all-in-one solutions for turning photos and other images into pre-cut stickers. The Cricut StickerPix Print plus Cut …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-25",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1000655/cricut-sticker-pix-print-cut-crafting-printer-machines-stickers"
+    },
+    {
+      "titre": "Tesla finally moves to electrify trucking after a decade of work and delays",
+      "resume": "Tesla's Semi truck, with a 500-mile range, is about to hit the road in big numbers, with the company saying it plans to make 50,000 units a year.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-25",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/25/tesla-finally-moves-to-electrify-trucking-after-a-decade-of-work-and-delays/"
+    },
+    {
+      "titre": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5/5 to attend: Leave further ahead.",
+      "resume": "Last 24 hours to save up to $200 on your TechCrunch Disrupt 2026 pass. Leave the event further in your startup's trajectory than where you started. Don't miss your chance to save and to push the needle.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-25",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-5-to-attend/"
+    },
+    {
+      "titre": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+      "resume": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-25",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/"
+    },
+    {
+      "titre": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+      "resume": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development Save up to $200 on your pass before…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-25",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/"
+    },
+    {
+      "titre": "Anthropic’s founders seek voting control ahead of IPO",
+      "resume": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-25",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/"
+    },
+    {
+      "titre": "Rydox marketplace admin pleads guilty, faces 22 years in prison",
+      "resume": "A Kosovar national has pleaded guilty to operating Rydox, a large illegal online marketplace that sold stolen personal information, login credentials, credit card details, and cybercrime tools. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-25",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/"
+    },
+    {
+      "titre": "Microsoft plans to deprecate Windows Deployment Services",
+      "resume": "Microsoft announced it will deprecate the Windows Deployment Services (WDS) server role starting with the next Windows Server release. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-25",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/"
+    },
+    {
+      "titre": "With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance",
+      "resume": "AI agents can operate through human credentials and take actions that existing SOC 2 controls may not distinguish from human activity. Token Security explains why SOC 2 needs to adapt to address the security gaps created…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-25",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/"
+    },
+    {
+      "titre": "OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex",
+      "resume": "OpenAI appears to be preparing a new ChatGPT Pro Max subscription that could cost $500 per month, but it's unclear when it'll begin rolling out. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-25",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/"
+    },
+    {
+      "titre": "The SOC Doesn't Need to Start Over with Every Alert",
+      "resume": "Security leaders keep debating whether AI will produce an entirely new class of cyberattack. The nearer change is quieter and already visible: AI has made a failed attack cheap to retry. The routine version looks like th…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-25",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html"
+    },
     {
       "titre": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
       "resume": "Remember when Microsoft wanted everyone to know that \"Copilot Plus PCs\" were the ones to get, because those were the PCs that that'd have enough built-in AI muscle to get things done? Two and a half years later, Microsof…",
