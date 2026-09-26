@@ -1,6 +1,78 @@
 {
-  "lastUpdate": "2026-09-26T10:56:23.589161+00:00",
+  "lastUpdate": "2026-09-26T14:51:57.482445+00:00",
   "items": [
+    {
+      "titre": "Pokémon card resellers have turned collecting into an online blood sport",
+      "resume": "Earlier this month, Pok&#233;mon card content creator Natalie Roush posted a video to her YouTube and Instagram pages that enraged the larger collection community. In the now-deleted video, Roush shows off two premium bo…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-26",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/1001002/pokemon-30th-celebration-scalping-resellers"
+    },
+    {
+      "titre": "Control Resonant is a great game — it’s even better when you read everything",
+      "resume": "In Control Resonant, the entire world is at stake. But that didn't stop the diligent employees of the Federal Bureau of Control from filing reams of paperwork, and it didn't stop me from reading everything I could find, …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-26",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/1000818/control-resonant-reading-collectibles-documents-logs"
+    },
+    {
+      "titre": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+      "resume": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-26",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising"
+    },
+    {
+      "titre": "I created an interactive digital avatar of myself — and you can talk to it",
+      "resume": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-26",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/"
+    },
+    {
+      "titre": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
+      "resume": "OpenAI says its AI agents uploaded user-provided images to third-party image-hosting services while carrying out research and evaluation tasks. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-26",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/"
+    },
+    {
+      "titre": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active",
+      "resume": "Two third-party GitHub Actions previously compromised in a Mini Shai-Hulud campaign were re-enabled by their maintainer and remained accessible for more than a week despite still pointing to malicious code. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-26",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/"
+    },
+    {
+      "titre": "Zero Trust for AI Agents Starts With Fixing Zero Visibility",
+      "resume": "The way we talk about AI agents is shifting, and the way we implement them requires an even more fundamental shift. While earlier discourse focused on how quickly organizations could stand up agents and how much producti…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-26",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html"
+    },
+    {
+      "titre": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
+      "resume": "Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors globally. The ShinyHunters-linked activity involves the weaponization…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-26",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html"
+    },
     {
       "titre": "Can &#8216;eSUV&#8217; e-bikes really go from trail to town?",
       "resume": "Have you ever wanted an electric bike that easily transitions from the drudgery of urban asphalt to adventures in gravel and dirt? That's what a subclass of so-called \"electric SUV\" (eSUV) e-bikes claims to do, with thei…",
