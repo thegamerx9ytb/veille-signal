@@ -1,6 +1,114 @@
 {
-  "lastUpdate": "2026-09-25T20:12:23.562319+00:00",
+  "lastUpdate": "2026-09-26T10:56:23.589161+00:00",
   "items": [
+    {
+      "titre": "Can &#8216;eSUV&#8217; e-bikes really go from trail to town?",
+      "resume": "Have you ever wanted an electric bike that easily transitions from the drudgery of urban asphalt to adventures in gravel and dirt? That's what a subclass of so-called \"electric SUV\" (eSUV) e-bikes claims to do, with thei…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-26",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox"
+    },
+    {
+      "titre": "At Meta Connect, the company’s smart glasses were everywhere",
+      "resume": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-26",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/"
+    },
+    {
+      "titre": "Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack",
+      "resume": "Kiteworks (formerly Accellion) is urging customers to shut down their systems as a precautionary measure for nine hours over the weekend after it received threat intelligence about an imminent cyber attack. \"Kiteworks re…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-26",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html"
+    },
+    {
+      "titre": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
+      "resume": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, citing eviden…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-26",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html"
+    },
+    {
+      "titre": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
+      "resume": "Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator accounts and take control of…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-26",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html"
+    },
+    {
+      "titre": "Automattic has a new board after failed attempt to put CEO on leave",
+      "resume": "After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-25",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/"
+    },
+    {
+      "titre": "Meta opens early access program for new Muse features",
+      "resume": "Anyone interested in joining has to ask Muse to put them on the list.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-25",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/"
+    },
+    {
+      "titre": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+      "resume": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-25",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/"
+    },
+    {
+      "titre": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+      "resume": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-25",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/"
+    },
+    {
+      "titre": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
+      "resume": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&#038;T customers in 2024 was sentenced to 70 months in …",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-25",
+      "source": "Krebs on Security",
+      "lien": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/"
+    },
+    {
+      "titre": "ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw",
+      "resume": "The Clop ransomware gang has moved its data leak site to a new Tor address after confirming its previous server was compromised and defaced through an unpatched Grav CMS flaw that BleepingComputer has learned is an unaut…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-25",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/"
+    },
+    {
+      "titre": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks",
+      "resume": "Secure file-sharing software company Kiteworks is urging customers worldwide to temporarily shut down their servers on Saturday for a six-hour window after receiving threat intelligence warning of a potentially imminent …",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-25",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/"
+    },
     {
       "titre": "Tesla&#8217;s Optimus robot is going through growing pains",
       "resume": "Hitting its goal of making 20,000 Optimus robots per week is reportedly proving tricky for Tesla. The Information reports that Tesla produced \"several hundred robots a week\" last month, after it repurposed its Model S an…",
