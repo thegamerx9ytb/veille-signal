@@ -1,6 +1,42 @@
 {
-  "lastUpdate": "2026-09-27T15:30:05.930257+00:00",
+  "lastUpdate": "2026-09-27T19:56:44.952773+00:00",
   "items": [
+    {
+      "titre": "OpenAI agents tried to ‘bruteforce’ a UN website",
+      "resume": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-27",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website"
+    },
+    {
+      "titre": "TechCrunch Mobility: AV companies pick their lanes",
+      "resume": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-27",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/"
+    },
+    {
+      "titre": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "resume": "\"AI is the devil and I its maker.\"",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-27",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/"
+    },
+    {
+      "titre": "Citrix confirms two NetScaler RCE zero-days exploited in attacks",
+      "resume": "Citrix has confirmed that two critical NetScaler remote code execution vulnerabilities, tracked as CVE-2026-88771 and CVE-2026-88772, are being exploited in attacks and that it has released security updates to fix the fl…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-27",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/"
+    },
     {
       "titre": "The smart home graveyard is getting crowded",
       "resume": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the fragile state of your connected devices, follow Jennifer Pattison Tuohy. The Stepback arrives in our subscr…",
