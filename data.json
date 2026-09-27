@@ -1,6 +1,60 @@
 {
-  "lastUpdate": "2026-09-27T11:33:13.918423+00:00",
+  "lastUpdate": "2026-09-27T15:30:05.930257+00:00",
   "items": [
+    {
+      "titre": "The smart home graveyard is getting crowded",
+      "resume": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the fragile state of your connected devices, follow Jennifer Pattison Tuohy. The Stepback arrives in our subscr…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-27",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard"
+    },
+    {
+      "titre": "Googlebooks might be the real deal",
+      "resume": "Hi, friends! Welcome to Installer No. 145, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I'm happy to be done traveling for a bit, and also you can read all the old editions at t…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-27",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1000424/googlebooks-meta-ray-ban-audio-control-resonant-microsoft-surface-mouse"
+    },
+    {
+      "titre": "Why OLPC’s $100 laptop never stood a chance",
+      "resume": "The idea was big, exciting, and inspiring: What if we could get every kid in the world access to a computer? For a bunch of thinkers and executives in Silicon Valley, it felt like the way to fix everything. But the One L…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-27",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance"
+    },
+    {
+      "titre": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises",
+      "resume": "I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and noise cancellation to comfort and battery life.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-27",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/"
+    },
+    {
+      "titre": "Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors",
+      "resume": "Anthropic has just announced a new Claude Marketplace, and it brings all AI-related tools into one place, including plugins, connectors, agents, and more. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-27",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/"
+    },
+    {
+      "titre": "Cloudflare fixes Containers cross-tenant flaw exposing customer data",
+      "resume": "Cloudflare has fixed a vulnerability in Containers and Sandboxes that allowed customers with a Workers Paid account to recover residual data from other customers' containers on the same physical host. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-27",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/"
+    },
     {
       "titre": "PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair",
       "resume": "PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that lets gym-goers measure their VO₂ max and ot…",
