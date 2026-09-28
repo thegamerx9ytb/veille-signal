@@ -1,6 +1,150 @@
 {
-  "lastUpdate": "2026-09-27T19:56:44.952773+00:00",
+  "lastUpdate": "2026-09-28T13:07:13.964695+00:00",
   "items": [
+    {
+      "titre": "Honor’s Magic 9 Pro Max has a big camera and a bigger battery",
+      "resume": "Honor launches its new Magic 9 flagship phones in China today, and the 9 Pro Max features a design revamp, a capable camera, and a colossal battery. This is Honor's first flagship launch - Robot Phone aside - since it an…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-28",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1001219/honor-magic-9-pro-max-arri-cameras-snapdragon-battery-design-china"
+    },
+    {
+      "titre": "SpaceX preps next-gen Starlink as Amazon’s competitor stalls",
+      "resume": "SpaceX is gearing up for a monumental flight today that's sure to be closely watched by Amazon. If successful, SpaceX will deploy its first Starlink V3 satellites, which tout meaningful upgrades to the ever-expanding Sta…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-28",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/science/1001259/spacex-starlink-satellites-starship-amazon-leo"
+    },
+    {
+      "titre": "Philips’ motion-tracking smart toothbrush uses AI to make you a better brusher",
+      "resume": "First announced in July with an expected limited launch later this year, the Philips Sonicare Next-Generation DiamondClean 9900 Prestige smart toothbrush is now available in Europe and the US, with a broader global rollo…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-28",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1000924/philips-sonicare-next-generation-diamondclean-9900-prestige-smart-toothbrush"
+    },
+    {
+      "titre": "Truecaller takes its scam intelligence to the open web as it looks beyond caller ID",
+      "resume": "Truecaller finds a new way to reach users as pressure grows on its traditional caller ID business in India, its biggest market.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-28",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/"
+    },
+    {
+      "titre": "Ocean surveillance startup Quartermaster raises another $140M",
+      "resume": "The tech enables real-time awareness for what Quartermaster calls the “largest blind spot on Earth.”",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-28",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/28/ocean-surveillance-startup-quartermaster-raises-another-140m/"
+    },
+    {
+      "titre": "CISA orders feds to patch exploited Citrix flaws by Wednesday",
+      "resume": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies over the weekend to secure their systems against attacks exploiting two critical Citrix NetScaler vulnerabilities. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-28",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/"
+    },
+    {
+      "titre": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms",
+      "resume": "A former U.S. Army soldier has been sentenced to 70 months in prison for hacking and extorting at least 10 U.S. technology and telecommunications companies between April 2023 and December 2024. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-28",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/"
+    },
+    {
+      "titre": "Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist",
+      "resume": "Cryptocurrency exchange Bitget has resumed Bitcoin withdrawals suspended after suspected North Korean hackers breached its systems last week and stole over $350 million. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-28",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/"
+    },
+    {
+      "titre": "CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally",
+      "resume": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Sunday added two critical Citrix NetScaler ADC and Gateway flaws to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active explo…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-28",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html"
+    },
+    {
+      "titre": "JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources",
+      "resume": "The threat actor known as JADEPUFFER has been observed orchestrating destructive actions within a Microsoft Azure environment using compromised service principals. Microsoft, which is tracking the activity under the name…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-28",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html"
+    },
+    {
+      "titre": "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent",
+      "resume": "Cybersecurity researchers have disclosed details of a new botnet malware called Carbonato that's targeting exposed Docker daemons to deploy an open-source artificial intelligence (AI) agent framework called Hermes Agent.…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-28",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html"
+    },
+    {
+      "titre": "Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI",
+      "resume": "AI agents are moving into production faster than security teams can govern them. They are connecting to apps, handling data, calling APIs, and acting across business systems—often without the same controls applied to hum…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-28",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html"
+    },
+    {
+      "titre": "Out of the Park Baseball lets me enjoy baseball even when the Mets suck",
+      "resume": "If you were to ask me what game or game series I've sunk the most time into, the answer would be easy: Out of the Park Baseball (OOTP). I have spent roughly 2,300 hours, according to Steam, playing various editions of th…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-27",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review"
+    },
+    {
+      "titre": "Can Muse overcome Meta’s trust issues?",
+      "resume": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-27",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/"
+    },
+    {
+      "titre": "Anthropic’s CEO is about to have dinner with President Trump",
+      "resume": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-27",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/"
+    },
+    {
+      "titre": "OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email",
+      "resume": "OpenAI is testing a new always-on assistant called \"o\", and references to the unannounced feature briefly showed up on the company's website. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-27",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/"
+    },
     {
       "titre": "OpenAI agents tried to ‘bruteforce’ a UN website",
       "resume": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise…",
