@@ -1,6 +1,114 @@
 {
-  "lastUpdate": "2026-09-28T13:07:13.964695+00:00",
+  "lastUpdate": "2026-09-28T18:24:14.951898+00:00",
   "items": [
+    {
+      "titre": "Volkswagen replaces ID.4 with all-electric Tiguan",
+      "resume": "In a widely expected move, Volkswagen announced Monday that it will replace the recently retired ID.4 crossover with the upcoming ID.Tiguan. The decision is an acknowledgment by the German automaker that its more recogni…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-28",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/1001418/volkswagen-replaces-id4-id-tiguan-ev"
+    },
+    {
+      "titre": "Walmart won’t hike prices based on your shopping history, CEO says",
+      "resume": "Walmart says it won't change product prices based on your personal information or the time of day, as reported earlier by The Wall Street Journal. In a letter to customers, Walmart CEO John Furner writes that the company…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-28",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1001492/walmart-dynamic-pricing-digital-shelf-labels"
+    },
+    {
+      "titre": "OpenAI keeps bulldozing mathematicians",
+      "resume": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now trying to do better…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-28",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group"
+    },
+    {
+      "titre": "Florida seeks a ban on ChatGPT acting like a person",
+      "resume": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months after Florida sued the AI company over safety concerns. According to Uthmeier, use…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-28",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids"
+    },
+    {
+      "titre": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+      "resume": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-28",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/"
+    },
+    {
+      "titre": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+      "resume": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-28",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/"
+    },
+    {
+      "titre": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+      "resume": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-28",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/"
+    },
+    {
+      "titre": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+      "resume": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-28",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/"
+    },
+    {
+      "titre": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
+      "resume": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the sus…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-28",
+      "source": "Krebs on Security",
+      "lien": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/"
+    },
+    {
+      "titre": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking",
+      "resume": "Infostealer logs exposed AI account credentials and sessions tied to more than 80,000 corporate domains, creating risks ranging from stolen conversations to LLMjacking. SOCRadar examines the growing market for stolen AI …",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-28",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/"
+    },
+    {
+      "titre": "JadePuffer agentic AI attacks target Azure, destroy cloud resources",
+      "resume": "The JadePuffer ransomware operator is targeting Azure tenants with agent-driven attacks that conduct reconnaissance, steal credentials, and destroy core components. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-28",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/"
+    },
+    {
+      "titre": "⚡ Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats",
+      "resume": "A domain used as harmless placeholder text showed up in roughly 1,700 repositories. Then somebody registered it and started serving malicious lures. That is the kind of week this was: forgotten assumptions turning into l…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-28",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html"
+    },
     {
       "titre": "Honor’s Magic 9 Pro Max has a big camera and a bigger battery",
       "resume": "Honor launches its new Magic 9 flagship phones in China today, and the 9 Pro Max features a design revamp, a capable camera, and a colossal battery. This is Honor's first flagship launch - Robot Phone aside - since it an…",
