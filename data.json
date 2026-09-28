@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2026-09-28T18:24:14.951898+00:00",
+  "lastUpdate": "2026-09-28T22:22:47.669466+00:00",
   "items": [
+    {
+      "titre": "Trump finalizes rule to make cars less fuel efficient",
+      "resume": "The US Department of Transportation finalized its plans today to weaken fuel efficiency standards, calling it \"among the largest deregulatory actions under the second Trump Administration.\" It's a nail in the coffin for …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-28",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/news/1001610/trump-weakens-fuel-efficiency-standards"
+    },
+    {
+      "titre": "OpenAI’s AI agents need to catch up",
+      "resume": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, i…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-28",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent"
+    },
+    {
+      "titre": "Bose starts adding Auracast to its headphones",
+      "resume": "A new firmware update for the $449 Bose QuietComfort Ultra Headphones Gen 2 adds support for Bluetooth LE Audio and Auracast as beta features. The flagship Ultra headphones are the first from Bose to support the audio sh…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-28",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1001522/bose-headphones-get-auracast-support"
+    },
+    {
+      "titre": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+      "resume": "AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched in 2024 and was val…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-28",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal"
+    },
+    {
+      "titre": "Tesla delays Roadster 2 event again due to bad weather",
+      "resume": "Tesla says the event \"can only be held outdoors,\" as it's expected to show the car flying in some form using SpaceX thrusters.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-28",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/"
+    },
+    {
+      "titre": "Nvidia launches new platform for reining in rogue AI agents",
+      "resume": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introd…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-28",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/"
+    },
+    {
+      "titre": "Shopify opens checkout to browser-based AI agents",
+      "resume": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-28",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/"
+    },
+    {
+      "titre": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+      "resume": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-28",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/"
+    },
+    {
+      "titre": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+      "resume": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-28",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/"
+    },
+    {
+      "titre": "Over 16,000 Supabase databases expose PII, passwords, auth tokens",
+      "resume": "Researchers found more than 16,000 misconfigured Supabase databases exposing readable tables with personally identifiable information, passwords, or authentication tokens. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-28",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/"
+    },
+    {
+      "titre": "Dutch police confirm arrest in ShinyHunters hacking investigation",
+      "resume": "Dutch police have confirmed that a 24-year-old Amsterdam man arrested earlier this month was detained as part of an investigation into the ShinyHunters hacking group. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-28",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/"
+    },
+    {
+      "titre": "Times Car confirms data breach affecting 6.6 million user accounts",
+      "resume": "Japanese car-sharing service Times Car has confirmed that approximately 6.6 million user accounts were compromised in a cyberattack disclosed late last week. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-28",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/"
+    },
+    {
+      "titre": "Japan's Keio confirms ransomware attack disrupted business systems",
+      "resume": "Keio Corporation (Keio), a major private railway operator in Japan, said its network was hit by a ransomware attack over the weekend, disrupting some of its business systems. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-28",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/"
+    },
+    {
+      "titre": "Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M",
+      "resume": "The attacker who stole about $388 million from the cryptocurrency exchange Bitget gained access through a vulnerability in a third-party security product the exchange used, Bitget said on Monday. The attacker exploited t…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-28",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html"
+    },
+    {
+      "titre": "IAM for AI agents: A Practical Enterprise Framework",
+      "resume": "What is IAM for AI agents? AI agents authenticate, invoke tools, and act across enterprise systems with delegated authority. IAM for AI Agents is the identity-control architecture that governs those actors. This guide co…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-28",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/iam-for-ai-agent.html"
+    },
+    {
+      "titre": "Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks",
+      "resume": "Hackers have used a malware family called NeedyMantis to maintain long-term access to networks they had already breached, Microsoft said in&nbsp;a technical analysis. The malware has been seen in a small number of target…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-28",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html"
+    },
+    {
+      "titre": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
+      "resume": "Apple has released security updates to address a vulnerability in older versions of iOS, iPadOS, and macOS that it said may have been exploited in targeted attacks. The vulnerability, tracked as CVE-2026-86950, refers to…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-28",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html"
+    },
     {
       "titre": "Volkswagen replaces ID.4 with all-electric Tiguan",
       "resume": "In a widely expected move, Volkswagen announced Monday that it will replace the recently retired ID.4 crossover with the upcoming ID.Tiguan. The decision is an acknowledgment by the German automaker that its more recogni…",
