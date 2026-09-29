@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2026-09-29T16:46:39.840611+00:00",
+  "lastUpdate": "2026-09-29T21:13:15.719263+00:00",
   "items": [
+    {
+      "titre": "Protesters gather at OpenAI’s DevDay",
+      "resume": "On Tuesday, OpenAI's annual DevDay event began with protests, flyers, and chants. \"Sam Altman, get off it, put people over profit,\" said a group of protesters marching in a circle in front of a series of signs that spell…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-29",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers"
+    },
+    {
+      "titre": "OpenAI launches Dots, its Muse competitor",
+      "resume": "OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do nearly anything\" acr…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-29",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor"
+    },
+    {
+      "titre": "Razer’s low-latency wireless gaming keyboard is almost half off",
+      "resume": "Woot has the Razer DeathStalker V2 Pro TKL on sale for $130, a significant discount from its usual $219.99 price point. This keyboard is built for competitive gaming, with a low latency 2.4GHz wireless connection, and lo…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-29",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1002087/razer-deathstalker-v2-pro-tkl-witcher-3-remastered-deal-sale"
+    },
+    {
+      "titre": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
+      "resume": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of a dozen interviews with AI researchers, including cur…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-29",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews"
+    },
+    {
+      "titre": "Apple Pay set to launch in India with Axis Bank today, sources say",
+      "resume": "Some of India's largest banks are holding off on supporting Apple Pay initially.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-29",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/"
+    },
+    {
+      "titre": "More Ways to Disrupt: New 2026 Side Events from KOTRA, WayFounder, Enterprise Ireland, SafetyWing + Descope",
+      "resume": "Disrupt doesn’t end when you leave Moscone West. 👀 Founder dinners, investor meetups, happy hours, workshops, roundtables and more are taking over San Francisco during Disrupt Week. See what’s happening, find your people…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-29",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/29/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterprise-ireland-safetywing-descope/"
+    },
+    {
+      "titre": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+      "resume": "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-29",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/"
+    },
+    {
+      "titre": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+      "resume": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-29",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/"
+    },
+    {
+      "titre": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+      "resume": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-29",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/"
+    },
+    {
+      "titre": "OpenAI’s latest features take direct aim at the app store model",
+      "resume": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-29",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/"
+    },
+    {
+      "titre": "Former US Air Force members sent to prison over BEC attacks",
+      "resume": "Two former members of the United States Air Force were sentenced to a combined 189 months in federal prison for their roles in a multi-year series of business email compromise (BEC) scams and phishing campaigns. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-29",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/former-us-air-force-members-sent-to-prison-over-bec-attacks/"
+    },
+    {
+      "titre": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
+      "resume": "Cybersecurity firms say attackers exploited the Citrix NetScaler CVE-2026-88772 zero-day to deploy custom web shells and tunneling malware, gain root access, steal credentials, and spread into internal networks. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-29",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/"
+    },
+    {
+      "titre": "FBI tells ShinyHunters members to turn themselves in after recent arrest",
+      "resume": "The FBI is warning members of the ShinyHunters extortion group to turn themselves in after Dutch police arrested a man the bureau described as one of the group's alleged leaders. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-29",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/"
+    },
+    {
+      "titre": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware",
+      "resume": "Custom variants of OpenAI's ChatGPT promoted in sponsored Google results are directing unsuspecting users to malicious sites that use ClickFix attacks to deliver malware. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-29",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/"
+    },
+    {
+      "titre": "Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor",
+      "resume": "Russian state hackers known as Star Blizzard have been using fake event invitations to trick people into installing a backdoor on their Windows computers,&nbsp;according to Microsoft. The campaigns, aimed at people and o…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-29",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html"
+    },
+    {
+      "titre": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
+      "resume": "A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, language runtimes, and the…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-29",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html"
+    },
+    {
+      "titre": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
+      "resume": "An attacker used stolen passwords of staff at France's tax administration to take tax data on hundreds of thousands of taxpayers and businesses in June and July. Neither the tax administration nor France's national cyber…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-29",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html"
+    },
     {
       "titre": "This might be our first look at Google’s Pixel 11A",
       "resume": "Google isn't making any significant design changes to its upcoming midrange Pixel update, judging by the leaks shared by Android Headlines. The image renders made by OnLeaks are potentially our first look at the Pixel 11…",
