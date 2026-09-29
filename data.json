@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2026-09-28T22:22:47.669466+00:00",
+  "lastUpdate": "2026-09-29T12:16:53.287196+00:00",
   "items": [
+    {
+      "titre": "Nothing’s new flagship Headphone 1 Pro put you in the studio",
+      "resume": "Nothing has been on a bit of an audio tear this year, releasing the solid Headphone A and the surprisingly good Ear 3A earbuds. The Headphone A released at $199, while the earbuds are under $100, leaving room for somethi…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-29",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1001797/nothings-headphone-1-pro-review"
+    },
+    {
+      "titre": "Your car’s data privacy problems are worse than you think",
+      "resume": "You hear it all the time: Modern cars are basically smartphones on wheels. And just like the phone in your pocket, the car in your driveway collects vast amounts of data - tracking where you drive, how fast you accelerat…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-29",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/1001463/car-data-privacy-northeastern-study-honda-gm-ford"
+    },
+    {
+      "titre": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
+      "resume": "Atomic's agentic supply chain software is now being used by companies like DoorDash and HelloFresh.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-29",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/"
+    },
+    {
+      "titre": "Protego Ventures closes debut $125 million fund for Israeli defense tech",
+      "resume": "Protego Ventures, the first and largest dedicated defense tech VC in Israel, just completed its final $125 million closing, TechCrunch learned exclusively.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-29",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/"
+    },
+    {
+      "titre": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+      "resume": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-29",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/"
+    },
+    {
+      "titre": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+      "resume": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-29",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/"
+    },
+    {
+      "titre": "Apple patches CoreGraphics zero-day flaw exploited in attacks",
+      "resume": "Apple released security updates to fix a zero-day vulnerability exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-29",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/"
+    },
+    {
+      "titre": "Kiteworks patches critical flaw, brings customer systems online",
+      "resume": "American tech company Kiteworks has lifted a precautionary advisory asking customers to shut down systems after patching a critical vulnerability. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-29",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/"
+    },
+    {
+      "titre": "Vietnamese man charged in $16 million 'pig butchering' crypto scam",
+      "resume": "A Vietnamese national was charged with money laundering for his role in a massive \"pig butchering\" scam, which defrauded a victim out of $16 million worth of cryptocurrency. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-29",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/"
+    },
+    {
+      "titre": "OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot",
+      "resume": "OpenAI said it has made the decision to pause training of its most powerful models after one of its agents during reinforcement learning (RL) training contacted an external chatbot by exploiting a loophole in its interne…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-29",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html"
+    },
+    {
+      "titre": "OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions",
+      "resume": "OpenAI on Monday shelved plans to release GPT-6.1 Astra, a next-generation artificial intelligence (AI) model that was planned for an October launch, after it failed internal safety and alignment audits. The development …",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-29",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html"
+    },
+    {
+      "titre": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials",
+      "resume": "A malicious MCP server could trick an application built on the official&nbsp;MCP Python SDK&nbsp;into handing over the OAuth credentials it uses to log in to a real service, the SDK's maintainers said in a security advis…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-29",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html"
+    },
+    {
+      "titre": "Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation",
+      "resume": "Dutch authorities have confirmed that they arrested a 24-year-old man from Amsterdam in connection with the ShinyHunters group. \"It is true that this month a 24-year-old man from Amsterdam was arrested in an investigatio…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-29",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html"
+    },
+    {
+      "titre": "OpenAI reportedly ditches model over safety concerns",
+      "resume": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-28",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/"
+    },
     {
       "titre": "Trump finalizes rule to make cars less fuel efficient",
       "resume": "The US Department of Transportation finalized its plans today to weaken fuel efficiency standards, calling it \"among the largest deregulatory actions under the second Trump Administration.\" It's a nail in the coffin for …",
