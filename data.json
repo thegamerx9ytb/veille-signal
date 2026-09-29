@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2026-09-29T12:16:53.287196+00:00",
+  "lastUpdate": "2026-09-29T16:46:39.840611+00:00",
   "items": [
+    {
+      "titre": "This might be our first look at Google’s Pixel 11A",
+      "resume": "Google isn't making any significant design changes to its upcoming midrange Pixel update, judging by the leaks shared by Android Headlines. The image renders made by OnLeaks are potentially our first look at the Pixel 11…",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-09-29",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1002072/google-pixel-11a-leaked-renders-first-look"
+    },
+    {
+      "titre": "OpenAI DevDay 2026: The biggest news and announcements",
+      "resume": "It&#8217;s OpenAI’s turn in the fall tech events calendar. The company is hosting its annual DevDay on September 29th in San Francisco, starting with a live keynote featuring CEO Sam Altman. The company is teasing &#8220…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-29",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements"
+    },
+    {
+      "titre": "Apple&#8217;s new CEO could change when it launches phones and laptops",
+      "resume": "John Ternus, Apple's new CEO, wants Apple to launch products more often than its usual splashy moments in the fall and the spring, according to a Bloomberg report detailing some of Ternus's initial plans for the company.…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-29",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1002107/apple-ceo-john-ternus-product-launch-strategy"
+    },
+    {
+      "titre": "Xbox’s Mythic Achievements are here and they&#8217;re just like PlayStation Platinum trophies",
+      "resume": "Microsoft is officially announcing its new Xbox Mythic Achievements today, and they're already available for Xbox Insiders to test. Mythic Achievements work a lot like Sony's PlayStation Platinum trophies and are unlocke…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-29",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/news/1002099/xbox-mythic-achievement-announcement-feature"
+    },
+    {
+      "titre": "Oura shelves its $2.2B IPO, citing ‘uncertainty’ in the market",
+      "resume": "The postponement of the IPO will delay some of the company's plans for its proceeds from the IPO, as well as those of its shareholders.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-29",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/29/oura-shelves-its-2-2b-ipo-citing-uncertainty-in-the-market/"
+    },
+    {
+      "titre": "After losing his voice to cancer, this founder is building ‘glasses for voice’",
+      "resume": "Uhura Bionics, part of the Startup Battlefield 200 at TechCrunch Disrupt, wants to replace flat, robotics voice devices with one that carries emotions.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-29",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice/"
+    },
+    {
+      "titre": "OpenAI apologizes to Australia after its AI agents breached government sites",
+      "resume": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Élevé",
+      "date": "2026-09-29",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/"
+    },
+    {
+      "titre": "Meta is expanding its AI agent Muse to small businesses",
+      "resume": "The tech giant says the agent can help owners run their business and find new customers.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-29",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/"
+    },
+    {
+      "titre": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
+      "resume": "Mayer argues that if a photo is worth a thousand words, your camera roll is worth millions. By analyzing all the photos stored on your phone, Dazzle claims to understand your hobbies, interests, food, and style preferenc…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-29",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/"
+    },
+    {
+      "titre": "Instinct founder said more than 50% of transactions on the platform are travel-related",
+      "resume": "Instinct founder said the platform is growing 10% day by day, with transaction volume increasing at a similar rate.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-29",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/"
+    },
+    {
+      "titre": "Catch threats before they escalate with real-time Identity Telemetry",
+      "resume": "Identity governance helps control who should have access, but periodic reviews alone may not reveal attacks as they happen. tenfold Software explains how real-time identity telemetry can help security teams investigate s…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-29",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/"
+    },
+    {
+      "titre": "Automated AI agent used to breach cybersecurity nonprofit DIVD",
+      "resume": "The Dutch Institute for Vulnerability Disclosure (DIVD) suffered an AI-driven cyberattack that the organization described as \"loud and very, very messy.\" [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-29",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/"
+    },
+    {
+      "titre": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent",
+      "resume": "Cybersecurity researchers have identified a cluster of 101 npm packages that are used to trap developers into a WhatsApp group subscriber campaign dubbed PhantomSub. \"The malicious packages abuse the 'Baileys' WhatsApp o…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-29",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html"
+    },
+    {
+      "titre": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown",
+      "resume": "Kiteworks on Monday said it worked with federal intelligence authorities over the weekend as it identified and addressed a critical security vulnerability during the scheduled precautionary shutdown. \"During the shutdown…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-29",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html"
+    },
     {
       "titre": "Nothing’s new flagship Headphone 1 Pro put you in the studio",
       "resume": "Nothing has been on a bit of an audio tear this year, releasing the solid Headphone A and the surprisingly good Ear 3A earbuds. The Headphone A released at $199, while the earbuds are under $100, leaving room for somethi…",
