@@ -1,6 +1,150 @@
 {
-  "lastUpdate": "2026-09-30T16:38:31.785291+00:00",
+  "lastUpdate": "2026-09-30T21:10:29.386233+00:00",
   "items": [
+    {
+      "titre": "Reddit says it has to cut back access to ‘Old Reddit’ because of AI bots",
+      "resume": "Reddit is further limiting who can use the \"Old Reddit\" experience as part of its efforts to combat scraping and automated traffic. Reddit recently started forcing users to log in to be able to use Old Reddit, but in the…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-30",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1002788/old-reddit-ai-scraping"
+    },
+    {
+      "titre": "The AI Tamagotchis are coming",
+      "resume": "While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that. And they're ap…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-30",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices"
+    },
+    {
+      "titre": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+      "resume": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterprise knowledge work lik…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-30",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1002980/google-gemini-4-argon"
+    },
+    {
+      "titre": "Neon sticks it to A24 by announcing a Creative Commons SCP Foundation movie",
+      "resume": "A24 pissed off one of the internet's largest horror communities when it announced it was working on an SCP Foundation film, but apparently hadn't bothered to contact the SCP Wiki team, nor did it commit to releasing it u…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-30",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie"
+    },
+    {
+      "titre": "Hackers stole millions of US military personnel records during months-long data breach",
+      "resume": "The Department of Defense notified millions of current and former U.S. military personnel that their personal information had been stolen in a months-long breach.",
+      "categorie": "Technologie",
+      "importance": "Critique",
+      "date": "2026-09-30",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/"
+    },
+    {
+      "titre": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
+      "resume": "Spotify founder Daniel Ek’s Neko Health raised $700 million to build a business around scanning your body, but it’s not the only company centering its roadmap around a new kind of preventative healthcare. Midjourney is b…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-30",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/"
+    },
+    {
+      "titre": "Factory CEO just accused his VC board advisor of spying for Cognition",
+      "resume": "VC Chris Degnan and former board advisor to Factory AI has taken a job as chief revenue officer for Cognition.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-30",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/"
+    },
+    {
+      "titre": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+      "resume": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-30",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/"
+    },
+    {
+      "titre": "AI voice startup ElevenLabs doubles valuation to $22B",
+      "resume": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-30",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/"
+    },
+    {
+      "titre": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+      "resume": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-30",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/"
+    },
+    {
+      "titre": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "resume": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-30",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/"
+    },
+    {
+      "titre": "Over 543,000 valid credentials exposed in public GitHub repositories",
+      "resume": "More than 543,000 credentials exposed in public GitHub repositories were still valid in July despite the platform's security measures to prevent accidental leaks of sensitive data. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-30",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/"
+    },
+    {
+      "titre": "DIVD says Zammad zero-days enabled AI-driven network breach",
+      "resume": "The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day vulnerabilities in the open-source Zammad ticketing system. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-30",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/"
+    },
+    {
+      "titre": "Russian state hackers use new RedFlick technique to push malware",
+      "resume": "The Russian state actor Star Blizzard has been using a new malware installation tactic dubbed \"RedFlick\" to deploy its signature CosmicPulse backdoor. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-30",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/"
+    },
+    {
+      "titre": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
+      "resume": "Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software update prompts, and o…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-30",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html"
+    },
+    {
+      "titre": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
+      "resume": "Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Research team. The attack expl…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-30",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html"
+    },
     {
       "titre": "Google reportedly tests paying publishers for AI search results",
       "resume": "Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according to a report from The Information. The pilot program reportedly includes around 100 publishers …",
