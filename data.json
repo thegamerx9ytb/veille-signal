@@ -1,6 +1,150 @@
 {
-  "lastUpdate": "2026-09-29T21:13:15.719263+00:00",
+  "lastUpdate": "2026-09-30T12:02:37.039866+00:00",
   "items": [
+    {
+      "titre": "Sam Altman says OpenAI won’t go public until its models are safe",
+      "resume": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-30",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety"
+    },
+    {
+      "titre": "Apple’s &#8216;HomePad&#8217; will reportedly launch on October 13th",
+      "resume": "Apple's long-rumored smart home hub will reportedly be revealed on October 13th. Bloomberg's Mark Gurman reports that the smart home device will be revealed alongside a new HomePod mini and an upgraded Apple TV device. A…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-30",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/news/1002563/apple-smart-home-hub-homepad-rumor-launch-date"
+    },
+    {
+      "titre": "Samsung’s new SmartTag is smaller, longer-lasting, and works with iPhones",
+      "resume": "Samsung has announced its third-generation Bluetooth tracker, the Galaxy SmartTag 3. It combines a smaller design and improved battery life with a few new tracking and software features, including cross-OS support intend…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-30",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1002552/samsung-galaxy-smarttag-3-design-battery-price-features"
+    },
+    {
+      "titre": "Samsung gives its two-year-old Galaxy Tab S Plus an overhaul",
+      "resume": "Since the Galaxy Tab S10 line, Samsung has updated its flagship Ultra tablet annually, but alternates its regular and Plus variants. It means that this year's Galaxy Tab S12 series includes an Ultra model with few change…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-30",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1002533/samsung-galaxy-tab-s12-plus-ultra-android-tablets-specs-price"
+    },
+    {
+      "titre": "Apple Pay finally launches in India after years on the sidelines",
+      "resume": "Some of India's largest banks are holding off on supporting Apple Pay initially.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-30",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/"
+    },
+    {
+      "titre": "Two Google alumni raise $11.3M to back AI startups that enterprises will actually pay for",
+      "resume": "BAG Ventures announces close of a $11.3M Fund I to invest in all things AI.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-30",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack/"
+    },
+    {
+      "titre": "Airbnb adds AI search, more social features",
+      "resume": "Airbnb is also launching new services such as meal delivery and laundry in select locations",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-30",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/"
+    },
+    {
+      "titre": "Microsoft is rolling out Linux container support to WSL",
+      "resume": "Microsoft is taking Windows Subsystem for Linux beyond just running Linux distributions, as WSL Containers is now generally available. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-30",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/"
+    },
+    {
+      "titre": "Bitget hacked via zero-day in third-party security products",
+      "resume": "Cryptocurrency exchange Bitget revealed today that attackers who stole $387.5 million last week breached its systems after exploiting a zero-day flaw in third-party security products. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-30",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/"
+    },
+    {
+      "titre": "OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted",
+      "resume": "A High-severity OpenSSL flaw can leak heap memory to the other side of a DTLS connection or crash the program,&nbsp;OpenSSL said&nbsp;on September 29 as it released fixes. DTLS, the TLS variant used for UDP traffic, rese…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-30",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html"
+    },
+    {
+      "titre": "Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT",
+      "resume": "Unknown threat actors have been observed exploiting a newly patched security flaw in Citrix NetScaler ADC and NetScaler Gateway appliances to target organizations in North America and Europe. The activity, observed by Ma…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-30",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html"
+    },
+    {
+      "titre": "US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access",
+      "resume": "ANY.RUN researchers traced a US-focused CSuite phishing campaign across 351 sandbox analyses, with 51% of submissions coming from the United States. Technology, manufacturing, government, and consulting organizations sho…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-30",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html"
+    },
+    {
+      "titre": "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub",
+      "resume": "AI coding agents asked to share screenshots of code changes for review have put internal company images in public GitHub repositories, security company Glow said. Its researchers found more than 13,000 internal images fr…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-30",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html"
+    },
+    {
+      "titre": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+      "resume": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-29",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/"
+    },
+    {
+      "titre": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+      "resume": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-29",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/"
+    },
+    {
+      "titre": "Signal adds encypted local backup support to iOS, desktop apps",
+      "resume": "Signal, the secure messaging app, released version 8.30, completing the rollout of its secure backups feature across all supported operating systems (Android, iOS, Linux, macOS, and Windows). [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-29",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/"
+    },
     {
       "titre": "Protesters gather at OpenAI’s DevDay",
       "resume": "On Tuesday, OpenAI's annual DevDay event began with protests, flyers, and chants. \"Sam Altman, get off it, put people over profit,\" said a group of protesters marching in a circle in front of a series of signs that spell…",
