@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2026-09-30T12:02:37.039866+00:00",
+  "lastUpdate": "2026-09-30T16:38:31.785291+00:00",
   "items": [
+    {
+      "titre": "Google reportedly tests paying publishers for AI search results",
+      "resume": "Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according to a report from The Information. The pilot program reportedly includes around 100 publishers …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-30",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features"
+    },
+    {
+      "titre": "All the latest news on Meta’s cute, creepy Muse AI agent",
+      "resume": "Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisingly effective at delivering on those promises — if you’re willing to trust Meta…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-30",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai"
+    },
+    {
+      "titre": "The Halide camera app now offers full control of the iPhone 18 Pro’s aperture",
+      "resume": "A new update to Lux Optics' anti-algorithm Halide camera app for the iPhone and iPad adds two new photography looks and support for the variable aperture on the new iPhone 18 Pro's main camera. Halide isn't the first alt…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-30",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1002642/halide-ios-camera-app-update-iphone-18-pro-max-variable-aperture"
+    },
+    {
+      "titre": "&#8216;Xbox is not for sale&#8217; says Microsoft&#8217;s gaming chief",
+      "resume": "Xbox CEO Asha Sharma has denied reports that Microsoft is considering selling off its Xbox business. The Information reported in June that Microsoft CEO Satya Nadella and CFO Amy Hood had been considering spinning out Xb…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-30",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/news/1002736/xbox-not-for-sale-asha-sharma-interview"
+    },
+    {
+      "titre": "Instinct’s new product recommendations are giving some users the ick",
+      "resume": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-30",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/"
+    },
+    {
+      "titre": "Destro AI’s secret sauce is getting robots and humans on the same page",
+      "resume": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\"",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-30",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/"
+    },
+    {
+      "titre": "DoorDash launches an AI agent you can text to order food",
+      "resume": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-30",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/"
+    },
+    {
+      "titre": "Meta disputes claim that Muse read a user’s private messages without permission",
+      "resume": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-30",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/"
+    },
+    {
+      "titre": "Microsoft to block Entra ID script injection attacks starting October",
+      "resume": "Microsoft has reminded customers that the Entra ID authentication system will get better protection against external script injection attacks starting next month. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-30",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/"
+    },
+    {
+      "titre": "AI's Third Wave: Coworkers Break the Security Model That Worked for Agents",
+      "resume": "Persistent AI coworkers may operate continuously with standing access, creating identity risks that existing security models were not designed to handle. Token Security explains why these agents need their own identities…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-09-30",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/"
+    },
+    {
+      "titre": "Cisco warns of new SD-WAN zero-day exploited in attacks",
+      "resume": "Cisco released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as CVE-2026-76504) that attackers are actively exploiting to escalate to admin privileges. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-30",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/"
+    },
+    {
+      "titre": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS",
+      "resume": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a new critical vulnerability in MikroTik RouterOS that could lead to remote code execution or cause a denial-of-service condition. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-30",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/"
+    },
+    {
+      "titre": "Know Your Enemy: Browser-Based Attack Techniques in 2026",
+      "resume": "Given that the browser is where business apps are accessed and used, it makes sense that attacks are happening there too. Most breaches today begin in a browser session. Often, they never leave it, with the entire attack…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-30",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html"
+    },
+    {
+      "titre": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
+      "resume": "Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites that employ ClickFix lures to deliver malware. Huntress, which observed th…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-09-30",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html"
+    },
+    {
+      "titre": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
+      "resume": "Attackers are exploiting a new critical zero-day flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco said in an&nbsp;advisory&nbsp;on September 30. The flaw, CVE-2…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-09-30",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html"
+    },
     {
       "titre": "Sam Altman says OpenAI won’t go public until its models are safe",
       "resume": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with …",
