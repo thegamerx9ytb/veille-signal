@@ -1,6 +1,150 @@
 {
-  "lastUpdate": "2026-10-01T12:35:30.053729+00:00",
+  "lastUpdate": "2026-10-01T17:15:13.308430+00:00",
   "items": [
+    {
+      "titre": "Microsoft’s Office and Teams chief is leaving",
+      "resume": "After nearly 18 years at LinkedIn and Microsoft, Ryan Roslansky is leaving the company. Roslansky, who until recently was the CEO of LinkedIn, was promoted to the head of Office last year and then took control of Microso…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-01",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/news/1003515/microsoft-ryan-roslansky-office-teams-linkedin-leaving"
+    },
+    {
+      "titre": "Can VR glasses save VR?",
+      "resume": "I'm pretty sure I won't be buying the $1,299 Meta VR Glasses. That's too rich for my blood in today's economy, and my feelings about Meta are… conflicted. But I want you to understand that Meta just changed the game. We'…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-01",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1003034/meta-vr-glasses-vs-augmented-reality"
+    },
+    {
+      "titre": "Sony brings AI graphics upscaling to the regular PS5",
+      "resume": "Sony is launching a new AI upscaling technology specifically for the regular PS5. The new tech, called Quick Spectral Super Resolution (QSSR), is a \"new performance tier of AI upscaling\" that's a result of Sony's Project…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-01",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr"
+    },
+    {
+      "titre": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
+      "resume": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, a…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-01",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed"
+    },
+    {
+      "titre": "California governor vetoes bill banning use of ‘pervert glasses’ to secretly record people",
+      "resume": "The California state bill would have penalized people who secretly recorded people in public with wearables equipped with cameras and microphones.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-01",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/01/california-governor-vetoes-bill-banning-use-of-pervert-glasses-to-secretly-record-people/"
+    },
+    {
+      "titre": "This startup wants to turn idle user car inventory into rental revenue",
+      "resume": "When Igor Dobrianskyi looks at a car dealership lot, he doesn't see rows of cars — he sees millions of dollars just sitting there, depreciating, while people who only need a car for a few months are stuck paying too much…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-01",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-user-car-inventory-into-rental-revenue/"
+    },
+    {
+      "titre": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+      "resume": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-01",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/"
+    },
+    {
+      "titre": "Brian Chesky interview: AI agents need their own operating system",
+      "resume": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-01",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/"
+    },
+    {
+      "titre": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+      "resume": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-01",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/"
+    },
+    {
+      "titre": "Amazon releases its own Jev clone as decision models flood the web",
+      "resume": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-01",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/"
+    },
+    {
+      "titre": "Kiteworks patches max severity code injection vulnerability",
+      "resume": "Secure file-sharing software company Kiteworks has released security updates to address 126 vulnerabilities, including a max-severity flaw affecting its Email Protection Gateway (EPG) security solution. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-01",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/"
+    },
+    {
+      "titre": "The Day-One Hole in Zero Trust Architecture",
+      "resume": "Zero Trust can verify users once they are established, but onboarding creates a gap where organizations must decide who to trust before strong authentication exists. Specops explains why identity verification should begi…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-01",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/"
+    },
+    {
+      "titre": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
+      "resume": "An international law enforcement operation dubbed \"Operation KillSwitch\" seized the KillSec ransomware gang's data leak site and servers, led to three arrests, and identified a 16-year-old as the group's alleged administ…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-01",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/"
+    },
+    {
+      "titre": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory",
+      "resume": "Cybersecurity researchers have shed light on a WordPress compromise in which threat actors deployed multiple persistence mechanisms to ensure that the final payload kept returning without having to infect the site again.…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-01",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html"
+    },
+    {
+      "titre": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories",
+      "resume": "This week, the useful words are boring ones: inspect, cache, compile, store, trust. Each sounds harmless. Each can become an attack path when a system does a little more than people expect. A model check can run code. A …",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-01",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html"
+    },
+    {
+      "titre": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
+      "resume": "Police in Spain have arrested a 16-year-old whom investigators suspect of running the KillSec ransomware group. KillSec is accused of stealing data from organizations and threatening to publish it on its leak site unless…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-01",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html"
+    },
     {
       "titre": "Noise from Universal&#8217;s latest ride made rich locals furious, fast",
       "resume": "Universal Studios Hollywood has pledged to erect another sound barrier around its latest attraction after local residents complained about the bloodcurdling screams from riders. In a meeting attended by at least 350 peop…",
