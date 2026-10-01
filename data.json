@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2026-09-30T21:10:29.386233+00:00",
+  "lastUpdate": "2026-10-01T12:35:30.053729+00:00",
   "items": [
+    {
+      "titre": "Noise from Universal&#8217;s latest ride made rich locals furious, fast",
+      "resume": "Universal Studios Hollywood has pledged to erect another sound barrier around its latest attraction after local residents complained about the bloodcurdling screams from riders. In a meeting attended by at least 350 peop…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-01",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/1003182/universal-hollywood-fast-and-furious-rollercoaster-noise"
+    },
+    {
+      "titre": "The People of Utah vs. Kevin O&#8217;Leary",
+      "resume": "On the morning of May 11th, the celebrity investor Kevin O’Leary appeared on Fox Business and announced that he was under attack by Chinese agents.&#160; For weeks, he had been going on TV and posting online to tout his …",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-10-01",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/cs/features/993343/stratos-utah-kevin-oleary-data-center-backlash"
+    },
+    {
+      "titre": "This very fancy e-bike is one of the first to go semi-solid state",
+      "resume": "The Lemmo 3 is the first cargo bike from the respected German e-bike maker. This premium, step-through longtail is a slightly less insane take on Rivian's Also TM-B, with one major advantage: It's one of the first electr…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-01",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/news/1003195/lemmos-fancy-e-bike-is-one-of-the-first-with-a-semi-solid-state-battery"
+    },
+    {
+      "titre": "Huawei made a whole camera to attach to its latest phone",
+      "resume": "Over the last few years, Chinese Android manufacturers have followed Vivo's example of launching add-on \"teleconverter\" lenses for their flagship phones, enabling long-distance photography that the phones on their own co…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-01",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1003196/huawei-mate-90-pro-max-ruiying-z10-camera"
+    },
+    {
+      "titre": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+      "resume": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-01",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/"
+    },
+    {
+      "titre": "Metamask discloses security incident affecting its infrastructure",
+      "resume": "On Thursday, cryptocurrency wallet provider MetaMask has disclosed an ongoing infrastructure security incident affecting some of its infrastructure. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-01",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/"
+    },
+    {
+      "titre": "Hackers stole Pentagon personnel records of over 3 million people",
+      "resume": "The Pentagon's Defense Manpower Data Center (DMDC) is notifying millions of military service members that hackers stole their data after breaching the Pentagon's human resources management system in October 2025. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-01",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/"
+    },
+    {
+      "titre": "Microsoft enables Windows settings backup by default for orgs",
+      "resume": "Microsoft announced that Windows settings backup and restore is now enabled by default on all Microsoft Entra-joined or Microsoft Entra hybrid-joined enterprise systems upgraded to Windows 11 26H2. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-01",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/"
+    },
+    {
+      "titre": "Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version",
+      "resume": "Google on Wednesday announced its latest frontier artificial intelligence (AI) model, Gemini 4 Argon, that it said is being rolled out to a set of trusted cyber defenders through its Fairwind Program. \"It delivers fronti…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-01",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html"
+    },
+    {
+      "titre": "CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV",
+      "resume": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical authentication bypass flaw impacting Cisco Catalyst SD-WAN Manager to its Known Exploited Vulnerabilities (KEV), following re…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-01",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html"
+    },
+    {
+      "titre": "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates",
+      "resume": "OpenAI on Wednesday said it identified and disrupted a coordinated distillation campaign that was designed to illicitly extract protected reasoning from its artificial intelligence (AI) models. A \"core cluster of the act…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-01",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html"
+    },
+    {
+      "titre": "How Financial Services Companies Can Modernize Their Software Supply Chain",
+      "resume": "Every security leader at a bank, insurer, or asset manager has had a version of this conversation: Security wants to eliminate a class of vulnerabilities. Engineering explains what it would take to upgrade the platform w…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-01",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/how-financial-services-companies-can.html"
+    },
+    {
+      "titre": "The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next",
+      "resume": "Defense Secretary Pete Hegseth just launched a 120-day study on the future of warfare, led by Elon Musk, Palmer Luckey, and Newt Gingrich, and while it makes sense given their ties to the administration, critics could po…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-09-30",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/"
+    },
+    {
+      "titre": "Google releases Gemini 4 Argon, called its most powerful model yet",
+      "resume": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-09-30",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/"
+    },
     {
       "titre": "Reddit says it has to cut back access to ‘Old Reddit’ because of AI bots",
       "resume": "Reddit is further limiting who can use the \"Old Reddit\" experience as part of its efforts to combat scraping and automated traffic. Reddit recently started forcing users to log in to be able to use Old Reddit, but in the…",
