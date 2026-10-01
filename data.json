@@ -1,6 +1,96 @@
 {
-  "lastUpdate": "2026-10-01T17:15:13.308430+00:00",
+  "lastUpdate": "2026-10-01T21:32:17.369563+00:00",
   "items": [
+    {
+      "titre": "Steam Deck 2: Is AMD Gainsborough the chip Valve’s been waiting for?",
+      "resume": "The Steam Deck is four and a half years old, and handheld gamers are eagerly awaiting a Steam Deck 2 - but Valve has consistently said it needs a new chip with a \"generational leap\" in performance and efficiency before b…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-01",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for"
+    },
+    {
+      "titre": "Android Central &#8216;will continue&#8217; despite laying off its staff",
+      "resume": "Android Central, a blog focused on the Android ecosystem, laid off its staff yesterday, but owner Future confirms to The Verge that the site will continue publishing. Yesterday, four of the six staffers on Android Centra…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-01",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1003735/android-central-layoffs"
+    },
+    {
+      "titre": "Google’s new Guided Vision feature can help you read the fine print",
+      "resume": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can ha…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-01",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision"
+    },
+    {
+      "titre": "World’s first enhanced geothermal power plant completed in just 23 months",
+      "resume": "Fervo Energy completed its first power plant in less than two years. The next phases promise to connect to the grid even quicker.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-01",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/"
+    },
+    {
+      "titre": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+      "resume": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-01",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/"
+    },
+    {
+      "titre": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
+      "resume": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-01",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/"
+    },
+    {
+      "titre": "ChatGPT can now virtually try on clothes for you",
+      "resume": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-01",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/"
+    },
+    {
+      "titre": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
+      "resume": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-01",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/"
+    },
+    {
+      "titre": "Microsoft says threat actors are ahead in the early AI race",
+      "resume": "Microsoft says cyberattackers are currently benefiting from artificial intelligence faster than defenders, allowing threat actors to speed up vulnerability discovery, malware development, and post-compromise activity whi…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-01",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/"
+    },
+    {
+      "titre": "Autonomous AI agents tried to hack US, Canadian government websites",
+      "resume": "Autonomous AI agents using aggressive strategies attempted to hack U.S. and Canadian government websites to find school and divorce statistics. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-01",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/"
+    },
     {
       "titre": "Microsoft’s Office and Teams chief is leaving",
       "resume": "After nearly 18 years at LinkedIn and Microsoft, Ryan Roslansky is leaving the company. Roslansky, who until recently was the CEO of LinkedIn, was promoted to the head of Office last year and then took control of Microso…",
