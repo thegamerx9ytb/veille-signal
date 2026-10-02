@@ -1,6 +1,105 @@
 {
-  "lastUpdate": "2026-10-01T21:32:17.369563+00:00",
+  "lastUpdate": "2026-10-02T12:00:08.138202+00:00",
   "items": [
+    {
+      "titre": "AI music maker Suno now generates spoken words",
+      "resume": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platfo…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-02",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability"
+    },
+    {
+      "titre": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "resume": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-02",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/"
+    },
+    {
+      "titre": "Robotaxi operators will face fines for blocking first responders",
+      "resume": "A new California law places new rules on autonomous vehicles operators",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-02",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/"
+    },
+    {
+      "titre": "Microsoft’s X account hacked in crypto pump-and-dump scheme",
+      "resume": "On Thursday, unknown attackers hijacked the official Microsoft account on X, which has over 13 million followers, in what appeared to be a pump-and-dump scheme promoting a crypto token. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-02",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/"
+    },
+    {
+      "titre": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes",
+      "resume": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added a critical security flaw impacting Fortinet FortiMail to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-02",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html"
+    },
+    {
+      "titre": "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools",
+      "resume": "Google has announced a new security measure that limits access to Android's accessibility services to verified applications classified as Accessibility Tools when Advanced Protection is enabled. With malicious Android ap…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-02",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html"
+    },
+    {
+      "titre": "Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report",
+      "resume": "The quarterly board meeting is two weeks out. The security team is pulling exports from the identity provider, the cloud posture tool, the vulnerability scanner, the SIEM and the EDR console. Someone is building a spread…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-02",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html"
+    },
+    {
+      "titre": "Apple’s reportedly developing a smart home camera that doesn’t record video",
+      "resume": "Apple's rumored push into smart home tech could include a smart home security camera that only gives users text event descriptions instead of video footage. Mark Gurman said in the first episode of the Power On podcast t…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-01",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1003877/apple-security-camera-no-video"
+    },
+    {
+      "titre": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
+      "resume": "Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-01",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/"
+    },
+    {
+      "titre": "Lyft is paying $272.5M to settle lawsuit over how it classified drivers",
+      "resume": "Today, gig economy drivers are classified as contractors. This settlement clears up a lingering lawsuit from 2020 when that was still an unanswered issue.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-01",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/"
+    },
+    {
+      "titre": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks",
+      "resume": "Fortinet is warning customers of a critical FortiMail vulnerability, tracked as CVE-2026-104286, that is being actively exploited in zero-day attacks to execute unauthorized code or commands on vulnerable devices. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-01",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/"
+    },
     {
       "titre": "Steam Deck 2: Is AMD Gainsborough the chip Valve’s been waiting for?",
       "resume": "The Steam Deck is four and a half years old, and handheld gamers are eagerly awaiting a Steam Deck 2 - but Valve has consistently said it needs a new chip with a \"generational leap\" in performance and efficiency before b…",
