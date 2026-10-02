@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2026-10-02T16:28:08.831528+00:00",
+  "lastUpdate": "2026-10-02T21:07:53.073880+00:00",
   "items": [
+    {
+      "titre": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+      "resume": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace softwa…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-02",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent"
+    },
+    {
+      "titre": "Sling TV drops its one-day cable passes",
+      "resume": "Dish-owned Sling TV will no longer be offering its Sling Pass feature that allowed people to buy a single day of cable TV programming at a time, as reported by The Desk. The feature was announced last year and offered a …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-02",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/streaming/1004300/sling-tv-pass-cable-drops"
+    },
+    {
+      "titre": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+      "resume": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users w…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-02",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents"
+    },
+    {
+      "titre": "Netflix is pivoting away from prestige",
+      "resume": "Many of Netflix's biggest critically acclaimed hits have been the products of its multiyear production deals with noted directors like David Fincher and Shawn Levy. In the past few weeks, though, the streamer has brought…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-02",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig"
+    },
+    {
+      "titre": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+      "resume": "This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&#160;to sign an AI safety pledge&#160;that President&#160;Donald&#160;…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-02",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/"
+    },
+    {
+      "titre": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+      "resume": "This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&#160;to sign an AI safety pledge&#160;that President&#160;Donald&#160;…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-02",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/"
+    },
+    {
+      "titre": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "resume": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-02",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/"
+    },
+    {
+      "titre": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+      "resume": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-02",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/"
+    },
+    {
+      "titre": "Warlock ransomware breach SharePoint in water, telecom operator attacks",
+      "resume": "The China-linked ransomware group Warlock targeted a water utility, a telecom provider, a regional government body, and a university by exploiting SharePoint vulnerabilities to gain initial access. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-02",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/"
+    },
+    {
+      "titre": "Frontline Education breach exposes school district employee data",
+      "resume": "Frontline Education is notifying school districts of a data breach after attackers exploited a vulnerability in third-party software to gain unauthorized access to its systems and steal employee information, including So…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-02",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/"
+    },
+    {
+      "titre": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
+      "resume": "Dell has released security updates to address multiple critical security flaws in Dell Container Storage Modules (CSM) that could be exploited by bad actors to take over susceptible systems. The vulnerabilities are liste…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-02",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html"
+    },
+    {
+      "titre": "Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign",
+      "resume": "Government and policy organizations across Asia have become the target of a new campaign orchestrated by a China-nexus threat actor. The activity, which has targeted government and policy organizations in Taiwan, India, …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-02",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html"
+    },
+    {
+      "titre": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
+      "resume": "A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab&nbsp;said in an advisory. The gateway is the service that conn…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-02",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html"
+    },
     {
       "titre": "Paramount’s Warner Bros. megamerger will just be called Skydance",
       "resume": "Paramount Skydance CEO David Ellison has announced that the company will just be called Skydance when it completes its $110 billion merger with Warner Bros. Discovery next week. In a post on X, Ellison writes that \"we wa…",
