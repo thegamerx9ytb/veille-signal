@@ -1,6 +1,51 @@
 {
-  "lastUpdate": "2026-10-02T21:07:53.073880+00:00",
+  "lastUpdate": "2026-10-03T11:13:16.904186+00:00",
   "items": [
+    {
+      "titre": "Sanders introduces bill to ban the federal government from using Flock",
+      "resume": "The proposed legislation would extend to all automotica license plate readers.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-03",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/"
+    },
+    {
+      "titre": "Meta wants your next gadget to be Muse-infused",
+      "resume": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-03",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/"
+    },
+    {
+      "titre": "The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations",
+      "resume": "Featuring: Cybersecurity is being reshaped by the expansion of cloud infrastructure, AI, distributed systems, and increasingly complex digital environments. As organizations manage more identities, devices, data, and int…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-03",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html"
+    },
+    {
+      "titre": "Meta open sources code to let you make Muse AI gadgets",
+      "resume": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, ad…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-02",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link"
+    },
+    {
+      "titre": "Sean Parker is rebuilding Stability AI around music",
+      "resume": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-02",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/"
+    },
     {
       "titre": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
       "resume": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace softwa…",
