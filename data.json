@@ -1,6 +1,78 @@
 {
-  "lastUpdate": "2026-10-03T15:02:11.610385+00:00",
+  "lastUpdate": "2026-10-03T19:39:24.207149+00:00",
   "items": [
+    {
+      "titre": "The best early October Prime Day deals happening now",
+      "resume": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-03",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october"
+    },
+    {
+      "titre": "Capcom is preparing for a ‘future where we create games together with AI’",
+      "resume": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouth…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-03",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/1004418/capcom-ai-game-development"
+    },
+    {
+      "titre": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
+      "resume": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-03",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/"
+    },
+    {
+      "titre": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "resume": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-03",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/"
+    },
+    {
+      "titre": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "resume": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-03",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/"
+    },
+    {
+      "titre": "ShinyHunters hacker reportedly detained in Jordan, aiding FBI",
+      "resume": "A suspected ShinyHunters hacking group member known online as \"Rey\" has reportedly been detained in Jordan and is cooperating with the FBI to help locate other members of the extortion group. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-03",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/"
+    },
+    {
+      "titre": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
+      "resume": "The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portuguese- and Spanish-speak…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-03",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html"
+    },
+    {
+      "titre": "MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics",
+      "resume": "The U.K.'s domestic intelligence and security agency has warned that more than 100 academics have helped China boost its intelligence gathering efforts on behalf of Beijing's state security service. In a \"Security Servic…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-03",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html"
+    },
     {
       "titre": "3D movies are finally worth watching",
       "resume": "Why am I suddenly buying up every 3D Blu-ray I can find after 3D became one of the biggest tech flops of all time? The technology's finally ready for 3D movies to shine, more than 15 years since James Cameron's Avatar wo…",
