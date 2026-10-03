@@ -1,6 +1,78 @@
 {
-  "lastUpdate": "2026-10-03T11:13:16.904186+00:00",
+  "lastUpdate": "2026-10-03T15:02:11.610385+00:00",
   "items": [
+    {
+      "titre": "3D movies are finally worth watching",
+      "resume": "Why am I suddenly buying up every 3D Blu-ray I can find after 3D became one of the biggest tech flops of all time? The technology's finally ready for 3D movies to shine, more than 15 years since James Cameron's Avatar wo…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-03",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1004131/3d-movies-are-finally-worth-watching-xreal-meta-glasses-vision-pro"
+    },
+    {
+      "titre": "An OpenAI safety employee has quit and is sounding the alarm",
+      "resume": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-03",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm"
+    },
+    {
+      "titre": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+      "resume": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espr…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-03",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview"
+    },
+    {
+      "titre": "Spotify billionaire’s body scan startup has come to America",
+      "resume": "Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-03",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/"
+    },
+    {
+      "titre": "Vessev built an electric ferry that almost flies",
+      "resume": "Vessev hopes its electric hydrofoil ferry will change the way people and cities think about boats.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-03",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/"
+    },
+    {
+      "titre": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
+      "resume": "Bitchat has become largely unavailable in India as a result of the restrictions.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-03",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/"
+    },
+    {
+      "titre": "All the AI agents that can live in your text messages",
+      "resume": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-03",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/"
+    },
+    {
+      "titre": "Danish university DTU breach exposes data of up to 200,000 people",
+      "resume": "The Technical University of Denmark (DTU) says information belonging to up to 200,000 users may have been exposed after hackers accessed its identity and access management system and downloaded a large amount of data. [.…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-03",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/"
+    },
     {
       "titre": "Sanders introduces bill to ban the federal government from using Flock",
       "resume": "The proposed legislation would extend to all automotica license plate readers.",
