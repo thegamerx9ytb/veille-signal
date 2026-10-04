@@ -1,6 +1,51 @@
 {
-  "lastUpdate": "2026-10-04T11:54:20.984482+00:00",
+  "lastUpdate": "2026-10-04T15:38:33.834065+00:00",
   "items": [
+    {
+      "titre": "The forgotten Chromebook that started it all",
+      "resume": "Google didn't even call the first Chromebook a \"Chromebook.\" The Cr-48 had no interesting design and no bright logos - it wasn't even designed to be a product you could buy. Instead, it was a portal to a big new idea abo…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-04",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/podcast/1001215/the-forgotten-chromebook-that-started-it-all"
+    },
+    {
+      "titre": "The iPad Mini is slightly cheaper again during Prime Day",
+      "resume": "Apple bumped up prices on several of its devices in June, and we haven’t seen a good discount on the iPad Mini since. Just ahead of Amazon’s October Prime Big Deals Days, however, both Wi-Fi only and cellular-connected m…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-04",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale"
+    },
+    {
+      "titre": "The MacBook Air M5 is $200 off for the first time in months",
+      "resume": "Amazon’s October Prime Day has effectively chopped off Apple’s June price increases. Usually $1,299, the 13-inch MacBook Air with the M5 chip and 512GB of storage is on sale for $1,099 at Amazon. That’s a more palatable …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-04",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale"
+    },
+    {
+      "titre": "The AirPods Pro 3 are a fantastic deal at $179",
+      "resume": "It’s been a while since we’ve seen a good discount on the Apple AirPods Pro 3, but like the latest iPad Mini and the M5 MacBook Airs, a great one is happening now for October Prime Day. You can snag a pair of the noise-c…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-04",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale"
+    },
+    {
+      "titre": "Trump unveils his new Super Intelligence Force",
+      "resume": "This new task force is Trump's latest response to the debate over AI safety.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-04",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/"
+    },
     {
       "titre": "Anthropic asks Claude users to share voice data for AI model training",
       "resume": "Anthropic has started asking Claude users to voluntarily share their voice conversations to help train and improve its AI models. [...]",
