@@ -1,6 +1,51 @@
 {
-  "lastUpdate": "2026-10-04T15:38:33.834065+00:00",
+  "lastUpdate": "2026-10-04T19:52:56.188274+00:00",
   "items": [
+    {
+      "titre": "This toolless modular lever-action wallet is the coolest I’ve stuck to my phone",
+      "resume": "This toolless modular lever-action wallet is the coolest I've stuck to my phone. Remember when I tested the ultra-thin and convenient OhSnap Snap Grip Stand and liked it so much I bought my own? Now, OhSnap has a magneti…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-04",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1004360/this-toolless-modular-lever-action-wallet-is-the-coolest-ive-stuck-to-my-phone"
+    },
+    {
+      "titre": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+      "resume": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they could…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-04",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft"
+    },
+    {
+      "titre": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+      "resume": "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-04",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true"
+    },
+    {
+      "titre": "The best early October Prime Day deals happening now",
+      "resume": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-04",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october"
+    },
+    {
+      "titre": "TechCrunch Mobility: Reining in robotaxis",
+      "resume": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-04",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/"
+    },
     {
       "titre": "The forgotten Chromebook that started it all",
       "resume": "Google didn't even call the first Chromebook a \"Chromebook.\" The Cr-48 had no interesting design and no bright logos - it wasn't even designed to be a product you could buy. Instead, it was a portal to a big new idea abo…",
