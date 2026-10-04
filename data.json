@@ -1,6 +1,42 @@
 {
-  "lastUpdate": "2026-10-03T19:39:24.207149+00:00",
+  "lastUpdate": "2026-10-04T11:54:20.984482+00:00",
   "items": [
+    {
+      "titre": "Anthropic asks Claude users to share voice data for AI model training",
+      "resume": "Anthropic has started asking Claude users to voluntarily share their voice conversations to help train and improve its AI models. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-04",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/"
+    },
+    {
+      "titre": "China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing",
+      "resume": "A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial intelligence (AI) experts working for U.S. think tanks, universities, and legal se…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-04",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html"
+    },
+    {
+      "titre": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members",
+      "resume": "A suspected member of the ShinyHunters digital extortion group, who goes by the online alias \"Rey,\" has been allegedly detained by authorities in Jordan, Reuters reported, citing three people familiar with the matter. Re…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-04",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html"
+    },
+    {
+      "titre": "Google Gemini could soon get full access to your Mac’s files, apps and the web",
+      "resume": "Google's Gemini could soon access any file on your macOS device, open apps, browse the web, and perform actions without asking for permission every time. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-03",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/"
+    },
     {
       "titre": "The best early October Prime Day deals happening now",
       "resume": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th…",
