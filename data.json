@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2026-10-05T13:49:52.592290+00:00",
+  "lastUpdate": "2026-10-05T23:02:09.464850+00:00",
   "items": [
+    {
+      "titre": "All the drama around AI&#8217;s takeover of mathematics",
+      "resume": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-05",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution"
+    },
+    {
+      "titre": "This startup is issuing AI-generated acne prescriptions",
+      "resume": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze a…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-05",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions"
+    },
+    {
+      "titre": "The Matic is the first robovac to get an FCC ban waiver, not that it needs it",
+      "resume": "The Matic is our favorite robot vacuum and robo-mop, and it's also now the first to escape the FCC's Roomba ban. Well, sort of - because the Matic wasn't banned to begin with. Here's what's actually happening: On October…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-05",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/policy/1004926/matic-fcc-ban-waiver-conditional-approval"
+    },
+    {
+      "titre": "Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports",
+      "resume": "It&#8217;s a wild time for retro gaming. Thanks to decompilations and recompilations of classic titles, those games are becoming unshackled from their proprietary code and original hardware to be ported to new devices or…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-05",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports"
+    },
+    {
+      "titre": "After Factory’s public spat with Khosla, Menlo proudly invests",
+      "resume": "Days after Vinod Khosla called Factory a struggling also-ran, Menlo has shown up with a check and a glowing blog post.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-05",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/"
+    },
+    {
+      "titre": "Etched fields funding offers at $40B+ valuation, sources say",
+      "resume": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-05",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/"
+    },
+    {
+      "titre": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
+      "resume": "The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-05",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/"
+    },
+    {
+      "titre": "TikTok rolls out an AI shopping assistant and one-click checkout",
+      "resume": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-05",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/"
+    },
+    {
+      "titre": "Instinct brings its AI agent to group chats, even for friends without an account",
+      "resume": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permissio…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-05",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/"
+    },
+    {
+      "titre": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "resume": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflec…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-05",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/"
+    },
+    {
+      "titre": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "resume": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-05",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/"
+    },
+    {
+      "titre": "Denmark population registry data breach affects 8.8 million people",
+      "resume": "Denmark's Central Population Register (CPR) is warning of a data breach that exposed the personal information of approximately 8.8 million registered individuals. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-05",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/"
+    },
+    {
+      "titre": "IQVIA fined $7.8 million for failing to properly anonymize health data",
+      "resume": "Italy's Data Protection Authority (GPDP) has fined IQVIA €7 million ($7.8M) over poor data-processing practices that the agency says could have put roughly one million patients at risk of data exposure and de-anonymizati…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-05",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data/"
+    },
+    {
+      "titre": "Rejetto HFS servers now actively scanned for critical RCE flaw",
+      "resume": "Hackers are actively scanning for a Rejetto HFS weak signing key vulnerability, tracked as CVE-2026-61500, that allows session forgery, account takeover, and remote code execution (RCE). [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-05",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/"
+    },
+    {
+      "titre": "OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU",
+      "resume": "OpenAI is preparing to add invisible watermarks to text generated by ChatGPT and Codex in the European Union. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-05",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/"
+    },
+    {
+      "titre": "⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests",
+      "resume": "A blank field. A public repo. One reply to an email. A box left exposed. None of this sounds dramatic, which is partly the problem. This week’s threats keep finding leverage in small things that were easy to overlook. Th…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-05",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html"
+    },
+    {
+      "titre": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
+      "resume": "Microsoft has released out-of-band security updates to address a high-severity flaw in Microsoft Exchange Server that could allow an attacker to escalate privileges under certain conditions. The vulnerability, tracked as…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-05",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html"
+    },
     {
       "titre": "Google admits not every Android app runs great on Intel Googlebooks",
       "resume": "Google has waited until the day its new Googlebook laptops hit the market to admit that Intel-based models may have issues running some Android apps. Before now, Google has emphasized that the Android-based Googlebooks g…",
