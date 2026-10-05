@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2026-10-04T19:52:56.188274+00:00",
+  "lastUpdate": "2026-10-05T13:49:52.592290+00:00",
   "items": [
+    {
+      "titre": "Google admits not every Android app runs great on Intel Googlebooks",
+      "resume": "Google has waited until the day its new Googlebook laptops hit the market to admit that Intel-based models may have issues running some Android apps. Before now, Google has emphasized that the Android-based Googlebooks g…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-05",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1004643/google-android-apps-intel-googlebooks-performance"
+    },
+    {
+      "titre": "TCL’s paperlike OLED phone made me more excited for the iPhone Duo",
+      "resume": "I've spent most of the last couple weeks using an otherwise unexceptional midrange Android phone with one amazing feature: a matte OLED display. That screen is by far the best thing about the TCL P80 Ultra, and weirdly, …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-05",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1004079/tcl-p80-ultra-nxtpaper-matte-display-iphone-duo"
+    },
+    {
+      "titre": "OpenAI is sticking more ads in ChatGPT",
+      "resume": "OpenAI's latest ad format will put images of sponsored products and services on your screen. The ads, which OpenAI will begin testing in the US later this month, will \"initially\" appear when you generate images with Chat…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-05",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads"
+    },
+    {
+      "titre": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
+      "resume": "Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called RemoveMacAI. There used to be a single Settings toggle for disabling Apple Int…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-05",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool"
+    },
+    {
+      "titre": "Can Safeworld convince people that GenAI robots won’t hurt them?",
+      "resume": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-05",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/"
+    },
+    {
+      "titre": "Microsoft: Windows KB5124010 update crashes some games and apps",
+      "resume": "Microsoft confirmed over the weekend that some games and applications using AC-3 (Dolby Digital) audio decoding will crash after installing the September 2026 KB5124010 Windows 11 preview update. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-05",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-kb5124010-update-crashes-some-games-and-apps/"
+    },
+    {
+      "titre": "OpenAI will show visual ads in ChatGPT while you generate images",
+      "resume": "OpenAI is expanding ads in ChatGPT, and one of the first new formats will show visual ads while you're generating images. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-05",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/"
+    },
+    {
+      "titre": "Alleged dev of Ploutus ATM malware appears in US court after arrest",
+      "resume": "The U.S. Department of Justice has announced the arrest of the alleged developer of Ploutus malware, used to steal millions of dollars in ATM jackpotting attacks across the United States. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-05",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest/"
+    },
+    {
+      "titre": "tenfold CE: Our free Identity Governance tool just got 2 new features",
+      "resume": "tenfold has added shared content governance and real-time event auditing to its free Community Edition for organizations with under 150 users. The new features help teams manage Microsoft 365 sharing and investigate susp…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-05",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/tenfold-ce-our-free-identity-governance-tool-just-got-2-new-features/"
+    },
+    {
+      "titre": "Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE",
+      "resume": "A critical security flaw impacting Rejetto HTTP File Server (HFS) is witnessing active exploitation attempts, according to VulnCheck. The vulnerability in question is CVE-2026-61500 (CVSS score: 9.3), a case of session f…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-05",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html"
+    },
+    {
+      "titre": "Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access",
+      "resume": "Apple has announced that it's taking steps to tighten controls around a macOS setting called Full Disk Access (FDA) due to security risks posed by artificial intelligence (AI) agents. \"Some developers are using Full Disk…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-05",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html"
+    },
+    {
+      "titre": "Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2",
+      "resume": "Threat actors have been observed attempting to exploit a now-patched critical security flaw impacting the Realtek Jungle software development kit (SDK) to deploy a botnet malware called Cling. \"Cling is notable not becau…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-05",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html"
+    },
+    {
+      "titre": "The Credential Layer Is Expanding Faster Than Security Teams Can See It",
+      "resume": "Every modern enterprise depends on credentials. This is how humans, systems, and now AI, all connect to data, services, and each other securely. GitGuardian helps secure that credential layer through three connected capa…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-05",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html"
+    },
+    {
+      "titre": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "resume": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-04",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/"
+    },
+    {
+      "titre": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "resume": "AI slop seems to be overwhelming bug bounty programs.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-04",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/"
+    },
     {
       "titre": "This toolless modular lever-action wallet is the coolest I’ve stuck to my phone",
       "resume": "This toolless modular lever-action wallet is the coolest I've stuck to my phone. Remember when I tested the ultra-thin and convenient OhSnap Snap Grip Stand and liked it so much I bought my own? Now, OhSnap has a magneti…",
