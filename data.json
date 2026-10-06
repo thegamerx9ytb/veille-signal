@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2026-10-06T17:01:56.014643+00:00",
+  "lastUpdate": "2026-10-06T21:25:18.053365+00:00",
   "items": [
+    {
+      "titre": "The best deals under $25 during October Prime Day",
+      "resume": "You could spend a lot on gadgets in our main October Prime Day roundup and get maybe one or two things. That’s all well and good, but you could spend as much (or less) and have a bunch of items arrive at your home instea…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-06",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1005547/the-best-deals-under-25-during-october-prime-day"
+    },
+    {
+      "titre": "The best October Prime Day tech deals we found",
+      "resume": "Amazon’s Prime Big Deal Days event has begun, and it lasts through 3AM ET on Thursday, October 8th. We’ve spun through the company’s huge list of deals to find products that Verge readers will like (and that we personall…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-06",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/996983/best-october-prime-day-deal-sale-tech"
+    },
+    {
+      "titre": "The Sonos Beam 2 soundbar is $140 off",
+      "resume": "The Sonos Beam Gen 2 soundbar is on sale for $359 at Amazon and Best Buy during October Prime Day, a healthy $140 discount from its usual price, and $10 lower than the previous Prime Day price. The biggest draw here may …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-06",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1004180/sonos-beam-2-soundbar-prime-day-deal-sale"
+    },
+    {
+      "titre": "Alexa can’t control the aux input on Amazon Echo speakers anymore",
+      "resume": "If you've been using an older Amazon Echo device as a speaker through its 3.5mm aux input, Alexa voice commands to play or pause from line in may stop working. Ars Technica points to this Reddit poster claiming they rece…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-06",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1006103/amazon-alexa-aux-voice-commands"
+    },
+    {
+      "titre": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
+      "resume": "Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-06",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/"
+    },
+    {
+      "titre": "Hark releases an AI personal assistant with a focus on privacy",
+      "resume": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-06",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/"
+    },
+    {
+      "titre": "The next hurdle for AI agents: getting websites to let them in",
+      "resume": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-06",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/"
+    },
+    {
+      "titre": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "resume": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-06",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/"
+    },
+    {
+      "titre": "How AI decision models could change content moderation",
+      "resume": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-06",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/"
+    },
+    {
+      "titre": "Atlassian warns of critical file-access flaw in Jira, Confluence",
+      "resume": "Atlassian is warning customers of a critical vulnerability, tracked as CVE-2026-21589, that can be exploited for arbitrary file-access in multiple self-hosted Data Center products, including Confluence, Jira, and Bitbuck…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-06",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/"
+    },
+    {
+      "titre": "Hackers exploit 32 zero-days on first day of Pwn2Own Ireland",
+      "resume": "On the first day of the Pwn2Own Ireland 2026 competition, security researchers hacked the Samsung Galaxy S26 twice and earned $388,500 after exploiting 32 zero-days. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-06",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/"
+    },
+    {
+      "titre": "Ninja Forms plugin flaw exploited to hack WordPress sites",
+      "resume": "Hackers are exploiting stored cross-site scripting (XSS) vulnerabilities in two unrelated WordPress plugins, Ninja Forms and WPC Product Bundles for WooCommerce, to install backdoors and create rogue admin accounts. [...…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-06",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/"
+    },
+    {
+      "titre": "Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan",
+      "resume": "Linux backdoors targeting telecom and network appliances in South Korea and Taiwan have been disguising their traffic as email services and seemingly legitimate processes to blend in and evade detection. Threat actors ar…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-06",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html"
+    },
+    {
+      "titre": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
+      "resume": "Cybersecurity researchers have disclosed details of a \"human-operated phishing platform\" that impersonates advertising products for artificial intelligence (AI) chatbots like Google Gemini, Anthropic Claude, OpenAI ChatG…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-06",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html"
+    },
     {
       "titre": "HBO Max and Paramount Plus will merge into a single streamer under Skydance",
       "resume": "HBO Max and Paramount Plus will become one streaming service under Paramount's $110 billion acquisition of Warner Bros. Discovery. In a press release announcing the completion of the deal, Skydance - the name of the comb…",
