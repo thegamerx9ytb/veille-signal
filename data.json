@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2026-10-06T21:25:18.053365+00:00",
+  "lastUpdate": "2026-10-07T12:47:47.702600+00:00",
   "items": [
+    {
+      "titre": "Google now lets you make games with AI",
+      "resume": "Google today announced Playground, a new browser-based platform for making custom games from AI prompts. Playground will be available today in the US for users who are 18 and older at playground.google. The company is pi…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-07",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1006477/google-playground-unity-spark-ai"
+    },
+    {
+      "titre": "At $1,279, Google’s Xreal Aura will go head-to-head with Meta’s VR Glasses",
+      "resume": "Two weeks ago, journalists in the San Francisco Bay Area got to try two hot new wearables that weigh only around 100 grams: the just-revealed Meta VR Glasses, and the long-awaited transparent Google XR glasses built in p…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-07",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/news/1006207/google-xreal-aura-glasses-price-release-date-preorder"
+    },
+    {
+      "titre": "AI could upend food delivery",
+      "resume": "DoorDash, the leading food delivery app, processed 970 million orders in its second quarter this year and generated $4.5 billion in revenue. A 10-person startup called Bites is a blip in comparison: It has just around 30…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-07",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites"
+    },
+    {
+      "titre": "Google&#8217;s Pixel Buds update will put them to sleep along with you",
+      "resume": "Google has detailed an update bringing a slew of new features to its Pixel Buds 2A and Pro 2, which the company says are rolling out now. The new features were first teased in August. The biggest update is Pixel Watch-po…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-07",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1006622/google-pixel-buds-pro-2-2a-update-sleep-dynamic-anc-tap-to-mute"
+    },
+    {
+      "titre": "Spotify expands audiobooks to over 180 markets",
+      "resume": "Spotify will make 350,000 titles available in over 120 languages for this expansion",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-07",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/"
+    },
+    {
+      "titre": "Advantest confirms personal information stolen in ransomware attack",
+      "resume": "Advantest Corporation is notifying affected individuals that a ransomware attack earlier this year exposed their personally identifiable data. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-07",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/"
+    },
+    {
+      "titre": "Musician sent to prison for $10 million streaming fraud using AI bots",
+      "resume": "A North Carolina musician was sentenced to 18 months in prison for collecting more than $10 million in royalties from Spotify, Apple Music, Amazon Music, and YouTube Music in a massive streaming royalty fraud scheme. [..…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-07",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/"
+    },
+    {
+      "titre": "SonicWall warns of max severity SSRF flaw in SMA1000 gateways",
+      "resume": "SonicWall has released hotfixes to address a maximum-severity server-side request forgery (SSRF) flaw in SMA1000 series appliances. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-07",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/"
+    },
+    {
+      "titre": "What Is Agentic Pentesting? What It Proves, and Where It Stops.",
+      "resume": "If you’re evaluating an agentic pentesting solution right now, you’ve probably heard the same pitch more than once: point it at a target, and it discovers, validates, and exploits attack paths autonomously, the way a rea…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-07",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html"
+    },
+    {
+      "titre": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details",
+      "resume": "Threat actors have begun to exploit a newly disclosed critical security flaw impacting Atlassian Data Center products that could allow access to sensitive files under certain conditions. The arbitrary file access flaw, t…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-07",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html"
+    },
+    {
+      "titre": "FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials",
+      "resume": "The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing Fortinet FortiGate firewalls…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-07",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html"
+    },
+    {
+      "titre": "The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow",
+      "resume": "The 2026 findings are not just a year-over-year shift. They mark the latest point in a five-year arc where resilience, AI governance, human risk, and board scrutiny are converging inside the systems where work actually h…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-07",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html"
+    },
+    {
+      "titre": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
+      "resume": "Apple appears poised to push into the smart home market with a slate of new devices and a key partner.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-06",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/"
+    },
+    {
+      "titre": "How to find out if Amazon thinks you have ‘flat buttocks’",
+      "resume": "\"I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I’m literally speechless,\" one shopper wrote on Threads.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-06",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/"
+    },
+    {
+      "titre": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+      "resume": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-06",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/"
+    },
     {
       "titre": "The best deals under $25 during October Prime Day",
       "resume": "You could spend a lot on gadgets in our main October Prime Day roundup and get maybe one or two things. That’s all well and good, but you could spend as much (or less) and have a bunch of items arrive at your home instea…",
