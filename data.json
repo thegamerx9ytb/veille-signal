@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2026-10-07T12:47:47.702600+00:00",
+  "lastUpdate": "2026-10-07T17:39:24.043966+00:00",
   "items": [
+    {
+      "titre": "Disney Plus will stream Super Bowl LXI",
+      "resume": "Next year's Super Bowl is headed to Disney Plus. On Wednesday, Disney announced that viewers will be able to tune in to Super Bowl LXI on its streaming service when the game kicks off on February 14th, 2027. Disney Plus …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-07",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/streaming/1006911/disney-plus-super-bowl-lxi-streaming"
+    },
+    {
+      "titre": "Windows and Surface live blog: On the ground at Microsoft’s event",
+      "resume": "We're in San Francisco today to hear what's next for Windows and Surface. Microsoft CEO Satya Nadella, Nvidia CEO Jensen Huang, and Windows and Surface chief Pavan Davuluri will all be holding a \"conversation on how loca…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-07",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/news/1006303/microsoft-windows-surface-event-live-blog-surface-laptop-ultra-rtx-spark"
+    },
+    {
+      "titre": "The scariest thing about gray-market peptides is how little we know",
+      "resume": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. Find…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-07",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/column/1006902/optimizer-bpc-157-gray-market-real-world-usage"
+    },
+    {
+      "titre": "The Apple Watch Series 12 is a good deal at $50 off",
+      "resume": "Several configurations of the Apple Watch Series 12 are $50 off for the first time for the remainder of Amazon’s Prime Big Deal Days. This includes both sizes (42mm and 46mm) of the GPS + Wi-Fi watches, as well as their …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-07",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1006806/apple-watch-series-12-prime-day-deal-sale"
+    },
+    {
+      "titre": "CIA officer admits to creating fake top secret government program to steal over $190 million, including gold bars",
+      "resume": "CIA officer David Rush, who worked on highly sensitive intelligence programs, reached a plea deal with U.S. prosecutors after he was caught siphoning money and gold with a fake government contract.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-07",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/07/cia-officer-admits-to-creating-fake-top-secret-government-program-to-steal-over-190-million-including-gold-bars/"
+    },
+    {
+      "titre": "Greenairy is building smart plant towers to clean the air in your office",
+      "resume": "As it turns out, the cure for stuffy, chemical-infused office air might be a tower of leafy greenery.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-07",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/07/greenairy-is-building-smart-plant-towers-to-clean-the-air-in-your-office/"
+    },
+    {
+      "titre": "Google experiments with an AI-powered gaming platform",
+      "resume": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-07",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/"
+    },
+    {
+      "titre": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
+      "resume": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-07",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/"
+    },
+    {
+      "titre": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+      "resume": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-07",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/"
+    },
+    {
+      "titre": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+      "resume": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-07",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/"
+    },
+    {
+      "titre": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
+      "resume": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. Kreb…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-07",
+      "source": "Krebs on Security",
+      "lien": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/"
+    },
+    {
+      "titre": "Hackers exploit critical Atlassian flaw after public PoC release",
+      "resume": "A critical vulnerability (CVE-2026-21589) affecting multiple Atlassian product families, including Jira, Confluence, and Bitbucket, is being exploited in attacks that do not require authentication. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-07",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/"
+    },
+    {
+      "titre": "Ransomware has a new target. Is your backup ready?",
+      "resume": "Ransomware groups are increasingly targeting backup infrastructure to eliminate recovery options and increase pressure on victims to pay. Kaseya explains why organizations need isolated, immutable, and regularly tested b…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-07",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/"
+    },
+    {
+      "titre": "PoeLLM malware infects exposed AI servers in cryptomining attacks",
+      "resume": "A cryptomining campaign targeting exposed AI services is using PoeLLM malware to turn compromised servers into scanners and exploit launchpads. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-07",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/poellm-malware-infects-exposed-ai-servers-in-cryptomining-attacks/"
+    },
+    {
+      "titre": "Microsoft Outlook to block MSIX attachments starting November",
+      "resume": "Microsoft announced that it will add .msix and .msixbundle attachments to the list of blocked attachments in Outlook Web and the new Outlook Windows client starting next month. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-07",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-to-block-msix-attachments-used-in-attacks/"
+    },
+    {
+      "titre": "PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet",
+      "resume": "Cybersecurity researchers are calling attention to a new malware family that has been observed targeting exposed artificial intelligence (AI) and large language model (LLM) infrastructure with an aim to deploy cryptocurr…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-07",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html"
+    },
+    {
+      "titre": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely",
+      "resume": "A critical vulnerability in LMCache, open-source software that speeds up large language model (LLM) servers such as vLLM, lets an attacker run code on the cache server without logging in, and no fixed version is availabl…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-07",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html"
+    },
     {
       "titre": "Google now lets you make games with AI",
       "resume": "Google today announced Playground, a new browser-based platform for making custom games from AI prompts. Playground will be available today in the US for users who are 18 and older at playground.google. The company is pi…",
