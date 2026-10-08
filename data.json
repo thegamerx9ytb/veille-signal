@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2026-10-08T17:41:53.089374+00:00",
+  "lastUpdate": "2026-10-08T21:44:57.601156+00:00",
   "items": [
+    {
+      "titre": "California is trying to shut down robot vs. human cage matches",
+      "resume": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-08",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human"
+    },
+    {
+      "titre": "Apple will reportedly debut its first touchscreen MacBook in three weeks",
+      "resume": "Apple is set to introduce a new MacBook Pro with a touchscreen and an updated iPad Mini \"on or around\" October 27th, Bloomberg reports. If true, that would put the event just two weeks after the October 13th event Apple …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-08",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1008422/apple-macbook-pro-touchscreen-ipad-mini-rumor"
+    },
+    {
+      "titre": "AMD will bring FSR 4 to handhelds by the end of 2026",
+      "resume": "It's already possible to get AMD's framerate-enhancing FSR 4 boost on handhelds as old as the Steam Deck - but in June, AMD reserved the right to disappoint handheld gamers by not officially bringing FSR 4 to older handh…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-08",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/1008353/amd-will-bring-fsr-4-to-handhelds-by-the-end-of-2026"
+    },
+    {
+      "titre": "SpaceX announces plan to become a ‘major mobile carrier’",
+      "resume": "SpaceX has acquired a portfolio of low-band spectrum licenses - a move the company says \"will pave the way\" for its Starlink Mobile service to become a \"major\" US carrier. When the Federal Communications Commission signs…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-08",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier"
+    },
+    {
+      "titre": "Watch the trailer for ‘The Altruists,’ Netflix’s show about the FTX scandal",
+      "resume": "A fictionalized Sam Bankman-Fried is coming to your TV screen on November 19.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-08",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/"
+    },
+    {
+      "titre": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+      "resume": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-08",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/"
+    },
+    {
+      "titre": "Ben Affleck is an AI nerd, and the internet is impressed",
+      "resume": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-08",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/"
+    },
+    {
+      "titre": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "resume": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-08",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/"
+    },
+    {
+      "titre": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+      "resume": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theran…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-08",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/"
+    },
+    {
+      "titre": "Low-cost Android phones ship with residential proxy malware",
+      "resume": "A malware campaign dubbed 'Midnight Mimosa' has been discovered on low-cost Android smartphones that ship with malicious software embedded in their firmware, allowing attackers to silently install apps, perform ad fraud,…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-08",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/"
+    },
+    {
+      "titre": "Ransomware attack disrupts Japan's IDCF Cloud used by govt clients",
+      "resume": "IDC Frontier, a major Japanese cloud and digital infrastructure company, disclosed that its IDCF Cloud service was targeted in a ransomware attack that caused an outage at a data center cluster serving the eastern part o…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-08",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/"
+    },
+    {
+      "titre": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
+      "resume": "The FBI has seized seven domains used by Chinese state-sponsored hackers known as Flax Typhoon to operate two hacking tools, MicroScan and FishHub, used in attacks that breached critical infrastructure and other organiza…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-08",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/"
+    },
+    {
+      "titre": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
+      "resume": "The crooks have trust problems of their own. One ransomware affiliate decided to keep the profits for himself. Elsewhere, an attacker left a server exposed, complete with tools and traces of an intrusion. Apparently, kee…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-08",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html"
+    },
+    {
+      "titre": "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails",
+      "resume": "Hackers tied to a Chinese cybersecurity company stole email from government organizations, law enforcement agencies, healthcare systems, and religious institutions in Southeast Asia, the FBI and agencies in 6 other count…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-08",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html"
+    },
     {
       "titre": "New York accuses TikTok of serving users ‘placebo’ safety features",
       "resume": "New York is alleging that thousands of TikTok users, including kids and teens, were unknowingly given \"ghost\" versions of the platform's safety features rather than the working versions. Reuters reports the allegation is…",
