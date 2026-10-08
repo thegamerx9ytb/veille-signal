@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2026-10-08T12:56:40.859898+00:00",
+  "lastUpdate": "2026-10-08T17:41:53.089374+00:00",
   "items": [
+    {
+      "titre": "New York accuses TikTok of serving users ‘placebo’ safety features",
+      "resume": "New York is alleging that thousands of TikTok users, including kids and teens, were unknowingly given \"ghost\" versions of the platform's safety features rather than the working versions. Reuters reports the allegation is…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-08",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1008112/new-york-tiktok-lawsuit-placebo-safety-features"
+    },
+    {
+      "titre": "Trump administration says Microsoft &#8216;abused&#8217; worker visa program and is cutting off access",
+      "resume": "The Trump administration is suspending some tech companies, including Microsoft, from an immigration program that lets an employer hire foreign workers that can reside permanently in the US, as reported by Reuters. In a …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-08",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/policy/1008115/trump-microsoft-worker-visa-program-vance"
+    },
+    {
+      "titre": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+      "resume": "Anthropic is making changes to its usage policy for the first time in over a year to reflect new and high-risk cases of misuse - including election interference, weapons development, surveillance, and health and financia…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-08",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude"
+    },
+    {
+      "titre": "Older Pixel watches are losing free cellular access to several safety features",
+      "resume": "Google announced through a short community post today that the LTE versions of the Pixel Watch 2 and 3 are losing free access to Safety Signal that allowed features like Emergency SOS, Fall Detection, and Safety Check to…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-08",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1008145/google-pixel-watch-1-2-free-safety-signal-emergency-access-ending"
+    },
+    {
+      "titre": "US bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers",
+      "resume": "The other firms being suspended from the program include Capgemini, Cognizant, HCL, Infosys, Tata, and Wipro.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-08",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/08/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers/"
+    },
+    {
+      "titre": "A startup founder who served time in prison is looking to court an untapped market: ex-cons",
+      "resume": "Richard Bronson, a former Stratton Oakmont partner who served time in federal prison for securities violations, has launched Commissary Club, a startup that uses AI to help people leaving prison find jobs, housing, commu…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-08",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/08/a-startup-founder-who-served-time-in-prison-is-looking-to-court-an-untapped-market-ex-cons/"
+    },
+    {
+      "titre": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
+      "resume": "The global tech ecosystem gathers at TechCrunch Disrupt 2026 at San Francisco’s Moscone West on October 13-15. Get your pass now to save up to $100. Get a second of the same ticket type to save 50%.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-08",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/"
+    },
+    {
+      "titre": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
+      "resume": "Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100. Grab a second of the same pass to save 50%.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-08",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/"
+    },
+    {
+      "titre": "Natura’s $99 smart ring puts AI agents on your finger",
+      "resume": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-08",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/"
+    },
+    {
+      "titre": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+      "resume": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup w…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-08",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/"
+    },
+    {
+      "titre": "Uranium crypto exchange hacker convicted for stealing $53 million",
+      "resume": "A Maryland man was found guilty of stealing more than $53 million after hacking the decentralized crypto exchange Uranium Finance twice in April 2021. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-08",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/"
+    },
+    {
+      "titre": "OAuth grants pile up faster than you can review them. Here's how to keep up.",
+      "resume": "OAuth grants create data highways between SaaS apps, AI agents, and other tools. And, they are multiplying faster than any security team can review them. As the recent Klue breach showed, attackers are taking notice and …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-08",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/"
+    },
+    {
+      "titre": "Cisco warns of critical flaws allowing Nexus switch takeover",
+      "resume": "Cisco released security advisories for five critical vulnerabilities in its NX-OS data center network operating system that could be exploited to run arbitrary code with root privileges on Nexus switches. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-08",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/"
+    },
+    {
+      "titre": "FakeGit malware campaign returns with 17,610 malicious GitHub repos",
+      "resume": "More than 17,000 fake repositories on GitHub are distributing the SmartLoader malware after the FakeGit campaign reactivated earlier this month to push the StealC infostealer. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-08",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/"
+    },
+    {
+      "titre": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
+      "resume": "Cybersecurity researchers have disclosed details of a targeted campaign aimed at South Korean financial organizations that used an artificial intelligence (AI) pen testing tool named ARTEX to carry out the attacks. The a…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-08",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html"
+    },
+    {
+      "titre": "UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML",
+      "resume": "The Russia-aligned threat actor known as UAC-0099 has been attributed to a previously undocumented .NET infostealer and remote access trojan (RAT) codenamed ASHVEIN. According to TrendAI, the malware has been put to use …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-08",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html"
+    },
+    {
+      "titre": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks",
+      "resume": "Attackers behind a string of personal data leaks at Japanese organizations have abused APIs for mobile apps and targeted known software flaws, the JPCERT Coordination Center (JPCERT/CC) said. The Tokyo-based center, whic…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-08",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html"
+    },
     {
       "titre": "Cupertino might be made for your mom, but it&#8217;s a good take on tech",
       "resume": "Cupertino brings the tech backlash to the CBS procedural - an initially awkward combination, but with rewarding results. The show starts off just slightly unsure, but quickly figures out what to do with these strange tim…",
