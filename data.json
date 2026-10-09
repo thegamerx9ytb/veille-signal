@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2026-10-08T21:44:57.601156+00:00",
+  "lastUpdate": "2026-10-09T12:42:46.598393+00:00",
   "items": [
+    {
+      "titre": "Microsoft 365 Family subscribers will finally be able to share AI benefits",
+      "resume": "Microsoft bundled its AI-powered Office features into Microsoft 365 Personal and Family subscriptions last year, but it only allowed the primary account holder to access the AI benefits. Now, Microsoft is about to let Mi…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-09",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes"
+    },
+    {
+      "titre": "OpenAI doubles down on decision to fire three AI safety researchers",
+      "resume": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak …",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-10-09",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers"
+    },
+    {
+      "titre": "Xona’s commercial GPS alternative is about to go live",
+      "resume": "Xona's precision timing and navigation service will enter beta testing after SpaceX launches six satellites designed by the company.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-09",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/09/xonas-commercial-gps-alternative-is-about-to-go-live/"
+    },
+    {
+      "titre": "Citrix warns admins to patch new NetScaler RCE flaw immediately",
+      "resume": "Citrix has warned IT administrators to patch systems immediately against a new critical vulnerability affecting NetScaler ADC networking appliances and NetScaler Gateway secure remote access solutions. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-09",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/"
+    },
+    {
+      "titre": "Microsoft: Outdated Windows devices will stop receiving security updates",
+      "resume": "Microsoft says devices running unsupported versions of Windows will stop receiving security updates after next year's Windows Update certificate rotation. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-09",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/"
+    },
+    {
+      "titre": "Man admits to running network of 15,000 money mules for cybercriminals",
+      "resume": "​A Ukrainian-Russian dual citizen has pleaded guilty to running a massive money laundering operation that laundered millions for cybercriminals worldwide. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-09",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/ukrainian-russian-dual-citizen-admits-to-laundering-millions-for-cybercriminals/"
+    },
+    {
+      "titre": "Max severity SonicWall SMA1000 flaw now exploited in attacks",
+      "resume": "Attackers are exploiting a maximum-severity vulnerability in SonicWall SMA1000 appliances (CVE-2026-102255) that was patched on Tuesday, three days ago. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-09",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/"
+    },
+    {
+      "titre": "Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments",
+      "resume": "Citrix has released patches for yet another critical security flaw impacting NetScaler ADC and NetScaler Gateway that could result in remote code execution or denial-of-service (DoS) under certain conditions. \"CVE-2026-1…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-09",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html"
+    },
+    {
+      "titre": "Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own",
+      "resume": "Three research teams broke into Google's Pixel 10 on October 8 at Pwn2Own Ireland, a hacking contest in Cork whose rules require every target to be fully patched. The contest pays researchers to show working exploits and…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-09",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html"
+    },
+    {
+      "titre": "GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys",
+      "resume": "A bug in GoBalance, a tool many dark-web sites use to stay reachable during attacks, lets anyone work out the secret key that controls a site's .onion address using only public information, and then take that address ove…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-09",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html"
+    },
+    {
+      "titre": "The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition",
+      "resume": "As enterprises race to deploy autonomous AI agents to accelerate business, a new report reveals they are tethered to security architectures built for a different era. The \"Horizons of Identity Security\" report from SailP…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-09",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html"
+    },
+    {
+      "titre": "Anthropic launches free AI security scans for open-source projects",
+      "resume": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our str…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-08",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner"
+    },
+    {
+      "titre": "US plans livestream of execution by firing squad",
+      "resume": "The United States' execution of the Fort Hood shooter will be livestreamed, anonymous officials from the Defense Department told the BBC and Associated Press. The planned execution of Nidal Hasan, the former US Army majo…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-08",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1008530/us-government-livestream-execution-firing-squad-fort-hood"
+    },
+    {
+      "titre": "President Trump awards Big Tech donors with nation’s highest science prizes",
+      "resume": "Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-08",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/"
+    },
     {
       "titre": "California is trying to shut down robot vs. human cage matches",
       "resume": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September…",
