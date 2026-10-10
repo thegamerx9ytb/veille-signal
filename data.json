@@ -1,6 +1,51 @@
 {
-  "lastUpdate": "2026-10-10T16:05:36.969824+00:00",
+  "lastUpdate": "2026-10-10T20:26:26.398320+00:00",
   "items": [
+    {
+      "titre": "Ledger wallet tampering suspected after reports of crypto thefts",
+      "resume": "Reports have been mounting that users of the Ledger crypto wallet have seen their accounts drained, and it appears to be related to tampered hardware sold by CryptoBillis. Ledger has asked CryptoBillis to pause all sales…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-10",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts"
+    },
+    {
+      "titre": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+      "resume": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-10",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit"
+    },
+    {
+      "titre": "Cloudflare acquires Deno to improve its Workers programming model",
+      "resume": "Cloudflare will use this acquisition to improve its Workers programming model and platform.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-10",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/"
+    },
+    {
+      "titre": "Petra Power looks to modernize energy for data centers and defense vehicles",
+      "resume": "The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-10",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/"
+    },
+    {
+      "titre": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "resume": "Is Apple hoping to get into the AI-generated podcast business?",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-10",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/"
+    },
     {
       "titre": "LG’s RGB LED TV is good for certain situations, but an OLED is better",
       "resume": "When it comes to TVs, the LG name has long been synonymous with OLEDs, continually leading Samsung and Sony as the top OLED manufacturer. But 2026 is all about RGB LED TVs. Almost every major company has released models …",
