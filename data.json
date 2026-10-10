@@ -1,6 +1,105 @@
 {
-  "lastUpdate": "2026-10-09T21:25:28.997164+00:00",
+  "lastUpdate": "2026-10-10T12:01:50.126062+00:00",
   "items": [
+    {
+      "titre": "My brief romance with an AI bird feeder",
+      "resume": "It started off promising enough. Dozens of tiny, colorful birds were drawn to my garden just a few weeks after I mounted a $350 $269 Kiwibit Bird Feeder 2 Pro. \"Looks like Great Tit!\" read the first AI-driven alert sent …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-10",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too"
+    },
+    {
+      "titre": "The director of Fjord takes the &#8216;risky position&#8217; of moderator",
+      "resume": "Cristian Mungiu's sixth feature, Fjord, concerns a family on trial. They seem like good people, God-fearing. They've just moved from Romania to a small hamlet nestled in the fjords of rural Norway. There is Mamma (Renate…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-10",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/1008748/fjord-cristian-mungiu-interview"
+    },
+    {
+      "titre": "The Telo MT1 is a big truck trapped in a tiny truck’s body",
+      "resume": "I'm bouncing down the road in San Carlos, California, zipping past behemoth tech companies like EA and Oracle, in America's smallest electric truck. The Telo MT1 (which stands for \"mini truck\") unquestionably turns heads…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-10",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/1005502/telo-mt1-review-ev-tiny-truck"
+    },
+    {
+      "titre": "The techlash has gone Hollywood",
+      "resume": "Hi, friends! Welcome to Installer No. 147, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I missed you all, and also you can read all the old editions at the Installer homepage.) …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-10",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1008836/social-reckoning-cupertino-techlash-installer"
+    },
+    {
+      "titre": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+      "resume": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-10-10",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/"
+    },
+    {
+      "titre": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "resume": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-10",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
+    },
+    {
+      "titre": "FBI Arrests Founder of Ransomware Negotiation Firm",
+      "resume": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved th…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-10",
+      "source": "Krebs on Security",
+      "lien": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/"
+    },
+    {
+      "titre": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
+      "resume": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-10",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html"
+    },
+    {
+      "titre": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
+      "resume": "In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind single sign-on. The other thousand are invisible to identity infrastructu…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-10",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html"
+    },
+    {
+      "titre": "Long live the mechanical keyboard",
+      "resume": "Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a variety of other versions, including one with an all-wood body.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-09",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/"
+    },
+    {
+      "titre": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "resume": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-09",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/"
+    },
     {
       "titre": "Brendan Carr says he&#8217;ll let Pete Hegseth decide whether TV networks can air the public execution",
       "resume": "FCC chairman Brendan Carr said he will defer to Secretary of Defense Pete Hegseth on whether TV networks can air the planned execution of convicted Fort Hood shooter Nidal Hasan by firing squad. The Pentagon has said the…",
