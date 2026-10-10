@@ -1,6 +1,96 @@
 {
-  "lastUpdate": "2026-10-10T12:01:50.126062+00:00",
+  "lastUpdate": "2026-10-10T16:05:36.969824+00:00",
   "items": [
+    {
+      "titre": "LG’s RGB LED TV is good for certain situations, but an OLED is better",
+      "resume": "When it comes to TVs, the LG name has long been synonymous with OLEDs, continually leading Samsung and Sony as the top OLED manufacturer. But 2026 is all about RGB LED TVs. Almost every major company has released models …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-10",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1008957/lg-mrgb95b-rgb-led-tv-review"
+    },
+    {
+      "titre": "Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?",
+      "resume": "Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply called Skydance. Sk…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-10",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure"
+    },
+    {
+      "titre": "Anthropic is cutting off its internal evaluations from the internet",
+      "resume": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model act…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-10",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet"
+    },
+    {
+      "titre": "K-pop star Sunmi loves Notion and ear cleaning videos",
+      "resume": "Sunmi is an undeniable force in K-pop. She first made her debut as a member of the Wonder Girls back in 2007, one of the first K-pop acts to really break through in the West. The English version of their single \"Nobody\" …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-10",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview"
+    },
+    {
+      "titre": "Here are the top AI agents that can live in your text messages",
+      "resume": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-10",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/"
+    },
+    {
+      "titre": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+      "resume": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register be…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-10",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/"
+    },
+    {
+      "titre": "FBI Arrests Executive at Ransomware Negotiation Firm",
+      "resume": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved th…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-10",
+      "source": "Krebs on Security",
+      "lien": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/"
+    },
+    {
+      "titre": "Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management",
+      "resume": "Traditional attack surface management helps organizations discover exposed assets, but visibility alone is not enough to address threats. Criminal IP introduces AITEM, an AI-powered approach that connects exposure discov…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-10",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/"
+    },
+    {
+      "titre": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
+      "resume": "The cyberattacks that shook the South Korean financial sector earlier this month were launched by a Chinese hacker using the ARTEX AI penetration testing suite and Claude agents. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-10",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/"
+    },
+    {
+      "titre": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
+      "resume": "Canadian cybersecurity executive Edward Dubrovsky has been arrested in Pennsylvania in connection with alleged extortion activity that multiple reports have linked to the FBI's ongoing crackdown on the ShinyHunters hacki…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-10",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/"
+    },
     {
       "titre": "My brief romance with an AI bird feeder",
       "resume": "It started off promising enough. Dozens of tiny, colorful birds were drawn to my garden just a few weeks after I mounted a $350 $269 Kiwibit Bird Feeder 2 Pro. \"Looks like Great Tit!\" read the first AI-driven alert sent …",
