@@ -1,6 +1,60 @@
 {
-  "lastUpdate": "2026-10-11T16:31:19.094881+00:00",
+  "lastUpdate": "2026-10-11T20:44:07.324854+00:00",
   "items": [
+    {
+      "titre": "The new Apple TV could have a built-in mic and a remote with a speaker",
+      "resume": "The latest rumors are that the new Apple TV will have a built-in microphone, while the upgraded remote will get a speaker. The mic would let users control the set-top box using Siri without having to speak into the remot…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-11",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1009397/apple-tv-refresh-built-in-mic-remote-speaker"
+    },
+    {
+      "titre": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+      "resume": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking w…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-11",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai"
+    },
+    {
+      "titre": "A college in Illinois tried to cancel its Flock contact and it refused",
+      "resume": "In April of 2025, Elgin Community College had six Flock safety cameras installed to \"enhance the safety and security of students.\" But by September of that year, the school's administration grew concerned that Flock was …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-11",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras"
+    },
+    {
+      "titre": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "resume": "Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt Oct. 13.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-11",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/"
+    },
+    {
+      "titre": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "resume": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-11",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/"
+    },
+    {
+      "titre": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+      "resume": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-11",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/"
+    },
     {
       "titre": "What to expect from Apple’s ‘Welcome Home’ event",
       "resume": "We are quickly coming up on Apple's \"Welcome Home\" launch event, where we expect a host of smart home-related announcements. We are expecting refreshes to Apple TV and HomePod Mini, as well as a brand new smart home hub.…",
