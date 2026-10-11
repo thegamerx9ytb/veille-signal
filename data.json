@@ -1,6 +1,60 @@
 {
-  "lastUpdate": "2026-10-10T20:26:26.398320+00:00",
+  "lastUpdate": "2026-10-11T12:14:31.225412+00:00",
   "items": [
+    {
+      "titre": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "resume": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run power…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-11",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress"
+    },
+    {
+      "titre": "Why the LeapPad couldn&#8217;t survive the iPad",
+      "resume": "For multiple years, the hottest toy in the United States was a book. But not just any book: a smart book that could play sounds and respond to taps and help kids learn to read. However, buying it came with a high price a…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-11",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/podcast/1008578/leapfrog-leappad-technology-version-history"
+    },
+    {
+      "titre": "Horror is big business",
+      "resume": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how pervasive horror has become, follow Andrew Webster. The Stepback, arrives in our subscribers' inboxes on Su…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-11",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/column/1008432/horror-popular-widows-bay-resident-evil"
+    },
+    {
+      "titre": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+      "resume": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the variants we usually observe, P7 reduces its on-device footprint, ad…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-11",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html"
+    },
+    {
+      "titre": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "resume": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-10",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised"
+    },
+    {
+      "titre": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "resume": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-10",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/"
+    },
     {
       "titre": "Ledger wallet tampering suspected after reports of crypto thefts",
       "resume": "Reports have been mounting that users of the Ledger crypto wallet have seen their accounts drained, and it appears to be related to tampered hardware sold by CryptoBillis. Ledger has asked CryptoBillis to pause all sales…",
