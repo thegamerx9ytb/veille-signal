@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2026-10-11T20:44:07.324854+00:00",
+  "lastUpdate": "2026-10-12T14:38:02.128771+00:00",
   "items": [
+    {
+      "titre": "CMF’s first wireless speakers look like musical milk cartons",
+      "resume": "The CMF Speaker Series are the first portable Bluetooth speakers from the budget-focused brand that Nothing created but is in the process of spinning off into an India-based standalone subsidiary. As with many of CMF's p…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-12",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1008191/nothing-cmf-speaker-m-s-series-bluetooth-design-customize"
+    },
+    {
+      "titre": "The OnePlus 16 is the company’s most interesting phone in years",
+      "resume": "Today the OnePlus 16 launched in China, the company's first flagship phone since quitting both the US and European markets this summer. As luck would have it, it also looks like the company's best phone in some time. Lik…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-12",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1009570/oneplus-16-specs-features-china"
+    },
+    {
+      "titre": "No Man’s Sky is coming to the iPhone and iPad",
+      "resume": "The No Man's Sky universe is about to get a little bit smaller - but in a good way. Hello Games announced that its long-running sci-fi exploration game will be coming to iOS, with versions for both the iPhone and iPad av…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-12",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/1009541/no-mans-sky-iphone-ipad-launch-date"
+    },
+    {
+      "titre": "Android is the best and worst thing about Googlebooks",
+      "resume": "My first week with the new Android-powered laptops has been about as rocky as anyone's, but I've slowly learned to like them, even if love still feels a ways off. Every moment that's impressed me has been thanks to Andro…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-12",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing"
+    },
+    {
+      "titre": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "resume": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-12",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/"
+    },
+    {
+      "titre": "Smart ring maker Ultrahuman to roll out biological-age model across UAE",
+      "resume": "Ultrahuman and Abu Dhabi will spend the next two years working on research and clinical validation of the model.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-12",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/12/smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae/"
+    },
+    {
+      "titre": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+      "resume": "Ambi is releasing apps for iPhone, Mac, and Apple Watch that enables ambient capture",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-12",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/"
+    },
+    {
+      "titre": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+      "resume": "Tomorrow at 8 a.m. PT, it all begins. 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping wha…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-12",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/"
+    },
+    {
+      "titre": "Microsoft: Windows 11 23H2 reaches end of support in 30 days",
+      "resume": "Microsoft has reminded customers that systems running Windows 11 23H2 Enterprise, Education, and IoT Enterprise editions will stop receiving security updates next month. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-12",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-reaches-end-of-support-in-30-days/"
+    },
+    {
+      "titre": "GitLab warns of max severity code execution vulnerability",
+      "resume": "GitLab warned users today to immediately patch a maximum-severity vulnerability in the CI/CD Regular Expression Compiler that could let remote attackers run arbitrary code on targeted instances. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-12",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/"
+    },
+    {
+      "titre": "Retail giant Ahold Delhaize takes systems offline after cyberattack",
+      "resume": "Retail giant Ahold Delhaize, one of the world's largest food retail chains, confirmed today that it had to take some systems offline in response to a \"cybersecurity incident\" affecting its network. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-12",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/"
+    },
+    {
+      "titre": "Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption",
+      "resume": "A new Windows malware loader called AvisLoader uses encrypted peer-to-peer communications to make command-and-control infrastructure harder to disrupt. Varonis researchers explain how the malware uses ClickFix delivery, …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-12",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/"
+    },
+    {
+      "titre": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
+      "resume": "A maximum-severity security flaw impacting the Bricksforge plugin for WordPress has come under active exploitation in the wild, according to Patchstack. The critical vulnerability in question is CVE-2026-85097 (CVSS scor…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-12",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html"
+    },
+    {
+      "titre": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch",
+      "resume": "Threat actors have been observed exploiting a recently disclosed critical security flaw in SonicWall Secure Mobile Access (SMA) 1000 appliances within days of public disclosure. The vulnerability, tracked as CVE-2026-102…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-12",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html"
+    },
+    {
+      "titre": "Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports",
+      "resume": "Cryptocurrency hardware maker Ledger has temporarily paused sales of its products via CryptoBilis following reports of stolen funds linked to devices sold by the reseller. On Friday, the company said it was investigating…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-12",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html"
+    },
+    {
+      "titre": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In",
+      "resume": "The personal AI agents rollout is going about as smoothly as expected: Amazon now blocks Meta's Muse because it doesn't identify itself as a bot while browsing; Instinct keeps raising privacy concerns; and the horror sto…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-12",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html"
+    },
+    {
+      "titre": "Will the HomeView be Apple’s first smart home success?",
+      "resume": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-11",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/"
+    },
     {
       "titre": "The new Apple TV could have a built-in mic and a remote with a speaker",
       "resume": "The latest rumors are that the new Apple TV will have a built-in microphone, while the upgraded remote will get a speaker. The mic would let users control the set-top box using Siri without having to speak into the remot…",
