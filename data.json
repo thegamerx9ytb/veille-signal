@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2026-10-12T14:38:02.128771+00:00",
+  "lastUpdate": "2026-10-12T20:05:51.617522+00:00",
   "items": [
+    {
+      "titre": "Mechanism&#8217;s first Switch 2 case is as awesome as I hoped it would be",
+      "resume": "Most companies have slowed down releasing new Switch 2 cases, but one of my favorite accessory makers recently debuted its first, after a few delays. The $49 Basecase from Mechanism is a snap-on shell for the console tha…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-12",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1008161/mechanism-basecase-switch-2-case-hands-on"
+    },
+    {
+      "titre": "The Yandex outage probably didn’t blitz Russian bots",
+      "resume": "Multiple Ukrainian drone strikes over the last week have taken Russian data centers offline and reportedly caused online bot traffic to plummet - but in reality it's probably not the kind of bot activity most people asso…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-12",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk"
+    },
+    {
+      "titre": "Elon Musk has donated over $276 million to Republican midterm efforts",
+      "resume": "Elon Musk has handed out at least $276 million to Republican groups since July, The New York Times reports, making him both the party's top known donor and the biggest established midterm donor. $158 million of that mone…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-12",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations"
+    },
+    {
+      "titre": "Meta has some Wonder Full new AI models",
+      "resume": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go t…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-12",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model"
+    },
+    {
+      "titre": "Microsoft president says UK is best placed to drive AI regulation",
+      "resume": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-12",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/"
+    },
+    {
+      "titre": "Honeyjar offers AI tools to improve PR and comms at every company",
+      "resume": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-12",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/"
+    },
+    {
+      "titre": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "resume": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-12",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/"
+    },
+    {
+      "titre": "Meta releases its first frontier model, Muse Wonder",
+      "resume": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-12",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/"
+    },
+    {
+      "titre": "Cyberattack shuts down refrigerators at French supermarkets",
+      "resume": "Attackers remotely defrosted refrigerators at multiple French supermarket chains overnight in a cyberattack that reportedly targeted Danfoss refrigeration controllers. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-12",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/"
+    },
+    {
+      "titre": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "resume": "Ledger has confirmed that some of its devices distributed through Southeast Asian reseller CryptoBilis were compromised with a hardware implant that drained users' cryptocurrency wallets. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-12",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/"
+    },
+    {
+      "titre": "Anthropic takes risky AI tests offline after models breach govt sites",
+      "resume": "Anthropic announced that its internal AI models undergoing \"high-risk and cybersecurity evaluations\" no longer have internet access following incidents involving U.S. government websites at the federal, state, and local …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-12",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/"
+    },
+    {
+      "titre": "Yandex confirms service outage as users lose access to cloud files",
+      "resume": "Russian cloud services provider Yandex announced that drone attacks damaged three of its data centers, forcing it to shut down two facilities and partially disable a third. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-12",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/"
+    },
+    {
+      "titre": "⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
+      "resume": "Some meetings last longer than it took attackers to jump on a newly disclosed security flaw this week. Within hours, they were already testing it. That's not much time to read the warning, let alone do something about it…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-12",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html"
+    },
     {
       "titre": "CMF’s first wireless speakers look like musical milk cartons",
       "resume": "The CMF Speaker Series are the first portable Bluetooth speakers from the budget-focused brand that Nothing created but is in the process of spinning off into an India-based standalone subsidiary. As with many of CMF's p…",
