@@ -1,6 +1,24 @@
 {
-  "lastUpdate": "2026-10-12T20:05:51.617522+00:00",
+  "lastUpdate": "2026-10-12T23:25:28.959861+00:00",
   "items": [
+    {
+      "titre": "The Social Reckoning is flopping at the box office",
+      "resume": "As important as some of the messages in The Social Reckoning are, the movie has been drastically underperforming at the box office. Per Variety, Aaron's Sorkin's follow up to The Social Network only grossed a measly $5.5…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-12",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/1009630/social-reckoning-box-office-other-mommy"
+    },
+    {
+      "titre": "Norway fines Microsoft ad firm $9.6 million over Grindr data sharing",
+      "resume": "Norway's Data Protection Authority (Datatilsynet) has fined Microsoft-owned advertising company Xandr NOK 92 million ($9.6M) for unlawfully processing and sharing sensitive data belonging to Grindr users in the country. …",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-12",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/"
+    },
     {
       "titre": "Mechanism&#8217;s first Switch 2 case is as awesome as I hoped it would be",
       "resume": "Most companies have slowed down releasing new Switch 2 cases, but one of my favorite accessory makers recently debuted its first, after a few delays. The $49 Basecase from Mechanism is a snap-on shell for the console tha…",
