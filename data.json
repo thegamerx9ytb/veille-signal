@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2026-10-12T23:25:28.959861+00:00",
+  "lastUpdate": "2026-10-13T13:42:30.283954+00:00",
   "items": [
+    {
+      "titre": "The new Apple TV 4K has built-in microphones so you can talk to Siri AI",
+      "resume": "Apple is introducing a refreshed Apple TV 4K today with a pair of interesting new hardware features: far-field microphones to talk to Siri hands-free and Find My built into the remote. The fourth-gen Apple TV 4K, announc…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-13",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1009663/apple-tv-4k-siri-ai-microphones-4th-gen-announced"
+    },
+    {
+      "titre": "Getty Images is going private after failed Shutterstock merger",
+      "resume": "Getty Images intends to file for bankruptcy and go private as part of a restructuring agreement after its plans to merge with rival stock platform Shutterstock fell through earlier this year. On Monday, Getty announced i…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-13",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/business/1009893/getty-images-bankruptcy-private-plans-agreement"
+    },
+    {
+      "titre": "Watch Apple’s reveal video for the HomeView",
+      "resume": "Apple just announced its long-rumored smart home hub, the HomeView, during its \"Welcome Home\" event taking place today. As part of the event, it showed a video featuring the new device, and if you want to see it for your…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-13",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/1008810/apple-homeview-reveal-video-watch"
+    },
+    {
+      "titre": "Where to preorder the new Apple TV 4K",
+      "resume": "Apple debuted its latest Apple TV 4K - its first in four years - and it'll be available starting Friday, November 13th. It's powerful, with the A19 chip (the now-discontinued 2022 model has the A15 Bionic), and it featur…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-13",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1009921/apple-tv-4k-2026-preorder-buy"
+    },
+    {
+      "titre": "India delays digital payments fee rollout amid retailer pushback",
+      "resume": "The NPCI, which operates the UPI network, said it was postponing the planned October 15 rollout of the 0.4% fee due to the festive shopping season.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-13",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/13/india-delays-digital-payments-fee-rollout-amid-retailer-pushback/"
+    },
+    {
+      "titre": "Apple’s new smart home line-up includes a smart lock, thermostat and video doorbells",
+      "resume": "The new devices work with HomeView, the company's new smart home hub which can be used to control accessories and interact with apps.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-13",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/13/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/"
+    },
+    {
+      "titre": "Apple refreshes its Homepod mini with a new chip and $149 price tag",
+      "resume": "The new $149 HomePod mini with Siri AI and a 'SoundGlow' visual feature will be available starting October 30.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-13",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/13/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag/"
+    },
+    {
+      "titre": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+      "resume": "The startup will sell some of its assets to Disney for $20 million.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-13",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/"
+    },
+    {
+      "titre": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+      "resume": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-13",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/"
+    },
+    {
+      "titre": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+      "resume": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-13",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/"
+    },
+    {
+      "titre": "Attackers Heat French Supermarket Fridges Up to 50°C by Hijacking Danfoss Controllers",
+      "resume": "Attackers took remote control of fridges and freezers at hundreds of French supermarkets on the night of October 11 and warmed them, forcing stores to throw food away, several retail chains said. The attackers reached th…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-13",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html"
+    },
+    {
+      "titre": "Product Walkthrough: Bitdefender AI Visibility and Control",
+      "resume": "A user opens a browser tab, pastes data into a chat assistant, and nothing is installed. A developer adds a coding&nbsp;assistant as an editor extension, and nothing shows up in the installed programs list. Someone downl…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-13",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html"
+    },
+    {
+      "titre": "LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network",
+      "resume": "Three vulnerabilities in LG's webOS can be chained to give an attacker on the same local network root access to certain smart TVs without a PIN or any interaction from the owner. LG has issued a fix, according to&nbsp;an…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-13",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html"
+    },
+    {
+      "titre": "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls",
+      "resume": "The dangerous part of a stolen identity isn't always the initial login. It's what an attacker can do with that access next. With AI accelerating reconnaissance, exploitation of vulnerabilities, and privilege escalation, …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-13",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html"
+    },
     {
       "titre": "The Social Reckoning is flopping at the box office",
       "resume": "As important as some of the messages in The Social Reckoning are, the movie has been drastically underperforming at the box office. Per Variety, Aaron's Sorkin's follow up to The Social Network only grossed a measly $5.5…",
