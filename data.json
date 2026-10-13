@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2026-10-13T13:42:30.283954+00:00",
+  "lastUpdate": "2026-10-13T17:55:04.284710+00:00",
   "items": [
+    {
+      "titre": "Google makes it easier to launch your vibe-coded apps",
+      "resume": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch perso…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-13",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch"
+    },
+    {
+      "titre": "Facebook will let you customize your feed algorithm using AI",
+      "resume": "Facebook's new \"Your Algorithm\" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels. Meta says your recommendations \"respond right away\" after you make updates using the ne…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-13",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai"
+    },
+    {
+      "titre": "The Xteink X4 Pro is a great, tiny e-reader, and it’s cheaper than ever",
+      "resume": "If you&#8217;re looking for an e-reader that can easily fit in your pocket (or snap onto your magnet-equipped phone), the tiny Xteink X4 Pro might be worth a look. It features a 4.26-inch, 800 x 480 E Ink display, making…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-13",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1010276/xteink-x4-pro-e-reader-deal-sale"
+    },
+    {
+      "titre": "The feds are looking into reports of Tesla’s robotaxis speeding through school zones",
+      "resume": "The National Highway Traffic Safety Administration says it's evaluating allegations that Tesla's 1,000 or so robotaxis using its automated driving system are exceeding \"posted speed limits in active school zones.\" Waymo'…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-13",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/1010364/tesla-robotaxi-school-zonespeeding-investigation"
+    },
+    {
+      "titre": "MIT startup says it can turn diesel trucks into cheaper hydrogen haulers — see it at Disrupt",
+      "resume": "Diesel is expensive and polluting, and LNK Energies says it has come up with a way to replace it with hydrogen, all while undercutting diesel on cost.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-13",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt/"
+    },
+    {
+      "titre": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+      "resume": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-13",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/"
+    },
+    {
+      "titre": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+      "resume": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-13",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/"
+    },
+    {
+      "titre": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+      "resume": "Pluto Security has raised $42 million Jump Capital, TLV Partners, Ansa Capital and angel investors.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-13",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/"
+    },
+    {
+      "titre": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "resume": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing at TechCrunch Disrupt's…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-13",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/"
+    },
+    {
+      "titre": "Docker Hub flaw let attackers impersonate users, tamper with images",
+      "resume": "Docker has disclosed a critical vulnerability (CVE-2026-105445) in Docker Hub that let attackers access another user's container repositories using a personal access token (PAT). [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-13",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/docker-hub-flaw-let-attackers-impersonate-users-tamper-with-images/"
+    },
+    {
+      "titre": "Ivanti warns of Connect Secure zero-day exploited in attacks",
+      "resume": "Ivanti urged customers on Tuesday to immediately patch an actively exploited zero-day vulnerability in the Ivanti Connect Secure (ICS) remote access gateway. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-13",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/"
+    },
+    {
+      "titre": "TFG London cyberattack disrupts systems at Hobbs and Whistles retailers",
+      "resume": "TFG London detected a cybersecurity incident that impacted IT systems used by the Phase Eight, Hobbs, and Whistles premium fashion brands. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-13",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/tfg-london-cyberattack-disrupts-systems-at-hobbs-and-whistles-retailers/"
+    },
+    {
+      "titre": "Windows 11 KB5127648 & KB5126653 cumulative updates released",
+      "resume": "Microsoft has released Windows 11 KB5127648 and KB5126653 cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs and add new features. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-13",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127648-and-kb5126653-cumulative-updates-released/"
+    },
+    {
+      "titre": "Xandr Fined a Record €8.6 Million for Relaying Grindr Data Revealing Sexual Orientation",
+      "resume": "The Norwegian Data Protection Authority (DPA) has fined Xandr, an advertising unit owned by Microsoft, €8.6 million ($9.62 million) for illegally relaying ​Grindr users' sensitive data to advertisers. The administrative …",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-13",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html"
+    },
+    {
+      "titre": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
+      "resume": "GitHub has taken the step of expiring unvalidated npm trusted publishing configurations 48 hours after creation after researchers found that it was possible for an attacker to push new versions of a different user's pack…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-13",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html"
+    },
     {
       "titre": "The new Apple TV 4K has built-in microphones so you can talk to Siri AI",
       "resume": "Apple is introducing a refreshed Apple TV 4K today with a pair of interesting new hardware features: far-field microphones to talk to Siri hands-free and Find My built into the remote. The fourth-gen Apple TV 4K, announc…",
