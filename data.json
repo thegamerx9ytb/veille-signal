@@ -1,6 +1,168 @@
 {
-  "lastUpdate": "2026-10-13T17:55:04.284710+00:00",
+  "lastUpdate": "2026-10-13T21:41:58.220626+00:00",
   "items": [
+    {
+      "titre": "Xbox is officially embracing the chaos of AI-powered game ports",
+      "resume": "Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different games into a single new ex…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-13",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration"
+    },
+    {
+      "titre": "Shopify opens its catalog up to more AI agents",
+      "resume": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI agents to…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-13",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents"
+    },
+    {
+      "titre": "It looks like Apple Music is getting a new icon",
+      "resume": "Apple Music's iconic red app icon has reportedly been replaced with a black-and-white version in the latest iOS 27.2 beta, 9to5Mac reports. The eighth note on the icon also appears to have a slightly sharper angle than t…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-13",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1010619/apple-music-new-icon-ios-27-beta"
+    },
+    {
+      "titre": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+      "resume": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national. Alfo…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-13",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device"
+    },
+    {
+      "titre": "Cambridge Heavy Industries has been quietly building a desktop fusion device",
+      "resume": "Fusion power startup Cambridge Heavy Industries is building a small, laser-powered fusion device to fuel the coming wave of fusion power plants.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-13",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/"
+    },
+    {
+      "titre": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
+      "resume": "It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to \"capture sensitive communications about the company’s super intelligence technology.\"",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-13",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/"
+    },
+    {
+      "titre": "Helix Carbon says it can make iron cheaper by recycling blast furnace pollution",
+      "resume": "The steel industry is a big polluter, but Helix Carbon can upcycle pollution from blast furnaces to drive down emissions and improve margins.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-13",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/"
+    },
+    {
+      "titre": "Facebook is giving users more control over their algorithm",
+      "resume": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-13",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/"
+    },
+    {
+      "titre": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+      "resume": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-13",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/"
+    },
+    {
+      "titre": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+      "resume": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-13",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/"
+    },
+    {
+      "titre": "Microsoft releases Windows 10 KB5126657 extended security update",
+      "resume": "Microsoft released the Windows 10 KB5126657 extended security update, which includes this month's record-breaking October 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-13",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5126657-extended-security-update/"
+    },
+    {
+      "titre": "Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days",
+      "resume": "Today is Microsoft's October 2026 Patch Tuesday, with security updates addressing a record-breaking 1,411 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-13",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/"
+    },
+    {
+      "titre": "Anthropic warns self-replicating AI could spread to your smart devices",
+      "resume": "Anthropic is warning that small AI models could soon be able to self-replicate across consumer IoT devices, from Android TV boxes to smart ovens, creating distributed botnets capable of running AI workloads without relyi…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-13",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/"
+    },
+    {
+      "titre": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
+      "resume": "A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution through specially crafted PDF files. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-13",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/"
+    },
+    {
+      "titre": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft",
+      "resume": "A flaw in SAP's&nbsp;Cloud SDK for Python&nbsp;can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a&nbsp;security advisory&nbsp;on October 13. The flaw affects multi-tenant …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-13",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html"
+    },
+    {
+      "titre": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
+      "resume": "An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm&nbsp;Volexity said&nbsp;on October 13. Ivanti has released fixes for two of th…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-13",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html"
+    },
+    {
+      "titre": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
+      "resume": "A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it found no evidence that …",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-13",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html"
+    },
+    {
+      "titre": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
+      "resume": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from Anthropic. The front…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-13",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html"
+    },
     {
       "titre": "Google makes it easier to launch your vibe-coded apps",
       "resume": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch perso…",
