@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2026-10-14T15:41:10.418925+00:00",
+  "lastUpdate": "2026-10-14T20:23:35.383065+00:00",
   "items": [
+    {
+      "titre": "As a TV enthusiast, I was hoping for more from the Apple TV 4K",
+      "resume": "It's been four long years since the last Apple TV 4K was released, and in that time there have been lots of hopes and dreams for features in whatever comes next. A new chip, 4K/120Hz support, audio passthrough, a remote …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-14",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1011324/apple-tv-4k-missed-features"
+    },
+    {
+      "titre": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
+      "resume": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding. James is among…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-14",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy"
+    },
+    {
+      "titre": "The AI race is back on",
+      "resume": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-14",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on"
+    },
+    {
+      "titre": "Microsoft and Japan took down a cybercrime network behind over a billion scam messages",
+      "resume": "We've all gotten a scam text about a nonexistent parking ticket or a fake package delivery, but hopefully you'll start seeing fewer of them. Microsoft says it helped dismantle a marketplace for scammers sending phishing …",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-10-14",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown"
+    },
+    {
+      "titre": "Hiyd is a health tracker that attaches to the watch you already wear",
+      "resume": "Former Apple engineers figured out how to get a biometric sensor to attach to your watch without any magnets or adhesives.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-14",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/14/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear/"
+    },
+    {
+      "titre": "Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers",
+      "resume": "Startup Ambrosia Energy will build a massive factory to crank out batteries to augment solar panels, creating a round-the-clock clean power plant.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-14",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers/"
+    },
+    {
+      "titre": "TimeTeller puts our internal clocks at the center of personalized medicine",
+      "resume": "German startup TimeTeller has developed a saliva test kit to help anyone understand their circadian rhythm; it aims to reduce side effects from cancer treatments.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-14",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/"
+    },
+    {
+      "titre": "Electric vehicle sales in the U.S. are showing signs of life",
+      "resume": "The electric vehicle market in the U.S. has been growing for the last three consecutive quarters.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-14",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/14/electric-vehicle-sales-in-the-u-s-are-showing-signs-of-life/"
+    },
+    {
+      "titre": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+      "resume": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-14",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/"
+    },
+    {
+      "titre": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+      "resume": "The label will appear on the player page and include songs entirely generated by AI or partially, such as involved in composition and vocals.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-14",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/"
+    },
+    {
+      "titre": "Cisco patches new Secure Email Gateway zero-day exploited in attacks",
+      "resume": "Cisco has patched another actively exploited zero-day flaw in its Secure Email Gateway (SEG) that lets remote unauthenticated attackers execute commands with root privileges. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-14",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/"
+    },
+    {
+      "titre": "Ledger asks sellers across Asia to halt sales after supply-chain attack",
+      "resume": "Ledger has asked resellers and distributors of its wallets in Indonesia, Singapore, Thailand, the Philippines, Vietnam, Malaysia, and Hong Kong to suspend device sales and remove products from shelves while it investigat…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-14",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/"
+    },
+    {
+      "titre": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested",
+      "resume": "The U.S. Department of Justice (DoJ) has disrupted the Famous Chollima threat group's operations by arresting two suspects, charging 14 individuals, and seizing nearly 187 laptops used in North Korean remote IT worker sc…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-14",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/"
+    },
+    {
+      "titre": "U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud",
+      "resume": "The U.S. Department of Justice (DoJ) on Tuesday charged 14 people and seized about 187 computers as part of its ongoing efforts to disrupt North Korea's fraudulent remote IT worker (ITW) scheme. The indictment charges a …",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-14",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html"
+    },
+    {
+      "titre": "Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages",
+      "resume": "Microsoft and Health-ISAC, along with the Japan Cybercrime Control Center (JC3) and a coalition of private sector companies, such as Resecurity, Cloudflare, Oracle, Proofpoint, and TRM Labs, announced the disruption of t…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-14",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html"
+    },
+    {
+      "titre": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App",
+      "resume": "Attackers exploited a flaw in an optional Nextcloud app,&nbsp;Collabora Online - Built-in CODE Server, to plant web shells on Nextcloud servers. Three administrators&nbsp;reported the issue on GitHub, with the first logg…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-14",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html"
+    },
+    {
+      "titre": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
+      "resume": "Attackers are exploiting a critical flaw in Cisco Secure Email Gateway that lets a sender with no login write files to the appliance's operating system, Cisco&nbsp;said in an advisory&nbsp;on Wednesday. The attacker send…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-14",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html"
+    },
     {
       "titre": "Ukraine claims Starlink is suddenly disrupting service for its military",
       "resume": "Ukrainian officials claim the Elon Musk-owned Starlink put new limits on its service in the area without warning, disrupting the country's drone operations and missions, according to reports from Reuters and the Financia…",
