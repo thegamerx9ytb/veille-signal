@@ -1,6 +1,150 @@
 {
-  "lastUpdate": "2026-10-13T21:41:58.220626+00:00",
+  "lastUpdate": "2026-10-14T11:21:10.114568+00:00",
   "items": [
+    {
+      "titre": "Fairphone’s latest repairable earbuds are smaller, lighter, and longer-lasting",
+      "resume": "Repairable, ethical phone brand Fairphone has released its second pair of earbuds. The Fairbuds 2 are just as repairable as the first generation, but deliver improved audio and almost twice the battery life. The Fairbuds…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-14",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1010906/fairphone-fairbuds-2-price-release-audio-repairability"
+    },
+    {
+      "titre": "The Tesla Roadster could have stayed vaporware",
+      "resume": "For a car that's supposed to be one of the fastest ever made, the new Tesla Roadster certainly took its sweet-ass time getting here. It's been nearly a decade since Elon Musk made the surprise announcement about plans to…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-14",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/1010694/tesla-roadster-reveal-vaporware-spacex-elon-musk"
+    },
+    {
+      "titre": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
+      "resume": "U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang.",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-10-14",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/"
+    },
+    {
+      "titre": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+      "resume": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-14",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/"
+    },
+    {
+      "titre": "Microsoft: Recent Windows updates may trigger Remote Desktop failures",
+      "resume": "Microsoft has confirmed that non-admin users may be unable to connect to devices via Remote Desktop after installing recent Windows updates if the \"Administrator protection\" security feature is enabled. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-14",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/"
+    },
+    {
+      "titre": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
+      "resume": "A Saudi National and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sensitive conversations…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-14",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html"
+    },
+    {
+      "titre": "Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug",
+      "resume": "Microsoft on Tuesday shattered its own Patch Tuesday record by shipping patches for a whopping 1,413 vulnerabilities, including one that it said has come under active exploitation. These include 1,102 flaws in Windows, 1…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-14",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html"
+    },
+    {
+      "titre": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
+      "resume": "Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is taken over. The protected area is a VBS enclave, an isolated slice of memo…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-14",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html"
+    },
+    {
+      "titre": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
+      "resume": "A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In one virtualization setup, it lets an untrusted virtual machine write …",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-14",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html"
+    },
+    {
+      "titre": "Apple’s HomeView ad is confusing to everyone except parents",
+      "resume": "Apple's ad introducing its new HomeView smart display is a little unusual. It's fast-paced and unruly, depicting a family of five as they rush through the morning routine. There's yelling and mess, misplaced keys and dis…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-13",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction"
+    },
+    {
+      "titre": "Cerebras CEO pushes back on AI doomsday warnings",
+      "resume": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-13",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/"
+    },
+    {
+      "titre": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+      "resume": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-13",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/"
+    },
+    {
+      "titre": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+      "resume": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-13",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/"
+    },
+    {
+      "titre": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+      "resume": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-13",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/"
+    },
+    {
+      "titre": "Microsoft Patches More Than 1,400 Security Flaws",
+      "resume": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was alre…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-13",
+      "source": "Krebs on Security",
+      "lien": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/"
+    },
+    {
+      "titre": "OpenAI engineer arrested for allegedly planting spy device in office",
+      "resume": "A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-13",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/"
+    },
     {
       "titre": "Xbox is officially embracing the chaos of AI-powered game ports",
       "resume": "Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different games into a single new ex…",
