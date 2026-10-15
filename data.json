@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2026-10-14T20:23:35.383065+00:00",
+  "lastUpdate": "2026-10-15T10:58:26.550271+00:00",
   "items": [
+    {
+      "titre": "Big Walk skipped Xbox to boycott Microsoft’s involvement with Israel",
+      "resume": "Big Walk's co-op multiplayer walking adventure has proved popular since launching in August, but Xbox players have been excluded from the fun - and now the game's creators have explained why. Developer House House said i…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-15",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/1011785/big-walk-house-house-microsoft-xbox-bds-boycott"
+    },
+    {
+      "titre": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
+      "resume": "It’s time to unveil the five companies that will be competing in the Startup Battlefield finals.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-15",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/"
+    },
+    {
+      "titre": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
+      "resume": "At TechCrunch Disrupt, Flock CEO Garrett Langley defended his company's surveillance technology despite growing privacy concerns, arguing that its crime-fighting benefits outweigh the risks of abuse.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-15",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/"
+    },
+    {
+      "titre": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+      "resume": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball int…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-15",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/"
+    },
+    {
+      "titre": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "resume": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-15",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/"
+    },
+    {
+      "titre": "Figma announces new features to define how agents work on its platform",
+      "resume": "Figma is also releasing its code layers feature in open beta.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-15",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/"
+    },
+    {
+      "titre": "UK Legal Aid Agency: Hackers stole records dating back to 1978",
+      "resume": "The Legal Aid Agency (LAA), an executive agency of the UK's Ministry of Justice that manages the country's Public Defender Service, says attackers who breached its IT systems in April 2025 stole records dating back to 19…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-15",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978/"
+    },
+    {
+      "titre": "Microsoft fixes bug causing Windows black screens, Explorer crashes",
+      "resume": "Microsoft has resolved a known issue that was causing black screens, desktop loading issues, and Explorer crashes after installing Windows 11 updates released since August. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-15",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/"
+    },
+    {
+      "titre": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches",
+      "resume": "Singapore-based Ahsay Backup has released security updates to address two security flaws in AhsayCBS that have been exploited by bad actors to drop web shells and XMRig cryptocurrency miners. The vulnerabilities in quest…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-15",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html"
+    },
+    {
+      "titre": "Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts",
+      "resume": "Threat actors are exploiting a critical security flaw in Langflow, according to an alert from Previdian. Langflow is an open-source platform that allows developers to build artificial intelligence (AI) applications and a…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-15",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html"
+    },
+    {
+      "titre": "GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories",
+      "resume": "The credential-theft campaign known as GhostAction has ramped up, targeting more than 30,000 repositories across 3,000 users and organizations. The spike, according to GitGuardian, was observed on October 8 and 9, 2026. …",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-15",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html"
+    },
+    {
+      "titre": "India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1",
+      "resume": "The Indian government has directed telecom service providers (TSPs) in the country to mandatorily display callers' registered names along with their numbers for incoming calls starting November 1, 2026, in an effort to h…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-15",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html"
+    },
+    {
+      "titre": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
+      "resume": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separatel…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-14",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety"
+    },
+    {
+      "titre": "The best feature of Apple’s HomeView might be its simplicity",
+      "resume": "I'm just going to come right out and say it. I love the approach Apple has taken with the HomeView. I think it's the shared, always-available household interface that my family might finally use. Is Apple's first smart d…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-14",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature"
+    },
+    {
+      "titre": "McKinsey is making job applicants spar with a fake AI client",
+      "resume": "Consulting firm McKinsey &#38; Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-14",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview"
+    },
+    {
+      "titre": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+      "resume": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-14",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/"
+    },
+    {
+      "titre": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
+      "resume": "Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-14",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/"
+    },
     {
       "titre": "As a TV enthusiast, I was hoping for more from the Apple TV 4K",
       "resume": "It's been four long years since the last Apple TV 4K was released, and in that time there have been lots of hopes and dreams for features in whatever comes next. A new chip, 4K/120Hz support, audio passthrough, a remote …",
