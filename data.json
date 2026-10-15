@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2026-10-15T15:28:57.189345+00:00",
+  "lastUpdate": "2026-10-15T20:09:33.555392+00:00",
   "items": [
+    {
+      "titre": "Sony made a $5,900 gold-plated Walkman MP3 player",
+      "resume": "Sony has announced a trio of new Walkman portable media players that start at an already absurd $1,899.99 for the NW-ZX900 and climb all the way up to $5,899 for the gold-plated NW-WM1ZM3. Sandwiched in between is the $2…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-15",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1012200/sony-made-a-5900-gold-plated-walkman-mp3-player"
+    },
+    {
+      "titre": "Meta and Apple team up to make Muse AI models run better on Macs",
+      "resume": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-15",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx"
+    },
+    {
+      "titre": "Withings now charges $100 per year to sync your data to other apps",
+      "resume": "If you're a new user of Withings' fitness-tracking smartwatches or smart scales and want to sync and access your health data through third party apps like Apple Health or Google Health it's now going to cost you. Accordi…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-15",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1012350/withings-plus-subscription-new-users-october-13-2026"
+    },
+    {
+      "titre": "Bluesky&#8217;s AI tool now lets you make games and apps to share on social",
+      "resume": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-15",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps"
+    },
+    {
+      "titre": "Bluesky wants to make it easier to buy, sell, and fundraise on the network",
+      "resume": "The executives argued that advertising isn’t the only path to monetization, and that there are alternative models that are feasible when it comes to monetization.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-15",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/"
+    },
+    {
+      "titre": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+      "resume": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-15",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/"
+    },
+    {
+      "titre": "Anthropic is letting METR researchers look under the hood with employee-level access",
+      "resume": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-15",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/"
+    },
+    {
+      "titre": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+      "resume": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-15",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/"
+    },
+    {
+      "titre": "Meta launches an open-weight AI model that runs on Macs",
+      "resume": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-15",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/"
+    },
+    {
+      "titre": "Fake Arch Linux packages push malware with root privileges",
+      "resume": "A threat actor uploaded malicious packages to the Arch User Repository (AUR) that impersonated two popular helper tools, yay and paru. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-15",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/"
+    },
+    {
+      "titre": "Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth",
+      "resume": "A proxyjacking campaign has impacted devices in 34 countries, monetizing victims' internet connections through a commercial residential proxy network. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-15",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/"
+    },
+    {
+      "titre": "Android gets AI defenses against messaging scams, fake calls",
+      "resume": "Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-15",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/"
+    },
+    {
+      "titre": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks",
+      "resume": "The threat actor known as Silent Lynx has been attributed to a fresh set of attacks targeting government organizations across the Commonwealth of Independent States (CIS). The activity, observed from June 2025 through Au…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-15",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html"
+    },
+    {
+      "titre": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
+      "resume": "Candiru, an Israeli maker of spyware sold to governments, infected devices at the news network Al Jazeera through ordinary online ads, in attacks that needed no click or other action from the user, researchers at&nbsp;th…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-15",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html"
+    },
+    {
+      "titre": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
+      "resume": "Someone built a tool to steal data, then decided it should scare the victim for fun. Yes, that’s an actual feature. And somehow, it fits right in with this week's security stories. The rest gets interesting in different …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-15",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html"
+    },
     {
       "titre": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
       "resume": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area. A day after the me…",
