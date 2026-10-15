@@ -1,6 +1,150 @@
 {
-  "lastUpdate": "2026-10-15T10:58:26.550271+00:00",
+  "lastUpdate": "2026-10-15T15:28:57.189345+00:00",
   "items": [
+    {
+      "titre": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
+      "resume": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area. A day after the me…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-15",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad"
+    },
+    {
+      "titre": "Trump calls off livestream of execution",
+      "resume": "The execution of Fort Hood shooter Nidal Hasan will not be livestreamed as Secretary of Defense Pete Hegseth had previously announced. Donald Trump announced the plan was off in a post on Truth Social: I think streaming …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-15",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/policy/1011991/trump-nidal-hasan-execution-not-livestreaming"
+    },
+    {
+      "titre": "Microsoft’s new Photos app combines your PC, OneDrive, and iCloud galleries",
+      "resume": "Microsoft has redesigned its Photos app for Windows 11, overhauling the editor and image viewer, and combining photos and videos from your PC, OneDrive, and iCloud into a single space. The new combined gallery experience…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-15",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1012003/microsoft-windows-11-new-photos-app-onedrive-icloud"
+    },
+    {
+      "titre": "Shelly’s new presence sensor simultaneously detects up to 10 people without a camera",
+      "resume": "Following the launch of its $50 subscription-free security camera last month, Shelly announced another new accessory for smart home automation today that can keep track of multiple people as they move through rooms or la…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-15",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1011967/shellys-new-presence-sensor-simultaneously-detects-up-to-ten-people-without-a-camera"
+    },
+    {
+      "titre": "Ramp reaches $60B valuation as it pushes deeper into AI",
+      "resume": "The funding comes as Ramp's annualized revenue crosses $2B, and its customer count reaches 85,000.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-15",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/"
+    },
+    {
+      "titre": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+      "resume": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create t…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-15",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/"
+    },
+    {
+      "titre": "TechCrunch Disrupt 2026: Last day",
+      "resume": "Last day to join TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-15",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/"
+    },
+    {
+      "titre": "Google’s Universal Cart shopping tool launches in the US",
+      "resume": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-15",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/"
+    },
+    {
+      "titre": "AI agents are coming to Rivian’s cars",
+      "resume": "We'll likely learn more about how this will work at the company's upcoming \"AI &#038; Autonomy Day\" event in December.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-15",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/"
+    },
+    {
+      "titre": "Police arrests 95 suspects in international CSAM crackdown action",
+      "resume": "Law enforcement authorities from 17 countries in Latin America and Europe have arrested 95 suspects in an INTERPOL-coordinated operation targeting the distribution of child sexual abuse material (CSAM) through online mes…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-15",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/"
+    },
+    {
+      "titre": "Microsoft: Windows Server 2022 reached end of mainstream support",
+      "resume": "Microsoft announced that Windows Server 2022 has reached the end of mainstream support and will remain in extended support until October 2031. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-15",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/"
+    },
+    {
+      "titre": "Is AI pentesting as good as a human pentester?",
+      "resume": "AI pentesting can uncover vulnerabilities missed by human testers, but it also has limitations in consistency, risk assessment, and understanding business context. Intruder compares the strengths and weaknesses of both a…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-15",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/"
+    },
+    {
+      "titre": "Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed Modules",
+      "resume": "Drupal core has a critical flaw in its Field UI module that could let an attacker run code on the site's server, and fixes were shipped on October 14 in Drupal 11.4.10, 11.3.19, and 10.6.19. An attacker cannot reach the …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-15",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html"
+    },
+    {
+      "titre": "Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing",
+      "resume": "Next.js released an&nbsp;out-of-band security update&nbsp;on October 14 that fixes two critical flaws allowing unauthenticated remote code execution, along with a high-severity denial-of-service flaw. One code-execution …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-15",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html"
+    },
+    {
+      "titre": "NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks",
+      "resume": "NGINX released&nbsp;versions 1.30.6 and 1.31.7&nbsp;on October 14 to fix five vulnerabilities, one of them present in every release since May 2005. There are three memory bugs that F5, the company behind NGINX, says coul…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-15",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html"
+    },
+    {
+      "titre": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
+      "resume": "A long-running Traffic Distribution System (TDS) known as Help TDS to a Russian-language affiliate program called Hotejka, which appears to be a rebrand of a traffic monetization operation dubbed ROI777. Help TDS is asse…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-15",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html"
+    },
     {
       "titre": "Big Walk skipped Xbox to boycott Microsoft’s involvement with Israel",
       "resume": "Big Walk's co-op multiplayer walking adventure has proved popular since launching in August, but Xbox players have been excluded from the fun - and now the game's creators have explained why. Developer House House said i…",
