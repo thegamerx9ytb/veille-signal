@@ -1,6 +1,96 @@
 {
-  "lastUpdate": "2026-10-16T10:52:11.441760+00:00",
+  "lastUpdate": "2026-10-16T15:10:08.360049+00:00",
   "items": [
+    {
+      "titre": "The incredible flying Tesla Roadster is just for show",
+      "resume": "Last night, Elon Musk gave the people what they want: a car driving vertically up a multi-story ramp, launching off the edge, executing a mid-air \"kickflip\" over a lineup of Teslas, and landing via cold-gas thrusters. Th…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-16",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/1012783/tesla-roadster-flying-stunt-production-reality-musk"
+    },
+    {
+      "titre": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+      "resume": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-16",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions"
+    },
+    {
+      "titre": "A fake WhatsApp clone is showing up before the real version on the Play Store",
+      "resume": "After a Chrome clone was spotted on the Play Store earlier this week, a user on Reddit says they're seeing a fake version of WhatsApp in a \"sponsored\" slot above the real version. As reported earlier by Android Authority…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-16",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1012918/google-play-store-fake-whatsapp-android"
+    },
+    {
+      "titre": "Analogue is re-releasing its SNES and Genesis consoles with some nice upgrades",
+      "resume": "Analogue announced new versions of its Super Nt and Mega Sg retro consoles today with a \"reworked industrial design\" and built-in wireless connectivity for controllers and accessories. Like the original versions, the new…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-16",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1012901/analogue-retro-console-supern-nt-plus-nintendo-sega-genesis-mega-plus"
+    },
+    {
+      "titre": "Replit’s CEO says the future of work is the ‘self-driving company’",
+      "resume": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-16",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/"
+    },
+    {
+      "titre": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+      "resume": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-16",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/"
+    },
+    {
+      "titre": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+      "resume": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-16",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/"
+    },
+    {
+      "titre": "Burger King Japan data breach exposes 11 million customer records",
+      "resume": "Burger King Japan, the Japanese subsidiary of global fast-food giant Burger King, disclosed a major data breach after attackers accessed a server containing 11.18 million customer records. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-16",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/"
+    },
+    {
+      "titre": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
+      "resume": "Employees using personal ChatGPT accounts at work can expose sensitive company data, even when their organization provides an approved Enterprise workspace. NordLayer explains how IT teams can investigate unauthorized AI…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-16",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/"
+    },
+    {
+      "titre": "AI Decision Models and Their Impact on AI SOC Platforms",
+      "resume": "In the space of a month, a new category of AI model went from nonexistent to everywhere. TypeSafe AI released Jev on September 15 and called it a System One model, a nod to Kahneman's fast, intuitive thinking. OpenAI ann…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-16",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html"
+    },
     {
       "titre": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
       "resume": "Elon Musk promised a flying car. And the Tesla Roadster did exactly that. Tesla demonstrated its next-generation Roadster at an event in Waco, Texas, where the electric supercar drove upside down, briefly flew, and accel…",
