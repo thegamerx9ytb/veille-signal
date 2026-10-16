@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2026-10-16T15:10:08.360049+00:00",
+  "lastUpdate": "2026-10-16T19:47:06.342767+00:00",
   "items": [
+    {
+      "titre": "Apple&#8217;s HomeView has an app problem",
+      "resume": "It's been a couple of days since Apple's big smart home announcement, and we have some more information - and a bunch of new questions - about the Apple HomeView. The device has plenty of computing oomph, is always conne…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-16",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/podcast/1012911/apple-homeview-apps-carplay-vergecast"
+    },
+    {
+      "titre": "The new Apple TV 4K just got its first (very small) discount",
+      "resume": "Earlier this week, Apple announced its new Apple TV 4K, which costs nearly twice as much as the 2022 model did at launch. Amazon is now offering the first discount on the forthcoming streaming box (coming out on November…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-16",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale"
+    },
+    {
+      "titre": "Why Apple is finally making its own smart home devices",
+      "resume": "For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Home Collection is a lineup of cameras, thermostats, sensors, a smart door…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-16",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home"
+    },
+    {
+      "titre": "Waymo’s robotaxis are headed to Canada",
+      "resume": "The company will start off by testing its self-driving vehicles on Toronto's streets.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-16",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/"
+    },
+    {
+      "titre": "Porsche’s electric Macan Turbo is an automotive existential crisis",
+      "resume": "Maybe it was the grey color, the slightly bulbous roofline, or the vaguely SUV-like proportions of the electric Porsche Macan, but as I shuttled kids and groceries around city and suburban streets, I never once noticed a…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-16",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/"
+    },
+    {
+      "titre": "Elorian’s first AI model wants to reason with images, not just about them",
+      "resume": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-16",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/"
+    },
+    {
+      "titre": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "resume": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, an…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-16",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/"
+    },
+    {
+      "titre": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "resume": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, an…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-16",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/"
+    },
+    {
+      "titre": "India becomes the latest country to report rogue AI agent activity",
+      "resume": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-16",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
+    },
+    {
+      "titre": "Targeted ads installed Candiru spyware in zero-click attacks",
+      "resume": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-16",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/"
+    },
+    {
+      "titre": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
+      "resume": "OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research model, after not having funds on an Ethereum test network, sp…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-16",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html"
+    },
+    {
+      "titre": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
+      "resume": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct victims to an adversar…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-16",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html"
+    },
+    {
+      "titre": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
+      "resume": "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the Windows backup prog…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-16",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html"
+    },
+    {
+      "titre": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
+      "resume": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-16",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html"
+    },
     {
       "titre": "The incredible flying Tesla Roadster is just for show",
       "resume": "Last night, Elon Musk gave the people what they want: a car driving vertically up a multi-story ramp, launching off the edge, executing a mid-air \"kickflip\" over a lineup of Teslas, and landing via cold-gas thrusters. Th…",
