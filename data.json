@@ -1,6 +1,78 @@
 {
-  "lastUpdate": "2026-10-16T19:47:06.342767+00:00",
+  "lastUpdate": "2026-10-17T10:15:41.043678+00:00",
   "items": [
+    {
+      "titre": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
+      "resume": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-17",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/"
+    },
+    {
+      "titre": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
+      "resume": "Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly SkyK…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-17",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html"
+    },
+    {
+      "titre": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
+      "resume": "After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that \"Despite its name, full self-driving is not fully autonomous. Technolog…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-16",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash"
+    },
+    {
+      "titre": "We can finally hear some of Wu-Tang Clan&#8217;s Once Upon A Time in Shaolin album",
+      "resume": "Wu-Tang's Once Upon A Time in Shaolin album has, for the most part, been extremely difficult to listen to, but you can now hear two snippets of the album thanks to the podcast Pablo Torre Finds Out, which just published …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-16",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli"
+    },
+    {
+      "titre": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
+      "resume": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X use…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-16",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment"
+    },
+    {
+      "titre": "All the news about the iPhone Duo",
+      "resume": "Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely any visible crease. …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-16",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements"
+    },
+    {
+      "titre": "Replit is no longer working with Anthropic, CEO says",
+      "resume": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-16",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/"
+    },
+    {
+      "titre": "Critical BlockStrap flaw lets hackers run code on Magento servers",
+      "resume": "Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-16",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/"
+    },
     {
       "titre": "Apple&#8217;s HomeView has an app problem",
       "resume": "It's been a couple of days since Apple's big smart home announcement, and we have some more information - and a bunch of new questions - about the Apple HomeView. The device has plenty of computing oomph, is always conne…",
