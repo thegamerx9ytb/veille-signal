@@ -1,6 +1,78 @@
 {
-  "lastUpdate": "2026-10-17T14:02:38.362802+00:00",
+  "lastUpdate": "2026-10-17T18:59:26.922258+00:00",
   "items": [
+    {
+      "titre": "Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update",
+      "resume": "If you’re wondering what video game to play this weekend, my colleague Sheena Vasani spotted a discounted Nintendo Switch title with instant digital delivery. Walmart has the digital version of Pikmin 4 for Switch discou…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-17",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1013105/pikmin-4-nintendo-switch-deal-sale"
+    },
+    {
+      "titre": "Meta removes language that may have allowed it to scrape news sites",
+      "resume": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-17",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites"
+    },
+    {
+      "titre": "Elon Musk settles lawsuits over $1 million voter giveaway",
+      "resume": "In 2024, Elon Musk promised to give away $1 million a day to a randomly selected registered voter in a swing state. That prompted legal challenges, raised questions about its legality, and drew lawsuits from two Arizona …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-17",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway"
+    },
+    {
+      "titre": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
+      "resume": "Earlier this year, Mercedes' AMG performance brand grabbed our attention with the GT four-door coupe, a souped-up sports sedan with three axial flux motors delivering over 1,150 horsepower. Well, now meet its beefier cou…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-17",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance"
+    },
+    {
+      "titre": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
+      "resume": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-17",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/"
+    },
+    {
+      "titre": "Replit is no longer working with Anthropic, CEO says",
+      "resume": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-17",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
+    },
+    {
+      "titre": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
+      "resume": "Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the content management system. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-17",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/"
+    },
+    {
+      "titre": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
+      "resume": "ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-17",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/"
+    },
     {
       "titre": "Apple’s HomeView is just the latest threat to online recipe writers",
       "resume": "When Apple revealed the HomeView to the world, it did so with an unusual ad for the company: Instead of pristine, polished tech in immaculate rooms, it's a three-minute look at the messy, frantic morning routine of a fam…",
