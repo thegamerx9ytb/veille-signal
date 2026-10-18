@@ -1,6 +1,60 @@
 {
-  "lastUpdate": "2026-10-17T18:59:26.922258+00:00",
+  "lastUpdate": "2026-10-18T10:31:10.589220+00:00",
   "items": [
+    {
+      "titre": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
+      "resume": "ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application iden…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-18",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html"
+    },
+    {
+      "titre": "TikTok bans Musk documentary account",
+      "resume": "Just ahead of the wider release of Alex Gibney's Musk documentary, TikTok has banned the film's social media account from its platform. TikTok did not immediately respond to a request for comment. According to The Hollyw…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-17",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary"
+    },
+    {
+      "titre": "TikTok permanently bans ‘Musk’ documentary advertising account",
+      "resume": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-17",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/"
+    },
+    {
+      "titre": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "resume": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-17",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
+    },
+    {
+      "titre": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "resume": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-17",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/"
+    },
+    {
+      "titre": "Meta removes language that raised scraping and AI training concerns",
+      "resume": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-17",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
+    },
     {
       "titre": "Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update",
       "resume": "If you’re wondering what video game to play this weekend, my colleague Sheena Vasani spotted a discounted Nintendo Switch title with instant digital delivery. Walmart has the digital version of Pikmin 4 for Switch discou…",
