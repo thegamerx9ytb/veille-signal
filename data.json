@@ -1,6 +1,42 @@
 {
-  "lastUpdate": "2026-10-18T10:31:10.589220+00:00",
+  "lastUpdate": "2026-10-18T14:16:42.305165+00:00",
   "items": [
+    {
+      "titre": "How overhead projectors took over your classroom",
+      "resume": "It used to be so easy to get away with things in school. The teacher, after all, was always turned around writing at the chalkboard! But then came a bit of technology, previously mostly used for military purposes, called…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-18",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/podcast/1013473/overhead-projector-version-history"
+    },
+    {
+      "titre": "The best gadget I bought this year is a milk frother",
+      "resume": "Back in February, I went to Los Angeles to take in some art and stayed in Koreatown. Down the street from my hotel, there was this little coffee shop - Stagger - that is, I think, best known for its matcha, which is good…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-18",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1013257/milk-frother-cold-foam-gadget"
+    },
+    {
+      "titre": "Trump says Google kisses his ass",
+      "resume": "During a rally on Saturday, October 17th, in Highland Heights, Kentucky, Donald Trump bragged about how much more powerful and influential he was during his second term. While listing off his accomplishments, he mentione…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-18",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass"
+    },
+    {
+      "titre": "J Mascis has nothing better to do",
+      "resume": "Dinosaur Jr. frontman J Mascis is known as something of a slacker guitar god. He stands stoically onstage, barely moving, as he seemingly effortlessly works through deft guitar solos and lopsided riffs. Unfortunately, Ma…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-18",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview"
+    },
     {
       "titre": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
       "resume": "ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application iden…",
