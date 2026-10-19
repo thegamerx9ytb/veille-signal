@@ -1,6 +1,96 @@
 {
-  "lastUpdate": "2026-10-18T19:11:27.815095+00:00",
+  "lastUpdate": "2026-10-19T12:22:30.481109+00:00",
   "items": [
+    {
+      "titre": "The Maeving RM2 is high-style electric riding with a few compromises",
+      "resume": "There's a fast-growing category of two-wheeled electric vehicles splitting the difference between high-end scooters and entry-level motorcycles, fresh bikes with avant-garde style but approachable performance. I'm talkin…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-19",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/1013049/maeving-rm2-electric-motorcycle-review-specs"
+    },
+    {
+      "titre": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
+      "resume": "Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-19",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/"
+    },
+    {
+      "titre": "Microsoft: October Windows Server updates break Exchange sign-in, mail flow",
+      "resume": "Microsoft has confirmed that this month's Windows Server security updates are causing OWA sign-in and mail delivery issues on some Exchange Server systems. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-19",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/"
+    },
+    {
+      "titre": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys",
+      "resume": "An intruder reached a legacy system at OpenCode on the night of October 16 and may have exposed the third-party AI provider keys that users had saved in OpenCode Console, the company said. Console is OpenCode's optional …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-19",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html"
+    },
+    {
+      "titre": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
+      "resume": "A flaw in Broadcom's Wi-Fi setup software lets an attacker within radio range run code as root on Broadcom-based routers, without the network password or any pairing step, security researcher Quentin Kaiser&nbsp;disclose…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-19",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html"
+    },
+    {
+      "titre": "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic",
+      "resume": "A fake Web3 accelerator has been observed pushing information stealers and backdoors to Windows and macOS systems using malicious npm packages under the pretext of offering free artificial intelligence (AI) credits for A…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-19",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html"
+    },
+    {
+      "titre": "Mister Organ is one of the most unsettling documentaries I’ve ever seen",
+      "resume": "Mister Organ doesn't reach the level of societal horror of The Act of Killing or the creepypasta-meets-true-crime gruesomeness of Beware the Slenderman, but there's something deeply unsettling about Michael Organ and his…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-18",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review"
+    },
+    {
+      "titre": "A Savannah police officer gave her Flock login to her ICE agent husband",
+      "resume": "Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her husband, Tyler Harpe, an ICE agent. SPD does not sha…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-18",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband"
+    },
+    {
+      "titre": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
+      "resume": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-18",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/"
+    },
+    {
+      "titre": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "resume": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-18",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/"
+    },
     {
       "titre": "Lenovo’s fast, comfy SteamOS handheld is hundreds off",
       "resume": "The Legion Go S with SteamOS is a pretty solid alternative to the $789 Steam Deck OLED. It runs identical software, but ships in a design with two-stage triggers, a bigger eight-inch IPS screen (1080p and up to 120Hz ver…",
