@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2026-10-19T12:22:30.481109+00:00",
+  "lastUpdate": "2026-10-19T17:18:51.903723+00:00",
   "items": [
+    {
+      "titre": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+      "resume": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-19",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws"
+    },
+    {
+      "titre": "Apple’s last-gen Mac Mini with the M4 is $150 off",
+      "resume": "Best Buy has a great deal for the rest of the day on the M4 Mac Mini base model that has 16GB RAM and a 256GB SSD. Normally, it doesn’t make a ton of sense to buy the M4 model for its usual $799 price given that the newe…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-19",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1013645/apple-mac-mini-m4-lg-c6-oled-deal-sale"
+    },
+    {
+      "titre": "Amazon is funding a new nuclear plant in Indiana",
+      "resume": "Amazon has signed an agreement with X-energy and American Electric Power (AEP) to fund the building of a new nuclear energy facility in Indiana. The proposed plant, which would replace the now defunct coal-fueled Breed G…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-19",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana"
+    },
+    {
+      "titre": "Apple teases MacBook Pro event next week",
+      "resume": "Apple has sent invites to a second product launch this month, and it's scheduled for October 28th at 1PM ET in Los Angeles. At the event, Apple is set to announce new Macs and a refreshed iPad Mini, according to Bloomber…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-19",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement"
+    },
+    {
+      "titre": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
+      "resume": "The company updated its guidelines with strong language around AI and user-generated content, and how app developers should include enough preventative measures to moderate objectionable or offensive content.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-19",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/"
+    },
+    {
+      "titre": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
+      "resume": "Amazon and X-energy have inked another deal to deploy nuclear power to the grid. This one will generate nearly 1 gigawatt of electricity.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-19",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/"
+    },
+    {
+      "titre": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "resume": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-19",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/"
+    },
+    {
+      "titre": "People are using AI to make their smart TVs dumb again",
+      "resume": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-19",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/"
+    },
+    {
+      "titre": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
+      "resume": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually …",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-19",
+      "source": "Krebs on Security",
+      "lien": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/"
+    },
+    {
+      "titre": "Microsoft fixes classic Outlook bug that hid Copilot buttons",
+      "resume": "Microsoft has fixed a known issue that removed the Copilot Chat and Copilot buttons in the classic Outlook desktop mail client for some Windows users. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-19",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/"
+    },
+    {
+      "titre": "F5 releases out-of-band patches for critical NGINX vulnerabilities",
+      "resume": "F5 has released out-of-band security patches to address multiple NGINX web server flaws, including three critical-severity vulnerabilities that can let attackers execute code on vulnerable systems. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-19",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/"
+    },
+    {
+      "titre": "Inside the Underground Market for Know Your Client Services",
+      "resume": "Cybercriminals are selling forged identity documents, deepfake videos, and live verification services to help buyers bypass Know Your Client (KYC) checks. Flare examines how these underground services operate and the tec…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-19",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/"
+    },
+    {
+      "titre": "Microsoft fixes game, app crashes caused by recent Windows update",
+      "resume": "Microsoft has resolved a bug that caused games and apps using AC-3 (Dolby Digital) audio decoding to crash after installing the September 2026 Windows 11 preview update (KB5124010). [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-19",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-game-app-crashes-caused-by-windows-kb5124010-preview-update/"
+    },
+    {
+      "titre": "From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software",
+      "resume": "In Salesforce Agentforce, the recommended way to make an agent respond to events is a Flow: a record is created or a case is updated, and the Flow passes data into the agent's prompt. Separately, Email-to-Case and Web-to…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-19",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html"
+    },
+    {
+      "titre": "GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories",
+      "resume": "The threat actor behind the GhostAction supply chain attack has expanded beyond injecting malicious GitHub Actions workflows into compromised projects to phish open-source developers and deliver a stealer malware disguis…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-19",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html"
+    },
+    {
+      "titre": "⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More",
+      "resume": "The worst problems don't always come with a warning. Sometimes they arrive through a service everyone trusts, a device someone bought, or a system nobody thought to check. By the time something looks wrong, the damage ma…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-19",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html"
+    },
+    {
+      "titre": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor",
+      "resume": "Copies of Rank Math PRO, the paid version of the Rank Math SEO plugin for WordPress, that were downloaded from rankmath.com or delivered as updates between 20:02 UTC on October 15 and 07:12 UTC on October 16 contained ma…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-19",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html"
+    },
     {
       "titre": "The Maeving RM2 is high-style electric riding with a few compromises",
       "resume": "There's a fast-growing category of two-wheeled electric vehicles splitting the difference between high-end scooters and entry-level motorcycles, fresh bikes with avant-garde style but approachable performance. I'm talkin…",
