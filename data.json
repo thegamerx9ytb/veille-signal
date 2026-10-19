@@ -1,6 +1,96 @@
 {
-  "lastUpdate": "2026-10-19T17:18:51.903723+00:00",
+  "lastUpdate": "2026-10-19T21:19:05.103698+00:00",
   "items": [
+    {
+      "titre": "Sony’s best noise-canceling earbuds are nearly $100 off today only",
+      "resume": "For a very limited time, Sony’s latest high-end noise-canceling earbuds are actually cheaper than their last-gen counterpart, the WF-1000XM5. B&#38;H Photo is selling Sony’s latest WF-1000XM6 in black for an all-time low…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-19",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1013911/sonys-best-noise-canceling-earbuds-are-nearly-100-off-today-only"
+    },
+    {
+      "titre": "I tried a $99 plug that promises to track your car and send help when needed — without selling your data",
+      "resume": "My 15-year-old daughter just got her learner's permit, so when I was pitched a new gadget tailored to teen drivers, I was intrigued. The Miles Plug is a small device that plugs into your car's OBD-II port and monitors lo…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-19",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1013918/miles-plug-vehicle-tracking-data-privacy-specs-price-launch-date"
+    },
+    {
+      "titre": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+      "resume": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-19",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/"
+    },
+    {
+      "titre": "Tolan snags $30M for its AI companion that helps users navigate life",
+      "resume": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-19",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/"
+    },
+    {
+      "titre": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "resume": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-19",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/"
+    },
+    {
+      "titre": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "resume": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-19",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/"
+    },
+    {
+      "titre": "OpenCode hack exposes API keys amid AI distillation attacks",
+      "resume": "The open-source AI coding project OpenCode has notified a small number of users that API keys they used with external providers were exposed in a security breach. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-19",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/"
+    },
+    {
+      "titre": "Bullhorn takes staffing platform offline to contain cyberattack",
+      "resume": "Staffing software company Bullhorn has disabled access to its platform to contain a cyberattack that caused a system-wide outage. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-19",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/"
+    },
+    {
+      "titre": "Hackers hijack AOMEI update servers to secretly spread malware",
+      "resume": "Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering with configuration files before restoring them to their original state…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-19",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/"
+    },
+    {
+      "titre": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor",
+      "resume": "Threat actors have begun to exploit a chain of vulnerabilities in Plex Media Server to deploy cryptocurrency miners and reverse proxy software, a day after a proof-of-concept (PoC) went public. According to a researcher …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-19",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html"
+    },
     {
       "titre": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
       "resume": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a …",
