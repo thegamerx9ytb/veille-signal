@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2026-10-20T11:01:32.515141+00:00",
+  "lastUpdate": "2026-10-20T15:32:25.198254+00:00",
   "items": [
+    {
+      "titre": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
+      "resume": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a g…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-20",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair"
+    },
+    {
+      "titre": "TikTok employees said they knew about child safety issues, but execs failed to act",
+      "resume": "TikTok was repeatedly warned by its own staffers about risks its platform posed to child safety, according to court records obtained by NPR. The publication reports that employees were frustrated over TikTok executives f…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-20",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1014250/tiktok-employees-internal-child-safety-warnings"
+    },
+    {
+      "titre": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+      "resume": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday, which says Spotify has also made c…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-20",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed"
+    },
+    {
+      "titre": "Over $963,000 worth of graded Pokémon and sports cards were stolen from FedEx",
+      "resume": "Last week over 200 packages of graded trading cards being shipped back to their owners were stolen from a FedEx truck parked outside the headquarters of Professional Sports Authenticator (PSA) in Santa Ana, California, a…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-20",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/1014276/professional-sports-authenticator-psa-stolen-graded-sports-pokemon-cards-fedex"
+    },
+    {
+      "titre": "SpaceX alum’s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation",
+      "resume": "Reliable Robotics extended its Series D round with $115 million in equity and $25 million in debt.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-20",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/"
+    },
+    {
+      "titre": "TikTok staff raised child safety concerns, but executives reportedly failed to act",
+      "resume": "Court documents show TikTok employees were frustrated with how executives responded to their concerns about risks to children.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-20",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/20/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-failed-to-act/"
+    },
+    {
+      "titre": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+      "resume": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-20",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/"
+    },
+    {
+      "titre": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+      "resume": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-20",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/"
+    },
+    {
+      "titre": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+      "resume": "Figma said it plans to support as many standards as possible without exposing all of its data",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-20",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/"
+    },
+    {
+      "titre": "Windows Server 2025 gets support for quick machine recovery",
+      "resume": "Microsoft announced that IT administrators can now use quick machine recovery on Windows Server 2025 after installing the October 2026 security update. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-20",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/"
+    },
+    {
+      "titre": "Hacker gets 8 years for stealing $3.3 million from taxpayers",
+      "resume": "A Nigerian national was sentenced to eight years in prison for his involvement in a series of spearphishing attacks targeting US tax preparation businesses since 2019. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-20",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/"
+    },
+    {
+      "titre": "CJIS v6.1 Compliance: 5 Practical Priorities for Agencies",
+      "resume": "CJIS v6.1 requires agencies to maintain strong authentication, account security, and audit controls while demonstrating ongoing compliance. Specops outlines five practical priorities covering MFA, account management, pas…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-20",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/"
+    },
+    {
+      "titre": "DHS bans DeepSeek products across US federal civilian agencies",
+      "resume": "The U.S. Department of Homeland Security (DHS) is ordering federal civilian agencies to stop using DeepSeek products and remove them from government systems. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-20",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/"
+    },
+    {
+      "titre": "What Security Teams Can Do To Tame Wild Code",
+      "resume": "A sales manager builds an AI-assisted workflow to route leads. It connects to customer records, summarizes inbound requests, and posts updates to a shared channel. The workflow saves time, reduces manual work, and soon b…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-20",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html"
+    },
+    {
+      "titre": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators",
+      "resume": "WhatsApp's help pages carried hidden instructions for its support chatbot that told it not to recommend a data protection authority or regulator to users who could no longer delete their accounts, even though WhatsApp's …",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-20",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html"
+    },
+    {
+      "titre": "Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election",
+      "resume": "The iPhone of Vladan Đokić, rector of the University of Belgrade and a prominent supporter of Serbia's student protest movement, was infected with NSO Group's Pegasus spyware in 2026, the&nbsp;Citizen Lab said&nbsp;on Oc…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-20",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html"
+    },
+    {
+      "titre": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
+      "resume": "A Chinese-speaking criminal pointed autonomous AI agents at company websites and let them break in with almost no help, and a security researcher watched it happen because the operators left their control panels open on …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-20",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html"
+    },
     {
       "titre": "Baseus’ new security camera has a spotlight that tracks and follows moving targets",
       "resume": "Baseus announced a new addition to its lineup of AI-assisted security cameras that's more proactive about discouraging unwanted visitors instead of just recording and alerting you to their presence. The Baseus Security P…",
