@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2026-10-21T15:48:38.854642+00:00",
+  "lastUpdate": "2026-10-21T20:25:40.782735+00:00",
   "items": [
+    {
+      "titre": "Meta ordered to pay $25 billion in penalties over the Cambridge Analytica scandal",
+      "resume": "The Cambridge Analytica scandal has come back to haunt Meta after a New Mexico judge ordered it to pay $25 billion in penalties for more than 43 million violations of the state's unfair practices law. The ruling marks th…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-21",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/policy/1015782/meta-new-mexico-cambridge-analytica-penalty"
+    },
+    {
+      "titre": "Walmart is inviting AI agents to shop for you",
+      "resume": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to connect your own AI agent to the site, with systems in place to let you approve and review purchases and set spe…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-21",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents"
+    },
+    {
+      "titre": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+      "resume": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthr…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-21",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent"
+    },
+    {
+      "titre": "Airbnb bans making guests do dishes and take out the trash",
+      "resume": "Checking out of your next Airbnb might be less of a hassle now that the company is banning hosts from including time-consuming chores in their house rules. Airbnb's updated house rules policy, which starts with reservati…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-21",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update"
+    },
+    {
+      "titre": "Meta ordered to pay $25 billion in case related to Cambridge Analytica scandal",
+      "resume": "The payout is related to a recent trial involving the social media giant that revolved around its data privacy practices.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-21",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/"
+    },
+    {
+      "titre": "GM is betting compute and AI will help it compete with Chinese automakers",
+      "resume": "To compete with Tesla, Rivian, and a host of Chinese automakers, GM’s fourth-gen EV platform will roll out a new central computer and electrical architecture that will debut in 2028 in the Cadillac Escalade IQ.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-21",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/"
+    },
+    {
+      "titre": "Automattic begins layoffs following board upheaval and executive departures",
+      "resume": "Automattic has begun laying off employees across multiple teams, including WordPress.com and its enterprise business, following a board shakeup and a series of executive departures. Sources say more cuts could follow as …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-21",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/21/automattic-begins-layoffs-following-board-upheaval-and-executive-departures/"
+    },
+    {
+      "titre": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "resume": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transacti…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-21",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/"
+    },
+    {
+      "titre": "OpenAI agents disabled safety monitoring, one lied about it",
+      "resume": "OpenAI agents powered by the GPT-6.1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding instructions as authorization to do so. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-21",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/"
+    },
+    {
+      "titre": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
+      "resume": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-21",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/"
+    },
+    {
+      "titre": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
+      "resume": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and one GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks. The A…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-21",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html"
+    },
+    {
+      "titre": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
+      "resume": "The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according to reports from SafeDep, Socket, StepSecurity, and Upwind. T…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-21",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html"
+    },
+    {
+      "titre": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
+      "resume": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2014. The fix matters…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-21",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html"
+    },
     {
       "titre": "Apple says it only has &#8216;limited&#8217; iPhone Duo units for in-store sales",
       "resume": "Apple says it will have \"limited\" iPhone Duo models for sale in stores, according to a report from Reuters. The iPhone Duo launches on Friday, October 23rd, but online preorders quickly sold out, with some delivery estim…",
