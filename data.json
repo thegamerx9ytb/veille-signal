@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2026-10-21T11:18:28.670202+00:00",
+  "lastUpdate": "2026-10-21T15:48:38.854642+00:00",
   "items": [
+    {
+      "titre": "Apple says it only has &#8216;limited&#8217; iPhone Duo units for in-store sales",
+      "resume": "Apple says it will have \"limited\" iPhone Duo models for sale in stores, according to a report from Reuters. The iPhone Duo launches on Friday, October 23rd, but online preorders quickly sold out, with some delivery estim…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-21",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1015372/apple-says-it-only-has-limited-iphone-duo-units-for-in-store-sales"
+    },
+    {
+      "titre": "Samsung’s 5K monitor has good gaming chops and a great price",
+      "resume": "There are quite a few 5K monitors out there. Many of them are designed to appeal to Mac users who are looking for cheaper Studio Display alternatives without giving up the pixel-dense 218ppi screen. However, if you’re in…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-21",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1015346/samsung-5k-monitor-gaming-gta-6-usbc-charger-deal-sale"
+    },
+    {
+      "titre": "Conversational Gemini navigation comes to Apple CarPlay",
+      "resume": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening gl…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-21",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps"
+    },
+    {
+      "titre": "Apple Music has a new logo",
+      "resume": "Apple is officially launching a rebrand of Apple Music. Following the appearance of a redesigned wordmark in a video and an updated app icon in an iOS 27.2 beta, Apple introduced the new \"identity\" for Apple Music today.…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-21",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1015533/apple-music-new-logo"
+    },
+    {
+      "titre": "AI promises productivity, but for managers, it’s mostly a headache for now",
+      "resume": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-21",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/"
+    },
+    {
+      "titre": "Widespread PHP Flaw May Cause Many Site Outages Today",
+      "resume": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full co…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-21",
+      "source": "Krebs on Security",
+      "lien": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/"
+    },
+    {
+      "titre": "Microsoft PowerToys adds CursorHide, Button Lock mouse tools",
+      "resume": "Microsoft has released PowerToys 0.102, with two new mouse utilities, new command-line tools, and Command Palette improvements. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-21",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/"
+    },
+    {
+      "titre": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
+      "resume": "ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into executing malware. Push Security examines how these attacks evade traditi…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-21",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/"
+    },
+    {
+      "titre": "PHP ships emergency patches for critical PHP2Shell flaws",
+      "resume": "The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-21",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/"
+    },
+    {
+      "titre": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
+      "resume": "Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent, personalized, and unique to each reci…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-21",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html"
+    },
+    {
+      "titre": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
+      "resume": "Cybersecurity researchers have disclosed details of a previously undocumented China-aligned threat cluster known as Bronze Sandcastle that has been observed targeting organizations in Asia and Africa since mid-2025. \"The…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-21",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html"
+    },
+    {
+      "titre": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
+      "resume": "Google on Tuesday said it's rolling out improved safeguards in its Chrome browser to secure users against ClickFix attacks when Enhanced Protection is enabled. ClickFix is a popular social engineering technique in which …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-21",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html"
+    },
+    {
+      "titre": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
+      "resume": "PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixes are in PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35, and the PHP …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-21",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html"
+    },
     {
       "titre": "YouTube might be testing hiding the dislike button",
       "resume": "YouTube appears to be testing hiding the dislike button on videos, as reported by 9to5Google. At least two users on X have recently shared screenshots of the dislike button now being placed in the three-dots submenu, and…",
