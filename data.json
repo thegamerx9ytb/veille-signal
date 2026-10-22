@@ -1,6 +1,150 @@
 {
-  "lastUpdate": "2026-10-22T11:17:39.570690+00:00",
+  "lastUpdate": "2026-10-22T15:46:35.735677+00:00",
   "items": [
+    {
+      "titre": "Coolfly’s solar-powered Aura Smart Bird Feeder is nearly 50 percent off",
+      "resume": "I’m not sure when birdwatching became so popular, but it seems everybody’s getting into it these days. If you want to see what all the fuss is about without leaving your couch, both Coolfly and Birdfy are discounting the…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-22",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1015984/aura-smart-bird-feeder-jbl-charge-6-speaker-deal-sale"
+    },
+    {
+      "titre": "You could just get a refurbished Samsung phone on Amazon",
+      "resume": "I recently bought a used Galaxy phone, and now Samsung is leaning into that market on Amazon after raising prices on its newest phones. Its certified renewed phones are available on Amazon for the first time, with a new …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-22",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1016626/samsung-galaxy-used-amazon"
+    },
+    {
+      "titre": "PHP: The three little letters wreaking havoc across the web",
+      "resume": "Two vulnerabilities found in the programming language PHP put enormous swaths of the internet in danger. By some accounts, up to 70 percent of websites use PHP in some capacity. It powers Wikipedia, WordPress, Drupal, an…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-22",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down"
+    },
+    {
+      "titre": "Apple’s Magic Keyboards for iPad are about half off, with a small catch",
+      "resume": "You can outfit your iPad Air or iPad Pro with one of Apple’s slick Magic Keyboards for considerably less than the accessory usually costs at Woot. I won’t bury the catch I teased in the headline; These cases have a 90-da…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-22",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1016640/apple-magic-keyboards-ipad-air-pro-deal-sale"
+    },
+    {
+      "titre": "Investors break down how founders can raise a Series A today",
+      "resume": "Raising a Series A these days isn't so simple — top investors break down what founders need to know now.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-22",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/"
+    },
+    {
+      "titre": "Spotify confirms Family Plan crackdown, but calls it a ‘routine improvement’",
+      "resume": "Spotify told investors its roll out of QR code verification to ensure Family Plan members live in the same household is not a \"crackdown,\" just a routine improvement.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-22",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/22/spotify-confirms-family-plan-crackdown-but-calls-it-a-routine-improvement/"
+    },
+    {
+      "titre": "Tesla is prepping a Cybercab onslaught",
+      "resume": "The company is looking to roll the gold two-seater robotaxis out to other U.S. cities this year, even as it goes mum on the number of paid rides.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-22",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/"
+    },
+    {
+      "titre": "DeepSeek reportedly raises $15B days after US restrictions",
+      "resume": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-22",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/"
+    },
+    {
+      "titre": "Nirva raises $33M for a pendant that only listens to you",
+      "resume": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-22",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/"
+    },
+    {
+      "titre": "Claude Duet app is Anthropic’s bet on agents",
+      "resume": "Claude Duet is available through waitlist for Pro and Max plan users",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-22",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/"
+    },
+    {
+      "titre": "Spotify’s current AI bet is about being the music service that agents choose",
+      "resume": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-22",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/"
+    },
+    {
+      "titre": "GitLab warns of new max severity code execution vulnerability",
+      "resume": "GitLab has released security patches for a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-22",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/"
+    },
+    {
+      "titre": "Amazon says PHP2Shell exploitation began 4 days before patches",
+      "resume": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-22",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/"
+    },
+    {
+      "titre": "Machine speed attacks require machine speed detection and response",
+      "resume": "Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA p…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-22",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/"
+    },
+    {
+      "titre": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+      "resume": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching. Nobody reviewed its …",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-22",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html"
+    },
+    {
+      "titre": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
+      "resume": "INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds. In tandem, the effort saw law enforcement agencies f…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-22",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html"
+    },
     {
       "titre": "Eiliko maker says it&#8217;s hiring an ‘&#8217;independent security firm’ after Verge report on its insecure robots",
       "resume": "Eiliko, a cute robot charm you can hang on your bag with built-in AI conversations, turned out to be a security nightmare. It told owners that \"your secrets are safe with me,\" but hackers could easily read complete trans…",
