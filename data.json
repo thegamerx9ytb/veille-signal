@@ -1,6 +1,150 @@
 {
-  "lastUpdate": "2026-10-22T15:46:35.735677+00:00",
+  "lastUpdate": "2026-10-22T20:22:28.984960+00:00",
   "items": [
+    {
+      "titre": "Google tells Android users to update as parts of Canada adopt permanent daylight saving time",
+      "resume": "As the US gets closer to permanently adopting daylight saving time following the House advancing the Sunshine Protection Act in July, there could be some unforeseen consequences to getting an extra hour of sun in the eve…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-22",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1016977/google-android-incorrect-time-daylight-saving-permanent-canada"
+    },
+    {
+      "titre": "Republican politicians have embraced anti-Indian racism — and it’s costing them votes",
+      "resume": "Two years ago, University of Houston student Vasant Bhatt was doing everything he could to help Republicans regain power. He knocked doors for Sen. Ted Cruz's reelection campaign and helped organize his community for Don…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-22",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/report/1017003/indian-americans-republican-racism-vivek-ramaswamy-texas"
+    },
+    {
+      "titre": "Teenage Engineering launched an instrument amp with a ton of built-in effects",
+      "resume": "Teenage Engineering is branching out into instrument amps with the previously leaked EP-35, a multi-input, multi-instrument, battery-powered amp with built-in effects. The back of the unit has a line-in port, as well as …",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-10-22",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1017022/teenage-engineering-ep-35-instrument-amp"
+    },
+    {
+      "titre": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+      "resume": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The d…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-22",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari"
+    },
+    {
+      "titre": "The secret to fast startup growth isn’t early sales, top names in tech say",
+      "resume": "At this year’s Disrupt, Lovable GTM lead Luke Arno, Polska’s Ben Broca, and Theory Ventures’ Tomasz Tunguz gave founders some tips on how to achieve true sales success in the first 90 days.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-22",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/"
+    },
+    {
+      "titre": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
+      "resume": "Arc was fiercely beloved by a dedicated group of enthusiasts, but it never quite became the mass-market Chrome alternative its makers once envisioned.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-22",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/"
+    },
+    {
+      "titre": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "resume": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-22",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/"
+    },
+    {
+      "titre": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "resume": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-22",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
+    },
+    {
+      "titre": "Canva releases its first image generation model",
+      "resume": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-22",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
+    },
+    {
+      "titre": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "resume": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-22",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/"
+    },
+    {
+      "titre": "Microsoft shares how to fix broken Exchange Online EWS apps",
+      "resume": "Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-22",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/"
+    },
+    {
+      "titre": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
+      "resume": "Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-22",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/"
+    },
+    {
+      "titre": "LiteLLM release pipeline hacked to distribute info-stealer malware",
+      "resume": "Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-22",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/"
+    },
+    {
+      "titre": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More",
+      "resume": "This week has already been rough for cybersecurity. Critical PHP and GitLab RCE flaws, serious Linux security bugs, compromised eMudhra certificates, a Node.js RCE flaw, a hacked LiteLLM release, and hundreds of hijacked…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-22",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html"
+    },
+    {
+      "titre": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
+      "resume": "eMudhra, an Indian certificate authority (CA), will withdraw from its global SSL/TLS certificate business,&nbsp;its board decided on Thursday. The decision came five days after a researcher&nbsp;reported recovering the p…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-22",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html"
+    },
+    {
+      "titre": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
+      "resume": "Attackers are exploiting a zero-day SQL injection flaw in Arista's VeloCloud Orchestrator (VCO), the&nbsp;central management system&nbsp;for VeloCloud SD-WAN networks, the company said in an&nbsp;advisory&nbsp;on October…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-22",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html"
+    },
     {
       "titre": "Coolfly’s solar-powered Aura Smart Bird Feeder is nearly 50 percent off",
       "resume": "I’m not sure when birdwatching became so popular, but it seems everybody’s getting into it these days. If you want to see what all the fuss is about without leaving your couch, both Coolfly and Birdfy are discounting the…",
