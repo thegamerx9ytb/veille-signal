@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2026-10-21T20:25:40.782735+00:00",
+  "lastUpdate": "2026-10-22T11:17:39.570690+00:00",
   "items": [
+    {
+      "titre": "Eiliko maker says it&#8217;s hiring an ‘&#8217;independent security firm’ after Verge report on its insecure robots",
+      "resume": "Eiliko, a cute robot charm you can hang on your bag with built-in AI conversations, turned out to be a security nightmare. It told owners that \"your secrets are safe with me,\" but hackers could easily read complete trans…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-22",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach"
+    },
+    {
+      "titre": "Tesla says it will start selling Cybercabs by end of year",
+      "resume": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-22",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/"
+    },
+    {
+      "titre": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
+      "resume": "Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-22",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/"
+    },
+    {
+      "titre": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
+      "resume": "Node.js released&nbsp;security updates&nbsp;on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that Node.js bundles, whic…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-22",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html"
+    },
+    {
+      "titre": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
+      "resume": "LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer and a backdoor. On October 21, 2026…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-22",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html"
+    },
+    {
+      "titre": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
+      "resume": "A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Context Protocol) server…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-22",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html"
+    },
+    {
+      "titre": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
+      "resume": "Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables. Upon further investigation, the company found that an unauthorized t…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-22",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html"
+    },
+    {
+      "titre": "Data centers could erase decades of air quality gains",
+      "resume": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data cent…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-21",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report"
+    },
+    {
+      "titre": "Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?",
+      "resume": "For years, Elon Musk has been making big promises to Tesla owners about unsupervised autonomous driving and the ability to add their own vehicles to the company's robotaxi fleet. During today's third-quarter earnings cal…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-21",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings"
+    },
+    {
+      "titre": "YouTube says it isn’t testing hiding the dislike button",
+      "resume": "On Tuesday, I published a story about how YouTube appeared to be testing hiding the dislike button on videos, with at least two users on X sharing screenshots of the dislike button moved into the three-dot menu. But a Yo…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-21",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos"
+    },
+    {
+      "titre": "Airbnb limits chores for guests, sparking backlash from hosts",
+      "resume": "Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-21",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/"
+    },
+    {
+      "titre": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+      "resume": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-21",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/"
+    },
+    {
+      "titre": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "resume": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-21",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/"
+    },
+    {
+      "titre": "Meta says Muse has over 10M users, with shopping a top activity",
+      "resume": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-21",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/"
+    },
+    {
+      "titre": "TechCrunch Founder Summit 2026: Everything you need to know",
+      "resume": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their compan…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-21",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/"
+    },
+    {
+      "titre": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "resume": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-21",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/"
+    },
+    {
+      "titre": "Lazarus hackers use post-quantum cryptography for malware delivery",
+      "resume": "North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-21",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/"
+    },
+    {
+      "titre": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
+      "resume": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-21",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/"
+    },
+    {
+      "titre": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
+      "resume": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-21",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/"
+    },
     {
       "titre": "Meta ordered to pay $25 billion in penalties over the Cambridge Analytica scandal",
       "resume": "The Cambridge Analytica scandal has come back to haunt Meta after a New Mexico judge ordered it to pay $25 billion in penalties for more than 43 million violations of the state's unfair practices law. The ruling marks th…",
