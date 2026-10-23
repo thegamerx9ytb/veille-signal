@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2026-10-22T20:22:28.984960+00:00",
+  "lastUpdate": "2026-10-23T11:08:35.226724+00:00",
   "items": [
+    {
+      "titre": "Etsy is cracking down on AI slop listings",
+      "resume": "Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that \"many active buyers say they can't tell which items involve AI-gene…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-23",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing"
+    },
+    {
+      "titre": "No, the iPhone Duo isn’t a small phone",
+      "resume": "When we published our review of the iPhone Duo, I got a lot of hopeful questions from my fellow Mini fans who took note of the cover screen's Mini-ish 5.4-inch size. \"Is this… a small phone that turns into a tablet?\" the…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-23",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1017090/iphone-duo-screen-size-mini"
+    },
+    {
+      "titre": "Startup equips genetically enhanced dogs with Palmer Luckey&#8217;s military tech",
+      "resume": "A new Texas-based defense startup has a plan to improve military and police dogs in the US: it's going to genetically modify them and equip them with Anduril's military technology. Warhound is the brainchild of Anduril's…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-23",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1017343/warhound-palmer-luckey-anduril-colossal-war-dogs"
+    },
+    {
+      "titre": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
+      "resume": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-23",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/"
+    },
+    {
+      "titre": "Left alone with nothing to do, AI agents started playing",
+      "resume": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-23",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/"
+    },
+    {
+      "titre": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "resume": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-23",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/"
+    },
+    {
+      "titre": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
+      "resume": "Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges that weaponizing th…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-23",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html"
+    },
+    {
+      "titre": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances",
+      "resume": "AI agents paying for API calls with the&nbsp;x402 SDKs&nbsp;could sign a payment for their full balance of a supported token if a malicious API asked for it,&nbsp;security firm V12 said&nbsp;on October 22. The cause was …",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-23",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html"
+    },
+    {
+      "titre": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
+      "resume": "Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have&nbsp;demonstrated. Their \"Node2Shell\" proof of concept ran code on the offici…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-23",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html"
+    },
+    {
+      "titre": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
+      "resume": "Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open. The flaw,&nbsp;CVE-2026-112900, is in the way Pillow ha…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-23",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html"
+    },
+    {
+      "titre": "Spotify says yes, it is busting people for using Family Plan sharing too widely",
+      "resume": "Spotify co-CEO Alex Norstr&#246;m confirmed on this week's earnings call that the company is trying to catch Spotify Family plan users who don't actually live together with a new QR code verification method that requires…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-22",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes"
+    },
+    {
+      "titre": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
+      "resume": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-22",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/"
+    },
+    {
+      "titre": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "resume": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-22",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
+    },
+    {
+      "titre": "Capcom confirms data breach affecting 11.7 million accounts",
+      "resume": "Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-22",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/"
+    },
+    {
+      "titre": "Railway warns devs to rotate secrets after potential breach",
+      "resume": "Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-22",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/"
+    },
     {
       "titre": "Google tells Android users to update as parts of Canada adopt permanent daylight saving time",
       "resume": "As the US gets closer to permanently adopting daylight saving time following the House advancing the Sunshine Protection Act in July, there could be some unforeseen consequences to getting an extra hour of sun in the eve…",
