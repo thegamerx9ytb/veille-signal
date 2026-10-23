@@ -1,6 +1,96 @@
 {
-  "lastUpdate": "2026-10-23T11:08:35.226724+00:00",
+  "lastUpdate": "2026-10-23T15:37:18.351393+00:00",
   "items": [
+    {
+      "titre": "The Sigma FP2 brings significant upgrades to the ‘world’s smallest’ full-frame camera",
+      "resume": "Seven years after Sigma claimed its original fp was the world's smallest and lightest full-frame mirrorless camera, the company has announced a similarly compact follow-up with several welcome upgrades including an impro…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-23",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1017410/sigma-fp2-mirrorless-full-frame-modular-camera-upgrade"
+    },
+    {
+      "titre": "Meta delays new business terms after publisher pushback on AI scraping",
+      "resume": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to T…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-23",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping"
+    },
+    {
+      "titre": "SpaceX’s mobile carrier push reportedly involves tapping into 80,000 cell sites",
+      "resume": "SpaceX is planning to access at least 80,000 cell sites as part of efforts to compete directly with Verizon, T-Mobile, and AT&#38;T, according to a report from Bloomberg. Sources tell the publication that SpaceX is in ta…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-23",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/science/1017477/spacex-cell-sites-major-us-carrier"
+    },
+    {
+      "titre": "Feds want robotaxis to signal ‘I’m driving’ with cyan-colored lights",
+      "resume": "After years of debating how driverless cars should tell the world no one is at the wheel - flashing text, audio alerts, custom lights - the feds just stepped in with a single answer: cyan. The National Highway Traffic Sa…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-23",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss"
+    },
+    {
+      "titre": "Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach",
+      "resume": "Quest is the latest in a series of healthcare technology companies that have been hacked in recent months.",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-10-23",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/"
+    },
+    {
+      "titre": "HPE patches eight max severity RCE and auth bypass AOS flaws",
+      "resume": "Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code execution issues. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-23",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/"
+    },
+    {
+      "titre": "You gave your AI agent access, but who is giving it orders?",
+      "resume": "AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their legitimate permissions. Gen Digital explains how its Agent Trust Hub help…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-23",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/"
+    },
+    {
+      "titre": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
+      "resume": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year. According to ESET, the attack involved UA…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-23",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html"
+    },
+    {
+      "titre": "PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
+      "resume": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws. The new issue, assigned CVE-2026-115560, affects only web applications…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-23",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html"
+    },
+    {
+      "titre": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
+      "resume": "Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls. \"Artifacts from this in…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-23",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html"
+    },
     {
       "titre": "Etsy is cracking down on AI slop listings",
       "resume": "Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that \"many active buyers say they can't tell which items involve AI-gene…",
