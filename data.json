@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2026-10-23T15:37:18.351393+00:00",
+  "lastUpdate": "2026-10-23T20:10:38.018882+00:00",
   "items": [
+    {
+      "titre": "Fi’s GPS-equipped dog trackers are on sale for 30 percent off",
+      "resume": "If your dog or cat is prone to getting lost, or you frequently go on adventures together, you can save 30 percent on Fi pet trackers through October 25th when you enter coupon code SCARY at checkout. The sale includes se…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-23",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1017196/fi-ultra-gps-dog-tracker-kirby-air-riders-deal-sale"
+    },
+    {
+      "titre": "Soundcore’s latest noise-crushing headphones are on sale for a new low price",
+      "resume": "My colleague John Higgins considered Soundcore’s Space One some of the best budget noise-canceling headphones you could buy when they launched in 2023 — and their successor has only improved upon their winning formula, a…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-23",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale"
+    },
+    {
+      "titre": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+      "resume": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a litt…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-23",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech"
+    },
+    {
+      "titre": "Abandoned Popcorn Time apps had to be disabled to prevent a zombie army",
+      "resume": "Remember Popcorn Time, the app that served as an easy-to-use front end for streaming torrents of movies and TV shows? Development of the MPAA's least-favorite app of the 2010s has been abandoned for years, but the \"Netfl…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-23",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided"
+    },
+    {
+      "titre": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+      "resume": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-23",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/"
+    },
+    {
+      "titre": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
+      "resume": "A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-23",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/"
+    },
+    {
+      "titre": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
+      "resume": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, netw…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-23",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/"
+    },
+    {
+      "titre": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+      "resume": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder le…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-23",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/"
+    },
+    {
+      "titre": "PHP shares mitigation for new RCE vulnerability with no patch",
+      "resume": "The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-23",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/"
+    },
+    {
+      "titre": "Quest Diagnostics confirms data breach exposed patient records",
+      "resume": "American clinical laboratory company Quest Diagnostics disclosed that patient records have been exposed after a threat actor gained unauthorized access to its Quanum LSM system. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-23",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/"
+    },
+    {
+      "titre": "Microsoft: Windows Server 2016 reaches end of support in January",
+      "resume": "Microsoft says Windows Server 2016 will stop receiving security updates after it reaches the end of support in January 2027. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-23",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/"
+    },
+    {
+      "titre": "Microsoft Teams to get AI-powered, context-aware phishing detection",
+      "resume": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-23",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/"
+    },
+    {
+      "titre": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
+      "resume": "Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups. Central to the operation is an \"Autonomous Red Team K…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-23",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html"
+    },
+    {
+      "titre": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
+      "resume": "Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab patched over the past …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-23",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html"
+    },
+    {
+      "titre": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
+      "resume": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out diplomatic entities in Tajikistan, Uz…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-23",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html"
+    },
     {
       "titre": "The Sigma FP2 brings significant upgrades to the ‘world’s smallest’ full-frame camera",
       "resume": "Seven years after Sigma claimed its original fp was the world's smallest and lightest full-frame mirrorless camera, the company has announced a similarly compact follow-up with several welcome upgrades including an impro…",
