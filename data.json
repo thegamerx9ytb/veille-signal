@@ -1,6 +1,69 @@
 {
-  "lastUpdate": "2026-10-24T10:26:30.034287+00:00",
+  "lastUpdate": "2026-10-24T14:14:01.870115+00:00",
   "items": [
+    {
+      "titre": "It’s time to find a new browser",
+      "resume": "Hi, friends! Welcome to Installer No. 149, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy It Actually Feels Like Fall Now At Least In My Neighborhood), and also you can read…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-24",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer"
+    },
+    {
+      "titre": "Laika has spent 20 years building up to Wildwood",
+      "resume": "Across several decades in Hollywood, Caleb Deschanel has seen a lot. He served as cinematographer on films like The Passion of the Christ and The Patriot, worked on sequences in The Godfather and Titanic, and directed a …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-24",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika"
+    },
+    {
+      "titre": "Lee Chang Dong ponders the ethics of the camera",
+      "resume": "Lee Chang Dong's seventh feature film, Possible Love, is inspired by true events from 2009, when a Korean conglomerate fired a third of its staff - 2,600 employees - after which many died by suicide. Possible Love is the…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-24",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview"
+    },
+    {
+      "titre": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
+      "resume": "It looks like the long-rumored touchscreen MacBook might actually get announced next week, and after using the Lenovo Yoga 9n for our testing of Nvidia's RTX Spark platform, it got me thinking: this is a lot of what I wa…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-24",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis"
+    },
+    {
+      "titre": "Here are the top AI agents that can live in your text messages",
+      "resume": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-24",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/"
+    },
+    {
+      "titre": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
+      "resume": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on their activity on other…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-24",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html"
+    },
+    {
+      "titre": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
+      "resume": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python pac…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-24",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html"
+    },
     {
       "titre": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
       "resume": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerab…",
