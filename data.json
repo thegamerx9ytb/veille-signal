@@ -1,6 +1,96 @@
 {
-  "lastUpdate": "2026-10-23T20:10:38.018882+00:00",
+  "lastUpdate": "2026-10-24T10:26:30.034287+00:00",
   "items": [
+    {
+      "titre": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
+      "resume": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerab…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-24",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html"
+    },
+    {
+      "titre": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
+      "resume": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python&nbsp;Brotli&nbsp;and&nbsp;brotlicffi&nbsp;packages, and Envoy proxies set up to dec…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-24",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html"
+    },
+    {
+      "titre": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
+      "resume": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider to …",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-24",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html"
+    },
+    {
+      "titre": "OpenAI now trains its frontier AI models with no internet access",
+      "resume": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-23",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
+    },
+    {
+      "titre": "Xbox’s first chief operating officer is out after just a few months",
+      "resume": "Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge. Chiang has been a…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-23",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure"
+    },
+    {
+      "titre": "VCs, Superhuman Mail founder share red flags about product-market fit",
+      "resume": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-23",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/"
+    },
+    {
+      "titre": "Startups don’t need to go viral to win customers",
+      "resume": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-23",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/"
+    },
+    {
+      "titre": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "resume": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-23",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/"
+    },
+    {
+      "titre": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "resume": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-23",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
+    },
+    {
+      "titre": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
+      "resume": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-23",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/"
+    },
     {
       "titre": "Fi’s GPS-equipped dog trackers are on sale for 30 percent off",
       "resume": "If your dog or cat is prone to getting lost, or you frequently go on adventures together, you can save 30 percent on Fi pet trackers through October 25th when you enter coupon code SCARY at checkout. The sale includes se…",
