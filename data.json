@@ -1,6 +1,96 @@
 {
-  "lastUpdate": "2026-10-24T14:14:01.870115+00:00",
+  "lastUpdate": "2026-10-24T19:12:28.122738+00:00",
   "items": [
+    {
+      "titre": "What to expect from Apple’s ‘Pro and tell’ event",
+      "resume": "It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on the MacBook Pro, it look…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-24",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro"
+    },
+    {
+      "titre": "LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday",
+      "resume": "Black Friday is still over a month away, but if you&#8217;re hoping to upgrade your TV, you don’t need to wait until November. LG has already kicked off its early Black Friday sale, letting you save on the LG C6 and vari…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-24",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale"
+    },
+    {
+      "titre": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
+      "resume": "Lindsay Powell, who releases records under the name Fielded, has spent most of her career subverting expectations and genre conventions. According to their Bandcamp page, Fielded started as an experimental noise project …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-24",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview"
+    },
+    {
+      "titre": "Pennsylvania will require labels on AI-generated ads",
+      "resume": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, vide…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-24",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
+    },
+    {
+      "titre": "PHP-ocalypse: How two critical web bugs almost broke the internet",
+      "resume": "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-24",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/"
+    },
+    {
+      "titre": "Instacart reportedly discussed selling itself with DoorDash and Uber",
+      "resume": "Instacart might sell itself to a larger competitor.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-24",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/"
+    },
+    {
+      "titre": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "resume": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-24",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+    },
+    {
+      "titre": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "resume": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-24",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/"
+    },
+    {
+      "titre": "Block’s new voice model sounds eerily human",
+      "resume": "Block said that the voice model can run locally on a MacBook M4 Max",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-24",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"
+    },
+    {
+      "titre": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
+      "resume": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-24",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/"
+    },
     {
       "titre": "It’s time to find a new browser",
       "resume": "Hi, friends! Welcome to Installer No. 149, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy It Actually Feels Like Fall Now At Least In My Neighborhood), and also you can read…",
