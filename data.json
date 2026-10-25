@@ -1,6 +1,42 @@
 {
-  "lastUpdate": "2026-10-24T19:12:28.122738+00:00",
+  "lastUpdate": "2026-10-25T10:52:53.418498+00:00",
   "items": [
+    {
+      "titre": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
+      "resume": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models. \"Based on the current …",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-25",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html"
+    },
+    {
+      "titre": "Blue Planet III is keeping the rough edges in the age of AI",
+      "resume": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost to…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-24",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai"
+    },
+    {
+      "titre": "Will AI expose the rickety infrastructure of the internet?",
+      "resume": "The moment you realize the internet is \"held together by glue and dreams.\"",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-24",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/"
+    },
+    {
+      "titre": "Starlink seems to be working normally again in Ukraine",
+      "resume": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-24",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/"
+    },
     {
       "titre": "What to expect from Apple’s ‘Pro and tell’ event",
       "resume": "It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on the MacBook Pro, it look…",
