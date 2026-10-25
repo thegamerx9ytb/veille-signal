@@ -1,6 +1,69 @@
 {
-  "lastUpdate": "2026-10-25T14:46:11.741930+00:00",
+  "lastUpdate": "2026-10-25T19:25:27.382635+00:00",
   "items": [
+    {
+      "titre": "Now you can watch Instagram Reels on your Apple TV",
+      "resume": "Instagram is continuing its expansion into living rooms with Instagram for TV, for Apple TV. The company first started testing a version of the platform focused on Reels, live streams, and other video content, blown up f…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-25",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv"
+    },
+    {
+      "titre": "This Switch 2 sequel accessory was a few millimeters away from being good",
+      "resume": "The Crkd Nitro Deck was a saving grace for the original Nintendo Switch. The slide-on $59.99 accessory brought Hall effect sticks to drift-plagued consoles - no need to open up your Joy-Con for a complicated repair. The …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-25",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on"
+    },
+    {
+      "titre": "TechCrunch Mobility: Blue-green is the color of autonomy",
+      "resume": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-25",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/"
+    },
+    {
+      "titre": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "resume": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-25",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
+    },
+    {
+      "titre": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
+      "resume": "Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-25",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/"
+    },
+    {
+      "titre": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+      "resume": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619. \"I…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-25",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html"
+    },
+    {
+      "titre": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
+      "resume": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week. The attack requires two things: Tailsc…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-25",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html"
+    },
     {
       "titre": "Google’s AI search changes upended online publishing",
       "resume": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM …",
