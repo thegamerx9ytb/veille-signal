@@ -1,6 +1,33 @@
 {
-  "lastUpdate": "2026-10-25T10:52:53.418498+00:00",
+  "lastUpdate": "2026-10-25T14:46:11.741930+00:00",
   "items": [
+    {
+      "titre": "Google’s AI search changes upended online publishing",
+      "resume": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-25",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing"
+    },
+    {
+      "titre": "r/opensource just banned AI, non-English speakers, and more",
+      "resume": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-25",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"
+    },
+    {
+      "titre": "The hottest AI wearables and gadgets you should know about",
+      "resume": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-25",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/"
+    },
     {
       "titre": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
       "resume": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models. \"Based on the current …",
