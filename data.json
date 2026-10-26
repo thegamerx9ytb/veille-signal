@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2026-10-26T12:23:44.677936+00:00",
+  "lastUpdate": "2026-10-26T17:06:34.036982+00:00",
   "items": [
+    {
+      "titre": "Microsoft offers buyouts to 60,000 employees",
+      "resume": "Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to employees, Microsoft chief people officer Amy Coleman writes that this gives staff members \"the oppo…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-26",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible"
+    },
+    {
+      "titre": "Instagram chases YouTube with a push for longer, widescreen videos",
+      "resume": "Instagram is announcing a big push into longform horizontal video, which the platform is calling \"Features.\" Instagram boss Adam Mosseri has been against doing longform video on the platform \"for a long time,\" he says in…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-26",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1018688/instagram-longform-widescreen-video-features-youtube"
+    },
+    {
+      "titre": "The Sony WH-1000XM4C bring back a beloved headphone design",
+      "resume": "When Sony announced the WH-1000XM4C headphones, I was perplexed. A product revamp usually includes at least one or two significant improvements. Or if it's a nostalgia play, it's from a decades-old product and not one th…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-26",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1018115/sony-wh-1000xm4c-headphones-review"
+    },
+    {
+      "titre": "Everything old is new again with the Fitbit Edge",
+      "resume": "Last week, I sank into my living room couch and watched a bedraggled, nihilistic Matthew McConaughey take a drag of a cigarette in season 1 of True Detective. \"You know, someone once told me time is a flat circle. Everyt…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-26",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1018621/fitbit-edge-review-fitness-tracker-wearables-health"
+    },
+    {
+      "titre": "Microsoft offers buyouts to around 60,000 employees, reports say",
+      "resume": "The buyout offers mark Microsoft's latest efforts to cut costs and rework its workforce.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-26",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/"
+    },
+    {
+      "titre": "Anthropic officially files for its public debut",
+      "resume": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-26",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/"
+    },
+    {
+      "titre": "SpaceX locks in $40B GPU financing deal with Apollo",
+      "resume": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it …",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-26",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/"
+    },
+    {
+      "titre": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "resume": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-26",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/"
+    },
+    {
+      "titre": "Chinese man extradited for role in $36 million cryptocurrency scam",
+      "resume": "A Chinese national was arraigned in California after being extradited from the Netherlands for his alleged involvement in a cryptocurrency investment scam that stole nearly $37 million from 174 victims in the United Stat…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-26",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/"
+    },
+    {
+      "titre": "When an AI Agent Is the Incident, the Identity Record Is the Evidence",
+      "resume": "A new NIST, CISA, and NSA guide treats runaway agents as incidents to be rehearsed. The hard part of the response is answering whose authority the agent used, and that answer has to exist before the incident does. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-26",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/"
+    },
+    {
+      "titre": "Microsoft releases emergency .NET patches for critical Brotli flaw",
+      "resume": "Microsoft released emergency .NET security updates to patch a critical vulnerability known as Broccoli2Shell, also tracked as Node2Shell and HTTP2Shell. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-26",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-net-patches-for-critical-brotli-flaw/"
+    },
+    {
+      "titre": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
+      "resume": "A critical flaw dubbed 'HTTP2Shell' in Brotli, the C decoder library built into Node.js, could allow attackers to corrupt memory and access sensitive data. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-26",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/"
+    },
+    {
+      "titre": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
+      "resume": "Two critical flaws in&nbsp;Wasmtime, a WebAssembly runtime that can be built into other software, could allow a malicious WebAssembly module to escape the sandbox intended to contain it, the project's maintainers say. An…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-26",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html"
+    },
+    {
+      "titre": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
+      "resume": "This2Shell, That2Shell, Everything2Shell. That's pretty much how the last week went. Critical bugs that let attackers run code remotely are showing up everywhere. Hackers are scanning for targets, some flaws are already …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-26",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html"
+    },
     {
       "titre": "The city that fought Flock",
       "resume": "It was about to be a long night in Huntington, West Virginia. Mayor Patrick Farrell stood before 10 members of city council in a white dress shirt and dark blazer studded with an American flag pin. Behind him sat his con…",
