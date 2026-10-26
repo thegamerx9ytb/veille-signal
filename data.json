@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2026-10-26T17:06:34.036982+00:00",
+  "lastUpdate": "2026-10-26T21:17:35.299937+00:00",
   "items": [
+    {
+      "titre": "Apple acknowledges iPhone Duo display &#8216;issue&#8217; after reports of cracked screens",
+      "resume": "Following reports of iPhone Duos with cracked and broken inside screens, often showing a bright line running from the center to the right side, Apple says in a statement to Bloomberg and 9to5Mac that it's aware of \"an is…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-26",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack"
+    },
+    {
+      "titre": "The RealReal won’t let AI agents hog designer clothing",
+      "resume": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported th…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-26",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal"
+    },
+    {
+      "titre": "The NBA’s response to gambling scandals is to add more gambling partnerships",
+      "resume": "From the bright minds that brought you FTX Arena and NBA Top Shot NFT maketplace (where sales last month dropped to $762,781, which is a 99.66 percent decrease compared to the February 2021 peak of $226,350,843), the NBA…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-26",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket"
+    },
+    {
+      "titre": "iPhone Duo now supports Apple Pencil with iOS 27.2",
+      "resume": "Apple has just released iOS 27.2, bringing Apple Pencil support to the iPhone Duo. The software update also includes an \"Edge Light\" feature for the iPhone Duo that's intended to illuminate your face during video calls. …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-26",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil"
+    },
+    {
+      "titre": "This startup’s self-driving excavators help dig up $600M in new funding",
+      "resume": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-26",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/"
+    },
+    {
+      "titre": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
+      "resume": "Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-26",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/"
+    },
+    {
+      "titre": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
+      "resume": "A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-26",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/"
+    },
+    {
+      "titre": "Watch out, YouTube; Instagram goes from short-form to 90-minute videos",
+      "resume": "As Instagram rolls out long form videos of up to 90 minutes, the platform has an opportunity to challenge YouTube if it plays its cards right.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-26",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/"
+    },
+    {
+      "titre": "DreamHost forces password resets in ongoing \"incident\"",
+      "resume": "DreamHost has forced password resets for email and FTP/SFTP users following an incident that disrupted connections to the File Manager interface. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-26",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/"
+    },
+    {
+      "titre": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing",
+      "resume": "OpenAI has launched GPT-6.1 Terra, a new model focused on computer use, visual reasoning, coding, and everyday work, while costing significantly less than its larger models. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-26",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/"
+    },
+    {
+      "titre": "Former pentester used ARTEX AI to steal 8.2 million data records",
+      "resume": "South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI pentesting framework used in most of the attacks. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-26",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/"
+    },
+    {
+      "titre": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
+      "resume": "Cybersecurity researchers are calling attention to what they say is a \"recurring social engineering pattern\" across hundreds of cases in which threat actors use Microsoft Teams' external chat creation feature to conduct …",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-26",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html"
+    },
+    {
+      "titre": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
+      "resume": "PHP has rebuilt its official Windows packages for PHP 8.2 through 8.5 to fix CVE-2026-111497, a flaw in the Brotli compression library that the packages include. The flaw can let an attacker corrupt memory and potentiall…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-26",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html"
+    },
+    {
+      "titre": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
+      "resume": "An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025. According to Dutch e-commerce security company Sansec, the activity is desi…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-26",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html"
+    },
     {
       "titre": "Microsoft offers buyouts to 60,000 employees",
       "resume": "Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to employees, Microsoft chief people officer Amy Coleman writes that this gives staff members \"the oppo…",
