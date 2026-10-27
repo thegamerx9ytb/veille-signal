@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2026-10-27T11:42:54.783361+00:00",
+  "lastUpdate": "2026-10-27T16:10:39.504727+00:00",
   "items": [
+    {
+      "titre": "Apple refreshes the iMac with M6 chips",
+      "resume": "Apple is updating the iMac with M6 chips. The new iMac generation was introduced today, giving Apple's all-in-one desktop computer a performance boost via the same chipset Apple launched with the Mac Mini in August. Pric…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-27",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1018467/apple-imac-m6-chip-announced-price-release"
+    },
+    {
+      "titre": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+      "resume": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-27",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update"
+    },
+    {
+      "titre": "We&#8217;ve had touchscreen laptops for years. Can Apple make them better?",
+      "resume": "A fridge is about to be merged with a toaster. Dogs and cats are soon to be living together. But it's not mass hysteria; Apple is expected to finally announce a touchscreen MacBook tomorrow at its \"Pro and Tell\" event. A…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-27",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1019288/apple-event-la-macbook-pro-touchscreen-questions"
+    },
+    {
+      "titre": "Apple&#8217;s latest AirTag is the cheapest it’s ever been",
+      "resume": "Thanksgiving is less than a month away, so now’s a good time to start preparing before the rush. Fortunately, Apple&#8217;s latest AirTag can help you keep tabs on your luggage and other belongings amid the holiday chaos…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-27",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1019138/apple-airtag-second-gen-cricut-joy-2-printer-deal-sale"
+    },
+    {
+      "titre": "Apple unveils new 14-inch MacBook Pro with M6 chip",
+      "resume": "The new MacBook Pro comes with 24 hours of battery life, and now features support for Wi-Fi 7 and Bluetooth 6 connectivity.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-27",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/"
+    },
+    {
+      "titre": "US government says hackers are now exploiting critical PHP web bugs",
+      "resume": "The U.S. government cyber agency warns that hackers have figured out a way to exploit the popular PHP software, used in 70% of the web's software.",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-10-27",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/"
+    },
+    {
+      "titre": "Ford Fathom will be the cheapest American EV capable of powering a house",
+      "resume": "Ford is rolling out two new chargers capable of powering a home or the grid — so-called V2X capability.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-27",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/"
+    },
+    {
+      "titre": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+      "resume": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-27",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/"
+    },
+    {
+      "titre": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+      "resume": "The new standard, WebAI, is designed to work with a variety of AI models.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-27",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/"
+    },
+    {
+      "titre": "Japan internet giant GMO says hackers posted stolen customer data",
+      "resume": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Élevé",
+      "date": "2026-10-27",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/"
+    },
+    {
+      "titre": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+      "resume": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-27",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/"
+    },
+    {
+      "titre": "The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest",
+      "resume": "Attackers are increasingly abusing legitimate IT tools, Microsoft 365 sessions, and everyday workflows to compromise businesses without triggering traditional defenses. Huntress Labs ranks the threats hitting organizatio…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-27",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/"
+    },
+    {
+      "titre": "Tailscale warns of SSH flaws allowing root privilege escalation",
+      "resume": "The Tailscale security team is working to patch almost a dozen security vulnerabilities that could be exploited to steal credentials, crash servers, gain root privileges, and more. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-27",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/"
+    },
+    {
+      "titre": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
+      "resume": "The North Korea-linked Lazarus Group has been attributed to a cyber espionage campaign dubbed Operation FlashHole targeting at least three organizations in South Korea spanning the construction, software, and wire-commun…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-27",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html"
+    },
+    {
+      "titre": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
+      "resume": "Fake login pages are nothing new, but generative AI is making them easier to build and more convincing. Attackers can recreate familiar login screens, impersonate trusted brands and tailor phishing attempts to specific e…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-27",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html"
+    },
+    {
+      "titre": "Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key",
+      "resume": "An attacker who gained access to Keystone's website obtained the key that its hardware wallets use to prove they are genuine, the company said in a&nbsp;statement&nbsp;on October 26. Someone with that key could build cou…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-27",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html"
+    },
+    {
+      "titre": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
+      "resume": "Microsoft has fixed a flaw in its Authenticator app for Android that let a malicious app with no permissions pose as a trusted Microsoft app, such as Teams, and collect sign-in tokens for a victim's work account. Microso…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-27",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html"
+    },
     {
       "titre": "Acer is bringing a Predator gaming handheld to the US for the first time",
       "resume": "It's been several months since Acer unveiled its Predator Atlas 8 gaming handheld, but now we finally know that it's coming to the US, and how much it'll cost. The Intel Arc G3 Extreme variant - the more powerful of the …",
