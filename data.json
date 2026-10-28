@@ -1,6 +1,168 @@
 {
-  "lastUpdate": "2026-10-28T12:16:01.607241+00:00",
+  "lastUpdate": "2026-10-28T16:57:32.562230+00:00",
   "items": [
+    {
+      "titre": "Reddit is getting a For You feed",
+      "resume": "Reddit is switching up its homepage feeds. The company announced today that it's going to start offering a \"new feed experience\" that includes both a Following feed to show you posts from subreddits you follow and a For …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-28",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1020751/reddit-for-you-following-feeds"
+    },
+    {
+      "titre": "Meta says it&#8217;ll probably delay its controversial new business terms again",
+      "resume": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said the com…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-28",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely"
+    },
+    {
+      "titre": "All the news from Apple’s ‘Pro and tell’ event",
+      "resume": "Apple’s “Pro and tell” event kicks off at 1PM ET / 10AM PT on October 28th. The event comes just a couple of weeks after Apple debuted the HomeView, its first smart display, and a little over a month after it announced t…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-28",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1018096/apple-pro-and-tell-launch-event-news-announcements"
+    },
+    {
+      "titre": "Touchscreen MacBook live blog: On the ground at Apple’s launch event",
+      "resume": "Apple has already had a busy week. On Monday, it announced a new iPad Mini with an upgraded OLED display, and on Tuesday, we got M6 chip upgrades for the MacBook Pro and iMac. The Macs are the definition of iterative upd…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-28",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1019809/apple-touchscreen-macbook-pro-la-keynote-event-live-blog"
+    },
+    {
+      "titre": "Trump DOE loans $5B to nuclear plants that will power data centers",
+      "resume": "Constellation Energy will get $5 billion in government loans to modernize nuclear reactors. Most of the new capacity is already committed to Google, Amazon, and Meta.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-28",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/"
+    },
+    {
+      "titre": "Reddit is the latest platform to embrace the ‘For You’ feed",
+      "resume": "The For You feed combines posts from communities users have joined with recommendations tailored to their interests.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-28",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/"
+    },
+    {
+      "titre": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
+      "resume": "In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-28",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/"
+    },
+    {
+      "titre": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "resume": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-28",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/"
+    },
+    {
+      "titre": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+      "resume": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Élevé",
+      "date": "2026-10-28",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/"
+    },
+    {
+      "titre": "AI execs may be too out of touch to build for the general public",
+      "resume": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-28",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/"
+    },
+    {
+      "titre": "InfraTrust report warns of exploited flaws in critical network infrastructure",
+      "resume": "Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as \"PHP2Shell\" put the web management interfaces of firewalls, VPNs, application delivery controllers, and oth…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-28",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/"
+    },
+    {
+      "titre": "Microsoft urges Entra ID admins to migrate users to passkeys",
+      "resume": "Microsoft again asked Entra ID administrators to migrate users to phishing-resistant methods to avoid sign-in disruptions before it retires SMS and voice authentication in February 2027. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-28",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/"
+    },
+    {
+      "titre": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
+      "resume": "Chinese state-sponsored hacking group Volt Typhoon has been using a framework that relies on rotating chains of connected devices compromised on demand, including for zero-day attacks targeting high-value systems. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-28",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/"
+    },
+    {
+      "titre": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
+      "resume": "Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers' personal information. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-28",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/"
+    },
+    {
+      "titre": "Wazuh and AI for Enhanced SOC Workflows",
+      "resume": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover …",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-28",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html"
+    },
+    {
+      "titre": "Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers",
+      "resume": "A critical 16-year-old flaw in EDK II, the open-source code that most hardware makers use to build UEFI firmware, can allow an attacker to run code on a machine before its operating system loads, but only while the machi…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-28",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html"
+    },
+    {
+      "titre": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
+      "resume": "Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber. The vulnerability in question is CVE-2026-101767 (CVS…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-28",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html"
+    },
+    {
+      "titre": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
+      "resume": "Cybersecurity researchers have disclosed details of what appears to be an artificial intelligence (AI)-assisted attack orchestrated by a suspected China-nexus threat actor that has leveraged the PHP2Shell vulnerabilities…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-28",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html"
+    },
     {
       "titre": "How a grocery merger could expand a surveillance network",
       "resume": "Kroger's $1.65 billion proposed acquisition of Giant Eagle might not only consolidate the grocery market, but also a vast surveillance network that includes Flock cameras, a new report warns. Beyond standard concerns tha…",
