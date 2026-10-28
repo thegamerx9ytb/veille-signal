@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2026-10-28T16:57:32.562230+00:00",
+  "lastUpdate": "2026-10-28T21:28:43.677746+00:00",
   "items": [
+    {
+      "titre": "Apple charges $14,549 for a fully specced touchscreen MacBook Pro",
+      "resume": "With an OLED display and touchscreen capabilities, it's no surprise that the new MacBook Pro Apple announced today is more expensive than the MBP announced earlier this year. But upgrading the base models that start at $…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-28",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced"
+    },
+    {
+      "titre": "Microsoft reveals strong cloud growth amid financial reporting overhaul",
+      "resume": "Microsoft just posted the first quarter of its 2027 fiscal financial results. The software maker made $92.3 billion in revenue and a net income of $33.6 billion during Q1. Revenue is up 19 percent, and net income has inc…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-28",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027"
+    },
+    {
+      "titre": "Google says its investments in AI are driving more searches",
+      "resume": "Google parent company Alphabet says that its AI investments are leading to a big growth in searches year-over-year, as noted in its Q3 2026 earnings today. \"Our AI investments are driving overall Search query growth, inc…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-28",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026"
+    },
+    {
+      "titre": "Readwise is taking on Kindle and Kobo for ebook supremacy",
+      "resume": "For the last several years, Readwise has been building tools for power readers. There's the eponymous product, Readwise, which stores and categorizes your Kindle highlights to help you remember what you've read. There's …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-28",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store"
+    },
+    {
+      "titre": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
+      "resume": "A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers, which has since been published online.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-28",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/"
+    },
+    {
+      "titre": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
+      "resume": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, w…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-28",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/"
+    },
+    {
+      "titre": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+      "resume": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, w…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-28",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/"
+    },
+    {
+      "titre": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "resume": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-28",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/"
+    },
+    {
+      "titre": "Microsoft hits 10 quarters of record- breaking revenue in a row",
+      "resume": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago q…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-28",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/"
+    },
+    {
+      "titre": "Discord to let search engines index public server messages",
+      "resume": "Discord will allow search engines to index discussions in Discoverable Servers and make them accessible on the web to users outside the platform without an account or invitation. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-28",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/"
+    },
+    {
+      "titre": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
+      "resume": "U.S. law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating illegal activities. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-28",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/"
+    },
+    {
+      "titre": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
+      "resume": "A chain of logic flaws, with no memory corruption, can turn a malicious web page into code running on a Windows computer outside Microsoft Edge's sandbox, a security researcher has shown. Orange Tsai of DEVCORE published…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-28",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html"
+    },
+    {
+      "titre": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
+      "resume": "Third-party Android app stores can now apply to Google for permission to install apps with one tap, without Android's usual confirmation screens, and to update them in the background. To qualify, a store must pass identi…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-28",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html"
+    },
+    {
+      "titre": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
+      "resume": "The China-nexus cyber espionage group known as Volt Typhoon has been attributed to a now-disrupted covert access network dubbed Silent Train that has been put to use for zero-day exploitation and strategic access. \"First…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-28",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html"
+    },
     {
       "titre": "Reddit is getting a For You feed",
       "resume": "Reddit is switching up its homepage feeds. The company announced today that it's going to start offering a \"new feed experience\" that includes both a Following feed to show you posts from subreddits you follow and a For …",
