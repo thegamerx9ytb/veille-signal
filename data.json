@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2026-10-27T21:05:02.006570+00:00",
+  "lastUpdate": "2026-10-28T12:16:01.607241+00:00",
   "items": [
+    {
+      "titre": "How a grocery merger could expand a surveillance network",
+      "resume": "Kroger's $1.65 billion proposed acquisition of Giant Eagle might not only consolidate the grocery market, but also a vast surveillance network that includes Flock cameras, a new report warns. Beyond standard concerns tha…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-28",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/policy/1020187/kroger-grocery-merger-surveillance"
+    },
+    {
+      "titre": "Amazon’s first digital picture frame lets you add voice notes to photos",
+      "resume": "Amazon's screen-equipped smart speakers have long been able to display your family's photos, but its new Alexa Photo Frame is purpose-built for that task. It's designed to compete with other digital picture frames from c…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-28",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1019626/amazon-alexa-plus-photo-digital-picture-frame-smart-speaker"
+    },
+    {
+      "titre": "Voters in Texas agree: They hate data centers",
+      "resume": "Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after project facing opposition from locals. There's …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-28",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas"
+    },
+    {
+      "titre": "Amazon&#8217;s new Echo line is here: the 6 biggest updates",
+      "resume": "Amazon has just taken the wraps off a bunch of new devices as part of a string of fall announcements. Today's news focuses largely on new Echo speakers, with a few new smart home gadgets sprinkled in. Here's a roundup of…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-28",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1020035/amazon-fall-2026-hardware-launch-biggest-announcements"
+    },
+    {
+      "titre": "Jio shares surge 21% in market debut after blockbuster India IPO",
+      "resume": "Jio has debuted as India's second-most valuable listed company, behind its parent, Reliance Industries.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-28",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/"
+    },
+    {
+      "titre": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "resume": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-28",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/"
+    },
+    {
+      "titre": "Nefilim and Hive ransomware affiliate gets 70 months in prison",
+      "resume": "A Ukrainian national was sentenced to 70 months in prison for his role in ransomware attacks targeting hospitals, government entities, and high-revenue businesses worldwide between 2018 and 2021. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-28",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/"
+    },
+    {
+      "titre": "CISA warns of hackers now exploiting critical Node2Shell flaw",
+      "resume": "On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerability known as Node2Shell, Broccoli2Shell, and HTTP2Shell. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-28",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/"
+    },
+    {
+      "titre": "FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money Laundering",
+      "resume": "The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a domain associated with a bulletproof hosting provider (BPH) named Virtualine. The move was in response to the service being used to commit and fa…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-28",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html"
+    },
+    {
+      "titre": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
+      "resume": "An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working proof-of-concept exploits, the company said in its latest report. The exploits were built…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-28",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html"
+    },
+    {
+      "titre": "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed",
+      "resume": "Modern phishing campaigns can compromise American businesses without relying on traditional credential theft. Attackers can abuse legitimate cloud services, authentication mechanisms, and trusted business workflows to ga…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-28",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/american-organizations-under-attack.html"
+    },
+    {
+      "titre": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
+      "resume": "Adobe has released patches to address multiple critical security flaws in Campaign Classic that, if successfully exploited, could result in arbitrary code execution, security feature bypass, and privilege escalation. The…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-28",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html"
+    },
+    {
+      "titre": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      "resume": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-27",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/"
+    },
+    {
+      "titre": "The data center boom has an upside: innovation for the US grid",
+      "resume": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-27",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/"
+    },
+    {
+      "titre": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "resume": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-27",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/"
+    },
+    {
+      "titre": "OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests",
+      "resume": "OpenAI confirmed GPT-6.1 Terra is safer overall than some of its older models, but its safety testing also found other problems. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-27",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/"
+    },
+    {
+      "titre": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
+      "resume": "The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company's Onamae Desktop Cloud threatened to launch a ransomware attack today.…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-27",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/"
+    },
     {
       "titre": "VisionQuest is what happens when AI really goes rogue",
       "resume": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The …",
