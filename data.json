@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2026-10-29T17:17:43.299101+00:00",
+  "lastUpdate": "2026-10-29T21:30:08.686502+00:00",
   "items": [
+    {
+      "titre": "GM to pay $220 million to resolve claims it sold driving habits data",
+      "resume": "General Motors has agreed to pay $220 million to settle claims that it illegally sold driver and location information to data brokers, as reported earlier by Reuters. The agreement, which resolves a complaint from a coal…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-29",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/1022555/gm-data-privacy-attorneys-general-lawsuit"
+    },
+    {
+      "titre": "Rivian’s R2 is officially its best-selling vehicle",
+      "resume": "Rivian reported its third quarter earnings of 2026, providing us a closer look at the company's financial health as it ramps up production of its all-important R2 electric vehicle - which is now, for the first time, outs…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-29",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software"
+    },
+    {
+      "titre": "Reddit will force everyone to log in",
+      "resume": "Reddit is announcing a huge shift: It's going to start requiring users to log in. Right now, you can browse Reddit without having an account, and the site is generally a great resource for crowdsourced information on a w…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-29",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings"
+    },
+    {
+      "titre": "Patrick Stewart has died at age 86",
+      "resume": "Patrick Stewart, best known for his roles in Star Trek and X-Men, has died at age 86. A message posted to Stewart's Instagram account says the actor died in his Los Angeles home on Wednesday \"following a brief and poigna…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-29",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death"
+    },
+    {
+      "titre": "Fan fiction site Archive of Our Own could be offline for up to 4 weeks",
+      "resume": "Archive of Our Own, the popular online home of fan fiction readers and writers, has bad news for its community.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-29",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/"
+    },
+    {
+      "titre": "GM reaches $220M settlement over selling drivers’ private data",
+      "resume": "As part of the settlement, GM must get drivers’ express consent before it collects or shares their driving and location data.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-29",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/"
+    },
+    {
+      "titre": "Amazon reported booming cloud revenue but otherwise missed expectations",
+      "resume": "The biggest ouch of the report was its negative free cash flow of $2.4 billion.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-29",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/"
+    },
+    {
+      "titre": "Meta quietly launches an AI fashion app called Style Sketch",
+      "resume": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-29",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/"
+    },
+    {
+      "titre": "OpenAI-backed Thrive Holdings acquires ADT",
+      "resume": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-29",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/"
+    },
+    {
+      "titre": "Rivian expands joint venture with VW to include AI assistant",
+      "resume": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-29",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/"
+    },
+    {
+      "titre": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+      "resume": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-29",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/"
+    },
+    {
+      "titre": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
+      "resume": "A newly identified advanced persistent threat (APT) group tracked as UAT-11473 was observed exploiting CVE-2026-20127, an authentication-bypass flaw in Cisco Catalyst SD-WAN Controllers, to deploy a custom malware framew…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-29",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/"
+    },
+    {
+      "titre": "Fake crypto app on Apple App Store linked to $23K wallet theft",
+      "resume": "A fake cryptocurrency trading app called Padre Terminal, previously available on the Apple App Store for iOS devices, has been linked to the theft of approximately $23,000 from 27 Solana wallets. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-29",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/"
+    },
+    {
+      "titre": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
+      "resume": "Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and trusted software doing things it shouldn't. There's a strange mix …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-29",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html"
+    },
     {
       "titre": "Microsoft’s AI future has fewer jobs",
       "resume": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's wo…",
