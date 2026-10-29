@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2026-10-28T21:28:43.677746+00:00",
+  "lastUpdate": "2026-10-29T12:25:24.177593+00:00",
   "items": [
+    {
+      "titre": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+      "resume": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of pushin…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-29",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american"
+    },
+    {
+      "titre": "AI has come for Arizona’s water",
+      "resume": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-29",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc"
+    },
+    {
+      "titre": "DoorDash is acquiring Instacart for around $17 billion",
+      "resume": "DoorDash has announced that it's buying Instacart in a deal valued at approximately $17 billion. The acquisition will give DoorDash a bigger presence in online grocery delivery via Instacart's established grocery marketp…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-29",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/business/1021981/doordash-instacart-acquisition-announcement"
+    },
+    {
+      "titre": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
+      "resume": "Cisco released security updates to patch a denial-of-service zero-day in Adaptive Security Appliance (ASA) and Threat Defense (FTD) software that attackers are exploiting to remotely crash vulnerable firewall devices. [.…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-29",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/"
+    },
+    {
+      "titre": "Windows 11 KB5127936 update released with 41 changes and fixes",
+      "resume": "Microsoft released the KB5127936 preview cumulative update for Windows 11 versions 25H2 and 26H2, with 41 changes, including File Explorer and Cloud rebuild improvements. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-29",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127936-update-released-with-41-changes-and-fixes/"
+    },
+    {
+      "titre": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
+      "resume": "26,400 credentials that developers left in public code on Gitee, a Chinese code-hosting service, still worked when a researcher tested them. Anyone who copied one from that code could have used it. Independent researcher…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-29",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html"
+    },
+    {
+      "titre": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
+      "resume": "AI is beginning to take over much of the work that has traditionally defined the security analyst's job. Investigating alerts, collecting evidence, correlating activity across tools, and executing response actions are be…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-29",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html"
+    },
+    {
+      "titre": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
+      "resume": "A flaw in Telegram for Android allowed an attacker to run code on a victim's phone via a voice call once the victim answered, according to security startup NebuSec. The attacker needed only an ordinary Telegram account. …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-29",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html"
+    },
+    {
+      "titre": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
+      "resume": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act. Advanced AI models can now help attackers discover vulnerabilities, generate expl…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-29",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html"
+    },
+    {
+      "titre": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+      "resume": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young peop…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-28",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity"
+    },
+    {
+      "titre": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+      "resume": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-28",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/"
+    },
+    {
+      "titre": "Upwind raises $400M after walking away from Datadog acquisition offer",
+      "resume": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-28",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/"
+    },
+    {
+      "titre": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "resume": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of th…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-28",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/"
+    },
+    {
+      "titre": "Google expands AI Search ads globally as core ad growth slows",
+      "resume": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-28",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/"
+    },
+    {
+      "titre": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "resume": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-28",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/"
+    },
     {
       "titre": "Apple charges $14,549 for a fully specced touchscreen MacBook Pro",
       "resume": "With an OLED display and touchscreen capabilities, it's no surprise that the new MacBook Pro Apple announced today is more expensive than the MBP announced earlier this year. But upgrading the base models that start at $…",
