@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2026-10-30T12:16:34.997018+00:00",
+  "lastUpdate": "2026-10-30T16:55:36.670739+00:00",
   "items": [
+    {
+      "titre": "Waymo’s next robotaxi is a purpose-built Toyota bZ4X",
+      "resume": "Waymo announced today that it will use Toyota bZ4X electric vehicles that are assembled in Japan for a robotaxi service in Tokyo. The news builds on the strategic partnership between Waymo and Toyota which was first anno…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-30",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x"
+    },
+    {
+      "titre": "This electric screwdriver uses a camera and AI to figure out what bit you need",
+      "resume": "Companies like Hoto and Fanttik have elevated the design and functionality of tools like electric screwdrivers, but Arrowmax wants to make them smarter by adding a camera and AI that work together to eliminate the trial …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-30",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1023057/arrowmax-arrowspace-s1-electric-screwdriver-ai-camera-kickstarter"
+    },
+    {
+      "titre": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+      "resume": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-30",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai"
+    },
+    {
+      "titre": "Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather",
+      "resume": "As the weather cools, it may be worth investing in a smart thermostat to help lower your energy bills. Right now, Google&#8217;s fourth-gen Nest Learning Thermostat is on sale in all three colors for $219.99 ($60 off) at…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-30",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale"
+    },
+    {
+      "titre": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
+      "resume": "Hackers working for North Korea are suspected of hacking a Binance employee's laptop, which allowed the theft of billions in crypto.",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-10-30",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/"
+    },
+    {
+      "titre": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+      "resume": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-30",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/"
+    },
+    {
+      "titre": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+      "resume": "DoorDash said that it is open to working with third-party agent makers.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-30",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/"
+    },
+    {
+      "titre": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+      "resume": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-s…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-30",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/"
+    },
+    {
+      "titre": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+      "resume": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-30",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/"
+    },
+    {
+      "titre": "CISA says max severity GitLab flaw now exploited in the wild",
+      "resume": "Attackers have started exploiting a maximum-severity GitLab vulnerability patched earlier this month, according to the US Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-30",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/"
+    },
+    {
+      "titre": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
+      "resume": "Flaws in SS7 and Diameter signaling protocols can allow attackers to track phone locations, intercept calls and SMS verification codes, and impersonate subscribers without compromising their devices. Cape explains how th…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-30",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/"
+    },
+    {
+      "titre": "Malicious Claude Code extension on Cursor planted SSH backdoors",
+      "resume": "A malicious version of Anthropic's Claude Code VS Code extension was distributed through Cursor's extension marketplace for approximately 11 hours on October 29, exposing up to 5,000 developers to malware designed to ins…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-30",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/"
+    },
+    {
+      "titre": "Trezor warns of suspected crypto-theft implant in hardware wallet",
+      "resume": "Hardware wallet device maker Trezor has received credible reports about a suspected hardware crypto-theft implant in a Trezor Safe 5 sold by its reseller CryptoBilis in Southeast Asia. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-30",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/"
+    },
+    {
+      "titre": "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving",
+      "resume": "The alert is critical. The fix is known. And the ticket sits in a queue for days. Security teams understand the risk, but the people who keep applications available need proof that the change won’t break anything.&nbsp; …",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-30",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html"
+    },
+    {
+      "titre": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
+      "resume": "A Trezor Safe 5 hardware wallet bought from the reseller CryptoBilis has an extra circuit board that sends out the recovery phrase over a mobile network, a customer has reported. Trezor has not yet examined the device. I…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-30",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html"
+    },
+    {
+      "titre": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
+      "resume": "Threat actors have been observed attempting to exploit a high-severity security flaw in WordPress Core shortly after patches were released. The vulnerability, which does not have a CVE identifier, relates to a case of re…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-30",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html"
+    },
+    {
+      "titre": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
+      "resume": "TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session, the computer that connects and takes control is the viewer…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-30",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html"
+    },
     {
       "titre": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
       "resume": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitat…",
