@@ -1,6 +1,150 @@
 {
-  "lastUpdate": "2026-10-29T21:30:08.686502+00:00",
+  "lastUpdate": "2026-10-30T12:16:34.997018+00:00",
   "items": [
+    {
+      "titre": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+      "resume": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitat…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-30",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright"
+    },
+    {
+      "titre": "Waymo taps Toyota to supply robotaxis for Japan and the U.K.",
+      "resume": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-30",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/"
+    },
+    {
+      "titre": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "resume": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-30",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/"
+    },
+    {
+      "titre": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
+      "resume": "Binance, the world's largest crypto exchange, has linked the theft of about $6.3 billion in cryptocurrency to a DevOps engineer's compromised laptop. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-30",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/"
+    },
+    {
+      "titre": "Drupal warns of critical Commerce Core flaw exploited in attacks",
+      "resume": "Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-30",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/"
+    },
+    {
+      "titre": "Microsoft finally fixes VPN issues caused by September updates",
+      "resume": "Microsoft has resolved Always On VPN connection failures triggered after installing the September 2026 Windows 11 security updates. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-30",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/"
+    },
+    {
+      "titre": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
+      "resume": "Cryptocurrency giant Binance said on Thursday that a \"security incident\" on its platform has impacted about $6.3 billion worth of assets. The world's biggest cryptocurrency exchange said nearly $3 billion of those assets…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-30",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html"
+    },
+    {
+      "titre": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
+      "resume": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitati…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-30",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html"
+    },
+    {
+      "titre": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
+      "resume": "Drupal has warned that threat actors are exploiting a \"highly critical\" security flaw in its Commerce Core component. The vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of missing authorization af…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-30",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html"
+    },
+    {
+      "titre": "Official Claude Code VS Code Extension Compromised to Install Persistent SSH Backdoor",
+      "resume": "Cybersecurity researchers have disclosed that the official Anthropic Claude Code extension was compromised on the Open VSX registry to install a persistent SSH backdoor on infected hosts. The issue has since been traced …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-30",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html"
+    },
+    {
+      "titre": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
+      "resume": "Reddit CEO Steve Huffman said in an earnings call today that Google's AI-powered search modes do not help with traffic to the platform, echoing problems facing other websites and publishers. As part of its Q3 2026 earnin…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-29",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic"
+    },
+    {
+      "titre": "Intel says it&#8217;s selling every affordable laptop chip it can make",
+      "resume": "During Intel's latest earnings call, CEO Lip-Bu Tan said that demand for its budget-focused Wildcat Lake chips \"is outstripping supply.\" According to CFO David Zinsner, the chips are now sold out. Zinsner said Intel has …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-29",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage"
+    },
+    {
+      "titre": "The director of Obsession put a new horror short on YouTube",
+      "resume": "Curry Barker, the director behind the hit horror film Obsession, just published a new horror short on YouTube. The short, titled \"Mama Bear,\" is nearly five minutes long. The video is pretty unnerving, and fair warning t…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-29",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear"
+    },
+    {
+      "titre": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
+      "resume": "The success of blockbuster hits like \"Project Hail Mary\" and \"Verity\" is only part of the story, Amazon's CEO says.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-29",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/"
+    },
+    {
+      "titre": "AWS will be a $1T business, Jassy says — but first, it will spend big",
+      "resume": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-29",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/"
+    },
+    {
+      "titre": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
+      "resume": "OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep Dots usage independent. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-29",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/"
+    },
     {
       "titre": "GM to pay $220 million to resolve claims it sold driving habits data",
       "resume": "General Motors has agreed to pay $220 million to settle claims that it illegally sold driver and location information to data brokers, as reported earlier by Reuters. The agreement, which resolves a complaint from a coal…",
