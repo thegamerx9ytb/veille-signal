@@ -1,6 +1,105 @@
 {
-  "lastUpdate": "2026-10-30T16:55:36.670739+00:00",
+  "lastUpdate": "2026-10-30T21:19:37.579838+00:00",
   "items": [
+    {
+      "titre": "Google&#8217;s satellite AI server transmits its first response to Earth",
+      "resume": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-30",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission"
+    },
+    {
+      "titre": "The biggest names in AI are backing a new way to opt out of scraping",
+      "resume": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can ap…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-30",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out"
+    },
+    {
+      "titre": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+      "resume": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-30",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers"
+    },
+    {
+      "titre": "Exclusive details about Akai’s MPC Sample Key",
+      "resume": "Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts' delight. While there's no word yet on when the device…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-30",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive"
+    },
+    {
+      "titre": "Satlyt takes another step toward turning satellites into space data centers",
+      "resume": "Satlyt ran a successful test this month bringing it closer to turning spacecraft, starting with satellites, into virtual data centers.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-30",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/"
+    },
+    {
+      "titre": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
+      "resume": "Like a real-life episode of \"Suits,\" the demise of famed white-shoe Wall Street law firm Weil, Gotshal &#038; Manges has been the talk of the legal industry. And now an AI firm has entered the picture.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-30",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/"
+    },
+    {
+      "titre": "Google’s first data center satellite is online and writing poetry",
+      "resume": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-30",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/"
+    },
+    {
+      "titre": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "resume": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-30",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/"
+    },
+    {
+      "titre": "Cracks are emerging in the AI spending boom",
+      "resume": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-30",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/"
+    },
+    {
+      "titre": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
+      "resume": "Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotely execute commands as root on servers running Multipath TCP (MPTCP) li…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-30",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/"
+    },
+    {
+      "titre": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
+      "resume": "Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called ARTEX in attacks aimed at high-value targets simultaneously. The activit…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-30",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html"
+    },
     {
       "titre": "Waymo’s next robotaxi is a purpose-built Toyota bZ4X",
       "resume": "Waymo announced today that it will use Toyota bZ4X electric vehicles that are assembled in Japan for a robotaxi service in Tokyo. The news builds on the strategic partnership between Waymo and Toyota which was first anno…",
