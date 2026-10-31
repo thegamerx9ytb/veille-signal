@@ -1,6 +1,60 @@
 {
-  "lastUpdate": "2026-10-31T15:56:24.437488+00:00",
+  "lastUpdate": "2026-10-31T20:22:34.760131+00:00",
   "items": [
+    {
+      "titre": "I built an AI Tamagotchi before Meta could",
+      "resume": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I w…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-31",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code"
+    },
+    {
+      "titre": "Happy Pikmin Day Eve",
+      "resume": "This morning, Nintendo announced that tomorrow, November 1st, would be the first annual Pikmin Day. As part of the short Pikmin Day Direct, Shigeru Miyamoto shared new info about Pikmin 4 for the Switch 2, as well as an …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-31",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve"
+    },
+    {
+      "titre": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
+      "resume": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans to cover the remaining 1…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-31",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto"
+    },
+    {
+      "titre": "Keyboards of The Verge",
+      "resume": "What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the computer, you're probably…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-31",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks"
+    },
+    {
+      "titre": "OpenAI reportedly lowers funding target for new round",
+      "resume": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-31",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"
+    },
+    {
+      "titre": "Northflank security breach leads to abuse of customers' AI API keys",
+      "resume": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-31",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/"
+    },
     {
       "titre": "Touchscreens everywhere!",
       "resume": "Hi, friends! Welcome to Installer No. 150, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy Halloween, and also you can read all the old editions at the Installer homepage.) T…",
