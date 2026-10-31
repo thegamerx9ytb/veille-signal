@@ -1,6 +1,105 @@
 {
-  "lastUpdate": "2026-10-31T11:47:57.652097+00:00",
+  "lastUpdate": "2026-10-31T15:56:24.437488+00:00",
   "items": [
+    {
+      "titre": "Touchscreens everywhere!",
+      "resume": "Hi, friends! Welcome to Installer No. 150, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy Halloween, and also you can read all the old editions at the Installer homepage.) T…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-31",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer"
+    },
+    {
+      "titre": "Vic Mensa can’t live without the Voice Memos app",
+      "resume": "Vic Mensa is one of those people who has done so many things that it's hard to remember where you were first introduced to him. Was it his debut mixtape Innanetape, which finally hit the major streaming services for the …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-31",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/1023477/vic-mensa-voice-memos-app-interview"
+    },
+    {
+      "titre": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders",
+      "resume": "While the new touch-enabled MacBook Pro with the PROLED XDR screen is available for preorder across a few major retailers, Best Buy is sweetening the deal by including a $100 gift card. The gift card will be automaticall…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-31",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale"
+    },
+    {
+      "titre": "Windows 11 tries new shortcuts for Xbox gaming mode and search",
+      "resume": "The latest Windows 11 Insider build adds some powerful new search features and quick settings while in Xbox mode. The Xbox shortcuts let you control things like Bluetooth, WiFi, and power settings without having to exit …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-31",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings"
+    },
+    {
+      "titre": "I took two iPhones on vacation. The Duo won me over.",
+      "resume": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-31",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/"
+    },
+    {
+      "titre": "From restaurant guides to payments, here’s how TikTok is building a super app",
+      "resume": "TikTok may be working to become the app that people use for most of their digital activities.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-31",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/"
+    },
+    {
+      "titre": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
+      "resume": "Blockchain analytics firm Chainalysis disclosed a data breach after attackers used \"offensive agentic techniques\" to access internal systems and tools, exposing customer names, email addresses, user IDs, and organization…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-10-31",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/"
+    },
+    {
+      "titre": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
+      "resume": "[...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-31",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/"
+    },
+    {
+      "titre": "Reddit to lock content behind logins to fight scrapers",
+      "resume": "Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a \"logged-in service,\" offering limited access to visitors without accounts. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-10-31",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/"
+    },
+    {
+      "titre": "New Android SMS of Death exploit can remotely crash unpatched phones",
+      "resume": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or cr…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-31",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/"
+    },
+    {
+      "titre": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
+      "resume": "American blockchain analysis firm Chainalysis said it was the target of a cybersecurity incident in which an external actor accessed non-sensitive customer data. However, the company noted that the breach did not result …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-10-31",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html"
+    },
     {
       "titre": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
       "resume": "The money behind the money is thrilled, mostly.",
