@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-10-31T20:22:34.760131+00:00",
+  "lastUpdate": "2026-11-01T12:47:23.010733+00:00",
   "items": [
+    {
+      "titre": "Data centers are now a midterm issue, even in Brooklyn",
+      "resume": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-01",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/"
+    },
+    {
+      "titre": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
+      "resume": "Cybersecurity researchers have disclosed details of what has been described as a \"highly sophisticated infection chain\" targeting government organizations in Asia. The activity, detailed by Kaspersky this week, targeted …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-01",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html"
+    },
+    {
+      "titre": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
+      "resume": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressur…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-01",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html"
+    },
+    {
+      "titre": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
+      "resume": "Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a page-speed script that the site loaded from…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-01",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html"
+    },
+    {
+      "titre": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
+      "resume": "A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the network and have the tr…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-01",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html"
+    },
+    {
+      "titre": "Get in the spirit with these horrors from YouTube",
+      "resume": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. The…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-10-31",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror"
+    },
+    {
+      "titre": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "resume": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-31",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
+    },
+    {
+      "titre": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "resume": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Regi…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-31",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/"
+    },
+    {
+      "titre": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "resume": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-10-31",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
+    },
     {
       "titre": "I built an AI Tamagotchi before Meta could",
       "resume": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I w…",
