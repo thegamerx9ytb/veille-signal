@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-11-01T12:47:23.010733+00:00",
+  "lastUpdate": "2026-11-01T16:59:03.153602+00:00",
   "items": [
+    {
+      "titre": "New Zelda and GTA represent a games industry that no longer exists",
+      "resume": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the biggest game releases of the year, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-01",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists"
+    },
+    {
+      "titre": "HomePod Mini 2 first look: Three things I love and one disappointment",
+      "resume": "When I first heard about the new $149 HomePod Mini 2 at Apple's Welcome Home event last month, I was disappointed. It's been six years since Apple launched its entry-level smart speaker, and all it got in the second gen …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-01",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker"
+    },
+    {
+      "titre": "North Korea linked to massive Binance crypto heist",
+      "resume": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity \"TraderTraitor\" and said that it had observed actors it has connected to hack conve…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-01",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist"
+    },
+    {
+      "titre": "A fully playable version of Portal prequel F-Stop leaked",
+      "resume": "Leakers have pieced together a playable version of the canceled Portal prequel F-Stop. Most of the assets came from the massive 12-terabyte leak that dropped this August. That didn't include the game's source code or map…",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-11-01",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak"
+    },
+    {
+      "titre": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
+      "resume": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-01",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/"
+    },
+    {
+      "titre": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
+      "resume": "Google made a sturdy phone, but there is increasing competition in the foldable world.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-01",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/"
+    },
+    {
+      "titre": "Binance resumes withdrawals following $6.3 billion breach",
+      "resume": "The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-11-01",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/"
+    },
+    {
+      "titre": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
+      "resume": "OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-01",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/"
+    },
+    {
+      "titre": "Alpine Linux rebuilds GitLab after attempted RCE attack",
+      "resume": "Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all passwords over conc…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-01",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/"
+    },
     {
       "titre": "Data centers are now a midterm issue, even in Brooklyn",
       "resume": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
