@@ -1,6 +1,42 @@
 {
-  "lastUpdate": "2026-11-01T16:59:03.153602+00:00",
+  "lastUpdate": "2026-11-01T20:55:40.983816+00:00",
   "items": [
+    {
+      "titre": "Apple’s HomeView could add security camera features",
+      "resume": "Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub. The strings describe a security camera mode with motion detection, live streaming, …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-01",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features"
+    },
+    {
+      "titre": "Flock keeps ignoring requests to cancel its contracts",
+      "resume": "While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its contract with Flock i…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-01",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts"
+    },
+    {
+      "titre": "TechCrunch Mobility: A new, bigger AV boom is here",
+      "resume": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-01",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/"
+    },
+    {
+      "titre": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
+      "resume": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-01",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/"
+    },
     {
       "titre": "New Zelda and GTA represent a games industry that no longer exists",
       "resume": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the biggest game releases of the year, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes …",
