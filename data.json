@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2026-11-02T14:56:25.846728+00:00",
+  "lastUpdate": "2026-11-02T20:37:12.115654+00:00",
   "items": [
+    {
+      "titre": "Anthropic clamps down on Claude’s AI video game clones",
+      "resume": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilation…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-02",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones"
+    },
+    {
+      "titre": "Ford promises not to sell your driving habits to data brokers",
+      "resume": "Ford vowed to never sell customer driving data to third-party data brokers as part of a new privacy promise aimed at setting the automaker apart from competitors that have faced legal and regulatory blowback for sharing …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-02",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers"
+    },
+    {
+      "titre": "The Apple Watch Ultra 4 is $100 off, matching its best price to date",
+      "resume": "The Apple Watch Ultra 4 is the company&#8217;s most capable smartwatch. Whether you intend to put its many tracking features to the test, or you simply want the longest battery life of any Apple Watch, it’s currently on …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-02",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1024416/apple-watch-ultra-4-ugreen-finetrack-2-bluetooth-tracker-deal-sale"
+    },
+    {
+      "titre": "BMW is taking on Tesla’s FSD with urban driver assist starting in 2027",
+      "resume": "BMW says that it will expand its navigation-guided, partially automated driving capabilities into urban environments starting in 2027, launching first in Germany with other markets to follow. The new system can help stee…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-02",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027"
+    },
+    {
+      "titre": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
+      "resume": "The plaintiffs said they started using YouTube as young as age 3 and other social media platforms at around age 9 and developed compulsive usage habits that they attributed to features such as autoplay and infinite scrol…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-02",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/"
+    },
+    {
+      "titre": "Web host Squarespace lays off 19% of its employees",
+      "resume": "The website builder said that the job losses are part of a broader restructuring of its organization.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-02",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/"
+    },
+    {
+      "titre": "Germany says lawmakers’ iPhones may have been hacked with spyware",
+      "resume": "German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones may have been hacked.",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-11-02",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/"
+    },
+    {
+      "titre": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+      "resume": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-02",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/"
+    },
+    {
+      "titre": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+      "resume": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-02",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/"
+    },
+    {
+      "titre": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+      "resume": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-02",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/"
+    },
+    {
+      "titre": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "resume": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-02",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/"
+    },
+    {
+      "titre": "Your Mobile Carrier Stores Your Call Logs for Years",
+      "resume": "Mobile carriers can retain years of call and text metadata, exposing sensitive details about customers' relationships, locations, and daily routines if breached. Cape examines the privacy risks of long-term telecom data …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-02",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/"
+    },
+    {
+      "titre": "BTCPay Server warns of hot wallet crypto thefts on outdated instances",
+      "resume": "The maintainer of BTCPay Server, an open-source cryptocurrency payment processor, has urged users to install the latest version as hackers have been draining \"hot wallets\" on instances running older versions. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-02",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/"
+    },
+    {
+      "titre": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
+      "resume": "Google and industry partners have dismantled the XCPE malware botnet consisting of more than 1.3 million Android TV streaming TV boxes that Google says its manufacturer intentionally infected with malware to generate rev…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-02",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/"
+    },
+    {
+      "titre": "Fintech platform Sageworks taken offline after suspected cyberattack",
+      "resume": "Financial technology company Abrigo has restored its Sageworks risk management application, except for borrower-facing capabilities, following an outage triggered by \"irregular activity\" in its environment. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-02",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/"
+    },
+    {
+      "titre": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
+      "resume": "A botnet of more than 1.3 million Android devices, mostly TV set-top boxes, lost control of its servers in late October in a takedown led by Google. Google says&nbsp;it is highly confident that device maker Videostrong i…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-02",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html"
+    },
+    {
+      "titre": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
+      "resume": "Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared link, or a device with no password. Small things that people barely think about. Yet each was enough to cause serious…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-02",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html"
+    },
     {
       "titre": "More European supermarkets are getting their freezers hacked",
       "resume": "Grocery stores across Europe have been hit by another wave of suspected cyberattacks, reporting sudden changes in the temperatures of their fridges and freezers. Major supermarket chains across Belgium, Sweden, Luxembour…",
