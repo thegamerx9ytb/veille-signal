@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2026-11-03T18:12:57.485260+00:00",
+  "lastUpdate": "2026-11-03T22:10:25.021817+00:00",
   "items": [
+    {
+      "titre": "The Pixel Buds Pro 2 have returned to their lowest price to date",
+      "resume": "Android owners looking for an earbud upgrade are in luck. The Google Pixel Buds Pro 2 are back down to $169 at Amazon, Best Buy, and the Google Store, matching the lowest price we’ve seen. Google’s site claims the deal w…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-03",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1025466/google-pixel-buds-pro-2-borderlands-goty-nintendo-switch-deal-sale"
+    },
+    {
+      "titre": "Those Jeff Bezos hair transplant photos are very fake",
+      "resume": "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men c…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-03",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk"
+    },
+    {
+      "titre": "Here’s what it’s like to use Audio Intelligence on the Apple Watch",
+      "resume": "It's impossible to paint a full picture of what Audio Intelligence on the Apple Watch Series 12 and Ultra 4 will be right now. The watchOS 27.3 developer beta just dropped earlier this afternoon, and these features are m…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-03",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1025835/audio-intelligence-live-rewind-siri-recap-apple-watch"
+    },
+    {
+      "titre": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
+      "resume": "The largest crypto theft to date was pulled off by combining some well-known hacking techniques over the course of a few months, according to Binance. A postmortem from the company says the process that started with one …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-03",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained"
+    },
+    {
+      "titre": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist",
+      "resume": "Cybersecurity experts have long warned of the persistent and patient threat from North Korea's long-running hacks. The world's largest crypto exchange was still caught off-guard.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-03",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/"
+    },
+    {
+      "titre": "Orbital Matter 3D printed the first rigid beam in the vacuum of space",
+      "resume": "An in-space construction first could be an enabler for the space data centers of the future.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-03",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/"
+    },
+    {
+      "titre": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+      "resume": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-03",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/"
+    },
+    {
+      "titre": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "resume": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-03",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/"
+    },
+    {
+      "titre": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+      "resume": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-03",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/"
+    },
+    {
+      "titre": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "resume": "Cybersecurity focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-03",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/"
+    },
+    {
+      "titre": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
+      "resume": "Large language model hijacking attacks, also known as LLMjacking, are generating large fraudulent cloud charges, with some organizations losing more than $100,000 per day. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-03",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/"
+    },
+    {
+      "titre": "Binance says fake job interview led to $6.3 billion crypto heist",
+      "resume": "Cryptocurrency exchange Binance says North Korean hackers used a fake job interview to trick an employee into installing malware that ultimately let them compromise the company's wallet infrastructure and steal about $6.…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-03",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/"
+    },
+    {
+      "titre": "WorkOS says attacker used ARTEX AI to breach internal sales app",
+      "resume": "Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-11-03",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/"
+    },
+    {
+      "titre": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes",
+      "resume": "Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that allowed an unauthorized party to gain access to some parts of its infrastructure. The incident is assessed to…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-03",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html"
+    },
+    {
+      "titre": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity",
+      "resume": "Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing passwords, resetting two-factor authentication (2FA), and removing passk…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-03",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html"
+    },
     {
       "titre": "The Xbox Nano has a hidden cloud secret",
       "resume": "Microsoft is about to launch its new Xbox Nano controller tomorrow, and the tiny device has a little secret. The Nano can connect directly to Xbox Cloud Gaming over Wi-Fi to improve latency. It's a feature Microsoft hasn…",
