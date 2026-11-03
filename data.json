@@ -1,6 +1,150 @@
 {
-  "lastUpdate": "2026-11-02T23:45:50.105205+00:00",
+  "lastUpdate": "2026-11-03T13:44:21.843191+00:00",
   "items": [
+    {
+      "titre": "Rivian spinoff Also wants to reinvent the wheel — but first, it has to ship",
+      "resume": "When Rivian quietly spun off its micromobility brand, Also, a lot of observers wondered if the luxury EV maker had bitten off more than it can chew. Chris Yu insists that's not the case. Yu, a Stanford aeronautics PhD an…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-03",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/1024747/rivian-spinoff-also-chris-yu-interview-ebike-production-ramp"
+    },
+    {
+      "titre": "Redmagic upgrades its liquid-cooled gaming phone with extra RGBs",
+      "resume": "After introducing true liquid cooling to its gaming phones last year, Redmagic is upping the ante in its 12 Pro by building RGB lights into the transparent cooling loop, too. And they work! Sort of. The lights do turn on…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-03",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1024504/redmagic-12-pro-liquid-cooling-rgb-lighting-185hz-camera"
+    },
+    {
+      "titre": "Apple is restricting dating apps and romanceable chatbots to over 18s",
+      "resume": "Apple will soon start asking developers to provide more details about their apps to enforce new App Store age rating requirements for dating and location-sharing features. The upcoming content descriptors announced on Mo…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-03",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1025185/apple-app-store-age-rating-dating-apps-ai-companion"
+    },
+    {
+      "titre": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
+      "resume": "Evertrue Capital announces $17M debut fund to back early stage AI and fintech.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-03",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/"
+    },
+    {
+      "titre": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "resume": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, …",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-03",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/"
+    },
+    {
+      "titre": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "resume": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-03",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/"
+    },
+    {
+      "titre": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "resume": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-03",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/"
+    },
+    {
+      "titre": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+      "resume": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-03",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/"
+    },
+    {
+      "titre": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
+      "resume": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-03",
+      "source": "Krebs on Security",
+      "lien": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/"
+    },
+    {
+      "titre": "Harvard University data breach exposed info of 851,000 accounts",
+      "resume": "Hackers who breached Harvard University's Alumni Affairs and Development systems in November 2025 stole data linked to more than 850,000 unique email addresses, according to breach notification service Have I Been Pwned.…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-11-03",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/"
+    },
+    {
+      "titre": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs",
+      "resume": "Google has expanded its Cloud Vulnerability Reward Program (VRP) with a new top-tier reward for high-impact architectural security flaws. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-03",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/"
+    },
+    {
+      "titre": "Police seizes over 100 servers in investment scam crackdown",
+      "resume": "European law enforcement authorities arrested seven suspects and seized more than 100 servers in a joint action targeting an unnamed company suspected of providing fraudulent trading websites to criminal gangs. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-03",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/"
+    },
+    {
+      "titre": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
+      "resume": "BTCPay Server, a self-hosted, open-source cryptocurrency payment processor, has urged users to install the latest version of its software in response to reports of Bitcoin and Litecoin being stolen from hot wallets on in…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-03",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html"
+    },
+    {
+      "titre": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware",
+      "resume": "A Russia-aligned threat actor known as Gorbag has been observed using simple information stealer malware in attacks targeting Ukrainian organizations. \"Active since at least February 2025, the group has focused exclusive…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-03",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html"
+    },
+    {
+      "titre": "The 4 Elements of Exposure Prioritization and How to Operationalize Them",
+      "resume": "Your team is remediating more vulnerabilities than ever, yet your breach risk has barely changed. You’re spending too much time and effort on exposures attackers may never exploit, while higher-risk exposures sit, waitin…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-03",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html"
+    },
+    {
+      "titre": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
+      "resume": "Fixed kernels for a&nbsp;use-after-free vulnerability in the Linux kernel's IPv4 TCP code&nbsp;are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's fixes for its three newest long-term-support rele…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-03",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html"
+    },
     {
       "titre": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
       "resume": "Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and \"cut ties\" with the manufactur…",
