@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2026-11-03T13:44:21.843191+00:00",
+  "lastUpdate": "2026-11-03T18:12:57.485260+00:00",
   "items": [
+    {
+      "titre": "The Xbox Nano has a hidden cloud secret",
+      "resume": "Microsoft is about to launch its new Xbox Nano controller tomorrow, and the tiny device has a little secret. The Nano can connect directly to Xbox Cloud Gaming over Wi-Fi to improve latency. It's a feature Microsoft hasn…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-03",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/1025430/xbox-nano-controller-direct-cloud-wifi-connectivity"
+    },
+    {
+      "titre": "Moft’s new origami case adds a kickstand and grip to the iPhone Duo",
+      "resume": "Originally released in early 2025 as an accessory for the iPad, Moft has redesigned its Dynamic Folio as a case for the iPhone Duo that does more than just protect Apple's folding phone. You can use it to prop the Duo up…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-03",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1025364/moft-dynamic-folio-case-stand-grip-apple-iphone-duo"
+    },
+    {
+      "titre": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
+      "resume": "Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch. The first of these experiments surfaces content based arou…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-03",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations"
+    },
+    {
+      "titre": "Google’s Gemini-powered Home Speaker is already on sale for 20 percent off",
+      "resume": "If you&#8217;re looking for a good smart speaker, the Google Home Speaker is down to around $79 ($20 off) in all four colors at Best Buy, Walmart, and Target. That&#8217;s the best price we&#8217;ve seen for the Gemini-p…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-03",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1025498/google-home-smart-speaker-holiday-2026-deal-sale"
+    },
+    {
+      "titre": "Rivian spinout Also was working on an e-moto project in Kenya — until it walked away",
+      "resume": "Also co-founder and president Chris Yu told TechCrunch that he wanted to prioritize autonomous vehicles.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-03",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch/"
+    },
+    {
+      "titre": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
+      "resume": "CrowdStrike said it will buy Fiddler AI, which makes AI agent observability software, and Dreadnode, which helps companies automate AI security testing.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-03",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/"
+    },
+    {
+      "titre": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+      "resume": "On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-03",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/"
+    },
+    {
+      "titre": "Apple restricts dating apps and AI companions to users 18 and up",
+      "resume": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-03",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/"
+    },
+    {
+      "titre": "Google will let schools disable its AI tools, but not without sacrificing Search",
+      "resume": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-03",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/"
+    },
+    {
+      "titre": "Anthropic is still grappling with the economics of compute",
+      "resume": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-03",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/"
+    },
+    {
+      "titre": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
+      "resume": "A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-11-03",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/"
+    },
+    {
+      "titre": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
+      "resume": "Gartner predicts that security operations centers will have 50% more engineers than analysts by 2028 as AI agents take over routine alert handling. Prophet Security examines how AI is reshaping SOC roles, from analyst re…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-03",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/"
+    },
+    {
+      "titre": "Barracuda warns of critical flaws allowing root access to devices",
+      "resume": "Cybersecurity company Barracuda Networks warned customers to patch two vulnerabilities that can let attackers run commands with root privileges. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-03",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/"
+    },
+    {
+      "titre": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
+      "resume": "An attacker broke into the update system of the cPGuard security tool on November 2 and used it to send a malicious script to customers' Linux servers. The script installed a backdoor and collected password hashes and ot…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-03",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html"
+    },
+    {
+      "titre": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
+      "resume": "Google on Monday warned that threat actors are hijacking enterprise access to Large Language Models (LLMs) to fraudulently leverage expensive computing resources and AI services. The tactic is called LLMjacking, a form o…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-03",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html"
+    },
+    {
+      "titre": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access",
+      "resume": "Barracuda has disclosed details of two vulnerabilities affecting its products that, if chained together, could allow an attacker to bypass authorization controls and gain root access to a susceptible device. The vulnerab…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-03",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html"
+    },
+    {
+      "titre": "Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft",
+      "resume": "Binance on Tuesday said the record-setting theft of $6.43 billion in assets from the world's largest cryptocurrency exchange was the culmination of a \"sophisticated, multi-stage campaign\" that involved the use of a tampe…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-03",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html"
+    },
     {
       "titre": "Rivian spinoff Also wants to reinvent the wheel — but first, it has to ship",
       "resume": "When Rivian quietly spun off its micromobility brand, Also, a lot of observers wondered if the luxury EV maker had bitten off more than it can chew. Chris Yu insists that's not the case. Yu, a Stanford aeronautics PhD an…",
