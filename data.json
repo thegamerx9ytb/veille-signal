@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2026-11-04T13:53:22.063112+00:00",
+  "lastUpdate": "2026-11-04T18:25:21.850809+00:00",
   "items": [
+    {
+      "titre": "God of War Laufey delayed until May",
+      "resume": "God of War Laufey's release date is being delayed to May 20th, 2027, developer Santa Monica Studio announced today. It was set to launch on PlayStation 5 on February 16th. Here is Santa Monica Studio's full message about…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-04",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/1026448/sony-playstation-god-of-war-laufey-delay"
+    },
+    {
+      "titre": "ChatGPT will now make you animated GIFs",
+      "resume": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation speed, edit individual …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-04",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6"
+    },
+    {
+      "titre": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
+      "resume": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. \"How…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-04",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables"
+    },
+    {
+      "titre": "Apple will check shared iCloud links for ‘harmful content’",
+      "resume": "Apple will start checking iCloud items that are accessible to anyone who has the link for \"harmful content\" starting with iOS 27.3 and other 27.3 updates, the company says. \"When you share an item that can be accessed by…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-04",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1026604/apple-icloud-links-harmful-content-27-3"
+    },
+    {
+      "titre": "Sequoia hits rewind, undoing 20 years of expansion",
+      "resume": "Sequoia is consolidating into a smaller, Bay Area–centered firm, shutting down the programs and offices it built during a 20-year expansion while announcing roughly $10 billion in new funds.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-04",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/"
+    },
+    {
+      "titre": "‘You Can See Everything’ is getting an outer space release and it hasn’t even come out in Europe yet",
+      "resume": "It is easier to watch the Elizabeth Holmes documentary \"You Can See Everything\" in low-Earth orbit than in London.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-04",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/04/you-can-see-everything-is-getting-an-outer-space-release-and-it-hasnt-even-come-out-in-europe-yet/"
+    },
+    {
+      "titre": "Waymo confirms it will split with Uber in January 2028",
+      "resume": "The split will set up direct competition in those markets, as Uber has many other autonomous vehicle partners on its network.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-04",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/04/waymo-confirms-it-will-split-with-uber-in-january-2028/"
+    },
+    {
+      "titre": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+      "resume": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-04",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/"
+    },
+    {
+      "titre": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+      "resume": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-04",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/"
+    },
+    {
+      "titre": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
+      "resume": "A phishing campaign used Google Calendar invites, trusted redirects, and fake login pages to hijack corporate Google sessions and bypass MFA protections. Material Security examines how Operation CloudFire tracked the att…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-04",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/"
+    },
+    {
+      "titre": "mSecure password manager hack prompts password reset warnings",
+      "resume": "mSeven Software is warning current and former mSecure password manager customers to change passwords, reset two-factor authentication, and remove passkeys following a cyberattack that reportedly exposed an encrypted cust…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-04",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/"
+    },
+    {
+      "titre": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
+      "resume": "The developers of Goddess of Victory: NIKKE have confirmed that hackers tampered with the game's PC launcher scripts in a supply-chain attack, distributing malware capable of stealing credentials and cryptocurrency walle…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-04",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/"
+    },
+    {
+      "titre": "Cyberattack disrupts blood storage refrigeration systems in France",
+      "resume": "France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored blood products. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-04",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/"
+    },
+    {
+      "titre": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
+      "resume": "The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Uk…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-04",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html"
+    },
+    {
+      "titre": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
+      "resume": "Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert advertisements for a third-party AI ga…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-04",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html"
+    },
+    {
+      "titre": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
+      "resume": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched. Details of the security flaws, which affect SonicWall GMS 9.5.2 and earlier versi…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-04",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html"
+    },
+    {
+      "titre": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
+      "resume": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own. The attacker's code then runs as root, according to advisories that&n…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-04",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html"
+    },
     {
       "titre": "All the news about The Legend of Zelda: Ocarina of Time remake",
       "resume": "Ahead of the release of Rockstar Games&#8217; Grand Theft Auto VI, Nintendo is launching its own fall juggernaut: a Switch 2 remake of The Legend of Zelda: Ocarina of Time. The remake, which is releasing 28 years after t…",
