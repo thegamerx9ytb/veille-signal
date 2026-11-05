@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2026-11-04T22:21:14.495245+00:00",
+  "lastUpdate": "2026-11-05T14:08:28.409220+00:00",
   "items": [
+    {
+      "titre": "Spotify is coming to United Airlines seatbacks — with help from Starlink",
+      "resume": "United has built a custom, native Spotify app for seatback displays, allowing passengers to log directly in to their personal accounts and stream their own libraries, playlists, and video podcasts while flying 35,000 fee…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-05",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/1026472/united-seatback-spotify-app-starlink-wifi"
+    },
+    {
+      "titre": "The M6 MacBook Pro is probably the last of its kind",
+      "resume": "On November 6th, Apple will release an all-new MacBook Pro. It's thinner and lighter and has a beautiful OLED touchscreen. It is very likely what every new MacBook Pro will look like in a couple of years. The M6 MacBook …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-05",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1027250/m6-macbook-pro-review"
+    },
+    {
+      "titre": "The new iMac is a good desktop computer that needs a redesign",
+      "resume": "I'm a simple guy. I usually work from my MacBook Neo wherever I end up sitting in my house. And while I have monitors, mice, and keyboards to plug it into, I often end up leaning over the MacBook and doing none of that. …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-05",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1027177/2026-imac-m6-review"
+    },
+    {
+      "titre": "The touchscreen MacBook Pro is a winner",
+      "resume": "I keep forgetting the MacBook Pro with PROLED XDR Display has a touchscreen. I've been testing this new laptop, one of the most impressive Apple has ever created, for the better part of a week. I can't stop noticing some…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-05",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1026570/apple-macbook-pro-proled-xdr-display-review"
+    },
+    {
+      "titre": "RadianX promises solar-powered devices that never need charging",
+      "resume": "Today’s portable devices are too hungry to run on traditional solar panels, but RadianX says its perovskite cells promise to make charging obsolete in some cases.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-05",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/05/radianx-promises-solar-powered-devices-that-never-need-charging/"
+    },
+    {
+      "titre": "Apple is reportedly cutting budgets for its internal AI usage",
+      "resume": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-05",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/"
+    },
+    {
+      "titre": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+      "resume": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-05",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/"
+    },
+    {
+      "titre": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+      "resume": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-05",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/"
+    },
+    {
+      "titre": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+      "resume": "The system can answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-05",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/"
+    },
+    {
+      "titre": "Want to Rent an Internet Address at the White House?",
+      "resume": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of th…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-05",
+      "source": "Krebs on Security",
+      "lien": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/"
+    },
+    {
+      "titre": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
+      "resume": "Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-05",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/"
+    },
+    {
+      "titre": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
+      "resume": "Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3. The change specifically applies to scenarios where users shar…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-05",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html"
+    },
+    {
+      "titre": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
+      "resume": "October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, these campai…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-05",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html"
+    },
+    {
+      "titre": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+      "resume": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API cos…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-05",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html"
+    },
+    {
+      "titre": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
+      "resume": "A critical finding can move through several security tools and still leave the organization exposed.&nbsp; The vulnerability has a severity score, and a ticket has reached the queue. Progress then depends on information …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-05",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html"
+    },
     {
       "titre": "Gemini for Home now plugs into AT&#038;T’s smart security system",
       "resume": "AT&#38;T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling a bunch of Gemini…",
