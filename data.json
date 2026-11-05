@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2026-11-05T18:29:19.195464+00:00",
+  "lastUpdate": "2026-11-05T22:29:11.678565+00:00",
   "items": [
+    {
+      "titre": "Blue Origin’s next launch now won’t happen until 2027",
+      "resume": "Blue Origin plans to do its next New Glenn rocket launch in January 2027, according to CNBC and the Financial Times, which cite a memo from CEO Dave Limp sent to staff. The new timeline follows a May launchpad explosion …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-05",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027"
+    },
+    {
+      "titre": "The midterms proved once and for all that X is not real life",
+      "resume": "A week before the midterm elections, Vice President JD Vance hosted a town hall in Texas with Fox News host Jesse Watters. It was a friendly event with a friendly audience in what should have been a friendly state, and m…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-05",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/policy/1028253/midterm-elections-x-right-wing-memes"
+    },
+    {
+      "titre": "Salon is shutting down after 31 years",
+      "resume": "Salon launched 31 years ago as one of the first online-only news magazine outlets, and it announced today in an unsigned post that it's ceasing publication. The company said that the \"business realities of independent di…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-05",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/news/1028281/salon-dot-com-shuts-down"
+    },
+    {
+      "titre": "Perplexity launches its own take on AI agents for work",
+      "resume": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-05",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work"
+    },
+    {
+      "titre": "Serve Robotics launches new business to become the AWS for robots",
+      "resume": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-05",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/"
+    },
+    {
+      "titre": "OpenAI released a new cybersecurity model. Is that enough?",
+      "resume": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-05",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/"
+    },
+    {
+      "titre": "Meta warns that election backlash against data centers could make AI expansion harder",
+      "resume": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-05",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/"
+    },
+    {
+      "titre": "Meta says US users can now video chat with their Muse AI avatar",
+      "resume": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-05",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/"
+    },
+    {
+      "titre": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
+      "resume": "OpenAI has disclosed another AI alignment incident where GPT-6 Astra was found to sometimes quietly withhold help on safety research. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-05",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/"
+    },
+    {
+      "titre": "Nearly 1.5 million exposed secrets targeted in new revocation program",
+      "resume": "Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed secrets that remain valid. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-05",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/"
+    },
+    {
+      "titre": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
+      "resume": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and au…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-05",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/"
+    },
+    {
+      "titre": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
+      "resume": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT. Lockdown Mode was introduced by the artificial intelligence (…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-05",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html"
+    },
+    {
+      "titre": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
+      "resume": "Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package. They need network access to the server, an account name, an…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-05",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html"
+    },
     {
       "titre": "TikTok launched a dedicated TikTok Shop app",
       "resume": "TikTok has released a standalone app for TikTok Shop in a few countries, as spotted by social media consultant Matt Navarra. According to its App Store listing, the TikTok Shop app offers: - Personalized picks inspired b…",
