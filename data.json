@@ -1,6 +1,96 @@
 {
-  "lastUpdate": "2026-11-06T17:47:41.960492+00:00",
+  "lastUpdate": "2026-11-06T21:54:27.966277+00:00",
   "items": [
+    {
+      "titre": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
+      "resume": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-06",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces"
+    },
+    {
+      "titre": "Lame-duck Congress might actually do something: speed up energy projects",
+      "resume": "A massive permitting bill that could help energy projects come online much quicker and potentially lower utility bills for Americans is advancing with bipartisan support. And while it could be a catalyst for lots of clea…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-06",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/policy/1028228/energy-infrastructure-permitting-reform-bill-congress-vote"
+    },
+    {
+      "titre": "Shure’s popular podcasting and streaming mic is almost $50 off",
+      "resume": "While the Shure Mv7 Plus is popular with streamers and podcasters, it’s equally good at impressing your friends and coworkers on meetings and Discord calls. It’s currently marked down to $255 at various retailers, includ…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-06",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale"
+    },
+    {
+      "titre": "All the latest updates on AI data centers",
+      "resume": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impa…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-06",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy"
+    },
+    {
+      "titre": "The Duo apps are coming, says Apple",
+      "resume": "There are now 100K Duo-optimized apps, says Apple, and thousands more arrive daily.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-06",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/"
+    },
+    {
+      "titre": "How a Blue Wave midterm might reshape the AI industry",
+      "resume": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to im…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-06",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/"
+    },
+    {
+      "titre": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "resume": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-06",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/"
+    },
+    {
+      "titre": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "resume": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-06",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/"
+    },
+    {
+      "titre": "Fake security tools on GitHub push backdoors and infostealers",
+      "resume": "Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-06",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/"
+    },
+    {
+      "titre": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+      "resume": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [..…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-06",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/"
+    },
     {
       "titre": "AI is the new dating dealbreaker",
       "resume": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst …",
