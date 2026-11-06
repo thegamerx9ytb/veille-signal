@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2026-11-05T22:29:11.678565+00:00",
+  "lastUpdate": "2026-11-06T13:51:13.822331+00:00",
   "items": [
+    {
+      "titre": "The Enough Phone is made by and for people fed up with big screens",
+      "resume": "It's a bad time and maybe also a great time to make a new smartphone. Brennan Jordan and Austin Boer are two-thirds of the trio behind the Enough Phone, a small phone that will run your choice of stock Android or the min…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-06",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1028160/enough-small-phone-kickstarter-sleke"
+    },
+    {
+      "titre": "After printing 40,000 whistles, this is the 3D printer I’d buy",
+      "resume": "I've been wanting to try 3D printing, people tell me. Which printer should I get? I finally have a fairly easy answer: the Bambu Lab P2S Combo. The auto-loading, fully enclosed touchscreen printer is one of the very few …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-06",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1025984/best-3d-printer-bambu-p2s-review"
+    },
+    {
+      "titre": "I’ve reviewed almost every Android foldable this year — here’s how the iPhone Duo compares",
+      "resume": "When I first read Allison and Nilay's Verge review of the iPhone Duo, I was immediately struck by one of their complaints: that the cover display is too small. That's not how the Samsung Galaxy Z Fold 8 feels, I thought.…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-06",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1026410/iphone-duo-foldable-android-samsung-google-xiaomi-oppo-honor"
+    },
+    {
+      "titre": "How Remedy designed Control Resonant’s wildest mission: ‘Anything kind of goes’",
+      "resume": "Note: Some spoilers for Control Resonant's \"Recursions and Iterations\" mission follow. One of Control Resonant's most memorable missions involves time travel - kind of. There are certainly multiple timelines intersecting…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-06",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/1028159/control-resonant-recursions-and-iterations-mission-design-time-travel"
+    },
+    {
+      "titre": "At least 10 local governments have moved to drop Flock’s surveillance cameras since summer",
+      "resume": "The concerns range from privacy to how data is shared (and with whom) to procurement concerns.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-06",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/"
+    },
+    {
+      "titre": "Tesla will stop making the Cybertruck in 2027",
+      "resume": "Elon Musk said the company will use the factory space to make more Cybercabs.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-06",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/"
+    },
+    {
+      "titre": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "resume": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-06",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/"
+    },
+    {
+      "titre": "Physicl raises $10M to make the digital world real enough for robots",
+      "resume": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-06",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/"
+    },
+    {
+      "titre": "Underdog shows off a 32MB speech model in new demo",
+      "resume": "Despite its small size, Underdog's new model can generate both speech and music.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-06",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/"
+    },
+    {
+      "titre": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
+      "resume": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-06",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/"
+    },
+    {
+      "titre": "MetaMask says recent attack didn't affect wallet infrastructure",
+      "resume": "Cryptocurrency wallet provider MetaMask said a recent security incident has not affected MetaMask wallets or its wallet infrastructure. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-06",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/"
+    },
+    {
+      "titre": "D-Link warns of multiple zero-days in DGS-3130 Series switches",
+      "resume": "D-Link shared mitigation measures for multiple unpatched security flaws affecting DGS-3130 series managed Gigabit stackable switches. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-11-06",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/"
+    },
+    {
+      "titre": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
+      "resume": "Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernames, password hashes and live tokens for all users. \"While we…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-06",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html"
+    },
+    {
+      "titre": "The Flood is Coming And The Pipes Were Already Full",
+      "resume": "An update on Athena, and some unsolicited predictions on what's coming next On Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go read it if you haven't. I've spent the summer looking at wha…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-06",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html"
+    },
+    {
+      "titre": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
+      "resume": "A browser extension that can run scripts on claude.ai could make Claude Desktop run code on a person's computer, researchers at Forever Security, an endpoint security company, showed in a test. The attack needs Dispatch,…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-06",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html"
+    },
+    {
+      "titre": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
+      "resume": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates. The fixed build, 11.2609.401.0, was th…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-06",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html"
+    },
+    {
+      "titre": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "resume": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-05",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/"
+    },
     {
       "titre": "Blue Origin’s next launch now won’t happen until 2027",
       "resume": "Blue Origin plans to do its next New Glenn rocket launch in January 2027, according to CNBC and the Financial Times, which cite a memo from CEO Dave Limp sent to staff. The new timeline follows a May launchpad explosion …",
