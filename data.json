@@ -1,6 +1,105 @@
 {
-  "lastUpdate": "2026-11-06T21:54:27.966277+00:00",
+  "lastUpdate": "2026-11-07T12:35:13.946491+00:00",
   "items": [
+    {
+      "titre": "From the front row to the hot seat — what the midterms mean for Big Tech",
+      "resume": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communit…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-07",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/"
+    },
+    {
+      "titre": "Sequoia shutting down its Scouts program marks the end of an era",
+      "resume": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-07",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/"
+    },
+    {
+      "titre": "Crusoe sells troubled Wyoming data center project to Google",
+      "resume": "The deal highlights the challenges of developing massive AI data centers.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-07",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
+    },
+    {
+      "titre": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+      "resume": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-07",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/"
+    },
+    {
+      "titre": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+      "resume": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask again,\" Anthropic's A…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-07",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html"
+    },
+    {
+      "titre": "KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium",
+      "resume": "Buying the 4K Blu-ray disc version of KPop Demon Hunters was already going to be a wise idea for some people, especially those who primarily keep their $26.99 Netflix Premium subscription just to watch the hit animated f…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-06",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale"
+    },
+    {
+      "titre": "Starlink Mobile: All the news on SpaceX&#8217;s major mobile carrier ambitions",
+      "resume": "SpaceX has declared that it&#8217;s going to make Starlink Mobile a &#8220;major&#8221; mobile carrier. The Elon Musk-owned company has already deployed thousands of direct-to-cell satellites, but its next big challenge …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-06",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news"
+    },
+    {
+      "titre": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "resume": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about Ameri…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-06",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy"
+    },
+    {
+      "titre": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "resume": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 bil…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-06",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation"
+    },
+    {
+      "titre": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "resume": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-06",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+    },
+    {
+      "titre": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+      "resume": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and uninten…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-06",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/"
+    },
     {
       "titre": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
       "resume": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, …",
