@@ -1,6 +1,60 @@
 {
-  "lastUpdate": "2026-11-07T12:35:13.946491+00:00",
+  "lastUpdate": "2026-11-07T16:43:19.099915+00:00",
   "items": [
+    {
+      "titre": "Zelda is back and better than ever",
+      "resume": "Hi, friends! Welcome to Installer No. 151, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, get psyched because it's officially Bad Holiday Movie Season, and also you can read all t…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-07",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer"
+    },
+    {
+      "titre": "Good riddance, Cybertruck!",
+      "resume": "I'm calling it: time of death, November 6th, 1:30 AM, by tweet. Elon Musk's declaration Friday that Tesla would be \"winding down\" production of the Cybertruck next year to make room for the Cybercab was fascinating for a…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-07",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash"
+    },
+    {
+      "titre": "AI broke the cybersecurity world. What’s next?",
+      "resume": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-07",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos"
+    },
+    {
+      "titre": "The US let Nvidia sell chips to an empty office in China",
+      "resume": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Time…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-07",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government"
+    },
+    {
+      "titre": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
+      "resume": "Scammers are impersonating major brands and celebrities to lure consumers into fake gift card giveaways that collect personal information and trigger unwanted subscriptions. CTM360 reveals how these campaigns use decepti…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-07",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/"
+    },
+    {
+      "titre": "Hackers pull off $133 million French bank heist via service provider",
+      "resume": "French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-07",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/"
+    },
     {
       "titre": "From the front row to the hot seat — what the midterms mean for Big Tech",
       "resume": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communit…",
