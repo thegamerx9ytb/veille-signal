@@ -1,6 +1,51 @@
 {
-  "lastUpdate": "2026-11-08T12:52:55.539739+00:00",
+  "lastUpdate": "2026-11-08T16:54:32.357977+00:00",
   "items": [
+    {
+      "titre": "There’s no slowing down media’s pivot-to-video 2.0",
+      "resume": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the pressures of creating content for the internet, follow Mia Sato. The Stepback arrives in our subscribers' i…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-08",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot"
+    },
+    {
+      "titre": "Chatbots might be coming to Apple’s HomeView",
+      "resume": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall under …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-08",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview"
+    },
+    {
+      "titre": "Apple’s M5 MacBook Air is down to its lowest price since July",
+      "resume": "The latest 13-inch MacBook Air is currently available for $1,099.99, marking the second time we’ve seen this $200 discount following the company’s hefty price increases over the summer. Although the base model — which fe…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-08",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale"
+    },
+    {
+      "titre": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
+      "resume": "The AutoBarista's \"Grind iQ\" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-08",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/"
+    },
+    {
+      "titre": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
+      "resume": "Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a third-pa…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-08",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/"
+    },
     {
       "titre": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
       "resume": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
