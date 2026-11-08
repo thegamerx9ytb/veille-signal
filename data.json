@@ -1,6 +1,78 @@
 {
-  "lastUpdate": "2026-11-08T16:54:32.357977+00:00",
+  "lastUpdate": "2026-11-08T20:55:56.997993+00:00",
   "items": [
+    {
+      "titre": "Elvis and Eminem rights holders are suing Suno",
+      "resume": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-08",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit"
+    },
+    {
+      "titre": "Apple is racing to make Siri more agentic",
+      "resume": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has de…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-08",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic"
+    },
+    {
+      "titre": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+      "resume": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the c…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-08",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy"
+    },
+    {
+      "titre": "Epic Games Launcher is coming to SteamOS",
+      "resume": "In October, Epic Games said that it was \"investigating\" making Fortnite compatible with Valve's Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-08",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos"
+    },
+    {
+      "titre": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
+      "resume": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-08",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/"
+    },
+    {
+      "titre": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
+      "resume": "SNL seems to have its knives out for tech executives.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-08",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/"
+    },
+    {
+      "titre": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+      "resume": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-08",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/"
+    },
+    {
+      "titre": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
+      "resume": "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-08",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/"
+    },
     {
       "titre": "There’s no slowing down media’s pivot-to-video 2.0",
       "resume": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the pressures of creating content for the internet, follow Mia Sato. The Stepback arrives in our subscribers' i…",
