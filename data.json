@@ -1,6 +1,168 @@
 {
-  "lastUpdate": "2026-11-08T20:55:56.997993+00:00",
+  "lastUpdate": "2026-11-09T15:26:09.449382+00:00",
   "items": [
+    {
+      "titre": "Here’s when the Black Friday sales start at Walmart, Target, and other retailers",
+      "resume": "Black Friday&#160;officially kicks off on November 27th, but if you plan to make that the only day you buy gifts this holiday season, you’re missing out. Several prominent retailers, including Best Buy and Walmart, are p…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-09",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/21569881/black-friday-deals-start-time-hours-cyber-monday-stores"
+    },
+    {
+      "titre": "Here are the price-matching policies for Best Buy, Walmart, and others",
+      "resume": "Nothing is more frustrating than buying a new pair of headphones or an OLED TV, only to find out you could have gotten it cheaper somewhere else a few days or weeks later. That’s why, to keep customers happy and prevent …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-09",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft"
+    },
+    {
+      "titre": "How to shop like a pro during Black Friday and Cyber Monday",
+      "resume": "Despite Amazon and other retailers filling the summer and fall months with more sales than ever before, Black Friday and Cyber Monday remain the biggest shopping days of the year. And, in recent years, the sale periods h…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-09",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/21587765/black-friday-cyber-monday-best-deals-how-to-find"
+    },
+    {
+      "titre": "Medium is launching a new note-taking app called TK",
+      "resume": "For the first time ever, Medium is becoming more than just a blogging platform. The company is launching a new app, called TK, that combines note taking and journaling with something resembling a private social network. …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-09",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1029676/medium-tk-notes-app"
+    },
+    {
+      "titre": "Musk says Tesla will refund some Cybertruck deposits, defends decision to end production",
+      "resume": "Elon Musk defended the company's decision to stop making the Cybertruck, which will go out of production in around 8 months.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-09",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/"
+    },
+    {
+      "titre": "Meet Drops, the new music app bringing back the fun of sharing songs with friends",
+      "resume": "The new music discovery app lets users scroll through 10-to-30-second snippets of songs, comment, and share with friends.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-09",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/09/meet-drops-the-new-music-app-bringing-back-the-fun-of-sharing-songs-with-friends/"
+    },
+    {
+      "titre": "Waymo robotaxis kept illegally passing school buses after software fix, feds say",
+      "resume": "The update to Waymo's self-driving system was rolled out nearly a year ago.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-09",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/"
+    },
+    {
+      "titre": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+      "resume": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-09",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/"
+    },
+    {
+      "titre": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
+      "resume": "Automattic aims to compete with likes of Lovable with Spacefast",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-09",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/"
+    },
+    {
+      "titre": "Ukraine dismantles crypto scam network that stole €4.3 million",
+      "resume": "Ukrainian law enforcement arrested four suspects in a case involving the theft of more than €4.3 million using a network of cryptocurrency investment scam call centers. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-09",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/ukraine-dismantles-crypto-scam-network-that-stole-43-million/"
+    },
+    {
+      "titre": "US bans MEXC crypto exchange over sanctions evasion, cybercrime links",
+      "resume": "The US Department of the Treasury has cut off the MEXC Global crypto exchange from the US financial system over sanctions evasion and links with cybercrime gangs. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-09",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/"
+    },
+    {
+      "titre": "FBI agent stole $2.5 million in crypto from hackers under investigation",
+      "resume": "A former FBI agent has pleaded guilty to stealing nearly $2.5 million from the wallets of fraud victims and nation-state hackers under investigation. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-09",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/"
+    },
+    {
+      "titre": "The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI.",
+      "resume": "AI agents are taking over routine governance, risk, and compliance tasks, forcing GRC professionals to rethink the skills needed to stay relevant. Anecdotes examines three essential skills for the AI-driven GRC workplace…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-09",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/"
+    },
+    {
+      "titre": "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety",
+      "resume": "Some people who set up a Keplr crypto wallet with their Google or Apple account have had money stolen by an attacker. Keplr uses a company called Web3Auth to run that Google and Apple sign-in. The attacker used a securit…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-09",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html"
+    },
+    {
+      "titre": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars",
+      "resume": "The login systems behind two car brands' mobile apps could be taken over completely, two security researchers found, allowing them to access any customer's account and, for an owner with a connected car, unlock the doors…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-09",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html"
+    },
+    {
+      "titre": "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More",
+      "resume": "A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough. That's one of the bigger stories this week. And it gets worse when the tools meant to keep systems updated or runni…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-09",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html"
+    },
+    {
+      "titre": "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia",
+      "resume": "The South Asian cyber espionage group known as Bitter (aka APT-C-08, APT-Q-37, Hazy Tiger, Orange Yali, T-APT-17, and TA397) has been observed targeting South Asian organizations with a previously unreported remote acces…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-09",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html"
+    },
+    {
+      "titre": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "resume": "In a memo to the company, Huang admitted that he had an affair.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-08",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
+    },
     {
       "titre": "Elvis and Eminem rights holders are suing Suno",
       "resume": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music …",
