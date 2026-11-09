@@ -1,6 +1,150 @@
 {
-  "lastUpdate": "2026-11-09T15:26:09.449382+00:00",
+  "lastUpdate": "2026-11-09T21:16:24.772684+00:00",
   "items": [
+    {
+      "titre": "You can grab three months of Game Pass Ultimate for under $20 per month",
+      "resume": "The price of Xbox Game Pass Ultimate has fluctuated between $20 and $30 per month over the last year, but you can get three months of the top plan for around $19 per month. At Newegg, using the coupon code BNWF2656 at ch…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-09",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1029998/game-pass-ultimate-three-months-lego-pokemon-pikachu-deal-sale"
+    },
+    {
+      "titre": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+      "resume": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-09",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2"
+    },
+    {
+      "titre": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+      "resume": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-09",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro"
+    },
+    {
+      "titre": "The global pledge to use AI for climate good is a cruel joke",
+      "resume": "At this point, reading through the latest splashy pledge to use AI for the good of the environment feels like downing a nonalcoholic beer. Admittedly, I'm suspicious from the onset. How can this be good? But I love beer …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-09",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31"
+    },
+    {
+      "titre": "YouTube streaming data returns to Billboard charts, ending major disagreement",
+      "resume": "YouTube will resume sharing streaming data with Billboard in 2027 after changes to the chart formula give more weight to free, ad-supported music streams.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-09",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/"
+    },
+    {
+      "titre": "Fervo now has $12B in orders for its geothermal power tech",
+      "resume": "Geothermal company Fervo is targeting natural gas as it brings down geothermal drilling costs at its 8.4 GW resource in Utah.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-09",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/"
+    },
+    {
+      "titre": "Meta releases Muse Ember, a new lightweight model for agent execution",
+      "resume": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-09",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/"
+    },
+    {
+      "titre": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+      "resume": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-09",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/"
+    },
+    {
+      "titre": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "resume": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-09",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/"
+    },
+    {
+      "titre": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "resume": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-09",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/"
+    },
+    {
+      "titre": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
+      "resume": "Hackers are actively exploiting the \"SSHole\" vulnerability (CVE-2026-123158) in OpenSSH to execute commands, steal credentials, and establish persistent access. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-09",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/"
+    },
+    {
+      "titre": "Binance denies data breach after alleged ShinyHunters claims",
+      "resume": "Binance, the world's largest crypto exchange, has denied claims of a new security breach made by a threat actor using the 'ShinyHunters' handle on a newly emerged underground cybercrime forum. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-11-09",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/"
+    },
+    {
+      "titre": "Russian cloud firm Beget rebuilds from scratch after data wiper attack",
+      "resume": "A data-wiping malware attack has forced Russian cloud services provider Beget to rebuild its cloud infrastructure from scratch, the company said. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-09",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/"
+    },
+    {
+      "titre": "France blames Iranian hackers for supermarket attacks that sparked fires",
+      "resume": "France has linked October cyberattacks that disrupted refrigeration systems at more than 700 supermarkets and other retail locations to Iranian state-backed hackers, saying the attacks caused food losses and sparked at l…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-09",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/"
+    },
+    {
+      "titre": "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware",
+      "resume": "Attackers used the Ethersphere project's own release automation to publish malicious versions of two of its tools for the Swarm decentralized storage network: bee-js 13.3.0 and Swarm Desktop 0.56.2. Both releases downloa…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-09",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html"
+    },
+    {
+      "titre": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
+      "resume": "An attacker broke into AWS accounts belonging to multiple Qubole customers between October 14 and October 26 and stole stored secrets and data, cloud security company Wiz said today. The attacker used credentials for an …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-09",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html"
+    },
     {
       "titre": "Here’s when the Black Friday sales start at Walmart, Target, and other retailers",
       "resume": "Black Friday&#160;officially kicks off on November 27th, but if you plan to make that the only day you buy gifts this holiday season, you’re missing out. Several prominent retailers, including Best Buy and Walmart, are p…",
