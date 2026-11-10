@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2026-11-10T00:31:07.829789+00:00",
+  "lastUpdate": "2026-11-10T14:27:26.029977+00:00",
   "items": [
+    {
+      "titre": "Adobe is going all in on agentic AI",
+      "resume": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and features announced …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-10",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates"
+    },
+    {
+      "titre": "Peak Design’s Roller Lite Carry-On is bigger on the inside — and cheaper, too",
+      "resume": "When we sampled Peak Design's Roller Pro last year, we loved almost everything about the camera gear powerhouse's first attempt at a proper suitcase. Everything, that is, except for the price. Back then, during its crowd…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-10",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1030186/peak-design-roller-lite-carry-on-review"
+    },
+    {
+      "titre": "Aura’s next color E Ink photo frame is smaller, cheaper, sharper, and more colorful",
+      "resume": "Aura just launched a smaller version of its color E Ink frame with a handful of improvements and a more affordable price. The new Aura Ink frame features a 10-inch E Ink panel that can display more colors at a higher pix…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-10",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1027926/aura-e-ink-digital-photo-frame-10-inch-price-availability"
+    },
+    {
+      "titre": "Anthropic targets $1.4 trillion IPO",
+      "resume": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share and according to the Wa…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-10",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion"
+    },
+    {
+      "titre": "Aura’s newest e-ink photo frame is even better and more affordable than its last",
+      "resume": "Aura is unveiling a new product: a 10-inch digital e-ink frame that can blend in seamlessly with printed photos.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-10",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/10/auras-newest-e-ink-photo-frame-is-even-better-and-more-affordable-than-its-last/"
+    },
+    {
+      "titre": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+      "resume": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-10",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/"
+    },
+    {
+      "titre": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+      "resume": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-10",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/"
+    },
+    {
+      "titre": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+      "resume": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-10",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
+    },
+    {
+      "titre": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+      "resume": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-10",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/"
+    },
+    {
+      "titre": "Google patches eighth Chrome zero-day exploited in attacks this year",
+      "resume": "Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-11-10",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/"
+    },
+    {
+      "titre": "Turla hackers use new Cereal malware to spy on govt Exchange servers",
+      "resume": "The Russian state-backed threat group Turla has been using a new malicious toolset called 'Cereal' to intercept emails on Microsoft Exchange servers at government organizations. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-10",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/"
+    },
+    {
+      "titre": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
+      "resume": "Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root privileges. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-10",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/"
+    },
+    {
+      "titre": "SAP patches ICM2SHELL and PROXYGATE maximum severity flaws",
+      "resume": "SAP patched 35 vulnerabilities in its November 2026 security updates, including four maximum-severity issues affecting its NetWeaver, Web Dispatcher, and Gateway software. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-10",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/"
+    },
+    {
+      "titre": "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers",
+      "resume": "The Russia-aligned state-sponsored threat actor known as Turla (aka Snake) is wielding a previously undocumented cyber espionage toolset called Cereal that's used to break into victims' Microsoft Exchange servers with an…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-10",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html"
+    },
+    {
+      "titre": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
+      "resume": "An iMessage flaw could let a remote attacker join a group chat and receive its messages, Apple said yesterday, and it released updates to fix it. The updates also fix a separate iMessage flaw that could let someone added…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-10",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html"
+    },
+    {
+      "titre": "Beyond the Alert: The Case for Rich Network Data",
+      "resume": "At some point your security will fail. This isn’t pessimism. It’s not because your team and tools aren’t sophisticated enough. It’s the reason we have detections in the first place. And, it’s why once we accept that prev…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-10",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html"
+    },
+    {
+      "titre": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
+      "resume": "An iOS sandbox escape published on GitHub lets an app read other apps' files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, and login credentials at risk of exposure to malicious apps, Binance wa…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-10",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html"
+    },
     {
       "titre": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
       "resume": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, E…",
