@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2026-11-10T18:27:20.730651+00:00",
+  "lastUpdate": "2026-11-10T22:06:42.089046+00:00",
   "items": [
+    {
+      "titre": "The PlayStation Plus PC app is shutting down next month",
+      "resume": "Sony is retiring the PlayStation Plus app for PC on December 10th. Sony says it will notify users directly about the shutdown. The app allowed PlayStation Plus Premium subscribers to stream certain games on PC, but accor…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-10",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down"
+    },
+    {
+      "titre": "Sony cancels live-service shooter Fairgames",
+      "resume": "Sony has canceled Fairgames, a heist game announced in 2023, according to Bloomberg. Fairgames had once been part of Sony's big planned push for PlayStation live service games, but the company ended up canceling some pla…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-10",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled"
+    },
+    {
+      "titre": "Oura is acquiring medical AI chatbot startup Counsel Health",
+      "resume": "Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an \"AI-native pri…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-10",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition"
+    },
+    {
+      "titre": "The VR Disney Plus app on Meta Quest now has 3D movies",
+      "resume": "Disney is bringing more than 60 3D movies to the Disney Plus app on Meta Quest. The movies will be available to Disney Plus subscribers as part of an updated Disney Plus app that's rolling out today. The 3D movies you ca…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-10",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies"
+    },
+    {
+      "titre": "X-energy gets green light to build its first small modular nuclear reactors",
+      "resume": "X-energy received a construction permit from the U.S. Nuclear Regulatory Commission to build four reactors in Texas.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-10",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/"
+    },
+    {
+      "titre": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+      "resume": "Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-10",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/"
+    },
+    {
+      "titre": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "resume": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-10",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/"
+    },
+    {
+      "titre": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "resume": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-10",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/"
+    },
+    {
+      "titre": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "resume": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-10",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"
+    },
+    {
+      "titre": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "resume": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-10",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/"
+    },
+    {
+      "titre": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
+      "resume": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-10",
+      "source": "Krebs on Security",
+      "lien": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/"
+    },
+    {
+      "titre": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
+      "resume": "Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-11-10",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/"
+    },
+    {
+      "titre": "Hackers exploit trusted AWS access to breach multiple cloud environments",
+      "resume": "A threat actor used compromised identity and access management (IAM) credentials for a Qubole big data platform's AWS account to access and exfiltrate data from multiple customers' AWS environments. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-10",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/"
+    },
+    {
+      "titre": "Microsoft releases Windows 10 KB5131096 extended security update",
+      "resume": "Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-10",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/"
+    },
+    {
+      "titre": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
+      "resume": "Nitori, a major Japanese furniture and home accessories retailer, discovered that an attacker accessed a system on its network and may have stolen 37.62 million customer records. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-10",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/"
+    },
+    {
+      "titre": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
+      "resume": "Three distinct threat activity clusters with shared infrastructure and malware code similarities have been observed targeting telecommunications providers, government organizations, military entities, research institutio…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-10",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html"
+    },
+    {
+      "titre": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
+      "resume": "French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild. The authentication bypass flaw, which does not yet have a CVE ident…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-11-10",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html"
+    },
+    {
+      "titre": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
+      "resume": "An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday. The attacker could also have seen requests being processed on…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-10",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html"
+    },
+    {
+      "titre": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
+      "resume": "A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with matching fixes for the 2.…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-10",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html"
+    },
     {
       "titre": "Google Fi is bringing back multiple cell network support for better coverage",
       "resume": "Google Fi is launching a new \"super network\" that can automatically switch users between two different 5G networks depending on which one has better connectivity. The feature is rolling out starting today on Pixel 9 and …",
