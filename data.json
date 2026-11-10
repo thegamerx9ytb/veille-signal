@@ -1,6 +1,114 @@
 {
-  "lastUpdate": "2026-11-09T21:16:24.772684+00:00",
+  "lastUpdate": "2026-11-10T00:31:07.829789+00:00",
   "items": [
+    {
+      "titre": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+      "resume": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, E…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-10",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai"
+    },
+    {
+      "titre": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+      "resume": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-09",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
+    },
+    {
+      "titre": "Here’s what Trump said he knew about Jensen Huang",
+      "resume": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-09",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference"
+    },
+    {
+      "titre": "What could China get from Jensen Huang?",
+      "resume": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. N…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-09",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang"
+    },
+    {
+      "titre": "Hotel giant Wyndham exposed customer data after app security lapse",
+      "resume": "Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any past unauthorized access.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-09",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/"
+    },
+    {
+      "titre": "The race is on to sue Nvidia",
+      "resume": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all …",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-09",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/"
+    },
+    {
+      "titre": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "resume": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-09",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/"
+    },
+    {
+      "titre": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+      "resume": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-09",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/"
+    },
+    {
+      "titre": "York University breach exposed personal information dating to 2007",
+      "resume": "York University has announced it suffered a cybersecurity incident in which a threat actor stole personal information people submitted through online forms. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-09",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/"
+    },
+    {
+      "titre": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
+      "resume": "N-able has taken its hosted N-central environments offline and urged on-premises customers to shut down their servers after a security researcher publicly disclosed more than 30 alleged zero-day vulnerabilities, includin…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-11-09",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/"
+    },
+    {
+      "titre": "SEGA newsletter data breach exposes 2.2 million email addresses",
+      "resume": "Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million newsletter subscribers. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-11-09",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/"
+    },
+    {
+      "titre": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
+      "resume": "Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, and research data. [...…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-11-09",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/"
+    },
     {
       "titre": "You can grab three months of Game Pass Ultimate for under $20 per month",
       "resume": "The price of Xbox Game Pass Ultimate has fluctuated between $20 and $30 per month over the last year, but you can get three months of the top plan for around $19 per month. At Newegg, using the coupon code BNWF2656 at ch…",
