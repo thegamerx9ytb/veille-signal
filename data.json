@@ -1,6 +1,150 @@
 {
-  "lastUpdate": "2026-11-10T14:27:26.029977+00:00",
+  "lastUpdate": "2026-11-10T18:27:20.730651+00:00",
   "items": [
+    {
+      "titre": "Google Fi is bringing back multiple cell network support for better coverage",
+      "resume": "Google Fi is launching a new \"super network\" that can automatically switch users between two different 5G networks depending on which one has better connectivity. The feature is rolling out starting today on Pixel 9 and …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-10",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1030979/google-fi-automatic-network-switching-pixel"
+    },
+    {
+      "titre": "The indie game community is in disarray over AI and Big Walk",
+      "resume": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-10",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai"
+    },
+    {
+      "titre": "Ableton Live 13 announced with a step sequencer, new drum synth, and more",
+      "resume": "Today, Ableton announced Live 13, which is expected to arrive in early 2027 with a slew of new features. Most of the changes are seemingly minor on paper, but when combined, they make for the biggest update to the digita…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-10",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1030846/ableton-live-13-announced-step-sequencer-looplet-daw"
+    },
+    {
+      "titre": "ChatGPT is getting verified AI ‘Business Agents’",
+      "resume": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesse…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-10",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub"
+    },
+    {
+      "titre": "Apple TV makes sign language interpretation a built-in accessibility feature",
+      "resume": "Apple TV's new accessibility feature lets viewers turn on sign language interpretation within supported titles.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-10",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/"
+    },
+    {
+      "titre": "Sundrop turns your endless baby photos into recaps, time-lapses and more — without AI",
+      "resume": "Sundrop is a new iPhone app that uses Apple's on-device AI to help parents rediscover their favorite photos and create keepsakes without uploading images to the cloud.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-10",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/"
+    },
+    {
+      "titre": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+      "resume": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-10",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/"
+    },
+    {
+      "titre": "Google broadens its AI hardware portfolio with two new specialized chips",
+      "resume": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-10",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/"
+    },
+    {
+      "titre": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+      "resume": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-10",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+    },
+    {
+      "titre": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+      "resume": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figur…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-10",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
+    },
+    {
+      "titre": "Ransomware recovery is now a client retention metric",
+      "resume": "Recovering from ransomware doesn't guarantee an MSP will retain its clients, especially when delays, poor communication, and unexpected costs undermine trust. Kaseya examines how disconnected recovery tools create these …",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-11-10",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/"
+    },
+    {
+      "titre": "Binance warns of iOS flaw that could leak crypto wallet secrets",
+      "resume": "Binance is warning about a vulnerability in Apple's iOS 26.7.1, 27.0.1, and 27.2 that could allow third-party apps to read private files stored by other apps, including cryptocurrency seed phrases, secret keys, and login…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-10",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/"
+    },
+    {
+      "titre": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
+      "resume": "A critical authentication bypass vulnerability in Xen Orchestra is being actively exploited in attacks that could grant administrator privileges and allow takeover of XCP-ng virtualization hosts. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-11-10",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/"
+    },
+    {
+      "titre": "Fireworks AI Breach Widens to Expose Customer Billing Data and Incomplete Model Weights",
+      "resume": "Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month&nbsp; uncovered further malicious activity, affecting account and billing information, alongside secrets, d…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-10",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html"
+    },
+    {
+      "titre": "Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America",
+      "resume": "The threat actor known as Blind Eagle has resurfaced with a new campaign targeting organizations in Latin America through judicial and administrative-themed phishing lures to deliver a remote access trojan (RAT) that sha…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-10",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html"
+    },
+    {
+      "titre": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
+      "resume": "Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant. The activity, observed by Huntress in October 2026, involves the…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-10",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html"
+    },
     {
       "titre": "Adobe is going all in on agentic AI",
       "resume": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and features announced …",
