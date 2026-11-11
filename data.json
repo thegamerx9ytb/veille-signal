@@ -1,6 +1,150 @@
 {
-  "lastUpdate": "2026-11-11T13:41:16.590576+00:00",
+  "lastUpdate": "2026-11-11T18:20:14.084520+00:00",
   "items": [
+    {
+      "titre": "The best early Black Friday deals you can already shop",
+      "resume": "The countdown to Black Friday is on, and the first discounts are starting to appear. Although the shopping holiday isn&#8217;t officially until November 27th, retailers are already dropping early deals on some of our fav…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-11",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026"
+    },
+    {
+      "titre": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+      "resume": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with wor…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-11",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability"
+    },
+    {
+      "titre": "Toyota’s Scion is back, starting with an American-made, 25-mph kei truck",
+      "resume": "Toyota is dusting off the Scion badge for a radically different mission. Rather than targeting youth-market hatchbacks, \"Scion by Toyota\" is being positioned as an experimental mobility incubator - and its first vehicle …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-11",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival"
+    },
+    {
+      "titre": "Loot boxes, influencers, and addictive features face an EU crackdown",
+      "resume": "Gaming, social media, and e-commerce platforms are facing a fresh wave of sweeping European Union rules that aim to make \"your online experience fairer.\" The newly proposed Digital Fairness Act (DFA) published by the EU …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-11",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection"
+    },
+    {
+      "titre": "Siri co-founder backs Helix for its voice ID tech",
+      "resume": "Helix said that its voice ID tech can run on an iPhone 13",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-11",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/"
+    },
+    {
+      "titre": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+      "resume": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-11",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/"
+    },
+    {
+      "titre": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+      "resume": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-11",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/"
+    },
+    {
+      "titre": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+      "resume": "Sales of $10B represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-11",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/"
+    },
+    {
+      "titre": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+      "resume": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-11",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/"
+    },
+    {
+      "titre": "Who Runs the Ransomware Group Qilin?",
+      "resume": "The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational sec…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-11-11",
+      "source": "Krebs on Security",
+      "lien": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/"
+    },
+    {
+      "titre": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
+      "resume": "Linux eBPF rootkits can hide malicious activity and evade traditional detection methods without loading kernel modules. Flare reveals how these techniques are spreading through underground forums, where threat actors are…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-11",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/"
+    },
+    {
+      "titre": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
+      "resume": "Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web services and AWS environments. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-11",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/"
+    },
+    {
+      "titre": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
+      "resume": "Maersk announced that a threat actor gained unauthorized access to a local legacy system inherited through an earlier acquisition and extracted data from it. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-11-11",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/"
+    },
+    {
+      "titre": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
+      "resume": "Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026. Cynet's CyOps and Research teams said they identifi…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-11",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html"
+    },
+    {
+      "titre": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
+      "resume": "Cybersecurity researchers have disclosed details of a campaign in which an emerging agentic penetration testing platform called AntiFox has been used to steal Amazon Web Services (AWS) credentials and pivot laterally int…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-11",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html"
+    },
+    {
+      "titre": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
+      "resume": "Zoom has released software updates to address two security flaws impacting Zoom Workplace for Windows, including a critical bug that could result in privilege escalation on affected systems. The vulnerabilities are liste…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-11",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html"
+    },
     {
       "titre": "Serve Robotics wants to democratize sidewalk delivery robots",
       "resume": "Serve Robotics is opening up its platform to make its autonomous last-mile delivery robots available to anyone who wants to use them. The company is launching a new AV Delivery Developer Portal, enabling third-party soft…",
