@@ -1,6 +1,114 @@
 {
-  "lastUpdate": "2026-11-11T18:20:14.084520+00:00",
+  "lastUpdate": "2026-11-11T23:15:34.212465+00:00",
   "items": [
+    {
+      "titre": "United won’t let your AI agent book your flight",
+      "resume": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wa…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-11",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents"
+    },
+    {
+      "titre": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
+      "resume": "Nabu Casa - the commercial side of the Open Home Foundation, which runs Home Assistant - just launched the Home Assistant Connect Aux-2, a multi-function box designed to help you bring more non-smart devices into your sm…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-11",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on"
+    },
+    {
+      "titre": "Nvidia is reportedly preparing to fire Jensen Huang",
+      "resume": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-11",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1031652/jensen-huang-rumor"
+    },
+    {
+      "titre": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
+      "resume": "Entering into the world of venture capital has never been easy, especially as a first-time fund manager. But it's especially daunting right now. Olaf Sakkers has spent the past five years proving that difficult doesn't m…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-11",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/"
+    },
+    {
+      "titre": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+      "resume": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-11",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/"
+    },
+    {
+      "titre": "How backlash and red tape continue to slow data centers post-Blue Wave",
+      "resume": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.&#160;Before those challenges even come into play, though, there&#82…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-11",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/"
+    },
+    {
+      "titre": "Meta is losing its longtime head of  infrastructure",
+      "resume": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-11",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/"
+    },
+    {
+      "titre": "Why the data center you dread might never even be built",
+      "resume": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.&#160;Before those challenges even come into play, though, there&#82…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-11",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/"
+    },
+    {
+      "titre": "Notion says Fireworks breach exposed customer AI chat transcripts",
+      "resume": "Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-11",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/"
+    },
+    {
+      "titre": "eMudhra revokes 8 more CA certificates after private key mishap",
+      "resume": "Certificate authority eMudhra has revoked eight additional intermediate CA certificates after an investigation into its recent certificate security incident found improper handling of private keys during the certificate-…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-11",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/"
+    },
+    {
+      "titre": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
+      "resume": "ConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer devices. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-11",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/"
+    },
+    {
+      "titre": "Baker Tilly notifies clients of data breach at third-party provider",
+      "resume": "The Baker Tilly Advisory Group is notifying clients that a data breach has compromised certain personal information about them and their dependents. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-11-11",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/"
+    },
     {
       "titre": "The best early Black Friday deals you can already shop",
       "resume": "The countdown to Black Friday is on, and the first discounts are starting to appear. Although the shopping holiday isn&#8217;t officially until November 27th, retailers are already dropping early deals on some of our fav…",
