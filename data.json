@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2026-11-10T22:06:42.089046+00:00",
+  "lastUpdate": "2026-11-11T13:41:16.590576+00:00",
   "items": [
+    {
+      "titre": "Serve Robotics wants to democratize sidewalk delivery robots",
+      "resume": "Serve Robotics is opening up its platform to make its autonomous last-mile delivery robots available to anyone who wants to use them. The company is launching a new AV Delivery Developer Portal, enabling third-party soft…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-11",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery"
+    },
+    {
+      "titre": "Not everyone is loving their new iPhone Duo",
+      "resume": "For most new relationships, two weeks probably isn't enough time to decide if you're ready for long-term commitment. But two weeks with a new phone? You probably know. The iPhone Duo launched just over two weeks ago, and…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-11",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1030398/iphone-duo-returns-screen-apps"
+    },
+    {
+      "titre": "I asked every TV manufacturer 17 questions about how they spy on you",
+      "resume": "Every TV company is spying on you, not just LG. Like other tech companies, they collect lots of information, and while some is necessary for products to work, not all of it is - and could include details you'd prefer to …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-11",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions"
+    },
+    {
+      "titre": "Streaming is still trying to be TikTok",
+      "resume": "At Skydance's first employee town hall after it acquired Warner Bros. Discovery in October, CEO David Ellison told staff that the company behind Paramount Plus and HBO Max was competing for people's attention with some o…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-11",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/streaming/1030864/streaming-skydance-paramount-disney-hulu-earnings-tiktok-short-form-video"
+    },
+    {
+      "titre": "X launches its own clipping feature to spur influencer engagement",
+      "resume": "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-11",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/"
+    },
+    {
+      "titre": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+      "resume": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-11",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/"
+    },
+    {
+      "titre": "Microsoft fixes Exchange sign-ins broken by Windows Server updates",
+      "resume": "Microsoft has fixed Outlook sign-in and mail delivery issues on Exchange Server systems after installing the October 2026 Windows Server security updates. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-11",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/"
+    },
+    {
+      "titre": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
+      "resume": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-11-11",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/"
+    },
+    {
+      "titre": "Microsoft fixes audio issues caused by September security updates",
+      "resume": "Microsoft says the November 2026 cumulative updates resolve USB audio issues plaguing Windows users who have installed security updates released since September. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-11",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/"
+    },
+    {
+      "titre": "N-able releases security hotfixes for zero-day vulnerabilities",
+      "resume": "N-able released hotfixes to address zero-day bugs affecting its N-central remote monitoring and management (RMM) platform, which were publicly disclosed over the weekend and forced it to take vulnerable hosted environmen…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-11-11",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/"
+    },
+    {
+      "titre": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
+      "resume": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws. These cover 726 flaws in Windows, …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-11",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html"
+    },
+    {
+      "titre": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
+      "resume": "The in-house Python script behind eMudhra's October key compromise has now cost the company 8 more of its intermediate certificate authorities (CAs), even though it did not weaken their keys. Each intermediate CA has its…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-11",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html"
+    },
+    {
+      "titre": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
+      "resume": "We tell customers three things about securing AI agents: they need their own identities, access that fits the job they’re given, and traceability that’s separate from any human’s. That was true for us at Token as well. T…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-11",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html"
+    },
+    {
+      "titre": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
+      "resume": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday. They included 24 apps built by staff at the social network X and at S…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-11",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html"
+    },
     {
       "titre": "The PlayStation Plus PC app is shutting down next month",
       "resume": "Sony is retiring the PlayStation Plus app for PC on December 10th. Sony says it will notify users directly about the shutdown. The app allowed PlayStation Plus Premium subscribers to stream certain games on PC, but accor…",
