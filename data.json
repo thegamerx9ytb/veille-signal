@@ -1,6 +1,105 @@
 {
-  "lastUpdate": "2026-11-12T18:40:19.674387+00:00",
+  "lastUpdate": "2026-11-12T22:31:55.237608+00:00",
   "items": [
+    {
+      "titre": "Here are the 25 original Xbox games you can now play on PC",
+      "resume": "For the 25th anniversary of Xbox, Microsoft is beginning to make good on its paid \"next-gen game preservation\" promise. Starting today, you can play 25 different original Xbox games on your Windows PC, as long as you hav…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-12",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/1032321/microsoft-xbox-original-games-pc-backwards-compatibility"
+    },
+    {
+      "titre": "The Oura Ring 4 is almost as good as the newer model, but $150 cheaper",
+      "resume": "The previous-generation Oura Ring 4 is on sale for as low as $249 at Amazon, Best Buy, and Target, $100 off the retail price, and the first big discount on the device since July. The price varies a bit by size and color,…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-12",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1032311/oura-ring-4-smart-ring-deal-sale"
+    },
+    {
+      "titre": "‘It&#8217;s a mistake for Nvidia to let Jensen resign’: reactions from tech leaders on Jensen Huang’s resignation",
+      "resume": "Nvidia announced this morning that Jensen Huang has resigned as CEO following reports of two affairs, including one with an alleged Chinese spy and one with a direct report. The situation surrounding Huang has unfolded q…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-12",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions"
+    },
+    {
+      "titre": "Google’s new Gemini model is better at understanding complicated questions",
+      "resume": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break do…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-12",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen"
+    },
+    {
+      "titre": "Jensen Huang was having a third affair, Reuters reports",
+      "resume": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-12",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/"
+    },
+    {
+      "titre": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "resume": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-12",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/"
+    },
+    {
+      "titre": "Muse can now place calls to U.S. businesses — if you pay",
+      "resume": "Muse's AI can now place outbound calls to US businesses — but it's not free.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-12",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/"
+    },
+    {
+      "titre": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
+      "resume": "A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE). [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-11-12",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/"
+    },
+    {
+      "titre": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
+      "resume": "Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed \"4EverAble2Shell\" to compromise servers and deploy cryptocurrency miners, with researchers reporting at least 21 affected s…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-11-12",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/"
+    },
+    {
+      "titre": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
+      "resume": "Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-12",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/"
+    },
+    {
+      "titre": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
+      "resume": "A new campaign dubbed 'wfx-loot' has unfolded on GitHub where threat actors used 4,837 compromised accounts to probe 61,764 repositories, open pull requests, and push secrets-stealing malware. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-12",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/"
+    },
     {
       "titre": "25 years later, Xbox is trying to reinvent itself again",
       "resume": "Microsoft has spent the past 25 years trying to shake up the game console market. The original Xbox, which launched on November 15th in 2001, took on an industry dominated by Sony and Nintendo. Twenty-five years later, X…",
