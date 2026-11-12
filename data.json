@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2026-11-11T23:15:34.212465+00:00",
+  "lastUpdate": "2026-11-12T14:44:57.338788+00:00",
   "items": [
+    {
+      "titre": "I tried Google’s AI glasses and Meta’s finally got real competition",
+      "resume": "It's a weird time to launch a new pair of smart glasses. These last few years, Meta has been the dominant player in pushing a fragile smart glasses resurgence. Unfortunately, its privacy reputation led to the \"pervert gl…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-12",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1031647/google-android-xr-warby-parker-gentle-monster-hands-on"
+    },
+    {
+      "titre": "The pricey new Apple TV 4K is still the best streamer around",
+      "resume": "I'm sitting in front of my TV, puppy nuzzled up next to me, with four HomePods spread around my living room - two flanking my TV and one at either end of my couch - connected to the brand new Apple TV 4K. Young Anakin Sk…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-12",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1031633/apple-tv-4k-4th-gen-review"
+    },
+    {
+      "titre": "I reviewed the Apple HomeView, ask me anything",
+      "resume": "Hi! I'm Jen Tuohy, The Verge's senior smart home reviewer. I've tested every smart display Amazon and Google have ever made, and for the past week I've been testing Apple's first: The $299 HomeView. I put the tabletop an…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-12",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything"
+    },
+    {
+      "titre": "Lego’s BrickLink marketplace has been offline for a week following ‘unusual activity’",
+      "resume": "Bricklink, a popular online marketplace that Lego bought in 2019 where fans can buy and sell parts and sets, has been down for a week and the company doesn't know when it will return. The team who runs the site has been …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-12",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1031889/lego-bricklink-marketplace-offline-unusual-activity"
+    },
+    {
+      "titre": "Nvidia’s Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO",
+      "resume": "Nvidia gets a new chief executive, days after former CEO Jensen Huang admitted to a romantic affair with an alleged Chinese spy.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-12",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/"
+    },
+    {
+      "titre": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "resume": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-12",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/"
+    },
+    {
+      "titre": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+      "resume": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the US.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-12",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/"
+    },
+    {
+      "titre": "The unfolding Jensen Huang scandal: a timeline",
+      "resume": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-12",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+    },
+    {
+      "titre": "Hackers plant GSocket on Linux servers for persistent access",
+      "resume": "Multiple threat actors are abusing GSocket, a legitimate open-source remote access tool, to maintain access to Linux servers even after patching the vulnerabilities exploited to gain initial access. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-12",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/"
+    },
+    {
+      "titre": "Microsoft confirms Windows security updates installation issues",
+      "resume": "Microsoft has confirmed reports that the November 2026 security updates are failing to install on Windows 11 systems with the October preview update. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-12",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/"
+    },
+    {
+      "titre": "Microsoft: Recent Windows updates cause SQL Server performance issues",
+      "resume": "Microsoft has confirmed that Windows updates released since the October 2026 Patch Tuesday are causing SQL Server performance and stability issues. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-12",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/"
+    },
+    {
+      "titre": "Apify rotates API tokens, prompts 2FA resets after breach",
+      "resume": "Apify has rotated critical internal secrets and revoked some third-party OAuth connections after detecting unauthorized access to its internal systems. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-12",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/"
+    },
+    {
+      "titre": "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign",
+      "resume": "Since mid-August 2026, a phishing operation has been stealing live Google sessions from corporate users. Every check defenders normally lean on to judge a link came back clean, and the operator designed it that way on pu…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-12",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html"
+    },
+    {
+      "titre": "New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access",
+      "resume": "N-able on Thursday said it's investigating a new public disclosure containing claims of additional vulnerabilities in on-premise versions of N-central running version 2026.4.1 HF2. \"Based on our initial review, the serve…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-12",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html"
+    },
+    {
+      "titre": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
+      "resume": "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what can they access? A s…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-12",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html"
+    },
+    {
+      "titre": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
+      "resume": "Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU side-channel flaws, Google said this week. The company has already applied mitigations against attacks between V…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-12",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html"
+    },
+    {
+      "titre": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "resume": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-11",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/"
+    },
     {
       "titre": "United won’t let your AI agent book your flight",
       "resume": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wa…",
