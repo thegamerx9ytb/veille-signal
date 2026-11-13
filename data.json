@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2026-11-13T14:02:32.556178+00:00",
+  "lastUpdate": "2026-11-13T18:21:02.129022+00:00",
   "items": [
+    {
+      "titre": "The new Apple TV has a YouTube problem",
+      "resume": "People who received the brand new Apple TV 4k today saw some strange error messages as soon as they opened the YouTube app. As the first units arrived, the app was initially only showing a black screen with a QR code and…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-13",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error"
+    },
+    {
+      "titre": "The smallest version of Camp Snap’s retro digital camcorder fits on your keychain",
+      "resume": "Last week, Camp Snap launched a miniaturized version of its screen-free CS-8 video camera that was half the size of the original with a smaller grip designed to be easier for kids to hold. But it turns out the company wa…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-13",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1033026/camp-snap-retro-digital-video-campcorder-cs-8-micro-keychain"
+    },
+    {
+      "titre": "Jensen Huang was reckless with the environment, too",
+      "resume": "Under cofounder Jensen Huang, Nvidia has become the engine for the AI boom - and one of the tech industry's biggest environmental liabilities. Its sought-after chips have triggered a new wave of water- and chemical-inten…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-13",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution"
+    },
+    {
+      "titre": "You can adjust the position of the trackball on Keychron’s new wireless mouse",
+      "resume": "The Nape Pro was Keychron's first trackball device that was introduced at CES 2026 with a slim and compact design allowing it to be positioned right up against a keyboard. The company's new T1 HE instead looks more like …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-13",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable"
+    },
+    {
+      "titre": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
+      "resume": "The ride-sharing giant said driver's license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
+      "categorie": "Technologie",
+      "importance": "Critique",
+      "date": "2026-11-13",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/"
+    },
+    {
+      "titre": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "resume": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-13",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/"
+    },
+    {
+      "titre": "The unfolding Jensen Huang scandal: a timeline",
+      "resume": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-13",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+    },
+    {
+      "titre": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "resume": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-13",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
+    },
+    {
+      "titre": "How one AI agent exposed five critical enterprise security gaps",
+      "resume": "An AI agent built to automate invoice processing could be manipulated into changing vendor bank details through a malicious email, without triggering traditional security alerts. Token Security examines five critical AI …",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-13",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/"
+    },
+    {
+      "titre": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
+      "resume": "Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-13",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/"
+    },
+    {
+      "titre": "German military drone operations disrupted by cyberattack",
+      "resume": "German defense technology company Quantum Systems confirmed that it detected an incident in late October that was part of an active cyberattack by \"hostile actors.\" [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-13",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/"
+    },
+    {
+      "titre": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases",
+      "resume": "Three Trezor Safe 5 wallets bought from the reseller CryptoBilis contain an implant, an extra circuit board that can copy their recovery phrases, hardware wallet maker Trezor said yesterday. The implant reads the phrase …",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-13",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html"
+    },
+    {
+      "titre": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
+      "resume": "The U.S. Federal Bureau of Investigation (FBI) has established that threat actors tied to the Democratic People's Republic of Korea (DPRK aka North Korea) have stolen more than $400 million worth of cryptocurrency as par…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-13",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html"
+    },
+    {
+      "titre": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
+      "resume": "Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual machines (VMs), which are built to keep the server's operator out. One of them, Mior, can also modify a VM's memo…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-13",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html"
+    },
+    {
+      "titre": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
+      "resume": "A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server. Updates released yesterday fix it, along with 51 other security flaws. Full protection from this flaw also requires …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-13",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html"
+    },
     {
       "titre": "Let’s talk about Jensen Huang’s many affairs!",
       "resume": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's …",
