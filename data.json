@@ -1,6 +1,69 @@
 {
-  "lastUpdate": "2026-11-13T22:20:38.252976+00:00",
+  "lastUpdate": "2026-11-14T13:04:47.962445+00:00",
   "items": [
+    {
+      "titre": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
+      "resume": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety.\" More than four hours after the s…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-14",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/news/1033489/faa-ground-stop"
+    },
+    {
+      "titre": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "resume": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers a…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-14",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo"
+    },
+    {
+      "titre": "A gadget to make your dumb house smarter",
+      "resume": "Hi, friends! Welcome to Installer No. 152, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for taking time away from Zelda to be here, and also you can read all the old e…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-14",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer"
+    },
+    {
+      "titre": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+      "resume": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-14",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html"
+    },
+    {
+      "titre": "Amazon has a plan to index the world’s online shopping data",
+      "resume": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, cal…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-13",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
+    },
+    {
+      "titre": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+      "resume": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-13",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/"
+    },
+    {
+      "titre": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "resume": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-13",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+    },
     {
       "titre": "Here’s how you can save on your GTA VI preorder ahead of launch",
       "resume": "The long-awaited launch of GTA VI is around the corner, happening next Friday, November 19th. While discounts on the game itself will be rare for some time, there’s a clever workaround to save you a few bucks on your dig…",
