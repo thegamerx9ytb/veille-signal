@@ -1,6 +1,69 @@
 {
-  "lastUpdate": "2026-11-14T16:50:03.330538+00:00",
+  "lastUpdate": "2026-11-14T21:03:22.540958+00:00",
   "items": [
+    {
+      "titre": "Work to replace old copper wire led to the FAA’s ground stop",
+      "resume": "At a press conference today, Transportation Secretary Sean Duffy said that Friday's nationwide ground stop ordered by the FAA was related to work replacing outdated copper wire with a fiber optic line at a \"remote FAA fa…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-14",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire"
+    },
+    {
+      "titre": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
+      "resume": "\"It's really happening. I promise. For real.\" Those are the first words from Roy Graham, Head of Story at Magic: The Gathering, in a video posted yesterday announcing Planeswalker, the animated series heading to Netflix …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-14",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series"
+    },
+    {
+      "titre": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+      "resume": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-14",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/"
+    },
+    {
+      "titre": "Got an iPhone Duo? These 9 settings make it easier to use",
+      "resume": "From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-14",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/"
+    },
+    {
+      "titre": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+      "resume": "Even Elon Musk said the monthly fee is \"too high.\"",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-14",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/"
+    },
+    {
+      "titre": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "resume": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-14",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+    },
+    {
+      "titre": "Cursor confirms security breach led to malicious Claude Code extension",
+      "resume": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-14",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/"
+    },
     {
       "titre": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
       "resume": "As much as I appreciate the ingenious design of the Nintendo Switch's Joy-Con, my family and I can't stand using them as standalone gamepads. So when we travel with the Switch 2, we always bring at least one full-size ga…",
