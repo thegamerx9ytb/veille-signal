@@ -1,6 +1,60 @@
 {
-  "lastUpdate": "2026-11-14T13:04:47.962445+00:00",
+  "lastUpdate": "2026-11-14T16:50:03.330538+00:00",
   "items": [
+    {
+      "titre": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
+      "resume": "As much as I appreciate the ingenious design of the Nintendo Switch's Joy-Con, my family and I can't stand using them as standalone gamepads. So when we travel with the Switch 2, we always bring at least one full-size ga…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-14",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on"
+    },
+    {
+      "titre": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
+      "resume": "Tesla is doubling, or perhaps tripling down on its bold claims of an autonomous future with the offer to \"select customers\" to purchase a Cybercab for \"personal use.\" But the gilded, steering-wheel-free two-seater will \"…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-14",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print"
+    },
+    {
+      "titre": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+      "resume": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known fi…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-14",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
+    },
+    {
+      "titre": "Here are our favorite deals from REI’s giant Holiday Sale",
+      "resume": "Black Friday has become a shopping season of its own, with retailers once again offering discounts well ahead of the actual shopping holiday. We’ve already rounded up some of the best early Black Friday deals we’ve come …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-14",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026"
+    },
+    {
+      "titre": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "resume": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-14",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
+    },
+    {
+      "titre": "US disrupts North Korean campaign behind $400 million crypto theft",
+      "resume": "The U.S. government has disrupted a North Korean social engineering campaign called 'FaceStealer', responsible for stealing more than $400 million in cryptocurrency. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-14",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/"
+    },
     {
       "titre": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
       "resume": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety.\" More than four hours after the s…",
