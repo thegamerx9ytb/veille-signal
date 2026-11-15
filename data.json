@@ -1,6 +1,60 @@
 {
-  "lastUpdate": "2026-11-14T21:03:22.540958+00:00",
+  "lastUpdate": "2026-11-15T13:33:32.919780+00:00",
   "items": [
+    {
+      "titre": "An overview of Jensen Huang’s messy days",
+      "resume": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepba…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-15",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation"
+    },
+    {
+      "titre": "Where was Nvidia’s security team?",
+      "resume": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intellig…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-15",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
+    },
+    {
+      "titre": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
+      "resume": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI. \"An attacker ob…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-15",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html"
+    },
+    {
+      "titre": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
+      "resume": "Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post. The Garante, Italy's data protection authority, found that …",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-15",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html"
+    },
+    {
+      "titre": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+      "resume": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed 'chopstick' catches of its …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-14",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch"
+    },
+    {
+      "titre": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "resume": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-14",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+    },
     {
       "titre": "Work to replace old copper wire led to the FAA’s ground stop",
       "resume": "At a press conference today, Transportation Secretary Sean Duffy said that Friday's nationwide ground stop ordered by the FAA was related to work replacing outdated copper wire with a fiber optic line at a \"remote FAA fa…",
