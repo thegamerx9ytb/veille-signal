@@ -1,6 +1,69 @@
 {
-  "lastUpdate": "2026-11-15T13:33:32.919780+00:00",
+  "lastUpdate": "2026-11-15T17:32:19.798915+00:00",
   "items": [
+    {
+      "titre": "LG’s budget-friendly B6E OLED TV is up to 50 percent off this weekend",
+      "resume": "LG&#8217;s B6E was already one of the most affordable OLED TVs you could buy, but it&#8217;s an even better deal now that it’s included as part of Best Buy’s latest doorbuster event. Now through the end of today, Novembe…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-15",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1033432/lg-b6e-oled-tv-best-buy-doorbuster-black-friday-2026-deal-sale"
+    },
+    {
+      "titre": "Rachelle Hampton won’t admit how long she spent charting the use of ‘murmur’ in Twilight",
+      "resume": "Rachelle Hampton is a writer and co-owner at Defector Media, and the host of Normal Gossip, a podcast of anonymous listener-submitted stories about everyday drama. Whether that's lies about luxury wool in a literal knitt…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-15",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/1033895/rachelle-hampton-normal-gossip-interview"
+    },
+    {
+      "titre": "Apple’s first smart glasses are coming together",
+      "resume": "Apple's smart glasses are among the worst-kept secrets in the tech world. Bloomberg's Mark Gurman says the company's first model, which will lack augmented reality features, will be announced at June's WWDC next year. Th…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-15",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together"
+    },
+    {
+      "titre": "Fanttik’s S1 Pro electric screwdriver is $40 off in the run-up to Black Friday",
+      "resume": "Amazon’s early Black Friday promos are already underway, and we’ll be highlighting some of our favorites over the next few days on our Shopping page. Among them is the Fanttik S1 Pro Cordless Electric Screwdriver, which …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-15",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1033620/fantikk-s1-pro-electric-screwdriver-black-friday-2026-deal-sale"
+    },
+    {
+      "titre": "The tech products we enthusiastically recommend this holiday season",
+      "resume": "We've been reviewing a bunch of new gadgets at TechCrunch this year, and we have some clear favorites to share for your Black Friday shopping and beyond.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-15",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/"
+    },
+    {
+      "titre": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
+      "resume": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-15",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/"
+    },
+    {
+      "titre": "TSMC employee data breach linked to cloud provider",
+      "resume": "Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information allegedly stolen from the company up for auction. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-11-15",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/"
+    },
     {
       "titre": "An overview of Jensen Huang’s messy days",
       "resume": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepba…",
