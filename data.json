@@ -1,6 +1,60 @@
 {
-  "lastUpdate": "2026-11-15T17:32:19.798915+00:00",
+  "lastUpdate": "2026-11-15T21:26:02.647512+00:00",
   "items": [
+    {
+      "titre": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "resume": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced supp…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-15",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china"
+    },
+    {
+      "titre": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "resume": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-15",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed"
+    },
+    {
+      "titre": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+      "resume": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit. Leo is Amazon's competitor to SpaceX's Starlink, but it has…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-15",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites"
+    },
+    {
+      "titre": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
+      "resume": "A new Kickstarter campaign aims to usher in the “return of the human internet.”",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-15",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/"
+    },
+    {
+      "titre": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+      "resume": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-15",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/"
+    },
+    {
+      "titre": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+      "resume": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that comprom…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-15",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/"
+    },
     {
       "titre": "LG’s budget-friendly B6E OLED TV is up to 50 percent off this weekend",
       "resume": "LG&#8217;s B6E was already one of the most affordable OLED TVs you could buy, but it&#8217;s an even better deal now that it’s included as part of Best Buy’s latest doorbuster event. Now through the end of today, Novembe…",
