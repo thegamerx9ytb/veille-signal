@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2026-11-15T21:26:02.647512+00:00",
+  "lastUpdate": "2026-11-16T15:01:23.307650+00:00",
   "items": [
+    {
+      "titre": "Google Maps can now create trip itineraries for you",
+      "resume": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to the Gemini-powered A…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-16",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning"
+    },
+    {
+      "titre": "Audible is trying to make it easier to find audiobooks you’ll actually like",
+      "resume": "Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it. The new audio discovery feature combines au…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-16",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability"
+    },
+    {
+      "titre": "America’s air traffic control system couldn’t handle a single bad router",
+      "resume": "Thirty minutes outside Atlanta, the pilot got on the intercom to announce that something was wrong. A communications issue with the Federal Aviation Administration was cascading across the country. The pilot didn't offer…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-16",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/1034039/faa-aviation-glitch-meltdown-ground-stop"
+    },
+    {
+      "titre": "Apple TV is getting video podcasts you can watch for free",
+      "resume": "Apple's streaming service will soon have a video podcasts section, the New York Times reports. It will start testing the feature in a developer release today, so expect a new update for iOS 27.3 beta testers to roll out …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-16",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/1034168/apple-tv-video-podcasts"
+    },
+    {
+      "titre": "Bedrock Energy raises $24M to build more AI-enabled geothermal drill rigs for enterprise buildings",
+      "resume": "Geothermal heat pumps could free up significant space on the grid. Bedrock Energy raised $24 million to bring its AI-guided drill rigs to more markets.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-16",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/16/bedrock-energy-raises-24m-to-build-more-ai-enabled-geothermal-drill-rigs-for-enterprise-buildings/"
+    },
+    {
+      "titre": "After dodging death, battery startup Our Next Energy is now going public",
+      "resume": "Our Next Energy is the latest battery startup to go public via SPAC. Does it now have what it needs to survive in a the cutthroat battery industry?",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-16",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/16/after-dodging-death-battery-startup-our-next-energy-is-now-going-public/"
+    },
+    {
+      "titre": "Mazama Energy has a solution for geothermal’s biggest drilling problem",
+      "resume": "Khosla-backed Mazama Energy has developed a new way to supercool its geothermal drill bits, letting it drill faster and deeper in a quest to bring down the cost of electricity.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-16",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/16/mazama-energy-has-a-solution-for-geothermals-biggest-drilling-problem/"
+    },
+    {
+      "titre": "Apple launches new app to study how people use AI for health",
+      "resume": "Apple's new app for a study will answer everyday medical questions",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-16",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/"
+    },
+    {
+      "titre": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+      "resume": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-16",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/"
+    },
+    {
+      "titre": "Google Maps can now build trip itineraries with real-time details about each stop",
+      "resume": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-16",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/"
+    },
+    {
+      "titre": "Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs",
+      "resume": "Anthropic recently rolled out Claude Mythos 5.2 to selected partners and Fable 5.2 to regular users, with improvements to coding and reasoning. But we also noticed some interesting cybersecurity changes. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-16",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/"
+    },
+    {
+      "titre": "Australian retail giant Coles investigates cybersecurity incident",
+      "resume": "Coles Group Limited, Australia's second-largest retailer, is investigating what it described as a \"cyber security incident\" that has not impacted the company's stores. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-16",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/"
+    },
+    {
+      "titre": "Microsoft: Windows Server 2016 reaches end of support in 60 days",
+      "resume": "Microsoft has reminded customers again that Windows Server 2016 will stop receiving security updates after it reaches the end of support in two months. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-16",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/"
+    },
+    {
+      "titre": "Google warns that fully-automated AI attacks are coming soon",
+      "resume": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine speed. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-16",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/"
+    },
+    {
+      "titre": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
+      "resume": "Attackers' AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside, according to the agents' own records. The records, which A…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-16",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html"
+    },
+    {
+      "titre": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
+      "resume": "A financially motivated threat activity cluster tracked as REF3364 has been attributed to a Linux-focused cryptocurrency mining operation that tampers with the readings used to detect high GPU workloads. Central to the i…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-16",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html"
+    },
+    {
+      "titre": "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware",
+      "resume": "Cybersecurity researchers have disclosed details of a new variant of CoffeeLoader, a malware designed to deliver additional payloads to infected machines. \"On launch, the NSIS-based installer executable dropped a file na…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-16",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html"
+    },
+    {
+      "titre": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
+      "resume": "Six flaws in Danfoss AK-SM800A refrigeration controllers could let a remote attacker take over a controller without logging in, Dutch security consultancy Midnight Blue said earlier this week. No patch is available, and …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-16",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html"
+    },
+    {
+      "titre": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "resume": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-15",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/"
+    },
     {
       "titre": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
       "resume": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced supp…",
