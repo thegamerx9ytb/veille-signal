@@ -1,6 +1,150 @@
 {
-  "lastUpdate": "2026-11-16T15:01:23.307650+00:00",
+  "lastUpdate": "2026-11-16T20:47:25.858320+00:00",
   "items": [
+    {
+      "titre": "Big Nuclear isn’t worried about the Democrats stopping data centers",
+      "resume": "Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call la…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-16",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats"
+    },
+    {
+      "titre": "Some of our favorite PlayStation games are steeply discounted for Black Friday",
+      "resume": "Black Friday is approaching, and some companies are already rolling out the discounts ahead of the big day. If you’re hunting for PlayStation 5 accessories, we’ve already rounded up some of our favorite controllers and h…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-16",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1034339/sony-black-friday-game-sale-2026-deals"
+    },
+    {
+      "titre": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+      "resume": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own c…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-16",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor"
+    },
+    {
+      "titre": "California sues OpenAI over rogue AI hacking incidents",
+      "resume": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit on Monday, Attorney General Rob Bonta accuses OpenAI of violating con…",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-11-16",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
+    },
+    {
+      "titre": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID",
+      "resume": "Apple's latest iOS 27.3 developer beta introduces a limited face unlock feature for the iPhone Duo, alongside other improvements.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-16",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/"
+    },
+    {
+      "titre": "Uber says hackers stole information on close to 150,000 driver’s licenses during data breach",
+      "resume": "The ridesharing giant said drivers' license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
+      "categorie": "Technologie",
+      "importance": "Critique",
+      "date": "2026-11-16",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/"
+    },
+    {
+      "titre": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
+      "resume": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Élevé",
+      "date": "2026-11-16",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/"
+    },
+    {
+      "titre": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+      "resume": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-16",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/"
+    },
+    {
+      "titre": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+      "resume": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-16",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/"
+    },
+    {
+      "titre": "California state AG sues OpenAI over rogue agent incidents",
+      "resume": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-16",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"
+    },
+    {
+      "titre": "7 Tips For Complying with CJIS Password and MFA Requirements",
+      "resume": "The FBI's latest CJIS Security Policy requires law enforcement agencies to strengthen password protections and enforce MFA across privileged and non-privileged accounts. Specops Software outlines seven practical steps to…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-16",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/"
+    },
+    {
+      "titre": "Fandango says hackers stole payment card details from checkout pages",
+      "resume": "Ticket seller Fandango Media is notifying customers about a data breach that exposed payment card details entered on its checkout pages. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-11-16",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/"
+    },
+    {
+      "titre": "Microsoft says months-old bug caused global Microsoft 365 outage",
+      "resume": "Microsoft says a software bug introduced in July caused last week's worldwide Microsoft 365 outage, triggering a cascading failure that left more than 80% of its networking gateway servers unresponsive. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-16",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/"
+    },
+    {
+      "titre": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
+      "resume": "Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-16",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/"
+    },
+    {
+      "titre": "⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
+      "resume": "A default password opened doors it never should have. A trusted update delivered malware. Even a security feature became a way to break in. Different stories, same problem: the things meant to protect us aren't always do…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-16",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html"
+    },
+    {
+      "titre": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
+      "resume": "Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN, CyberStrikeAI, …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-16",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html"
+    },
     {
       "titre": "Google Maps can now create trip itineraries for you",
       "resume": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to the Gemini-powered A…",
