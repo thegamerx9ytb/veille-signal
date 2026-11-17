@@ -1,6 +1,114 @@
 {
-  "lastUpdate": "2026-11-17T19:34:27.544325+00:00",
+  "lastUpdate": "2026-11-17T23:42:38.221170+00:00",
   "items": [
+    {
+      "titre": "iFixit’s Apple HomeView teardown reveals a device that will be difficult to repair",
+      "resume": "After finding recent versions of Apple's iPads and HomePods much easier to disassemble for battery replacements or other repairs, iFixit assumed it would be the same story for Apple's new HomeView hub that looks like a s…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-17",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub"
+    },
+    {
+      "titre": "Read everything that Nvidia’s board chair had to say about Jensen Huang",
+      "resume": "Nvidia's quarterly earnings call on Tuesday was its first with CFO and interim CEO Colette Kress at the helm alongside the company's first board chair, Harvey C. Jones. The leadership change followed Jensen Huang's resig…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-17",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang"
+    },
+    {
+      "titre": "Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond",
+      "resume": "Robert Pattinson's casting as James Bond made enough sense given his recent work with director Denis Villeneuve, who's making the franchise's next film over at Amazon. But it turns out that Amazon founder Jeff Bezos play…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-17",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon"
+    },
+    {
+      "titre": "Satya Nadella says he’s AGI-pilled now",
+      "resume": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make changes to the structure of the economy and how politics might change because of it. \"I am AGI pilled in the sense that at an …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-17",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now"
+    },
+    {
+      "titre": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "resume": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-17",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/"
+    },
+    {
+      "titre": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+      "resume": "The former CEO offered to return to his top role at the company after his resignation last week.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-17",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/"
+    },
+    {
+      "titre": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+      "resume": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-17",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/"
+    },
+    {
+      "titre": "Nvidia is abandoning China after Jensen Huang’s ouster",
+      "resume": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-17",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/"
+    },
+    {
+      "titre": "Japan takes Fugaku supercomputer offlline after cyberattack",
+      "resume": "The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-17",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/"
+    },
+    {
+      "titre": "Cloud keys leaked in Docker Hub images are stolen within seconds",
+      "resume": "Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of publication. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-17",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/"
+    },
+    {
+      "titre": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
+      "resume": "A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, including Jenkins, Atlassian…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-11-17",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/"
+    },
+    {
+      "titre": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
+      "resume": "A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security company. Widgets are small interactive blocks that bots send in…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-17",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html"
+    },
     {
       "titre": "Amflow’s new urban e-bike series is deliciously overpowered for flat city streets",
       "resume": "DJI spinoff Amflow has spent the last couple of years shaking up the electric mountain bike (eMTB) market with ridiculously high-torque, lightweight models. Today, it's bringing that same overengineered energy to pavemen…",
