@@ -1,6 +1,105 @@
 {
-  "lastUpdate": "2026-11-16T20:47:25.858320+00:00",
+  "lastUpdate": "2026-11-17T00:37:42.806880+00:00",
   "items": [
+    {
+      "titre": "In Get Huge, the manosphere is here to make friends — with deadly consequences",
+      "resume": "Before Clavicular and other manosphere streamers were introducing young guys to the concept of breaking their facial bones to become more attractive, there was an older generation of creators building massive followings …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-16",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death"
+    },
+    {
+      "titre": "United Airlines system outage disrupts departures just days after the big ground stop",
+      "resume": "Less than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nationwide, United Airlines departing flights are being disrupted by an outage. The airline has said it is…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-16",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures"
+    },
+    {
+      "titre": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+      "resume": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board w…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-16",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories"
+    },
+    {
+      "titre": "Hacker behind 2022 GTA VI leaks pleads guilty",
+      "resume": "Arion Kurtaj, a member of the Lapsus$ cybercrime group who leaked 90 videos of Grand Theft Auto VI in 2022 and hacked other big companies, pleaded guilty on Monday, according to the UK's Crown Prosecution Service (CPS). …",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-11-16",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj"
+    },
+    {
+      "titre": "Apple reveals new Mac security controls as AI agents raise privacy risks",
+      "resume": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-16",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/"
+    },
+    {
+      "titre": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
+      "resume": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-11-16",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/"
+    },
+    {
+      "titre": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+      "resume": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number o…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-16",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/"
+    },
+    {
+      "titre": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "resume": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-16",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"
+    },
+    {
+      "titre": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
+      "resume": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents t…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-16",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/"
+    },
+    {
+      "titre": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
+      "resume": "Google Project Zero will replace its \"90+30\" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-16",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/"
+    },
+    {
+      "titre": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
+      "resume": "Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increasingly restrictive security controls designed to prevent them from acc…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-16",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/"
+    },
     {
       "titre": "Big Nuclear isn’t worried about the Democrats stopping data centers",
       "resume": "Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call la…",
