@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2026-11-17T00:37:42.806880+00:00",
+  "lastUpdate": "2026-11-17T15:36:43.601710+00:00",
   "items": [
+    {
+      "titre": "Get ready for a nationwide emergency alert test at 2:20PM ET today",
+      "resume": "Radio and TV broadcasts will be interrupted for about one minute at 2:20PM ET today while FEMA and the FCC test the country's Emergency Alert System. Unlike recent communications outages, this is a planned interruption t…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-17",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1035257/fema-fcc-emergency-alert-system-test-2026"
+    },
+    {
+      "titre": "This E Ink photo frame can double as your family’s digital dashboard",
+      "resume": "Trmnl, a company best known for its highly customizable E Ink dashboards that can function as anything from a desktop calendar to a stock tracker, has introduced a new display that's also well suited for showing artwork …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-17",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1035258/trmnl-e-ink-spectra-6-frame-dashboard-display-poster-photos"
+    },
+    {
+      "titre": "The aliens are coming in 3 Body Problem’s first season 2 trailer",
+      "resume": "The first season of Netflix's 3 Body Problem series ended with the remaining members of the Oxford Five disillusioned at the idea of humanity being utterly unprepared to deal with the San-Ti's arrival on Earth. But in th…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-17",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/streaming/1035221/3-body-problem-season-two-trailer-premiere-date-netflix"
+    },
+    {
+      "titre": "Kalshi moves into a new kind of gambling: the stock market",
+      "resume": "Kalshi is getting ready to offer stock trading on its platform, according to reports from The Wall Street Journal and CNBC. The company reportedly plans to use its acquisition of broker FB Securities to launch equities a…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-17",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/business/1035366/kalshi-stock-trading"
+    },
+    {
+      "titre": "Instagram’s new tool for creators targets unauthorized reposts and AI-modified videos",
+      "resume": "The announcement likely comes in response to creators' concerns over how easily original content can be copied and redistributed across social media platforms, especially considering how generative AI has made it easier …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-17",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/17/instagrams-new-tool-for-creators-targets-unauthorized-reposts-and-ai-modified-videos/"
+    },
+    {
+      "titre": "Meta launches Direct, a standalone messaging app for Instagram",
+      "resume": "Direct is launching in Turkey and Thailand, and can be used with or without an Instagram account.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-17",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/17/meta-launches-direct-a-standalone-messaging-app-for-instagram/"
+    },
+    {
+      "titre": "Uber and Zipline’s drone delivery service takes off in Texas, with dozens of cities to follow",
+      "resume": "The two companies want to make one million deliveries per day using Zipline drones by the end of 2029.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-17",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/17/uber-and-ziplines-drone-delivery-service-takes-off-in-texas-with-dozens-of-cities-to-follow/"
+    },
+    {
+      "titre": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
+      "resume": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-17",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/"
+    },
+    {
+      "titre": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+      "resume": "Science Corp raised a $400 million Series D to scale up its anti-blindness business.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-17",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/"
+    },
+    {
+      "titre": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+      "resume": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 Billion in a Series C funding round.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-17",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/"
+    },
+    {
+      "titre": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+      "resume": "Planning a trip is a favorite demo for personal AI assistants: you can try it with Muse, or with Gemini or half a dozen other choices. But while most pitches use travel-planning as part of a general-purpose agent pitch, …",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-17",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/"
+    },
+    {
+      "titre": "Uber notifies drivers of data breach affecting nearly 150,000 people",
+      "resume": "Ride-hailing company Uber is notifying nearly 150,000 drivers that attackers stole their data after breaching AI infrastructure provider Fireworks in early October. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-11-17",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/"
+    },
+    {
+      "titre": "Court clears brothers of $25 million Ethereum crypto heist charges",
+      "resume": "US District Judge Jessica Clarke has acquitted two brothers accused of stealing $25 million in cryptocurrency in about 12 seconds through a scheme that exploited a bug in the Ethereum blockchain. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-17",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/"
+    },
+    {
+      "titre": "Microsoft testing Remote Lock for lost or stolen Windows devices",
+      "resume": "Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-17",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/"
+    },
+    {
+      "titre": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
+      "resume": "Huntress researchers break down how EvilTokens, Knight Office, and Kali365 capture and replay M365 tokens, plus how defenders can detect and contain them. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-17",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/"
+    },
+    {
+      "titre": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks",
+      "resume": "Apple on Monday introduced new controls that allow Mac users to give more granular access to data they give to apps, including those that use artificial intelligence (AI) agents. The changes, currently previewed in macOS…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-17",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html"
+    },
+    {
+      "titre": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels",
+      "resume": "Government sectors in Asia and Africa have been targeted by an active cyber intrusion campaign that delivers to previously undocumented backdoors that leverage legitimate services like Microsoft SharePoint and GitHub for…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-17",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html"
+    },
+    {
+      "titre": "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission",
+      "resume": "A now-patched flaw in Apple's audio service let apps on iPhones and iPads record audio even after the user tapped \"Don't Allow\" on the microphone prompt. The first security updates with the fix came out on August 17. Nei…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-17",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html"
+    },
+    {
+      "titre": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+      "resume": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it. In March 2026, the hackers…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-17",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html"
+    },
     {
       "titre": "In Get Huge, the manosphere is here to make friends — with deadly consequences",
       "resume": "Before Clavicular and other manosphere streamers were introducing young guys to the concept of breaking their facial bones to become more attractive, there was an older generation of creators building massive followings …",
