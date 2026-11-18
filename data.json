@@ -1,6 +1,168 @@
 {
-  "lastUpdate": "2026-11-17T23:42:38.221170+00:00",
+  "lastUpdate": "2026-11-18T15:14:03.379698+00:00",
   "items": [
+    {
+      "titre": "How The Verge is picking which Black Friday deals to share",
+      "resume": "For the past month, we’ve been inundated with Black Friday deals, signaling what’s to come on the biggest shopping day of the year in the US. We routinely get dozens of press releases a day, coming from brands big and sm…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-18",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1034715/how-the-verge-finds-deals"
+    },
+    {
+      "titre": "Rivian spinoff Also pauses e-bike deliveries over battery and software bugs",
+      "resume": "Also, the mobility startup that spun out of Rivian last year, has run into another speed bump. The company was already struggling to get its first e-bikes to customers due to a litany of supply chain headaches and the co…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-18",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/1036460/also-rivian-spinoff-tm-b-ebike-delivery-delay-software-battery-issues"
+    },
+    {
+      "titre": "Instagram’s ‘school safety’ push was also a way to get more teens on the app",
+      "resume": "Meta's initiative to make Instagram safer for schools stemmed from efforts to increase user \"acquisition,\" \"friending,\" and \"invites,\" according to a report from NPR. Internal documents revealed as part of a group of chi…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-18",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1036517/instagram-school-safety-program-project-gryffindor"
+    },
+    {
+      "titre": "The Verge’s 2026 holiday gift guide for travelers",
+      "resume": "Everyone has that traveler in their life. That person who feels more at home on a 14-hour train ride than a quiet Sunday on the couch. They speak multiple languages, have a gut like a goat, and make friends wherever they…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-18",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026"
+    },
+    {
+      "titre": "British hackers face prison for GTA 6 data breach and crypto thefts",
+      "resume": "Two British hackers face lengthy prison sentences for hacks that broke into the Grand Theft Auto gamemaker and for stealing millions in crypto.",
+      "categorie": "Technologie",
+      "importance": "Critique",
+      "date": "2026-11-18",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/18/british-hackers-face-prison-for-gta-6-data-breach-and-crypto-thefts/"
+    },
+    {
+      "titre": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
+      "resume": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-18",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/"
+    },
+    {
+      "titre": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+      "resume": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-18",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/"
+    },
+    {
+      "titre": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+      "resume": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-18",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/"
+    },
+    {
+      "titre": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
+      "resume": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-18",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/"
+    },
+    {
+      "titre": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
+      "resume": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-18",
+      "source": "Krebs on Security",
+      "lien": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/"
+    },
+    {
+      "titre": "Microsoft announces Windows Server 2028 with hardened security",
+      "resume": "Microsoft has announced Windows Server 2028, the next major release of its server operating system, at the Ignite 2026 conference on Tuesday. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-18",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/"
+    },
+    {
+      "titre": "Apache warns of Roller RCE vulnerability exploited in attacks",
+      "resume": "Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-18",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/"
+    },
+    {
+      "titre": "Dizigom illegal streaming service with 21M monthly visits shuts down",
+      "resume": "The Alliance for Creativity and Entertainment (ACE) has announced the shutdown of Dizigom, one of Turkey's largest piracy sites, after a settlement agreement with the site's operators. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-18",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/"
+    },
+    {
+      "titre": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
+      "resume": "Attackers are using deepfakes, helpdesk impersonation, and fake IT support requests to deceive employees and gain unauthorized access to corporate systems. Specops Software examines real-world attacks and explains how st…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-18",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/"
+    },
+    {
+      "titre": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
+      "resume": "A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says Calif, the security research firm that disclosed it this we…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-18",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html"
+    },
+    {
+      "titre": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
+      "resume": "TL;DR Attackers move first. On average, exploitation now starts before a patch exists (Mandiant M-Trends 2026). In 1H 2026, 23% of vulnerabilities VulnCheck added to its exploited list were hit on or before disclosure da…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-18",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html"
+    },
+    {
+      "titre": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
+      "resume": "On AMD-based PCs and some Intel PCs, the TPM lockout for Windows Hello and BitLocker PINs can be reset by someone who opens the PC's case, researchers at Technische Universität Berlin say. That leaves short PINs open to …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-18",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html"
+    },
+    {
+      "titre": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
+      "resume": "The suspected Chinese advanced persistent threat (APT) group behind the sophisticated EggStreme malware has rebuilt its toolkit as it continues to target government organizations in the Philippines. \"When attackers are e…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-18",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html"
+    },
     {
       "titre": "iFixit’s Apple HomeView teardown reveals a device that will be difficult to repair",
       "resume": "After finding recent versions of Apple's iPads and HomePods much easier to disassemble for battery replacements or other repairs, iFixit assumed it would be the same story for Apple's new HomeView hub that looks like a s…",
