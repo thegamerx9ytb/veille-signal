@@ -1,6 +1,96 @@
 {
-  "lastUpdate": "2026-11-18T15:14:03.379698+00:00",
+  "lastUpdate": "2026-11-18T19:13:55.942613+00:00",
   "items": [
+    {
+      "titre": "The first Nvidia RTX Spark mini PCs launch today from Asus, Dell, and MSI",
+      "resume": "After the first RTX Spark laptops launched earlier this year, Nvidia's RTX Spark N1X chip is also now available in desktops from Asus, Dell, and MSI. More RTX Spark desktops are coming later from Acer, Gigabyte, and HP, …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-18",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1036880/nvidia-rtx-spark-ai-mini-pc-desktops"
+    },
+    {
+      "titre": "The best early Black Friday deals you can already shop",
+      "resume": "The countdown to Black Friday is on, and the discounts are starting to appear. Although the shopping holiday isn&#8217;t officially until November 27th, retailers are already dropping early deals on some of our favorite …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-18",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026"
+    },
+    {
+      "titre": "Tech lawsuits defined 2026 — and lawmakers want more",
+      "resume": "With just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end of 2026, targeting deepfake creators and online platforms that block users from filing lawsuits. On …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-18",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act"
+    },
+    {
+      "titre": "The leaked Lenovo Legion Go Beam could be the affordable handheld we need",
+      "resume": "For a while there, it seemed like Lenovo had given up on selling handheld gaming PCs, hiking the price of its Legion Go 2 and Legion Go S even higher than other RAM-starved competitors. A decent one can easily cost $1,00…",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-11-18",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/1036819/the-leaked-lenovo-legion-go-beam-could-be-the-affordable-handheld-we-need"
+    },
+    {
+      "titre": "David Ellison says HBO will air critical Elon Musk documentary despite his $1B investment in Skydance",
+      "resume": "Following news of the investment, questions emerged over how Musk's sizable stake in the company might affect Skydance's plans to distribute a documentary that is highly critical of him.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-18",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/18/david-ellison-says-hbo-will-air-critical-elon-musk-documentary-despite-1b-investment-in-skydance/"
+    },
+    {
+      "titre": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+      "resume": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-18",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/"
+    },
+    {
+      "titre": "Sam Altman warns against a future where AI, not humans, calls the shots",
+      "resume": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-18",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/"
+    },
+    {
+      "titre": "More banks say customers using AI agents are on their own — even if they get hacked",
+      "resume": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Élevé",
+      "date": "2026-11-18",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/"
+    },
+    {
+      "titre": "Google’s AI feature in Search gets its own incognito mode",
+      "resume": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-18",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/"
+    },
+    {
+      "titre": "Microsoft’s Agent Framework PyPI package compromised to steal credentials",
+      "resume": "Hackers compromised Microsoft's official Agent Framework Python package on PyPI, publishing two malicious versions designed to steal cloud credentials and other sensitive information from developers' systems. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-18",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/"
+    },
     {
       "titre": "How The Verge is picking which Black Friday deals to share",
       "resume": "For the past month, we’ve been inundated with Black Friday deals, signaling what’s to come on the biggest shopping day of the year in the US. We routinely get dozens of press releases a day, coming from brands big and sm…",
