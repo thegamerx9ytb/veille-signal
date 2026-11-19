@@ -1,6 +1,105 @@
 {
-  "lastUpdate": "2026-11-19T15:21:40.774226+00:00",
+  "lastUpdate": "2026-11-19T19:19:31.475247+00:00",
   "items": [
+    {
+      "titre": "Leaked images reveal Motorola’s wide foldable",
+      "resume": "New leaked images of Motorola's next folding smartphone shared by SammyGuru add more credence to the theory that widescreen could be the default design for foldables moving forward. Following a single leaked shot shared …",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-11-19",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1037848/motorola-razr-flex-wide-foldable-folding-smartphone-android-leak"
+    },
+    {
+      "titre": "Gemini on Mac can now use your computer",
+      "resume": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful fo…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-19",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use"
+    },
+    {
+      "titre": "Sonos is taking up to 30 percent off speakers and soundbars right now",
+      "resume": "Sonos speakers and soundbars aren&#8217;t exactly cheap, but thankfully the company&#8217;s Black Friday sale has already begun, making everything a little easier to afford through November 30th. Most notably, you can pi…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-19",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale"
+    },
+    {
+      "titre": "Some creators are skeptical of Instagram’s new affiliate program",
+      "resume": "For years, influencers have come up with workarounds on social media to figure out how to share affiliate links with followers. A new integration between Instagram and Amazon was announced earlier this month as a way to …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-19",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads"
+    },
+    {
+      "titre": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+      "resume": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-19",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/"
+    },
+    {
+      "titre": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+      "resume": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belo…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-19",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/"
+    },
+    {
+      "titre": "Google gives Gemini the ability to use your Mac for you",
+      "resume": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-19",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
+    },
+    {
+      "titre": "Anthropic’s IPO could deliver $156 billion to charity",
+      "resume": "At a stock price of $95, the frontier lab's Public Benefit Foundation, it's employee donations, and the company's match tot up to $156 billion.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-19",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/"
+    },
+    {
+      "titre": "PHP security updates fix 18 flaws, including critical RCE bugs",
+      "resume": "The PHP development team released security updates addressing 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on vulnerable servers. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-19",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/"
+    },
+    {
+      "titre": "Transport for London breach exposes 265,000 Oyster card users' data",
+      "resume": "Transport for London (TfL) has announced that around 265,000 Oyster photocard customers may have had their account details exposed in a data breach. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-11-19",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/"
+    },
+    {
+      "titre": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
+      "resume": "PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable gadget chain in the a…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-19",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html"
+    },
     {
       "titre": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
       "resume": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come.…",
