@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2026-11-18T23:14:38.128974+00:00",
+  "lastUpdate": "2026-11-19T15:21:40.774226+00:00",
   "items": [
+    {
+      "titre": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
+      "resume": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come.…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-19",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure"
+    },
+    {
+      "titre": "The Analogue 3D can now update itself over Wi-Fi",
+      "resume": "Analogue has long been good at expanding the features and functionality of its consoles through regular firmware updates, but installing those updates has always required moving files around with a memory card. That's no…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-19",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1037552/analogue-3d-nintendo-64-console-wi-fi-activated-automatic-updates"
+    },
+    {
+      "titre": "How Silicon Valley lost the public, with Crooked Media’s Jon Favreau",
+      "resume": "Today, I’m talking with Jon Favreau, a political commentator and cofounder of Crooked Media. You probably know Jon best from a little show called Pod Save America, which Jon started with a group of fellow Obama staffers …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-19",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/podcast/1036484/jon-favreau-pod-save-america-offline-crooked-media-trump-big-tech-ai-2028-election"
+    },
+    {
+      "titre": "ChatGPT can transcribe as you speak now with Live Dictation",
+      "resume": "ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now globally on all ChatGPT …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-19",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation"
+    },
+    {
+      "titre": "Nimble enters the item-tracking market with eco-friendly luggage tags and keychains",
+      "resume": "As Google takes on Apple in the item-tracking market, Nimble is hoping its trackable wallets, keychains, luggage tags, and passport covers stand out.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-19",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/19/nimble-enters-the-item-tracking-market-with-eco-friendly-luggage-tags-and-keychains/"
+    },
+    {
+      "titre": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "resume": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short an…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-19",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"
+    },
+    {
+      "titre": "Superhuman pushes its Go assistant everywhere",
+      "resume": "Superhuman is making Go its central agent and making it available in Docs and Mail",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-19",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/"
+    },
+    {
+      "titre": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+      "resume": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-19",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/"
+    },
+    {
+      "titre": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs",
+      "resume": "Microsoft is developing a new Edge security feature to reduce the attack surface by disabling the WebGL, WebGL2, and WebGPU APIs. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-19",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/"
+    },
+    {
+      "titre": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
+      "resume": "The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-19",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/"
+    },
+    {
+      "titre": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers",
+      "resume": "Two critical NGINX vulnerabilities dubbed \"nginx2root\" allow unauthenticated attackers to execute code remotely on vulnerable web servers, with researchers demonstrating how the flaws can be chained with a Linux kernel b…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-19",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/"
+    },
+    {
+      "titre": "Five warning signs of ransomware breach before encryption or data theft",
+      "resume": "Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defenders detect intrusions …",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-11-19",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/"
+    },
+    {
+      "titre": "Everything Is a Web Application, Including Your Firewall",
+      "resume": "One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, against PA…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-19",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/everything-is-web-application-including.html"
+    },
+    {
+      "titre": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
+      "resume": "Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site. That can lead to a site takeover or remote …",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-11-19",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html"
+    },
+    {
+      "titre": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
+      "resume": "The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-115560. The list of vulner…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-19",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html"
+    },
+    {
+      "titre": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
+      "resume": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today. Fixed versions ar…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-19",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html"
+    },
+    {
+      "titre": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "resume": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Élevé",
+      "date": "2026-11-18",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/"
+    },
     {
       "titre": "Nvidia’s rise, visualized",
       "resume": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's easy to …",
