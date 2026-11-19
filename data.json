@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2026-11-19T19:19:31.475247+00:00",
+  "lastUpdate": "2026-11-19T23:22:39.252276+00:00",
   "items": [
+    {
+      "titre": "Meta’s Muse Charm might cost $300",
+      "resume": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and sai…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-19",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price"
+    },
+    {
+      "titre": "Meta now sells 3D movies on Quest VR headsets",
+      "resume": "Meta now offers more than 150 3D movies that you can buy or rent to watch in VR on its Quest 3 and 3S headsets, the company announced today. The movies are available in Meta's TV app and include titles like Avatar, Spide…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-19",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app"
+    },
+    {
+      "titre": "A brief history of Nvidia’s recent stock fluctuations",
+      "resume": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 pe…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-19",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings"
+    },
+    {
+      "titre": "Apple is hiring engineers to build its own AI agent",
+      "resume": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg,…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-19",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
+    },
+    {
+      "titre": "Uber tests rides for kids as young as 10, with extra pay for drivers",
+      "resume": "Uber is testing the new program in three U.S. cities.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-19",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/"
+    },
+    {
+      "titre": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
+      "resume": "IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-19",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/"
+    },
+    {
+      "titre": "Anthropic’s IPO could deliver $156B to charity",
+      "resume": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-19",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/"
+    },
+    {
+      "titre": "The unfolding Jensen Huang scandal: a timeline",
+      "resume": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-19",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+    },
+    {
+      "titre": "These tech outages are giving Y2K, AI agent style",
+      "resume": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-19",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/"
+    },
+    {
+      "titre": "Meta’s new Muse Charm device may cost $300",
+      "resume": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-19",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/"
+    },
+    {
+      "titre": "ASUS warns of critical hard-coded key flaw in Control Center Express",
+      "resume": "ASUS released Control Center Express v1.7.29 to fix three critical vulnerabilities that could let remote attackers gain administrative control of the management console and the devices it manages. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-19",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/"
+    },
+    {
+      "titre": "Hackers steal data of 1.6 million SBC Medical Group customers",
+      "resume": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-19",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/"
+    },
+    {
+      "titre": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
+      "resume": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem. This week's stories sh…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-19",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html"
+    },
     {
       "titre": "Leaked images reveal Motorola’s wide foldable",
       "resume": "New leaked images of Motorola's next folding smartphone shared by SammyGuru add more credence to the theory that widescreen could be the default design for foldables moving forward. Following a single leaked shot shared …",
