@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2026-11-20T14:58:53.419769+00:00",
+  "lastUpdate": "2026-11-20T18:56:46.315451+00:00",
   "items": [
+    {
+      "titre": "Here are the Apple deals actually worth picking up ahead of Black Friday",
+      "resume": "A new pair of AirPods or the latest Apple Watch can make a great holiday gift, but they can also take a pretty big dent out of your budget. That’s especially true this year, as rising hardware prices have made MacBooks a…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-20",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1035460/best-early-black-friday-apple-deals-2026"
+    },
+    {
+      "titre": "Google says it’s going to shut off Google Assistant on smart speakers next year",
+      "resume": "Google is announcing some significant changes to its smart home software. Starting next year, the company will shut down the Nest app in favor of the Google Home app and retire Google Assistant on its smart home devices.…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-20",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down"
+    },
+    {
+      "titre": "Multiplying your Switch 2’s storage costs less than usual right now",
+      "resume": "Expanding your Nintendo Switch 2’s 256GB of built-in storage with a microSD card is pricier than it was with Nintendo’s original console. That’s because microSD Express cards, while physically identical to ones you might…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-20",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale"
+    },
+    {
+      "titre": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "resume": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-20",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"
+    },
+    {
+      "titre": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
+      "resume": "Exclusive: A simple security lapse exposed transcriptions of police interviews and bodycam footage on a cloud server without a password.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-20",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/"
+    },
+    {
+      "titre": "Bending Spoons buys Mailchimp for $3.68B",
+      "resume": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-20",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/"
+    },
+    {
+      "titre": "Super-hot rock geothermal could end data center energy woes",
+      "resume": "A new wave of geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of electricity nearly anywhere.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-20",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/"
+    },
+    {
+      "titre": "Chips can survive the space environment — can their financing?",
+      "resume": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-20",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/"
+    },
+    {
+      "titre": "Still tracking company passwords in spreadsheets? You’re flying blind.",
+      "resume": "Tracking company passwords in spreadsheets can leave IT administrators unaware of weak, reused, or compromised credentials stored and shared outside approved systems. NordPass explains how centralized password management…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-20",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/"
+    },
+    {
+      "titre": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
+      "resume": "J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-11-20",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/"
+    },
+    {
+      "titre": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+      "resume": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-11-20",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/"
+    },
+    {
+      "titre": "Bell Canada says 'agentic' hacker stole enterprise customer data",
+      "resume": "Bell Canada has confirmed that an \"agentic\" threat actor breached its systems on November 17, 2026, and stole enterprise customer data, including information from a system used to order and provision telecommunications c…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-20",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/"
+    },
+    {
+      "titre": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
+      "resume": "Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at scale. Dutch mobile…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-20",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html"
+    },
     {
       "titre": "Why the robots are ditching Uber",
       "resume": "In a late August earnings call, Uber CEO Dara Khosrowshahi sounded optimistic about his company's \"very strong\" partnership with Waymo, the global leader in autonomous robotaxis. The two companies had been working togeth…",
