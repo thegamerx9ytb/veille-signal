@@ -1,6 +1,96 @@
 {
-  "lastUpdate": "2026-11-20T22:55:56.737749+00:00",
+  "lastUpdate": "2026-11-21T14:20:00.505453+00:00",
   "items": [
+    {
+      "titre": "Harbinger is building the unsexy EVs that keep the economy moving",
+      "resume": "While legacy automakers tap the brakes on electric vehicles, one startup is hitting the accelerator. Earlier this month, electric truck maker Harbinger raised $240 million in a Series D round, capping a banner stretch th…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-21",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks"
+    },
+    {
+      "titre": "The game of the year is finally here",
+      "resume": "Hi, friends! Welcome to Installer No. 153, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for tearing yourself away from GTA to be here, and also you can read all the ol…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-21",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer"
+    },
+    {
+      "titre": "The Xiaomi 18 Pro proves two screens aren’t better than one",
+      "resume": "Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means the new 18 Pro and Pro Max are the first chance I've had to find out if a screen on the…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-21",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review"
+    },
+    {
+      "titre": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+      "resume": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-21",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai"
+    },
+    {
+      "titre": "Startup sues Apple in India over tap-to-share contacts feature",
+      "resume": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-21",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/"
+    },
+    {
+      "titre": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
+      "resume": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been charged with wire fraud…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-11-21",
+      "source": "Krebs on Security",
+      "lien": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/"
+    },
+    {
+      "titre": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
+      "resume": "Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection is \"incomplete.\" The f…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-21",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html"
+    },
+    {
+      "titre": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
+      "resume": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence sa…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-11-21",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html"
+    },
+    {
+      "titre": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
+      "resume": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG. The GnuPG project warned yesterday that the flaw could be used…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-21",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html"
+    },
+    {
+      "titre": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
+      "resume": "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown. The same attack could be extended to reach…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-21",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html"
+    },
     {
       "titre": "Eufy’s Omni C28 is 53 percent off ahead of Black Friday",
       "resume": "Hosting Thanksgiving can be fun, but cleaning up afterwards? Not so much. Eufy&#8217;s Omni C28 robot vacuum / mop hybrid can help, and thanks to an early Black Friday deal, you can pick it up at a new low price of $379.…",
