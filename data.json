@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-11-22T14:11:26.331622+00:00",
+  "lastUpdate": "2026-11-22T18:11:53.411818+00:00",
   "items": [
+    {
+      "titre": "Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk",
+      "resume": "Sheherazaad started making ripples in the music world a few years ago with her EP Qasr, which was produced by Grammy Award winner Arooj Aftab. Now she's back with Khudgarzi, her reverb-drenched folk-noir debut LP that's …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-22",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review"
+    },
+    {
+      "titre": "Some of our favorite Switch 2 games are cheaper through Black Friday",
+      "resume": "Black Friday is a great time to expand your game library because it’s a chance to catch deals that aren’t normally happening throughout the year. That’s true for Nintendo Switch 2 games, as well. In addition to a $50 off…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-22",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale"
+    },
+    {
+      "titre": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "resume": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-22",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music"
+    },
+    {
+      "titre": "Delta flights in and out of Atlanta delayed due to system outage",
+      "resume": "All Delta flights in and out of Atlanta are facing significant delays on Sunday due to a problem with the system that calculates a plane's weight and balance. Hartsfield-Jackson Atlanta International Airport is Delta's l…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-22",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage"
+    },
+    {
+      "titre": "Can a TV be too large? An investigation",
+      "resume": "Can a TV be too large? This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-22",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/"
+    },
+    {
+      "titre": "TechCrunch Mobility: A/B testing robots vs. humans",
+      "resume": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-22",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/"
+    },
+    {
+      "titre": "Why data centers are at the center of the Big Tech backlash",
+      "resume": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-22",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/"
+    },
+    {
+      "titre": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
+      "resume": "Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-22",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/"
+    },
+    {
+      "titre": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
+      "resume": "E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-11-22",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/"
+    },
     {
       "titre": "Your questions about Apple HomeView’s audio, answered",
       "resume": "After I published my review of the HomeView, Apple's first smart display, y'all still had a ton of questions about how it works as a smart speaker. So, I spent a bunch more time testing its audio capabilities and support…",
