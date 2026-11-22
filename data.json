@@ -1,6 +1,42 @@
 {
-  "lastUpdate": "2026-11-22T18:11:53.411818+00:00",
+  "lastUpdate": "2026-11-22T22:16:50.236735+00:00",
   "items": [
+    {
+      "titre": "The best apps to make new friends right now",
+      "resume": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-22",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/"
+    },
+    {
+      "titre": "‘You Can See Everything’ has made more than $100M worldwide",
+      "resume": "The new Elizabeth Holmes documentary is just beginning to roll out internationally.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-22",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/"
+    },
+    {
+      "titre": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "resume": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-22",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
+    },
+    {
+      "titre": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
+      "resume": "GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and rever…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-22",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/"
+    },
     {
       "titre": "Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk",
       "resume": "Sheherazaad started making ripples in the music world a few years ago with her EP Qasr, which was produced by Grammy Award winner Arooj Aftab. Now she's back with Khudgarzi, her reverb-drenched folk-noir debut LP that's …",
