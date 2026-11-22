@@ -1,6 +1,69 @@
 {
-  "lastUpdate": "2026-11-21T21:59:14.141086+00:00",
+  "lastUpdate": "2026-11-22T14:11:26.331622+00:00",
   "items": [
+    {
+      "titre": "Your questions about Apple HomeView’s audio, answered",
+      "resume": "After I published my review of the HomeView, Apple's first smart display, y'all still had a ton of questions about how it works as a smart speaker. So, I spent a bunch more time testing its audio capabilities and support…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-22",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay"
+    },
+    {
+      "titre": "How Tamagotchis got us hooked on digital pets",
+      "resume": "If you were are a kid in the late 1990s, there's a near-100 percent chance you either had a Tamagotchi or knew someone who did. The tiny digital pets came out of nowhere and became an overnight sensation, as millions of …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-22",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary"
+    },
+    {
+      "titre": "‘The show is starting soon. Please turn on your headphones.’",
+      "resume": "Up a few concrete steps and through the front door of a 200-year-old row house in New York City, I follow a crowd of people into the 178-seat SoHo Playhouse. As we filter to our seats, ushers hand each person a black dra…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-22",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1038879/off-broadway-love-me-auracast"
+    },
+    {
+      "titre": "Nintendo’s Switch 2 console is $50 off for Black Friday",
+      "resume": "Those hoping to save some cash on a Nintendo Switch 2 can do so starting today, November 22nd, through Saturday, December 5th, giving you plenty of time to think about it after Cyber Monday has passed. For a limited time…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-22",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale"
+    },
+    {
+      "titre": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+      "resume": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it. Ghostscript is the interpreter that many Linux servers use to convert upl…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-22",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html"
+    },
+    {
+      "titre": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+      "resume": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week. Some of the stolen requests we…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-22",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html"
+    },
+    {
+      "titre": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+      "resume": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-21",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/"
+    },
     {
       "titre": "The UN fails to agree on rules regulating ‘killer robots’",
       "resume": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings a…",
