@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2026-11-23T17:33:15.612485+00:00",
+  "lastUpdate": "2026-11-23T22:25:48.337270+00:00",
   "items": [
+    {
+      "titre": "AI data centers throw another wrench into chaotic UN climate talks",
+      "resume": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-23",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit"
+    },
+    {
+      "titre": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
+      "resume": "If you’re still sporting an Apple Watch that launched five or so years ago, now is a good time to upgrade. Apple’s latest smartwatch, the 42mm Apple Watch Series 12 with Wi-Fi and GPS connectivity, has dropped to a new a…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-23",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale"
+    },
+    {
+      "titre": "Welcome to elite impunity, Jensen Huang",
+      "resume": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. N…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-23",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang"
+    },
+    {
+      "titre": "Nvidia CEO Jensen Huang is back. What happens next?",
+      "resume": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Tim…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-23",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
+    },
+    {
+      "titre": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "resume": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-23",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/"
+    },
+    {
+      "titre": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "resume": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-23",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/"
+    },
+    {
+      "titre": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "resume": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-23",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/"
+    },
+    {
+      "titre": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "resume": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-23",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
+    },
+    {
+      "titre": "Spanish LaLiga confirms hackers stole soccer fans’ personal data",
+      "resume": "LaLiga, Spain's top men's football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-11-23",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/"
+    },
+    {
+      "titre": "Microsoft Azure flaw exploited to steal customers' API credentials",
+      "resume": "Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to cyberattacks against…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-23",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/"
+    },
+    {
+      "titre": "OpenRouter drops AI providers over leaked prompts and secrets",
+      "resume": "OpenRouter removed three AI providers from its platform after discovering that they had violated their stated data-handling policies and exposed sensitive data. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-23",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/"
+    },
+    {
+      "titre": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
+      "resume": "A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-11-23",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/"
+    },
+    {
+      "titre": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
+      "resume": "The China-aligned threat actor known as Webworm is suspected to be using a custom version of the open-source SoftEther VPN Bridge tool in an attempt to remove recognizable detection fingerprints, while disguising it as n…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-23",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html"
+    },
     {
       "titre": "My trusty 27-inch Alienware QD-OLED gaming monitor is just $280",
       "resume": "Alienware’s AW2726DM QD-OLED gaming monitor was a great deal even at its original $349.99 price. The low price and impressive specs were enough to convince me to get one at launch, and I’m glad that I did. I’m a little j…",
