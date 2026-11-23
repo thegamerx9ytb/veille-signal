@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2026-11-22T22:16:50.236735+00:00",
+  "lastUpdate": "2026-11-23T17:33:15.612485+00:00",
   "items": [
+    {
+      "titre": "My trusty 27-inch Alienware QD-OLED gaming monitor is just $280",
+      "resume": "Alienware’s AW2726DM QD-OLED gaming monitor was a great deal even at its original $349.99 price. The low price and impressive specs were enough to convince me to get one at launch, and I’m glad that I did. I’m a little j…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-23",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1039999/alienware-aw2726dm-qdoled-gaming-monitor-black-friday-2026-deal-sale"
+    },
+    {
+      "titre": "Tech leaders are celebrating Jensen Huang’s return",
+      "resume": "Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) \"terrorized\" your employees, a series of indis…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-23",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay"
+    },
+    {
+      "titre": "White House brags that Trump was ‘totally involved’ in getting Jensen reinstated",
+      "resume": "It sure looked like President Donald Trump played a role in Jensen Huang's reinstatement as Nvidia CEO - and now the White House is making sure everyone knows he was. \"President Trump was totally involved and this is a g…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-23",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated"
+    },
+    {
+      "titre": "The best Black Friday deals we’ve already found",
+      "resume": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn&#8217;t officially until Friday, November 27th, retailers are already dropping early deals on some of our fa…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-23",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026"
+    },
+    {
+      "titre": "Meta throws out its net-zero goal. Its competitors should be furious",
+      "resume": "Meta walked back its 2030 net zero goal in its 2026 sustainability report, a decision that could send ripples throughout the tech industry.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-23",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/"
+    },
+    {
+      "titre": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+      "resume": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-23",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/"
+    },
+    {
+      "titre": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+      "resume": "\"I spoke to them, let me put it that way... And I convinced them,\" the president told CNBC.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-23",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/"
+    },
+    {
+      "titre": "Jensen Huang isn’t out of the woods yet",
+      "resume": "It’s safe to say no one expected this. Monday morning, Jensen Huang returned as CEO of Nvidia, after resigning the position following news of multiple affairs, including one with a subordinate and one with a woman tied t…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-23",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/"
+    },
+    {
+      "titre": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "resume": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-23",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+    },
+    {
+      "titre": "Call center operator gets 8 years for helping scam 30,000 Americans",
+      "resume": "A Peruvian call center operator was sentenced to eight years in prison for helping steal millions of dollars from over 30,000 Spanish-speaking US residents in a years-long government-impersonation fraud scheme. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-23",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/call-center-operator-gets-8-years-for-helping-scam-30-000-americans/"
+    },
+    {
+      "titre": "Microsoft testing fix for Windows 11 Bluetooth audio quality drops",
+      "resume": "Microsoft is working to fix a long-standing Windows issue that has been causing significant audio quality drops for Bluetooth headphone users. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-23",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/"
+    },
+    {
+      "titre": "AI Agents Are Creating a Shared Responsibility Gap",
+      "resume": "AI agents operate across multiple platforms, creating security gaps when no single vendor can see or control their actions. Token Security examines the shared responsibility problem and explains how organizations can bet…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-23",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/"
+    },
+    {
+      "titre": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
+      "resume": "A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2.5 million in lost revenue, while the attacker redeemed digital gift cards worth $70,000. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-23",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/"
+    },
+    {
+      "titre": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation",
+      "resume": "N-able yesterday disclosed a critical flaw it found while investigating the breach of its Mail Assure and SpamExperts Hosted Cloud, an email filtering service it runs for managed service providers. The bug, tracked as CV…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-23",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html"
+    },
+    {
+      "titre": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning",
+      "resume": "Threat actors are exploiting a now-patched security flaw in ConnectWise ScreenConnect to target managed service provider (MSP) servers. The activity revolves around CVE-2026-84869 (CVSS score: 9.9), a critical ScreenConn…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-23",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html"
+    },
+    {
+      "titre": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
+      "resume": "A critical security flaw has been disclosed in the popular binary-parser library that could allow an attacker who controls parser definitions to execute arbitrary code. The vulnerability, tracked as CVE-2026-134814 (CVSS…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-23",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html"
+    },
+    {
+      "titre": "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
+      "resume": "A stolen key. A trusted message. A routine update. None of these looks like the start of a major security problem. That's partly why they work. Attackers don't always need to break down a door. Sometimes they just use on…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-23",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html"
+    },
     {
       "titre": "The best apps to make new friends right now",
       "resume": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
