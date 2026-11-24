@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2026-11-24T03:07:43.569549+00:00",
+  "lastUpdate": "2026-11-24T17:04:01.061628+00:00",
   "items": [
+    {
+      "titre": "You can lock in Hulu and Disney Plus for as low as $5 per month for a year",
+      "resume": "The Black Friday offers on streaming services are rolling in, and the latest deal includes Disney Plus and Hulu for a steeply discounted monthly rate. There are sales happening for both the ad-supported and ad-free tiers…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-24",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1041150/hulu-disney-plus-black-friday-ad-free-streaming-subscription-deal-sale-2026"
+    },
+    {
+      "titre": "The New York Times warns photographers not to update Photoshop over AI features",
+      "resume": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-24",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features"
+    },
+    {
+      "titre": "Jensen Huang deepfakes are the hot new AI slop",
+      "resume": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jack…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-24",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes"
+    },
+    {
+      "titre": "US Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia",
+      "resume": "As Jensen Huang returns to his post as Nvidia's CEO with support from the Trump Administration, the Department of Commerce has added Megaspeed to its Entity List, which blocks trade with the company, citing national secu…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-24",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/policy/1041270/nvidia-megaspeed-commerce-dept-entity-list"
+    },
+    {
+      "titre": "Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch",
+      "resume": "Uber and Nuro have started testing driverless Lucid Gravity SUVs on public streets in the San Francisco Bay Area.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-24",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/"
+    },
+    {
+      "titre": "Pinterest will now let parents limit the AI-generated content their teens see",
+      "resume": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-24",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/"
+    },
+    {
+      "titre": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+      "resume": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-24",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/"
+    },
+    {
+      "titre": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+      "resume": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-24",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/"
+    },
+    {
+      "titre": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "resume": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-24",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/"
+    },
+    {
+      "titre": "Police disrupt 57 illegal streaming services with 7.3 million visits",
+      "resume": "Law enforcement authorities from 11 countries have disrupted 57 illegal streaming services that operated hundreds of websites and drew over 7.3 million visits each year. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-24",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/"
+    },
+    {
+      "titre": "Hackers compromise Check Point Servers in 22 organizations",
+      "resume": "Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-24",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/"
+    },
+    {
+      "titre": "European Commission confirms data theft in EU Academy breach",
+      "resume": "The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-24",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/"
+    },
+    {
+      "titre": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
+      "resume": "The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-24",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/"
+    },
+    {
+      "titre": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
+      "resume": "A quirk in how the .NET Framework loads a program file let a local attacker run untrusted code past two separate protections on Windows built to block it, Google Project Zero researcher James Forshaw showed in a write-up…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-24",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html"
+    },
+    {
+      "titre": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+      "resume": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it. In March 2026, the hackers…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-24",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html"
+    },
+    {
+      "titre": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
+      "resume": "A threat cluster previously assessed to be affiliated with the ShinyHunters extortion crew may have rebranded and continued operations under a new name called INCEPTION, according to Okta's Threat Intelligence team. The …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-24",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html"
+    },
+    {
+      "titre": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
+      "resume": "Broadcom has shipped patches to address 23 vulnerabilities impacting VMware ESX, vCenter, Workstation, Fusion, and Avi Load Balancer, including one critical bug that could be abused to bypass authentication. The critical…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-11-24",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html"
+    },
     {
       "titre": "Google alternative Kagi launches an email service",
       "resume": "Kagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail. Today, Kagi announced a public beta of Kagi Mail, a new email ser…",
