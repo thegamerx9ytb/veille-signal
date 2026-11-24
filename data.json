@@ -1,6 +1,114 @@
 {
-  "lastUpdate": "2026-11-24T17:04:01.061628+00:00",
+  "lastUpdate": "2026-11-24T20:58:34.706932+00:00",
   "items": [
+    {
+      "titre": "Amazon is knocking almost $50 off six months of Apple TV",
+      "resume": "Streaming deals aren’t as plentiful as they used to be, but they’re still around if you know where to look. One that caught our eye is an offer for Apple TV for those with an Amazon account in the US. Apple’s streaming s…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-24",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1040046/apple-tv-subscription-streaming-sale-deal-black-friday"
+    },
+    {
+      "titre": "The clock is running out for America’s most contentious spying law",
+      "resume": "Weeks before the end of the legislative session, some members of Congress are scrambling to reauthorize a controversial warrantless wiretapping authority, possibly by attaching it to a must-pass military spending bill. S…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-24",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/policy/1041568/fisa-ndaa-blue-wave"
+    },
+    {
+      "titre": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+      "resume": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-24",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology"
+    },
+    {
+      "titre": "TikTok was down",
+      "resume": "Earlier on Tuesday, TikTok experienced some issues, with videos, search results, favorites, and other features not loading as they usually do. Videos sometimes wouldn't load in the For You feed on my iPhone, and search r…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-24",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1041618/tiktok-down-outage"
+    },
+    {
+      "titre": "Electric truck startup Harbinger gets financing boost from Palmer Luckey’s bank",
+      "resume": "Harbinger has tapped Palmer Luckey's Erebor Bank as a new source of capital as the electric truck startup looks to diversify how it funds its growth.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-24",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/"
+    },
+    {
+      "titre": "Threads comes to iPad and takes a page from X’s playbook with cashtags",
+      "resume": "The addition of live stock quotes and charts could help Threads attract the financial community that has historically relied on X.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-24",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/24/threads-comes-to-ipad-and-takes-a-page-from-xs-playbook-with-cashtags/"
+    },
+    {
+      "titre": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "resume": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Élevé",
+      "date": "2026-11-24",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/"
+    },
+    {
+      "titre": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "resume": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-24",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"
+    },
+    {
+      "titre": "Radware discloses breach exposing customer cloud access keys",
+      "resume": "Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left e…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-24",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/"
+    },
+    {
+      "titre": "Turnitin discloses cyberattack affecting customer-facing systems",
+      "resume": "Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-24",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/"
+    },
+    {
+      "titre": "New Inception extortion gang launches large-scale vishing campaign",
+      "resume": "A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-24",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/"
+    },
+    {
+      "titre": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
+      "resume": "A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus. Central to the group's operations is a back…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-24",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html"
+    },
     {
       "titre": "You can lock in Hulu and Disney Plus for as low as $5 per month for a year",
       "resume": "The Black Friday offers on streaming services are rolling in, and the latest deal includes Disney Plus and Hulu for a steeply discounted monthly rate. There are sales happening for both the ad-supported and ad-free tiers…",
