@@ -1,6 +1,51 @@
 {
-  "lastUpdate": "2026-11-23T22:25:48.337270+00:00",
+  "lastUpdate": "2026-11-24T03:07:43.569549+00:00",
   "items": [
+    {
+      "titre": "Google alternative Kagi launches an email service",
+      "resume": "Kagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail. Today, Kagi announced a public beta of Kagi Mail, a new email ser…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-24",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative"
+    },
+    {
+      "titre": "Ladybird, the first new browser engine in years, is now available to test",
+      "resume": "Ladybird, an independent web browser with a built-from-scratch engine, is finally available for testing. On Monday, Ladybird developer Andreas Kling announced that the browser is launching in alpha on macOS and Linux fol…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-23",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing"
+    },
+    {
+      "titre": "The Verge’s 2026 holiday gift guide",
+      "resume": "Gift-giving isn't just about grabbing something solid under a determined spending limit. It's an expression of love, a way to show someone how well you really know them. That doesn't mean you have to do it all on your ow…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-23",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1026041/holiday-gift-guide-2026"
+    },
+    {
+      "titre": "The hacker behind early GTA VI leaks has been sentenced — and released",
+      "resume": "Arion Kurtaj, who pleaded guilty last week to hacking Grand Theft Auto VI developer Rockstar Games and other companies, including Uber and Revolut, was sentenced to seven years in prison but released on license, the BBC …",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-11-23",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released"
+    },
+    {
+      "titre": "Figma employee sues, alleging company forced her to confront harassers",
+      "resume": "Figma and its CEO are being sued by a current employee for alleged sexual harassment and discrimination.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-23",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/"
+    },
     {
       "titre": "AI data centers throw another wrench into chaotic UN climate talks",
       "resume": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations…",
