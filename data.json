@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2026-11-25T01:13:19.382700+00:00",
+  "lastUpdate": "2026-11-25T16:53:32.440694+00:00",
   "items": [
+    {
+      "titre": "Xteink’s pocketable X4 Classic e-reader is down to just $55 for Black Friday",
+      "resume": "Unsurprisingly, we’re already seeing some solid Black Friday deals on a wide variety of e-readers. Everything from the Kobo Libra Colour to last-gen Kindle Paperwhite is on sale, but if you’re looking for something much …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-25",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1040178/xteink-x4-classic-e-reader-black-friday-2026-deal-sale"
+    },
+    {
+      "titre": "Amazon is reportedly in talks to end Muse AI shopping block",
+      "resume": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of prod…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-25",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions"
+    },
+    {
+      "titre": "The Verge’s guide to affordable holiday gifts under $25",
+      "resume": "Gift-giving on a tight budget is tough, but constraints can also encourage some creative thinking. We thought for a long while (and asked other Verge staffers) about the best items out there, and we're pretty happy with …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-25",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1023735/best-gifts-under-25-2026"
+    },
+    {
+      "titre": "Nothing offers a full look at its AI earbuds and charging case",
+      "resume": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize yo…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-25",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal"
+    },
+    {
+      "titre": "Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
+      "resume": "Flipkart's product and technology chief Balaji Thiagarajan will lead the company alongside its board until a successor is found.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-25",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/"
+    },
+    {
+      "titre": "Todoist confirms 6% of customers’ details were stolen in data breach",
+      "resume": "Todoist said a hacker gained access to its production systems and stole customer data, including email IDs, password hashes, and account creation dates.",
+      "categorie": "Technologie",
+      "importance": "Critique",
+      "date": "2026-11-25",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/"
+    },
+    {
+      "titre": "Allstate suffers multi-day tech outage ahead of Thanksgiving",
+      "resume": "The disruption comes at a particularly bad time for the insurance giant, as millions of Americans prepare to travel for the Thanksgiving holiday weekend.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-25",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/25/allstate-suffers-multi-day-tech-outage-ahead-of-thanksgiving/"
+    },
+    {
+      "titre": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+      "resume": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal l…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-25",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/"
+    },
+    {
+      "titre": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "resume": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-25",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/"
+    },
+    {
+      "titre": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "resume": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-25",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/"
+    },
+    {
+      "titre": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+      "resume": "⁠Nvidia has made clear⁠ it won&#8217;t backstop an AI data center until it&#8217;s nearly ready to run, and that&#8217;s landing just as neoclouds report construction delays and more expensive debt. The message to develo…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-25",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/"
+    },
+    {
+      "titre": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
+      "resume": "Earlier this week, Microsoft resolved a known issue that was preventing some Microsoft 365 customers from accessing Office applications. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-25",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/"
+    },
+    {
+      "titre": "InfraTrust warns of exploited supply chain flaws in network appliances",
+      "resume": "Eclypsium's November InfraTrust report warns that most infrastructure security advisories addressing exploited vulnerabilities over the past month involve flaws in third-party software bundled into products rather than c…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-25",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/"
+    },
+    {
+      "titre": "More Pentests Without More Pentesters: Where AI Safely Helps",
+      "resume": "Penetration testers spend a significant portion of their engagements on documentation, reporting, and other tasks outside of testing. PentestPad explains how AI can reduce this workload, help teams handle more engagement…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-25",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/"
+    },
+    {
+      "titre": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
+      "resume": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning about a critical vulnerability in Danfoss AK-SM 8xxA Series controllers used by food retailers to manage commercial refrigeration, HVAC, and lig…",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-11-25",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/"
+    },
+    {
+      "titre": "Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation",
+      "resume": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical flaw impacting Drupal to its Known Exploited Vulnerabilities (KEV) catalog, requiring federal agencies to apply the fixes by No…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-25",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html"
+    },
+    {
+      "titre": "Credential Remediation Is Slow When You Don’t Know What Will Break",
+      "resume": "TL;DR More than 64% still valid after four years: GitGuardian’s State of Secrets Sprawl 2026 found that most valid secrets discovered in 2022 still worked in January 2026, because teams stall on what a revoke will break.…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-25",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html"
+    },
+    {
+      "titre": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
+      "resume": "The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) has been hit by a cybersecurity incident that resulted in \"unauthorized access to a limited subset of its systems,\" the bureau said on Tuesday.…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-25",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html"
+    },
+    {
+      "titre": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
+      "resume": "Threat actors are actively exploiting two newly patched security flaws in GeoServer, according to watchTowr. The vulnerabilities in question are CVE-2026-120705 and CVE-2026-129243, details of which are below - CVE-2026-…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-25",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html"
+    },
     {
       "titre": "US financial crimes bureau discloses ‘cybersecurity incident’",
       "resume": "The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a \"cybersecurity incident.\" The bureau, which is part of the Treasury Department, said it's looking into an \"incident that re…",
