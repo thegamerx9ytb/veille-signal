@@ -1,6 +1,96 @@
 {
-  "lastUpdate": "2026-11-25T16:53:32.440694+00:00",
+  "lastUpdate": "2026-11-25T20:21:04.387044+00:00",
   "items": [
+    {
+      "titre": "The loneliest peptide party in New York",
+      "resume": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. On a…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-25",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow"
+    },
+    {
+      "titre": "The Fairphone 6 Plus is modular, repairable, and $100 off right now",
+      "resume": "Unlike most smartphones, the Fairphone 6 Plus is designed for home repair, with easily replaceable parts that could help extend its lifespan well into the future. That makes its midrange price point easier to justify, es…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-25",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1041460/fairphone-6-plus-repairable-phone-black-friday-2026-deal-sale"
+    },
+    {
+      "titre": "1Password breach leaked customer names and emails, but not passwords",
+      "resume": "1Password says a hacker stole customer names and email addresses after gaining access to its backend systems. The breach didn't expose passwords or other information stored in customer vaults, but could put users at risk…",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-11-25",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1042409/1password-data-breach-leak"
+    },
+    {
+      "titre": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa",
+      "resume": "Saying it was necessary to prevent the possible spontaneous explosion of a stockpile of material used in igniters and blasting caps, the US Army conducted a controlled detonation of over 9,700 pounds of lead azide today …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-25",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant"
+    },
+    {
+      "titre": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
+      "resume": "The Tesla Cybertruck was the fastest-selling used truck last month, averaging just 39.1 days on the market compared to 65.5 days for trucks overall.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-25",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/"
+    },
+    {
+      "titre": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "resume": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-25",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/"
+    },
+    {
+      "titre": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "resume": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-25",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/"
+    },
+    {
+      "titre": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "resume": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-25",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/"
+    },
+    {
+      "titre": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "resume": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-25",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
+    },
+    {
+      "titre": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
+      "resume": "Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-25",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/"
+    },
     {
       "titre": "Xteink’s pocketable X4 Classic e-reader is down to just $55 for Black Friday",
       "resume": "Unsurprisingly, we’re already seeing some solid Black Friday deals on a wide variety of e-readers. Everything from the Kobo Libra Colour to last-gen Kindle Paperwhite is on sale, but if you’re looking for something much …",
