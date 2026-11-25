@@ -1,6 +1,96 @@
 {
-  "lastUpdate": "2026-11-24T20:58:34.706932+00:00",
+  "lastUpdate": "2026-11-25T01:13:19.382700+00:00",
   "items": [
+    {
+      "titre": "US financial crimes bureau discloses ‘cybersecurity incident’",
+      "resume": "The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a \"cybersecurity incident.\" The bureau, which is part of the Treasury Department, said it's looking into an \"incident that re…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-25",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident"
+    },
+    {
+      "titre": "Trump reportedly says pardoning Jensen Huang is ‘an option’",
+      "resume": "The New York Post says that, in an exclusive interview, the President said that pardoning the Nvidia co-founder is \"an option,\" but not one that he thought he would need to use.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-25",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/"
+    },
+    {
+      "titre": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+      "resume": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal l…",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-25",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/"
+    },
+    {
+      "titre": "Huawei found guilty of stealing trade secrets",
+      "resume": "A jury has found Huawei guilty of stealing US trade secrets, as reported earlier by NBC News and Bloomberg. The verdict, handed down in a federal court in New York, concludes a years-long legal battle that accused the Ch…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-24",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial"
+    },
+    {
+      "titre": "Why the US Army is about to blow up nearly 10,000 pounds of unstable explosives in Iowa",
+      "resume": "The US Army is moving ahead with plans to detonate the nation's stockpile of lead azide at an ammunition plant in Middletown, Iowa, at approximately 9:00AM CST on Wednesday. The Verge reached out to experts on what to ex…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-24",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/science/1041819/us-army-detonation-lead-explosives-iowa"
+    },
+    {
+      "titre": "The Verge’s 2026 gift guide for dads",
+      "resume": "Gone are the days when you could just buy your father a random tie or some leather-clad alcohol vessel or a shaving kit. Dads want - nay, deserve - something memorable. Luckily for you, it's not that hard to find somethi…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-24",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026"
+    },
+    {
+      "titre": "Even the best AI agents struggle with everyday life",
+      "resume": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-24",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/"
+    },
+    {
+      "titre": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+      "resume": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-24",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/"
+    },
+    {
+      "titre": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "resume": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-24",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/"
+    },
+    {
+      "titre": "Rackspace shuts down Spot cloud platform after security breach",
+      "resume": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and dow…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-24",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/"
+    },
     {
       "titre": "Amazon is knocking almost $50 off six months of Apple TV",
       "resume": "Streaming deals aren’t as plentiful as they used to be, but they’re still around if you know where to look. One that caught our eye is an offer for Apple TV for those with an Amazon account in the US. Apple’s streaming s…",
