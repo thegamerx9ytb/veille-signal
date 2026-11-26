@@ -1,6 +1,105 @@
 {
-  "lastUpdate": "2026-11-26T00:48:26.197896+00:00",
+  "lastUpdate": "2026-11-26T16:31:06.603510+00:00",
   "items": [
+    {
+      "titre": "Here’s where you can save (a little) on the Ocarina of Time remake",
+      "resume": "A lot of people have The Legend of Zelda: Ocarina of Time for the Nintendo Switch 2 on their holiday wishlist. In case you haven’t bought it yet, I wanted to share some small but welcome deals happening on the physical a…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-26",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1040110/zelda-ocarina-of-time-switch-2-black-friday-2026-deal-sale"
+    },
+    {
+      "titre": "Why GTA VI’s version of Florida feels so real",
+      "resume": "There are plenty of reasons why Grand Theft Auto VI is so popular: the 13 years of anticipation, the relatable lead characters and romantic storyline, the sheer level of depth. But another major factor is the sense of pl…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-26",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/1042629/gta-6-city-design"
+    },
+    {
+      "titre": "GTA VI developers vote against unionization",
+      "resume": "Workers at Grand Theft Auto VI developer Rockstar Games won't unionize, after the vote for a formal recognition agreement failed, with only 25 percent of votes in favor of unionization. The Independent Workers Union of G…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-26",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb"
+    },
+    {
+      "titre": "Disney Plus, Hulu, and HBO Max are all over 50 percent off for Black Friday",
+      "resume": "Black Friday isn’t just a good time to save on a new TV but also a chance to spend less on what you watch on it. The shopping holiday often brings steep streaming discounts, and this year is no exception, with some strea…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-26",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1041762/best-black-friday-streaming-deals-2026"
+    },
+    {
+      "titre": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "resume": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-26",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/"
+    },
+    {
+      "titre": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
+      "resume": "A new version of the SYS01 infostealer malware delivered through Meta ads is enrolling browsers into enterprise-style management to force the installation of an extension that steals sensitive data, including Gmail and O…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-26",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/"
+    },
+    {
+      "titre": "Remus malware steals Gmail messages via fake Google Sheets extension",
+      "resume": "The Remus infostealer is stealing Gmail messages through a stealthy malicious Chrome extension, a capability the malware operators marketed as a zero-day exploit in Google's email service. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-11-26",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/"
+    },
+    {
+      "titre": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
+      "resume": "Drupal has warned of a new \"highly critical\" security flaw impacting Drupal core that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-136716 (CVSS score: N/A), has been described as a case …",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-11-26",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html"
+    },
+    {
+      "titre": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
+      "resume": "Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized that customer passw…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-26",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html"
+    },
+    {
+      "titre": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
+      "resume": "Every phishing attack has to get past email security, web filtering, and safe browsing before it reaches an employee. Some kits manage that far more often than others, and those are the kits that security teams need to k…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-26",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html"
+    },
+    {
+      "titre": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
+      "resume": "The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may have started as far back as February 2025. \"The loader hides …",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-26",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html"
+    },
     {
       "titre": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
       "resume": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Google Home update brings Familiar Faces support to th…",
