@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-11-26T16:31:06.603510+00:00",
+  "lastUpdate": "2026-11-26T19:57:39.662620+00:00",
   "items": [
+    {
+      "titre": "The best Black Friday deals we’ve already found",
+      "resume": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn&#8217;t officially until tomorrow, November 27th, retailers are already dropping early deals on some of our …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-26",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026"
+    },
+    {
+      "titre": "Android app developers will soon have to share their address publicly",
+      "resume": "Independent Android app developers are worried about their privacy after Google announced that from next year many of them will be required to share a phone number and address publicly. The policy change is intended to m…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-26",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu"
+    },
+    {
+      "titre": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
+      "resume": "If you’re looking for a new laptop or a gift for the student in your life, you can save $100 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is currently discounted to …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-26",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale"
+    },
+    {
+      "titre": "The Garmin Forerunner 265S is down to $300, its best price of the year",
+      "resume": "The Forerunner 265S may not be the newest or flashiest Garmin, but it’s one that I’ve always loved most in testing. For runners with smaller wrists, it fits nicely. The battery life is pretty good thanks in part to its O…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-26",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday"
+    },
+    {
+      "titre": "A month with the iPhone Duo has changed how I use my phone",
+      "resume": "From reading more books to breaking mindless scrolling habits, Apple's foldable has changed my daily routines in ways I didn't anticipate.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-26",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/"
+    },
+    {
+      "titre": "X finally gets parental controls after 20 years",
+      "resume": "Elon Musk's social network X has finally added parental controls for teenagers, giving parents and guardians a way to manage what their kids see on the platform.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-26",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/"
+    },
+    {
+      "titre": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "resume": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-26",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/"
+    },
+    {
+      "titre": "Fake paid expert interviews impersonate brands to steal Google logins",
+      "resume": "An ongoing phishing campaign dubbed \"GoodGuys\" impersonates major brands, including Google, Nvidia, Accenture, and SpaceX, to steal corporate Google and Okta credentials using fake invitations to paid expert interviews a…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-26",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/"
+    },
+    {
+      "titre": "NordVPN Black Friday Deal: Get 78% off VPN plans in 2026",
+      "resume": "NordVPN's 2026 Black Friday and Cyber Monday deal is now live, offering savings of up to 78% on VPN subscriptions, plus three extra months of protection. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-26",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/"
+    },
     {
       "titre": "Here’s where you can save (a little) on the Ocarina of Time remake",
       "resume": "A lot of people have The Legend of Zelda: Ocarina of Time for the Nintendo Switch 2 on their holiday wishlist. In case you haven’t bought it yet, I wanted to share some small but welcome deals happening on the physical a…",
