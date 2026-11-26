@@ -1,6 +1,78 @@
 {
-  "lastUpdate": "2026-11-25T20:21:04.387044+00:00",
+  "lastUpdate": "2026-11-26T00:48:26.197896+00:00",
   "items": [
+    {
+      "titre": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
+      "resume": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Google Home update brings Familiar Faces support to th…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-26",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras"
+    },
+    {
+      "titre": "The Verge’s 2026 holiday gift guide for travelers",
+      "resume": "Everyone has that traveler in their life. That person who feels more at home on a 14-hour train ride than a quiet Sunday on the couch. They speak multiple languages, have a gut like a goat, and make friends wherever they…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-25",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026"
+    },
+    {
+      "titre": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+      "resume": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The…",
+      "categorie": "Technologie",
+      "importance": "Élevé",
+      "date": "2026-11-25",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent"
+    },
+    {
+      "titre": "Amazon loses its latest attempt to get out of handling more recall notices",
+      "resume": "Amazon is on the hook to recall more than 400,000 hazardous products after losing its legal battle against the US Consumer Product Safety Commission (CPSC). The US District Court for the District of Maryland ruled in fav…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-25",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc"
+    },
+    {
+      "titre": "FCC approves SpaceX plan to put AI data centers in space",
+      "resume": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-25",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/"
+    },
+    {
+      "titre": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "resume": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-25",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
+    },
+    {
+      "titre": "1Password customer data stolen after employee GitHub account breach",
+      "resume": "1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Critique",
+      "date": "2026-11-25",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/"
+    },
+    {
+      "titre": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
+      "resume": "Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-25",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/"
+    },
     {
       "titre": "The loneliest peptide party in New York",
       "resume": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. On a…",
