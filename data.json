@@ -1,6 +1,51 @@
 {
-  "lastUpdate": "2026-11-26T19:57:39.662620+00:00",
+  "lastUpdate": "2026-11-27T00:54:52.352359+00:00",
   "items": [
+    {
+      "titre": "Netflix’s coziest show has made a very quiet return",
+      "resume": "The bigger Netflix gets, the easier it is to miss stuff. This is true of all digital platforms, of course, but it's especially true of Netflix of late, as the streaming service's lineup now also includes a growing librar…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-26",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3"
+    },
+    {
+      "titre": "Is Alice Huang a spy or not?",
+      "resume": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-26",
+      "source": "TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/"
+    },
+    {
+      "titre": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "resume": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "categorie": "Intelligence Artificielle",
+      "importance": "Moyen",
+      "date": "2026-11-26",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lien": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+    },
+    {
+      "titre": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
+      "resume": "OpenAI confirmed that it fixed a 'bug' that incorrectly discounted GPT-6.2 usage, which means you'll now hit GPT usage limits 40% faster than before. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-26",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/"
+    },
+    {
+      "titre": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
+      "resume": "A website can look perfectly fine to the person running it. Log out, visit the same page, and things might look different. Something similar is happening with browser extensions, where even the way you find and install o…",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-26",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html"
+    },
     {
       "titre": "The best Black Friday deals we’ve already found",
       "resume": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn&#8217;t officially until tomorrow, November 27th, retailers are already dropping early deals on some of our …",
