@@ -1,6 +1,114 @@
 {
-  "lastUpdate": "2026-11-27T00:54:52.352359+00:00",
+  "lastUpdate": "2026-11-27T16:16:43.812865+00:00",
   "items": [
+    {
+      "titre": "The absolute best Black Friday deals we’ve found (so far)",
+      "resume": "This year’s Black Friday deals have launched in waves over the past several weeks, but now the floodgates have officially opened. You can now take advantage of the lowest prices we’ve seen in-store and online for video g…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-27",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas"
+    },
+    {
+      "titre": "Buying a laptop right now is rough, but these Black Friday deals help",
+      "resume": "Laptop prices have been a hot-button topic all year long thanks to RAMageddon. We’ve seen existing models get more expensive and new models arrive at higher prices than last-gen — sometimes with lower specs, too. 2026 in…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-27",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1042512/best-black-friday-laptop-notebook-deals-2026"
+    },
+    {
+      "titre": "Apple’s AirPods Pro 3 are a whopping $100 off for Black Friday",
+      "resume": "The AirPods Pro 3 are cheaper than ever. Despite receiving an early discount last week, Apple’s latest flagship wireless earbuds are still on sale for just $149 at Amazon, Best Buy, and Walmart. They originally sold for …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-27",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1039978/airpods-pro-3-apple-earbuds-black-friday-2026-deal-sale"
+    },
+    {
+      "titre": "You can grab a 12-pack of Zepath’s rechargeable AA batteries for just $24",
+      "resume": "If you’re picking up any gifts that require AA batteries, it’s not a bad idea to buy a set you can keep using long after the holidays. Thankfully, you can currently get a 12-pack of Zepath’s rechargeable 3,000mWh AAs on …",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-27",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1043272/zepath-rechargeable-aa-batteries-black-friday-2026-deal-sale"
+    },
+    {
+      "titre": "Microsoft removes WSUS server role in Windows Server 2028",
+      "resume": "Microsoft will remove the WSUS server role from Windows Server 2028, the next major release of its server operating system. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Moyen",
+      "date": "2026-11-27",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/"
+    },
+    {
+      "titre": "Malwarebytes Antivirus: Get 50% off during Black Friday 2026",
+      "resume": "Malwarebytes' 2026 Black Friday and Cyber Monday sale is now live, offering 50% off security subscriptions for individuals, families, and small businesses, including its antivirus software, VPN, identity theft protection…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-27",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/"
+    },
+    {
+      "titre": "Your Firewall Isn't Enough: The Hidden Risk of Unmanaged VMs",
+      "resume": "Forgotten virtual machines, unpatched servers, and excessive access permissions can create security blind spots across IT infrastructure. ISPsystem explains how centralized infrastructure management, access controls, and…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-27",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms/"
+    },
+    {
+      "titre": "US Air Force cloud platform reportedly hacked in latest federal breach",
+      "resume": "Hackers have reportedly breached the US Air Force's Cloud One computing platform, adding to a recent wave of cyberattacks affecting US government agencies, including the FBI, CIA, and Treasury Department. [...]",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-27",
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/"
+    },
+    {
+      "titre": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
+      "resume": "Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the country, the country's cybersecurity agency said yesterday. Three of the a…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-27",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html"
+    },
+    {
+      "titre": "Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware",
+      "resume": "Cybersecurity researchers have disclosed details of a software supply chain attack that has tampered with Q-Dir and DesktopOK installation files distributed via the official SoftwareOK website. \"Evidence indicates that m…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-27",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html"
+    },
+    {
+      "titre": "How to Keep Your Security Picture Current When Attackers Move at AI Speed",
+      "resume": "Most security metrics are not built to be used. They are built to be shown. Somewhere between the quarterly review and the next status update, a set of numbers gets assembled that looks reassuring in a room and tells alm…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-27",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html"
+    },
+    {
+      "titre": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control",
+      "resume": "Cybersecurity researchers have disclosed details of a cyber attack in which a threat actor leveraged a Microsoft Store application to deliver a remote access trojan (RAT) called Vinci RAT. The intrusion, according to eSe…",
+      "categorie": "Cybersécurité",
+      "importance": "Élevé",
+      "date": "2026-11-27",
+      "source": "The Hacker News",
+      "lien": "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html"
+    },
     {
       "titre": "Netflix’s coziest show has made a very quiet return",
       "resume": "The bigger Netflix gets, the easier it is to miss stuff. This is true of all digital platforms, of course, but it's especially true of Netflix of late, as the streaming service's lineup now also includes a growing librar…",
