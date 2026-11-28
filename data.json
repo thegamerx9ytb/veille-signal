@@ -1,6 +1,42 @@
 {
-  "lastUpdate": "2026-11-27T19:46:49.216018+00:00",
+  "lastUpdate": "2026-11-28T00:20:03.237553+00:00",
   "items": [
+    {
+      "titre": "This purple electric Chinese minivan can go up to 559 miles on a charge",
+      "resume": "Electric minivans could be the ultimate in utility, with room for passengers, gear, and huge batteries. While VW's ID Buzz only gave us 200 miles on a charge in 2023, China's BYD has just announced a flagship purple peop…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-28",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge"
+    },
+    {
+      "titre": "Yooka-Laylee’s free upgrade is skipping Xbox",
+      "resume": "Playtronic Games is getting ready to launch Yooka-Laylee and the Impossible Lair: Definitive Edition as a free update on PlayStation 5, Switch 2, and PC on December 15th. Unfortunately for Xbox owners, the developer says…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-27",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/games/1044715/yooka-laylees-free-upgrade-is-skipping-xbox"
+    },
+    {
+      "titre": "Roborock, Dreame, and Eufy are cutting robovac prices in half for Black Friday",
+      "resume": "Black Friday is here, and if you want a little help keeping your floors clean this holiday season, now is a great time to pick up a robot vacuum. Some of the best models we’ve tested over the last year or two are on sale…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-27",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1044487/best-black-friday-robot-vacuum-mop-deals-2026"
+    },
+    {
+      "titre": "The best Black Friday deals you can still get on AirPods, Macs, and other Apple gear",
+      "resume": "Black Friday is entering the evening, which means one of the best times of the year to save some cash on a new pair of AirPods or the latest Apple Watch is coming to a close. After all, the holiday savings can help offse…",
+      "categorie": "Technologie",
+      "importance": "Moyen",
+      "date": "2026-11-27",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026"
+    },
     {
       "titre": "Anker’s 100W universal travel charger is down to $60, its lowest price yet",
       "resume": "During Black Friday, the Anker 100W Universal Charger is on sale for $59.99 at Amazon, Best Buy, and Walmart, a $20 discount from its list price. That’s a few dollars lower than the previous best, with both the dark gray…",
